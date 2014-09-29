@@ -2,13 +2,12 @@ package com.github.chessdork.smogon;
 
 
 public enum Pokemon {
-    ROTOM_WASH(R.drawable.rotom_wash, "Rotom-Wash");
+    ROTOM_WASH("Rotom-Wash"),
+    ROTOM_MOW("Rotom-Mow");
 
-    private final int resId;
     private final String name;
 
-    Pokemon(int resId, String name) {
-        this.resId = resId;
+    Pokemon(String name) {
         this.name = name;
     }
 
@@ -16,7 +15,4 @@ public enum Pokemon {
         return name;
     }
 
-    public int getResId() {
-        return resId;
-    }
 }

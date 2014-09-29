@@ -6,6 +6,7 @@
 
     <ImageView
         android:id="@+id/pokemon_image"
+        android:src="@drawable/ic_pkball"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
@@ -18,6 +19,7 @@
         android:layout_toRightOf="@id/pokemon_image"
         android:layout_toEndOf="@id/pokemon_image"
         android:textSize="18sp"
+        android:textColor="#d8d8eb"
         android:layout_centerVertical="true"/>
 
     <RelativeLayout
