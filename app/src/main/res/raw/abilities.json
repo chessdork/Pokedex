@@ -1,0 +1,1133 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "alias": "adaptability",
+   "description": "The Pokemon's STAB modifier becomes 2x.",
+   "name": "Adaptability",
+   "gen": "xy"
+  },
+  {
+   "alias": "aerilate",
+   "description": "Turns all of this Pokemon's Normal-typed attacks into Flying-type and deals 1.3x damage. Does not affect Hidden Power.",
+   "name": "Aerilate",
+   "gen": "xy"
+  },
+  {
+   "alias": "aftermath",
+   "description": "Deals 25% damage when KOed by contact damage.",
+   "name": "Aftermath",
+   "gen": "xy"
+  },
+  {
+   "alias": "air_lock",
+   "description": "Blocks the effects of weather.",
+   "name": "Air Lock",
+   "gen": "xy"
+  },
+  {
+   "alias": "analytic",
+   "description": "Raises the power of all moves by 30% if the wielder moves last.",
+   "name": "Analytic",
+   "gen": "xy"
+  },
+  {
+   "alias": "anger_point",
+   "description": "Raises Attack to +6 if struck by a critical hit.",
+   "name": "Anger Point",
+   "gen": "xy"
+  },
+  {
+   "alias": "anticipation",
+   "description": "Alerts the Pokemon of certain dangerous moves.",
+   "name": "Anticipation",
+   "gen": "xy"
+  },
+  {
+   "alias": "arena_trap",
+   "description": "Prevents switching and increases wild encounter rate.",
+   "name": "Arena Trap",
+   "gen": "xy"
+  },
+  {
+   "alias": "aroma_veil",
+   "description": "Protects allies from attacks that limit their move choices.",
+   "name": "Aroma Veil",
+   "gen": "xy"
+  },
+  {
+   "alias": "aura_break",
+   "description": "Reverses the effects of Dark Aura and Fairy Aura.",
+   "name": "Aura Break",
+   "gen": "xy"
+  },
+  {
+   "alias": "bad_dreams",
+   "description": "Deals 12.5% damage to sleeping opponents per turn.",
+   "name": "Bad Dreams",
+   "gen": "xy"
+  },
+  {
+   "alias": "battle_armor",
+   "description": "Prevents critical hits.",
+   "name": "Battle Armor",
+   "gen": "xy"
+  },
+  {
+   "alias": "big_pecks",
+   "description": "The wielder's Defense cannot be lowered.",
+   "name": "Big Pecks",
+   "gen": "xy"
+  },
+  {
+   "alias": "blaze",
+   "description": "Boosts power of Fire-type moves 50% when at 1/3 of max HP or less.",
+   "name": "Blaze",
+   "gen": "xy"
+  },
+  {
+   "alias": "bulletproof",
+   "description": "This Pokemon is protected from some Ball and Bomb moves.",
+   "name": "Bulletproof",
+   "gen": "xy"
+  },
+  {
+   "alias": "cheek_pouch",
+   "description": "Increases HP when this Pokemon consumes a berry.",
+   "name": "Cheek Pouch",
+   "gen": "xy"
+  },
+  {
+   "alias": "chlorophyll",
+   "description": "Speed doubles in sun.",
+   "name": "Chlorophyll",
+   "gen": "xy"
+  },
+  {
+   "alias": "clear_body",
+   "description": "Stops the enemy from lowering this Pokemon's stats.",
+   "name": "Clear Body",
+   "gen": "xy"
+  },
+  {
+   "alias": "cloud_nine",
+   "description": "Blocks the effects of weather.",
+   "name": "Cloud Nine",
+   "gen": "xy"
+  },
+  {
+   "alias": "color_change",
+   "description": "Changes user's type to type of last attack that hit this Pokemon.",
+   "name": "Color Change",
+   "gen": "xy"
+  },
+  {
+   "alias": "competitive",
+   "description": "Raises the user's Special Attack stat by two stages when a stat is lowered, including the Special Attack stat. This does not include self-induced stat drops like those from Close Combat.",
+   "name": "Competitive",
+   "gen": "xy"
+  },
+  {
+   "alias": "compound_eyes",
+   "description": "Raises accuracy by 30% and increases the probability of wild Pokemon holding items.",
+   "name": "Compound Eyes",
+   "gen": "xy"
+  },
+  {
+   "alias": "contrary",
+   "description": "The wielder's stat changes are reversed.",
+   "name": "Contrary",
+   "gen": "xy"
+  },
+  {
+   "alias": "cursed_body",
+   "description": "The wielder has a 30% chance to disable any move that hits it.",
+   "name": "Cursed Body",
+   "gen": "xy"
+  },
+  {
+   "alias": "cute_charm",
+   "description": "Can infatuate Pokemon of opposite gender when struck and increases their wild encounter rate.",
+   "name": "Cute Charm",
+   "gen": "xy"
+  },
+  {
+   "alias": "damp",
+   "description": "Prevents the use of Self-Destruct or Explosion.",
+   "name": "Damp",
+   "gen": "xy"
+  },
+  {
+   "alias": "dark_aura",
+   "description": "Increases the power of all Dark-type moves in battle to 1.3x.",
+   "name": "Dark Aura",
+   "gen": "xy"
+  },
+  {
+   "alias": "defeatist",
+   "description": "Halves the wielder's Attack and Special Attack if its HP drops below 50%.",
+   "name": "Defeatist",
+   "gen": "xy"
+  },
+  {
+   "alias": "defiant",
+   "description": "Boosts Attack by two stages for every stat drop.",
+   "name": "Defiant",
+   "gen": "xy"
+  },
+  {
+   "alias": "download",
+   "description": "User gets a stat boost depending on its opponent's stats.",
+   "name": "Download",
+   "gen": "xy"
+  },
+  {
+   "alias": "drizzle",
+   "description": "Summons rain.",
+   "name": "Drizzle",
+   "gen": "xy"
+  },
+  {
+   "alias": "drought",
+   "description": "Summons sun.",
+   "name": "Drought",
+   "gen": "xy"
+  },
+  {
+   "alias": "dry_skin",
+   "description": "User absorbs Water-type attacks and has a weakness to Fire-type moves. Heals in rain and is damaged by sun.",
+   "name": "Dry Skin",
+   "gen": "xy"
+  },
+  {
+   "alias": "early_bird",
+   "description": "Reduces sleep time by 50%.",
+   "name": "Early Bird",
+   "gen": "xy"
+  },
+  {
+   "alias": "effect_spore",
+   "description": "Induces paralysis, poison, or sleep on contact.",
+   "name": "Effect Spore",
+   "gen": "xy"
+  },
+  {
+   "alias": "fairy_aura",
+   "description": "Increases the power of all Fairy-type moves in battle to 1.3x.",
+   "name": "Fairy Aura",
+   "gen": "xy"
+  },
+  {
+   "alias": "filter",
+   "description": "Reduces damage from super effective hits by 1/4.",
+   "name": "Filter",
+   "gen": "xy"
+  },
+  {
+   "alias": "flame_body",
+   "description": "Enemies' contact moves have a 30% chance to burn them. Halves the amount of steps required to hatch Eggs.",
+   "name": "Flame Body",
+   "gen": "xy"
+  },
+  {
+   "alias": "flare_boost",
+   "description": "Special Attack is increased by 50% when burned.",
+   "name": "Flare Boost",
+   "gen": "xy"
+  },
+  {
+   "alias": "flash_fire",
+   "description": "Grants immunity to Fire and increases Fire's power 50% when hit by a Fire move.",
+   "name": "Flash Fire",
+   "gen": "xy"
+  },
+  {
+   "alias": "flower_gift",
+   "description": "Raises Attack and Special Defense of this Pokemon and its partners in sun.",
+   "name": "Flower Gift",
+   "gen": "xy"
+  },
+  {
+   "alias": "flower_veil",
+   "description": "Prevents lowering of ally Grass-type Pokemon's stats.",
+   "name": "Flower Veil",
+   "gen": "xy"
+  },
+  {
+   "alias": "forecast",
+   "description": "Changes type according to weather.",
+   "name": "Forecast",
+   "gen": "xy"
+  },
+  {
+   "alias": "forewarn",
+   "description": "Tells which of the opponent's moves has the highest Base Power.",
+   "name": "Forewarn",
+   "gen": "xy"
+  },
+  {
+   "alias": "friend_guard",
+   "description": "Reduces damage done to a teammate by 25%.",
+   "name": "Friend Guard",
+   "gen": "xy"
+  },
+  {
+   "alias": "frisk",
+   "description": "Reveals the foe's items.",
+   "name": "Frisk",
+   "gen": "xy"
+  },
+  {
+   "alias": "fur_coat",
+   "description": "Halves the damage done to this Pokemon by physical attacks.",
+   "name": "Fur Coat",
+   "gen": "xy"
+  },
+  {
+   "alias": "gale_wings",
+   "description": "This Pokemon's Flying-type moves have their priority increased by 1.",
+   "name": "Gale Wings",
+   "gen": "xy"
+  },
+  {
+   "alias": "gluttony",
+   "description": "Consumes pinch Berries at 50% HP or less.",
+   "name": "Gluttony",
+   "gen": "xy"
+  },
+  {
+   "alias": "gooey",
+   "description": "Contact with this Pokemon decreases the attacker's Speed by 1 stage.",
+   "name": "Gooey",
+   "gen": "xy"
+  },
+  {
+   "alias": "grass_pelt",
+   "description": "This Pokemon's Defense is boosted by 50% in Grassy Terrain",
+   "name": "Grass Pelt",
+   "gen": "xy"
+  },
+  {
+   "alias": "guts",
+   "description": "Attack is increased 50% when afflicted by a non-volatile status.",
+   "name": "Guts",
+   "gen": "xy"
+  },
+  {
+   "alias": "harvest",
+   "description": "After each turn, the wielder may receive the Berry it used at a 50% chance (100% if in sun).",
+   "name": "Harvest",
+   "gen": "xy"
+  },
+  {
+   "alias": "healer",
+   "description": "30% chance to heal an adjacent teammate of a status condition every turn.",
+   "name": "Healer",
+   "gen": "xy"
+  },
+  {
+   "alias": "heatproof",
+   "description": "Reduces Fire damage 50%.",
+   "name": "Heatproof",
+   "gen": "xy"
+  },
+  {
+   "alias": "heavy_metal",
+   "description": "The wielder's weight is doubled.",
+   "name": "Heavy Metal",
+   "gen": "xy"
+  },
+  {
+   "alias": "honey_gather",
+   "description": "Adds a chance of finding Honey after each in-game battle.",
+   "name": "Honey Gather",
+   "gen": "xy"
+  },
+  {
+   "alias": "huge_power",
+   "description": "Doubles Attack.",
+   "name": "Huge Power",
+   "gen": "xy"
+  },
+  {
+   "alias": "hustle",
+   "description": "Physical moves do 50% more damage at the cost of 20% accuracy. Increases wild encounter rate with higher level Pokemon.",
+   "name": "Hustle",
+   "gen": "xy"
+  },
+  {
+   "alias": "hydration",
+   "description": "Heals status effects in rain.",
+   "name": "Hydration",
+   "gen": "xy"
+  },
+  {
+   "alias": "hyper_cutter",
+   "description": "Prevents the enemy from lowering this Pokemon's Attack. Increases Cut's area of effect.",
+   "name": "Hyper Cutter",
+   "gen": "xy"
+  },
+  {
+   "alias": "ice_body",
+   "description": "Heals 1/16 of max HP in hail.",
+   "name": "Ice Body",
+   "gen": "xy"
+  },
+  {
+   "alias": "illuminate",
+   "description": "Increases wild encounter rate (no effect in battles).",
+   "name": "Illuminate",
+   "gen": "xy"
+  },
+  {
+   "alias": "illusion",
+   "description": "The wielder appears as the last Pokemon in the party to the opponent.",
+   "name": "Illusion",
+   "gen": "xy"
+  },
+  {
+   "alias": "immunity",
+   "description": "This Pokemon cannot be poisoned.",
+   "name": "Immunity",
+   "gen": "xy"
+  },
+  {
+   "alias": "imposter",
+   "description": "The wielder transforms into the opponent when it switches in.",
+   "name": "Imposter",
+   "gen": "xy"
+  },
+  {
+   "alias": "infiltrator",
+   "description": "The wielder bypasses the foe's Light Screen, Reflect, Mist, Safeguard, and Substitute.",
+   "name": "Infiltrator",
+   "gen": "xy"
+  },
+  {
+   "alias": "inner_focus",
+   "description": "Prevents flinching.",
+   "name": "Inner Focus",
+   "gen": "xy"
+  },
+  {
+   "alias": "insomnia",
+   "description": "Prevents sleep.",
+   "name": "Insomnia",
+   "gen": "xy"
+  },
+  {
+   "alias": "intimidate",
+   "description": "Lowers the foe's Attack by 1 stage. Decreases wild encounter rate.",
+   "name": "Intimidate",
+   "gen": "xy"
+  },
+  {
+   "alias": "iron_barbs",
+   "description": "Deals 1/8 recoil damage when the opponent makes contact.",
+   "name": "Iron Barbs",
+   "gen": "xy"
+  },
+  {
+   "alias": "iron_fist",
+   "description": "Increases the power of punching moves by 20%.",
+   "name": "Iron Fist",
+   "gen": "xy"
+  },
+  {
+   "alias": "justified",
+   "description": "Raises Attack by one stage when hit by a Dark-type move.",
+   "name": "Justified",
+   "gen": "xy"
+  },
+  {
+   "alias": "keen_eye",
+   "description": "Pokemon's accuracy cannot be lowered. Opponent's evasion boosts are ignored. Decreases wild encounter rate.",
+   "name": "Keen Eye",
+   "gen": "xy"
+  },
+  {
+   "alias": "klutz",
+   "description": "This Pokemon both is unaffected by and will not utilize held items.",
+   "name": "Klutz",
+   "gen": "xy"
+  },
+  {
+   "alias": "leaf_guard",
+   "description": "Prevents status effects in sun.",
+   "name": "Leaf Guard",
+   "gen": "xy"
+  },
+  {
+   "alias": "levitate",
+   "description": "This Pokemon is immune to Ground-type moves.",
+   "name": "Levitate",
+   "gen": "xy"
+  },
+  {
+   "alias": "light_metal",
+   "description": "The wielder's weight is halved.",
+   "name": "Light Metal",
+   "gen": "xy"
+  },
+  {
+   "alias": "lightningrod",
+   "description": "All Electric-type attacks target this Pokemon. Grants immunity to Electric-type moves and boosts Special Attack by 1 stage when hit by an Electric-type move.",
+   "name": "Lightningrod",
+   "gen": "xy"
+  },
+  {
+   "alias": "limber",
+   "description": "Blocks paralysis.",
+   "name": "Limber",
+   "gen": "xy"
+  },
+  {
+   "alias": "liquid_ooze",
+   "description": "Leeching moves cause the enemy to lose HP instead.",
+   "name": "Liquid Ooze",
+   "gen": "xy"
+  },
+  {
+   "alias": "magic_bounce",
+   "description": "Bounces back certain non-damaging moves.",
+   "name": "Magic Bounce",
+   "gen": "xy"
+  },
+  {
+   "alias": "magic_guard",
+   "description": "Prevents indirect damage.",
+   "name": "Magic Guard",
+   "gen": "xy"
+  },
+  {
+   "alias": "magician",
+   "description": "If this Pokemon is not holding an item, it steals the held item of a target it hits with a move.",
+   "name": "Magician",
+   "gen": "xy"
+  },
+  {
+   "alias": "magma_armor",
+   "description": "Cannot be frozen. Halves the amount of steps required to hatch Eggs.",
+   "name": "Magma Armor",
+   "gen": "xy"
+  },
+  {
+   "alias": "magnet_pull",
+   "description": "Prevents Steel-type Pokemon from switching. Increases the chance of encountering a Steel-type Pokemon in the wild.",
+   "name": "Magnet Pull",
+   "gen": "xy"
+  },
+  {
+   "alias": "marvel_scale",
+   "description": "Boosts Defense 50% when afflicted by a non-volatile status.",
+   "name": "Marvel Scale",
+   "gen": "xy"
+  },
+  {
+   "alias": "mega_launcher",
+   "description": "Boosts the power of Aura and Pulse moves, such as Aura Sphere and Dark Pulse, by 50%.",
+   "name": "Mega Launcher",
+   "gen": "xy"
+  },
+  {
+   "alias": "minus",
+   "description": "If allied with a Pokemon with Plus or Minus, its Special Attack increases by 50%.",
+   "name": "Minus",
+   "gen": "xy"
+  },
+  {
+   "alias": "mold_breaker",
+   "description": "Abilities that hinder attacks are nullified.",
+   "name": "Mold Breaker",
+   "gen": "xy"
+  },
+  {
+   "alias": "moody",
+   "description": "A random stat is lowered by 1 stage and another is boosted by 2 stages every turn.",
+   "name": "Moody",
+   "gen": "xy"
+  },
+  {
+   "alias": "motor_drive",
+   "description": "Grants immunity to Electric-type moves and boosts Speed by 1 stage when hit by a Electric-type move.",
+   "name": "Motor Drive",
+   "gen": "xy"
+  },
+  {
+   "alias": "moxie",
+   "description": "Boosts Attack by 1 stage if the wielder knocks out another Pokemon.",
+   "name": "Moxie",
+   "gen": "xy"
+  },
+  {
+   "alias": "multiscale",
+   "description": "Reduces damage by 50% if the wielder is at full health.",
+   "name": "Multiscale",
+   "gen": "xy"
+  },
+  {
+   "alias": "multitype",
+   "description": "Type changes depending on the held plate. Prevents item loss.",
+   "name": "Multitype",
+   "gen": "xy"
+  },
+  {
+   "alias": "mummy",
+   "description": "The opponent's ability becomes Mummy when it hits the wielder with a contact move.",
+   "name": "Mummy",
+   "gen": "xy"
+  },
+  {
+   "alias": "natural_cure",
+   "description": "Cures status on switching out.",
+   "name": "Natural Cure",
+   "gen": "xy"
+  },
+  {
+   "alias": "no_guard",
+   "description": "All attacks used by and used on this Pokemon will never miss.",
+   "name": "No Guard",
+   "gen": "xy"
+  },
+  {
+   "alias": "normalize",
+   "description": "All moves used by this Pokemon become Normal-type.",
+   "name": "Normalize",
+   "gen": "xy"
+  },
+  {
+   "alias": "oblivious",
+   "description": "Grants immunity to infatuation, Captivate, and taunt.",
+   "name": "Oblivious",
+   "gen": "xy"
+  },
+  {
+   "alias": "overcoat",
+   "description": "Grants immunity to damage from weather effects and powder moves.",
+   "name": "Overcoat",
+   "gen": "xy"
+  },
+  {
+   "alias": "overgrow",
+   "description": "Raises the power of Grass-type moves by 50% when at 1/3 HP or less.",
+   "name": "Overgrow",
+   "gen": "xy"
+  },
+  {
+   "alias": "own_tempo",
+   "description": "Cannot be confused.",
+   "name": "Own Tempo",
+   "gen": "xy"
+  },
+  {
+   "alias": "parental_bond",
+   "description": "Allows the Pokemon to hit twice with the same move in one turn. Second hit has 0.5x base power. Does not affect Status, multihit, self-KO, or spread moves (in doubles).",
+   "name": "Parental Bond",
+   "gen": "xy"
+  },
+  {
+   "alias": "pickpocket",
+   "description": "The wielder immediately steals an item from an attacker using a contact move.",
+   "name": "Pickpocket",
+   "gen": "xy"
+  },
+  {
+   "alias": "pickup",
+   "description": "If the wielder has no held item, it gets the last item consumed at the end of the turn. Adds a chance of finding an item after each battle.",
+   "name": "Pickup",
+   "gen": "xy"
+  },
+  {
+   "alias": "pixilate",
+   "description": "Turns all of this Pokemon's Normal-typed attacks into Fairy-type and deals 1.3x damage. Does not affect Hidden Power.",
+   "name": "Pixilate",
+   "gen": "xy"
+  },
+  {
+   "alias": "plus",
+   "description": "If allied with a Pokemon with Plus or Minus, its Special Attack increases by 50%.",
+   "name": "Plus",
+   "gen": "xy"
+  },
+  {
+   "alias": "poison_heal",
+   "description": "Heals 1/8 of max HP per turn when poisoned.",
+   "name": "Poison Heal",
+   "gen": "xy"
+  },
+  {
+   "alias": "poison_point",
+   "description": "Enemies' contact moves have a 30% chance of poisoning them.",
+   "name": "Poison Point",
+   "gen": "xy"
+  },
+  {
+   "alias": "poison_touch",
+   "description": "The wielder's contact moves gain a 30% chance to poison the opponent.",
+   "name": "Poison Touch",
+   "gen": "xy"
+  },
+  {
+   "alias": "prankster",
+   "description": "Non-damaging moves have their priority increased by one level.",
+   "name": "Prankster",
+   "gen": "xy"
+  },
+  {
+   "alias": "pressure",
+   "description": "Enemy attacks lose 1 extra PP. Increases wild encounter rate.",
+   "name": "Pressure",
+   "gen": "xy"
+  },
+  {
+   "alias": "protean",
+   "description": "Right before this Pokemon uses a move, it changes its type to match that move. Hidden Power is interpreted as its Hidden Power type, rather than Normal.",
+   "name": "Protean",
+   "gen": "xy"
+  },
+  {
+   "alias": "pure_power",
+   "description": "Doubles Attack.",
+   "name": "Pure Power",
+   "gen": "xy"
+  },
+  {
+   "alias": "quick_feet",
+   "description": "Increases Speed by 50% when afflicted with a status condition.",
+   "name": "Quick Feet",
+   "gen": "xy"
+  },
+  {
+   "alias": "rain_dish",
+   "description": "Heals 1/16 of max HP in rain.",
+   "name": "Rain Dish",
+   "gen": "xy"
+  },
+  {
+   "alias": "rattled",
+   "description": "Raises Speed one stage when hit by a Bug-, Dark-, or Ghost-type move.",
+   "name": "Rattled",
+   "gen": "xy"
+  },
+  {
+   "alias": "reckless",
+   "description": "Increases the power of recoil moves by 20%.",
+   "name": "Reckless",
+   "gen": "xy"
+  },
+  {
+   "alias": "refrigerate",
+   "description": "Turns all of this Pokemon's Normal-typed attacks into Ice-typed and deal 1.3x damage. Does not affect Hidden Power.",
+   "name": "Refrigerate",
+   "gen": "xy"
+  },
+  {
+   "alias": "regenerator",
+   "description": "Wielder heals 1/3 of its maximum HP on switching out.",
+   "name": "Regenerator",
+   "gen": "xy"
+  },
+  {
+   "alias": "rivalry",
+   "description": "Raises move power by 25% if the opponent has the same gender, and reduces by 25% if the opponent has the opposite gender. Genderless Pokemon do not affect this ability.",
+   "name": "Rivalry",
+   "gen": "xy"
+  },
+  {
+   "alias": "rock_head",
+   "description": "Negates recoil from recoil moves.",
+   "name": "Rock Head",
+   "gen": "xy"
+  },
+  {
+   "alias": "rough_skin",
+   "description": "Deals 1/8 recoil damage when the opponent makes contact.",
+   "name": "Rough Skin",
+   "gen": "xy"
+  },
+  {
+   "alias": "run_away",
+   "description": "Increases the chance of successfully escaping battle with a wild Pokemon.",
+   "name": "Run Away",
+   "gen": "xy"
+  },
+  {
+   "alias": "sand_force",
+   "description": "Increases power of Ground-, Rock-, and Steel-type attacks by 30% in a sandstorm.",
+   "name": "Sand Force",
+   "gen": "xy"
+  },
+  {
+   "alias": "sand_rush",
+   "description": "Speed doubles in sandstorm.",
+   "name": "Sand Rush",
+   "gen": "xy"
+  },
+  {
+   "alias": "sand_stream",
+   "description": "Summons sandstorm.",
+   "name": "Sand Stream",
+   "gen": "xy"
+  },
+  {
+   "alias": "sand_veil",
+   "description": "Evasion increases by 20% in a sandstorm.",
+   "name": "Sand Veil",
+   "gen": "xy"
+  },
+  {
+   "alias": "sap_sipper",
+   "description": "Grants immunity to Grass-type moves and boosts Attack by 1 stage when hit by a Grass-type move.",
+   "name": "Sap Sipper",
+   "gen": "xy"
+  },
+  {
+   "alias": "scrappy",
+   "description": "Can hit Ghost-types with Fighting- and Normal-type moves.",
+   "name": "Scrappy",
+   "gen": "xy"
+  },
+  {
+   "alias": "serene_grace",
+   "description": "This Pokemon's secondary effect chances are doubled.",
+   "name": "Serene Grace",
+   "gen": "xy"
+  },
+  {
+   "alias": "shadow_tag",
+   "description": "Traps opponents. Does not affect Pokemon with Shadow Tag.",
+   "name": "Shadow Tag",
+   "gen": "xy"
+  },
+  {
+   "alias": "shed_skin",
+   "description": "30% chance to heal status.",
+   "name": "Shed Skin",
+   "gen": "xy"
+  },
+  {
+   "alias": "sheer_force",
+   "description": "Increases power of moves with secondary effects by 30%, but removes the effects.",
+   "name": "Sheer Force",
+   "gen": "xy"
+  },
+  {
+   "alias": "shell_armor",
+   "description": "Prevents critical hits.",
+   "name": "Shell Armor",
+   "gen": "xy"
+  },
+  {
+   "alias": "shield_dust",
+   "description": "Secondary effects won't occur.",
+   "name": "Shield Dust",
+   "gen": "xy"
+  },
+  {
+   "alias": "simple",
+   "description": "Doubles the effect of stat boosts and drops.",
+   "name": "Simple",
+   "gen": "xy"
+  },
+  {
+   "alias": "skill_link",
+   "description": "Multi-hit moves will always hit the maximum number of times.",
+   "name": "Skill Link",
+   "gen": "xy"
+  },
+  {
+   "alias": "slow_start",
+   "description": "Attack and Speed are halved for 5 turns.",
+   "name": "Slow Start",
+   "gen": "xy"
+  },
+  {
+   "alias": "sniper",
+   "description": "Critical hits do 2.25x damage instead of 1.5x.",
+   "name": "Sniper",
+   "gen": "xy"
+  },
+  {
+   "alias": "snow_cloak",
+   "description": "Evasion increases by 20% in hail.",
+   "name": "Snow Cloak",
+   "gen": "xy"
+  },
+  {
+   "alias": "snow_warning",
+   "description": "Summons hail.",
+   "name": "Snow Warning",
+   "gen": "xy"
+  },
+  {
+   "alias": "solar_power",
+   "description": "Loses 10% HP in sun each turn. Special Attack increases by 50%.",
+   "name": "Solar Power",
+   "gen": "xy"
+  },
+  {
+   "alias": "solid_rock",
+   "description": "Reduces damage from super effective hits by 1/4.",
+   "name": "Solid Rock",
+   "gen": "xy"
+  },
+  {
+   "alias": "soundproof",
+   "description": "Unaffected by sound moves.",
+   "name": "Soundproof",
+   "gen": "xy"
+  },
+  {
+   "alias": "speed_boost",
+   "description": "Speed raises at end of turn.",
+   "name": "Speed Boost",
+   "gen": "xy"
+  },
+  {
+   "alias": "stall",
+   "description": "This Pokemon moves last.",
+   "name": "Stall",
+   "gen": "xy"
+  },
+  {
+   "alias": "stance_change",
+   "description": "Only affects Aegislash. If this Pokemon uses a Physical or Special move, it changes to Blade forme. If this Pokemon uses King's Shield, it changes to Shield forme.",
+   "name": "Stance Change",
+   "gen": "xy"
+  },
+  {
+   "alias": "static",
+   "description": "Enemies' contact moves can paralyze them.",
+   "name": "Static",
+   "gen": "xy"
+  },
+  {
+   "alias": "steadfast",
+   "description": "Speed is boosted one stage when flinched.",
+   "name": "Steadfast",
+   "gen": "xy"
+  },
+  {
+   "alias": "stench",
+   "description": "Adds a 10% flinch chance for moves that do not have one. Decreases wild encounter rate.",
+   "name": "Stench",
+   "gen": "xy"
+  },
+  {
+   "alias": "sticky_hold",
+   "description": "This Pokemon's item cannot be removed. Increases the chance of encountering Pokemon while fishing.",
+   "name": "Sticky Hold",
+   "gen": "xy"
+  },
+  {
+   "alias": "storm_drain",
+   "description": "All Water-type attacks target this Pokemon. Grants immunity to Water-type moves and boosts Special Attack by 1 stage when hit by a Water-type move.",
+   "name": "Storm Drain",
+   "gen": "xy"
+  },
+  {
+   "alias": "strong_jaw",
+   "description": "This Pokemon receives a 50% power boost for jaw attacks such as Bite and Crunch.",
+   "name": "Strong Jaw",
+   "gen": "xy"
+  },
+  {
+   "alias": "sturdy",
+   "description": "The weilder cannot be KO'd in one hit. OHKO moves will fail.",
+   "name": "Sturdy",
+   "gen": "xy"
+  },
+  {
+   "alias": "suction_cups",
+   "description": "Cannot be forced to switch. Increases chance of encountering Pokemon while fishing.",
+   "name": "Suction Cups",
+   "gen": "xy"
+  },
+  {
+   "alias": "super_luck",
+   "description": "Critical hit rate increases one stage.",
+   "name": "Super Luck",
+   "gen": "xy"
+  },
+  {
+   "alias": "swarm",
+   "description": "Boosts power of Bug-type moves by 50% when at 1/3 HP or less.",
+   "name": "Swarm",
+   "gen": "xy"
+  },
+  {
+   "alias": "sweet_veil",
+   "description": "Prevents allies from being put to Sleep.",
+   "name": "Sweet Veil",
+   "gen": "xy"
+  },
+  {
+   "alias": "swift_swim",
+   "description": "Speed doubles in rain.",
+   "name": "Swift Swim",
+   "gen": "xy"
+  },
+  {
+   "alias": "symbiosis",
+   "description": "This Pokemon immediately passes its item to an ally after their item is consumed.",
+   "name": "Symbiosis",
+   "gen": "xy"
+  },
+  {
+   "alias": "synchronize",
+   "description": "When statused, the enemy is also statused. Can pass nature to wild Pokemon.",
+   "name": "Synchronize",
+   "gen": "xy"
+  },
+  {
+   "alias": "tangled_feet",
+   "description": "Evasion increases when confused.",
+   "name": "Tangled Feet",
+   "gen": "xy"
+  },
+  {
+   "alias": "technician",
+   "description": "Increases power of moves with 60 base power or less by 50%.",
+   "name": "Technician",
+   "gen": "xy"
+  },
+  {
+   "alias": "telepathy",
+   "description": "Does not take damage from allies' attacks.",
+   "name": "Telepathy",
+   "gen": "xy"
+  },
+  {
+   "alias": "teravolt",
+   "description": "Abilities that hinder attacks are nullified.",
+   "name": "Teravolt",
+   "gen": "xy"
+  },
+  {
+   "alias": "thick_fat",
+   "description": "Halves Ice- and Fire-type damage.",
+   "name": "Thick Fat",
+   "gen": "xy"
+  },
+  {
+   "alias": "tinted_lens",
+   "description": "Doubles damage on resisted hits.",
+   "name": "Tinted Lens",
+   "gen": "xy"
+  },
+  {
+   "alias": "torrent",
+   "description": "Boosts power of Water-type moves by 50% when at 1/3 HP or less.",
+   "name": "Torrent",
+   "gen": "xy"
+  },
+  {
+   "alias": "tough_claws",
+   "description": "This Pokemon's contact attacks do 1.33x damage.",
+   "name": "Tough Claws",
+   "gen": "xy"
+  },
+  {
+   "alias": "toxic_boost",
+   "description": "Attack is increased by 50% when poisoned.",
+   "name": "Toxic Boost",
+   "gen": "xy"
+  },
+  {
+   "alias": "trace",
+   "description": "Copies foe's ability.",
+   "name": "Trace",
+   "gen": "xy"
+  },
+  {
+   "alias": "truant",
+   "description": "This Pokemon does nothing every other turn.",
+   "name": "Truant",
+   "gen": "xy"
+  },
+  {
+   "alias": "turboblaze",
+   "description": "Abilities that hinder attacks are nullified.",
+   "name": "Turboblaze",
+   "gen": "xy"
+  },
+  {
+   "alias": "unaware",
+   "description": "Ignores stat boosts and debuffs on other Pokemon.",
+   "name": "Unaware",
+   "gen": "xy"
+  },
+  {
+   "alias": "unburden",
+   "description": "Speed increases when an item is used or lost.",
+   "name": "Unburden",
+   "gen": "xy"
+  },
+  {
+   "alias": "unnerve",
+   "description": "Prevents the foe from consuming its held Berry item.",
+   "name": "Unnerve",
+   "gen": "xy"
+  },
+  {
+   "alias": "victory_star",
+   "description": "Increases the accuracy of the wielder and allies on its side of the field by 10%.",
+   "name": "Victory Star",
+   "gen": "xy"
+  },
+  {
+   "alias": "vital_spirit",
+   "description": "Prevents sleep. Increases wild encounters with higher level Pokemon.",
+   "name": "Vital Spirit",
+   "gen": "xy"
+  },
+  {
+   "alias": "volt_absorb",
+   "description": "Heals 25% HP when hit by an Electric-type attack.",
+   "name": "Volt Absorb",
+   "gen": "xy"
+  },
+  {
+   "alias": "water_absorb",
+   "description": "Heals 25% HP when hit by a Water-type attack.",
+   "name": "Water Absorb",
+   "gen": "xy"
+  },
+  {
+   "alias": "water_veil",
+   "description": "Prevents burn.",
+   "name": "Water Veil",
+   "gen": "xy"
+  },
+  {
+   "alias": "weak_armor",
+   "description": "Boosts Speed by 1 stage and lowers Defense by 1 stage when hit by a Physical move.",
+   "name": "Weak Armor",
+   "gen": "xy"
+  },
+  {
+   "alias": "white_smoke",
+   "description": "Prevents the enemy from lowering this Pokemon's stats and decreases wild encounter rate.",
+   "name": "White Smoke",
+   "gen": "xy"
+  },
+  {
+   "alias": "wonder_guard",
+   "description": "Only super effective attacks harm this Pokemon.",
+   "name": "Wonder Guard",
+   "gen": "xy"
+  },
+  {
+   "alias": "wonder_skin",
+   "description": "Reduces the accuracy of a status move to 50%.",
+   "name": "Wonder Skin",
+   "gen": "xy"
+  },
+  {
+   "alias": "zen_mode",
+   "description": "The wielder changes forme when below 50% of its max HP.",
+   "name": "Zen Mode",
+   "gen": "xy"
+  }
+ ]
+}

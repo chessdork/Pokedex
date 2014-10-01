@@ -22,13 +22,14 @@ import android.widget.TextView;
 public class SmogonActivity extends Activity {
 
     private ActionBarDrawerToggle mDrawerToggle;
+    private DrawerLayout mDrawerLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_smogon);
 
-        DrawerLayout mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+        mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         ListView mDrawerList = (ListView) findViewById(R.id.left_drawer);
         mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.drawable.ic_drawer,0,0);
 
@@ -45,7 +46,7 @@ public class SmogonActivity extends Activity {
 
         if (savedInstanceState == null) {
             getFragmentManager().beginTransaction()
-                    .add(R.id.content_frame, new PlaceholderFragment())
+                    .add(R.id.content_frame, new DisplayTypesFragment())
                     .commit();
         }
     }
@@ -81,17 +82,31 @@ public class SmogonActivity extends Activity {
     }
 
     /**
-     * A placeholder fragment containing a simple view.
+     * Categories for the Navigation Drawer.
      */
-    public static class PlaceholderFragment extends Fragment {
+    private enum Category {
+        POKEMON(R.drawable.ic_pkball, "POKEMON"),
+        MOVES(R.drawable.ic_moves, "MOVES"),
+        ABILITIES(R.drawable.ic_abilities, "ABILITIES"),
+        ITEMS(R.drawable.ic_items, "ITEMS"),
+        TYPES(R.drawable.ic_types, "TYPES"),
+        NATURES(R.drawable.ic_natures2, "NATURES"),
+        TAGS(R.drawable.ic_tags, "TAGS");
 
-        public PlaceholderFragment() {
+        private final int resId;
+        private final String name;
+
+        Category(int resId, String name) {
+            this.resId = resId;
+            this.name = name;
         }
 
-        @Override
-        public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                Bundle savedInstanceState) {
-            return inflater.inflate(R.layout.fragment_smogon, container, false);
+        public int getResId() {
+            return resId;
+        }
+
+        public String getName() {
+            return name;
         }
     }
 
@@ -113,7 +128,7 @@ public class SmogonActivity extends Activity {
         }
 
         @Override
-        public Object getItem(int index) {
+        public Category getItem(int index) {
             return mData[index];
         }
 
@@ -137,41 +152,30 @@ public class SmogonActivity extends Activity {
 
             return textView;
         }
-
-        private enum Category {
-            POKEMON(R.drawable.ic_pkball, "POKEMON"),
-            MOVES(R.drawable.ic_moves, "MOVES"),
-            ABILITIES(R.drawable.ic_abilities, "ABILITIES"),
-            ITEMS(R.drawable.ic_items, "ITEMS"),
-            TYPES(R.drawable.ic_types, "TYPES"),
-            TAGS(R.drawable.ic_tags, "TAGS");
-
-            private final int resId;
-            private final String name;
-
-            Category(int resId, String name) {
-                this.resId = resId;
-                this.name = name;
-            }
-
-            public int getResId() {
-                return resId;
-            }
-
-            public String getName() {
-                return name;
-            }
-        }
     }
 
     /**
      * OnItemClick implementation for Navigation Drawer.
      */
-    private static class DrawerItemClickListener implements AdapterView.OnItemClickListener {
+    private class DrawerItemClickListener implements AdapterView.OnItemClickListener {
 
         @Override
         public void onItemClick(AdapterView<?> parent, View view, int index, long id) {
+            Category category = (Category) parent.getItemAtPosition(index);
 
+            switch (category) {
+            case ABILITIES: handleClick( new DisplayAbilitiesFragment() ); break;
+            case TYPES: handleClick( new DisplayTypesFragment() ); break;
+            case NATURES: handleClick( new DisplayNaturesFragment() ); break;
+            default:
+            }
+        }
+
+        private void handleClick(Fragment fragment) {
+            getFragmentManager().beginTransaction()
+                    .replace(R.id.content_frame, fragment)
+                    .commit();
+            mDrawerLayout.closeDrawers();
         }
     }
 }
