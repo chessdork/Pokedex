@@ -1,39 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content">
-
-    <ImageView
-        android:id="@+id/pokemon_image"
-        android:src="@drawable/ic_pkball"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:contentDescription="@string/pokemon_image" />
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
     <TextView
         android:id="@+id/pokemon_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@id/pokemon_image"
-        android:layout_toEndOf="@id/pokemon_image"
         android:textSize="18sp"
         android:textColor="#d8d8eb"
         android:layout_centerVertical="true"/>
 
     <RelativeLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/pokemon_name"
+        android:layout_toEndOf="@id/pokemon_name">
 
         <TextView
             android:id="@+id/pokemon_type1"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient"/>
 
         <TextView
             android:id="@+id/pokemon_type2"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient"
+            android:layout_toRightOf="@id/pokemon_type1"
+            android:layout_toEndOf="@id/pokemon_type1"/>
+
     </RelativeLayout>
 </RelativeLayout>

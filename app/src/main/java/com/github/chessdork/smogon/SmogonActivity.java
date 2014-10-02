@@ -165,8 +165,10 @@ public class SmogonActivity extends Activity {
 
             switch (category) {
             case ABILITIES: handleClick( new DisplayAbilitiesFragment() ); break;
-            case TYPES: handleClick( new DisplayTypesFragment() ); break;
             case NATURES: handleClick( new DisplayNaturesFragment() ); break;
+            case POKEMON: handleClick( new DisplayDexFragment() ); break;
+            case TYPES: handleClick( new DisplayTypesFragment() ); break;
+
             default:
             }
         }
