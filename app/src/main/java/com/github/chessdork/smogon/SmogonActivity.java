@@ -3,6 +3,7 @@ package com.github.chessdork.smogon;
 import android.app.Activity;
 import android.app.ActionBar;
 import android.app.Fragment;
+import android.app.FragmentManager;
 import android.content.Context;
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -46,7 +47,7 @@ public class SmogonActivity extends Activity {
 
         if (savedInstanceState == null) {
             getFragmentManager().beginTransaction()
-                    .add(R.id.content_frame, new DisplayTypesFragment())
+                    .add(R.id.content_frame, new DisplayDexFragment())
                     .commit();
         }
     }
@@ -174,7 +175,10 @@ public class SmogonActivity extends Activity {
         }
 
         private void handleClick(Fragment fragment) {
-            getFragmentManager().beginTransaction()
+            FragmentManager fm = getFragmentManager();
+            // clear the back stack for top-level navigation
+            fm.popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
+            fm.beginTransaction()
                     .replace(R.id.content_frame, fragment)
                     .commit();
             mDrawerLayout.closeDrawers();

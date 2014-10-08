@@ -2,14 +2,21 @@ package com.github.chessdork.smogon;
 
 
 import android.content.Context;
+import android.graphics.drawable.GradientDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.app.Fragment;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.BaseAdapter;
+import android.widget.EditText;
+import android.widget.Filter;
+import android.widget.Filterable;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -36,6 +43,7 @@ import java.util.List;
 public class DisplayDexFragment extends Fragment {
 
     WeakReference<DownloadPokedexTask> mTaskReference;
+    private PokedexAdapter mAdapter;
     private static List<Pokemon> sData;
 
     @Override
@@ -72,24 +80,63 @@ public class DisplayDexFragment extends Fragment {
     }
 
     private void setupUi(View rootView, List<Pokemon> pokemon) {
+        mAdapter = new PokedexAdapter(getActivity(), pokemon);
+
         ListView listView = (ListView) rootView.findViewById(R.id.listview);
-        listView.setAdapter(new PokedexAdapter(getActivity(), pokemon));
+        listView.setAdapter(mAdapter);
+        listView.setOnItemClickListener(new DexItemClickListener());
+
+        EditText editText = (EditText) rootView.findViewById(R.id.edit_text);
+        editText.addTextChangedListener(new DexTextWatcher());
 
         // Hide the progress bar once the ui is setup.
         rootView.findViewById(R.id.progress_bar).setVisibility(View.GONE);
+        rootView.findViewById(R.id.edit_text).setVisibility(View.VISIBLE);
     }
 
     private void setData(List<Pokemon> pokemonList) {
         sData = pokemonList;
     }
 
-    private static class PokedexAdapter extends BaseAdapter {
-        private List<Pokemon> mData;
+    private class DexTextWatcher implements TextWatcher {
+
+        @Override
+        public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+        }
+
+        @Override
+        public void onTextChanged(CharSequence s, int start, int before, int count) {
+            mAdapter.getFilter().filter(s);
+        }
+
+        @Override
+        public void afterTextChanged(Editable s) {
+
+        }
+    }
+
+    private class DexItemClickListener implements AdapterView.OnItemClickListener {
+
+        @Override
+        public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
+            Pokemon pokemon = (Pokemon) adapterView.getItemAtPosition(pos);
+            String name = pokemon.getName();
+            getFragmentManager().beginTransaction()
+                    .replace(R.id.content_frame, DisplayPokemonFragment.newInstance(name))
+                    .addToBackStack(null)
+                    .commit();
+        }
+    }
+
+    private static class PokedexAdapter extends BaseAdapter implements Filterable {
+        private List<Pokemon> mData, mOriginalData;
         private LayoutInflater mInflater;
 
         public PokedexAdapter(Context context, List<Pokemon> pokemon) {
             mInflater = LayoutInflater.from(context);
             mData = pokemon;
+            mOriginalData = new ArrayList<>(mData);
         }
 
         @Override
@@ -107,10 +154,38 @@ public class DisplayDexFragment extends Fragment {
             return index;
         }
 
+        @Override
+        public Filter getFilter() {
+            return new Filter() {
+
+                @Override
+                protected FilterResults performFiltering(CharSequence s) {
+                    String lowercase = s.toString().toLowerCase();
+
+                    List<Pokemon> filteredList = new ArrayList<>();
+                    for (Pokemon pokemon : mOriginalData) {
+                        if (pokemon.getName().toLowerCase().contains(lowercase)) {
+                            filteredList.add(pokemon);
+                        }
+                    }
+                    FilterResults results = new FilterResults();
+                    results.values = filteredList;
+                    results.count = filteredList.size();
+                    return results;
+                }
+
+                @Override
+                @SuppressWarnings("unchecked")
+                protected void publishResults(CharSequence s, FilterResults results) {
+                    mData = (List<Pokemon>) results.values;
+                    notifyDataSetChanged();
+                }
+            };
+        }
+
         static class ViewHolder {
             TextView name;
-            TextView type1;
-            TextView type2;
+            TextView type1, type2;
         }
 
         @Override
@@ -133,12 +208,38 @@ public class DisplayDexFragment extends Fragment {
             holder.name.setText(pokemon.getName());
 
             Type[] types = pokemon.getTypes();
+
             holder.type1.setText(types[0].getName());
+            GradientDrawable gradient1 = createGradient(types[0]);
+            holder.type1.setBackgroundDrawable(gradient1);
+
             if (types.length > 1) {
                 holder.type2.setText(types[1].getName());
+                GradientDrawable gradient2 = createGradient(types[1]);
+                holder.type2.setBackgroundDrawable(gradient2);
+
+                // for pokemon with two types, don't round the corners of the TextView intersection.
+                gradient1.setCornerRadii(LEFT_CORNERS);
+                gradient2.setCornerRadii(RIGHT_CORNERS);
+                holder.type2.setVisibility(View.VISIBLE);
+            } else {
+                holder.type2.setVisibility(View.INVISIBLE);
             }
 
             return view;
+        }
+
+        private static final float r = 4;
+        private static final float[] LEFT_CORNERS = {r, r, 0, 0, 0, 0, r, r};
+        private static final float[] RIGHT_CORNERS = {0, 0, r, r, r, r, 0, 0};
+
+        private GradientDrawable createGradient(Type type) {
+            GradientDrawable gradient = new GradientDrawable(
+                    GradientDrawable.Orientation.TOP_BOTTOM,
+                    new int[] {type.getColor1(), type.getColor2()} );
+            gradient.setCornerRadius(r);
+            gradient.setStroke(1, type.getBorderColor());
+            return gradient;
         }
     }
 

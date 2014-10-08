@@ -1,11 +1,23 @@
 package com.github.chessdork.smogon;
 
 
+import android.content.Context;
+import android.content.res.Resources;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
+
 public class Pokemon {
+    private static List<Pokemon> masterList;
+
     private final String name, tag;
     private final int hp, patk, pdef, spe, spatk, spdef;
     private final Type[] types;
@@ -63,6 +75,37 @@ public class Pokemon {
 
     public String[] getAbilityNames() {
         return abilityNames;
+    }
+
+    public static List<Pokemon> getPokemon(Resources resources) {
+        if (masterList == null) {
+            InputStream is = resources.openRawResource(R.raw.pokemon);
+            BufferedReader br = new BufferedReader(new InputStreamReader(is));
+            masterList = new ArrayList<>();
+
+            try {
+                StringBuilder text = new StringBuilder();
+                String line;
+
+                while ( (line = br.readLine()) != null) {
+                    text.append(line);
+                }
+
+                JSONObject response = new JSONObject(text.toString());
+                JSONArray pokemonArray = response.getJSONArray("result");
+
+                for (int i = 0; i < pokemonArray.length(); i++) {
+                    Pokemon pokemon = parsePokemon(pokemonArray.getJSONObject(i));
+                    if (pokemon != null) {
+                        masterList.add(pokemon);
+                    }
+                }
+
+            } catch (IOException | JSONException e) {
+                e.printStackTrace();
+            }
+        }
+        return masterList;
     }
 
     public static Pokemon parsePokemon(JSONObject jsonObject) {
