@@ -1,7 +1,6 @@
 package com.github.chessdork.smogon;
 
 
-import android.content.Context;
 import android.content.res.Resources;
 
 import org.json.JSONArray;
@@ -18,15 +17,16 @@ import java.util.List;
 public class Pokemon {
     private static List<Pokemon> masterList;
 
-    private final String name, tag;
+    private final String name, tag, alias;
     private final int hp, patk, pdef, spe, spatk, spdef;
     private final Type[] types;
     private final String[] abilityNames;
 
-    public Pokemon(String name, String tag, int hp, int patk, int pdef, int spe, int spatk,
-                   int spdef, Type[] types, String[] abilityNames) {
+    public Pokemon(String name, String tag, String alias, int hp, int patk, int pdef, int spe,
+                   int spatk, int spdef, Type[] types, String[] abilityNames) {
         this.name = name;
         this.tag = tag;
+        this.alias = alias;
         this.hp = hp;
         this.patk = patk;
         this.pdef = pdef;
@@ -43,6 +43,10 @@ public class Pokemon {
 
     public String getTag() {
         return tag;
+    }
+
+    public String getAlias() {
+        return alias;
     }
 
     public int getHp() {
@@ -111,6 +115,7 @@ public class Pokemon {
     public static Pokemon parsePokemon(JSONObject jsonObject) {
         try {
             String name = jsonObject.getString("name");
+            String alias = jsonObject.getString("base_alias");
 
             // only one or zero tags, for now.
             JSONArray tagsArray = jsonObject.getJSONArray("tags");
@@ -140,7 +145,8 @@ public class Pokemon {
             for (int i = 0; i < numAbilities; i++) {
                 abilities[i] = abilitiesArray.getJSONObject(i).getString("name");
             }
-            return new Pokemon(name, tag, hp, patk, pdef, spe, spatk, spdef, types, abilities);
+            return new Pokemon(name, tag, alias, hp, patk, pdef, spe, spatk, spdef,
+                    types, abilities);
         } catch (JSONException e) {
             e.printStackTrace();
             return null;

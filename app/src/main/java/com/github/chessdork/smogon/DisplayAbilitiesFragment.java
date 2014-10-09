@@ -12,25 +12,12 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.lang.ref.WeakReference;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.ArrayList;
 import java.util.List;
 
 
 public class DisplayAbilitiesFragment extends Fragment {
-    WeakReference<DownloadAbilitiesTask> mTaskReference;
     private static List<Ability> sData;
 
     @Override
@@ -38,20 +25,7 @@ public class DisplayAbilitiesFragment extends Fragment {
         super.onCreate(savedInstanceState);
         setRetainInstance(true);
         if (sData == null) {
-            maybeStartDownload();
-        }
-    }
-
-    /**
-     * Starts downloading abilities, if a network connection is available.
-     */
-    private void maybeStartDownload() {
-        if ( Utils.isConnected(getActivity()) ) {
-            DownloadAbilitiesTask task = new DownloadAbilitiesTask(this);
-            mTaskReference = new WeakReference<>(task);
-            task.execute();
-        } else {
-            Toast.makeText(getActivity(), R.string.no_network_conn, Toast.LENGTH_SHORT).show();
+            new ParseAbilitiesTask(this).execute();
         }
     }
 
@@ -131,16 +105,13 @@ public class DisplayAbilitiesFragment extends Fragment {
     }
 
     /**
-     * An AsyncTask for downloading the abilities and updating the UI.
+     * An AsyncTask for parsing the abilities and updating the UI.
      */
-    private static class DownloadAbilitiesTask extends AsyncTask<Void, Void, List<Ability>> {
-        // for readability, the query string is {"ability":{"gen":"xy"},"$":["name","description"]}
-        private static final String abilityUrl = "http://www.smogon.com/dex/api/query?q=" +
-                    "{\"ability\":{\"gen\":\"xy\"},\"$\":[\"name\",\"description\"]}";
+    private static class ParseAbilitiesTask extends AsyncTask<Void, Void, List<Ability>> {
 
         private WeakReference<DisplayAbilitiesFragment> mFragReference;
 
-        public DownloadAbilitiesTask(DisplayAbilitiesFragment fragment) {
+        public ParseAbilitiesTask(DisplayAbilitiesFragment fragment) {
             mFragReference = new WeakReference<>(fragment);
         }
 
@@ -149,35 +120,11 @@ public class DisplayAbilitiesFragment extends Fragment {
             long start = System.currentTimeMillis();
             Log.d("Abilities", "Starting ability download...");
 
-            try {
-                URL url = new URL(abilityUrl);
-                HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
-                InputStream is = urlConnection.getInputStream();
-                BufferedReader in = new BufferedReader(new InputStreamReader(is));
+            List<Ability> abilities = Ability.getAbilities(mFragReference.get().getResources());
 
-                StringBuilder text = new StringBuilder();
-                String line;
-                while ((line = in.readLine()) != null) {
-                    text.append(line);
-                }
-
-                JSONObject jsonObject = new JSONObject(text.toString());
-                JSONArray results = jsonObject.getJSONArray("result");
-                List<Ability> abilities = new ArrayList<>();
-
-                for (int i = 0; i < results.length(); i++) {
-                    Ability ability = Ability.parseAbility( results.getJSONObject(i) );
-                    if (ability != null) {
-                        abilities.add(ability);
-                    }
-                }
-                long elapsed = System.currentTimeMillis() - start;
-                Log.d("Abilities", "Finished ability download in " + elapsed + " ms.");
-                return abilities;
-            } catch (IOException | JSONException e) {
-                e.printStackTrace();
-                return null;
-            }
+            long elapsed = System.currentTimeMillis() - start;
+            Log.d("Abilities", "Finished ability download in " + elapsed + " ms.");
+            return abilities;
         }
 
         @Override

@@ -2,69 +2,47 @@ package com.github.chessdork.smogon;
 
 
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.drawable.GradientDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.app.Fragment;
-import android.text.Editable;
-import android.text.TextWatcher;
 import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.BaseAdapter;
-import android.widget.EditText;
 import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.ListView;
+import android.widget.SearchView;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.lang.ref.WeakReference;
-import java.net.HttpURLConnection;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
 
-/**
- * A simple {@link Fragment} subclass.
- *
- */
 public class DisplayDexFragment extends Fragment {
 
-    WeakReference<DownloadPokedexTask> mTaskReference;
     private PokedexAdapter mAdapter;
+    // holds the SearchView query if the user attempted a search before the adapter was prepared.
+    private String mQueryBeforeUi;
     private static List<Pokemon> sData;
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setRetainInstance(true);
+        setHasOptionsMenu(true);
         if (sData == null) {
-            maybeStartDownload();
-        }
-    }
-
-    /**
-     * Starts downloading abilities, if a network connection is available.
-     */
-    private void maybeStartDownload() {
-        if ( Utils.isConnected(getActivity())) {
-            DownloadPokedexTask task = new DownloadPokedexTask(this);
-            mTaskReference = new WeakReference<>(task);
-            task.execute();
-        } else {
-            Toast.makeText(getActivity(), R.string.no_network_conn, Toast.LENGTH_SHORT).show();
+            // parse assets asynchronously and set up the UI.
+            new ParsePokedexTask(this).execute();
         }
     }
 
@@ -81,38 +59,44 @@ public class DisplayDexFragment extends Fragment {
 
     private void setupUi(View rootView, List<Pokemon> pokemon) {
         mAdapter = new PokedexAdapter(getActivity(), pokemon);
-
+        if (mQueryBeforeUi != null) {
+            mAdapter.getFilter().filter(mQueryBeforeUi);
+        }
         ListView listView = (ListView) rootView.findViewById(R.id.listview);
         listView.setAdapter(mAdapter);
         listView.setOnItemClickListener(new DexItemClickListener());
 
-        EditText editText = (EditText) rootView.findViewById(R.id.edit_text);
-        editText.addTextChangedListener(new DexTextWatcher());
-
         // Hide the progress bar once the ui is setup.
         rootView.findViewById(R.id.progress_bar).setVisibility(View.GONE);
-        rootView.findViewById(R.id.edit_text).setVisibility(View.VISIBLE);
+    }
+
+    @Override
+    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
+        super.onCreateOptionsMenu(menu, inflater);
+        MenuItem searchItem = menu.findItem(R.id.action_search);
+        SearchView searchView = (SearchView) searchItem.getActionView();
+        searchView.setOnQueryTextListener(new DexQueryTextListener());
     }
 
     private void setData(List<Pokemon> pokemonList) {
         sData = pokemonList;
     }
 
-    private class DexTextWatcher implements TextWatcher {
+    private class DexQueryTextListener implements SearchView.OnQueryTextListener {
 
         @Override
-        public void beforeTextChanged(CharSequence s, int start, int count, int after) {
-
+        public boolean onQueryTextSubmit(String s) {
+            return false;
         }
 
         @Override
-        public void onTextChanged(CharSequence s, int start, int before, int count) {
-            mAdapter.getFilter().filter(s);
-        }
-
-        @Override
-        public void afterTextChanged(Editable s) {
-
+        public boolean onQueryTextChange(String s) {
+            if (mAdapter != null) {
+                mAdapter.getFilter().filter(s);
+            } else {
+                mQueryBeforeUi = s;
+            }
+            return false;
         }
     }
 
@@ -121,11 +105,10 @@ public class DisplayDexFragment extends Fragment {
         @Override
         public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
             Pokemon pokemon = (Pokemon) adapterView.getItemAtPosition(pos);
-            String name = pokemon.getName();
-            getFragmentManager().beginTransaction()
-                    .replace(R.id.content_frame, DisplayPokemonFragment.newInstance(name))
-                    .addToBackStack(null)
-                    .commit();
+            String alias = pokemon.getAlias();
+            Intent intent = new Intent(getActivity(), DisplayPokemonActivity.class);
+            intent.putExtra("test", alias);
+            startActivity(intent);
         }
     }
 
@@ -188,6 +171,10 @@ public class DisplayDexFragment extends Fragment {
             TextView type1, type2;
         }
 
+        // setBackgroundDrawable renamed to setBackground in API 16.  It is deprecated, but
+        // setBackground simply calls setBackgroundDrawable, so we're okay to use it here and
+        // suppress warnings.
+        @SuppressWarnings("deprecation")
         @Override
         public View getView(int index, View convertView, ViewGroup parent) {
             View view = convertView;
@@ -244,62 +231,26 @@ public class DisplayDexFragment extends Fragment {
     }
 
     /**
-     * An AsyncTask for downloading the abilities and updating the UI.
+     * An AsyncTask for parsing the Pokemon from a JSON asset and updating the UI.
      */
-    private static class DownloadPokedexTask extends AsyncTask<Void, Void, List<Pokemon>> {
-        // for readability, the query string is:
-        // {"pokemonalt":{"gen":"xy"},"$":["name","alias","base_alias","gen",
-        // {"types":["alias","name","gen"]},{"abilities":["alias","name","gen"]},
-        // {"tags":["name","alias","shorthand","gen"]},
-        // "weight","height","hp","patk","pdef","spatk","spdef","spe"]}
-        private static final String dexUrl = "http://www.smogon.com/dex/api/query?q=" +
-                "{\"pokemonalt\":{\"gen\":\"xy\"},\"$\":[\"name\",{\"types\":[\"name\"]}," +
-                "{\"abilities\":[\"name\"]},{\"tags\":[\"shorthand\"]}," +
-                "\"hp\",\"patk\",\"pdef\",\"spatk\",\"spdef\",\"spe\"]}";
+    private static class ParsePokedexTask extends AsyncTask<Void, Void, List<Pokemon>> {
 
         private WeakReference<DisplayDexFragment> mFragReference;
 
-        public DownloadPokedexTask(DisplayDexFragment fragment) {
+        public ParsePokedexTask(DisplayDexFragment fragment) {
             mFragReference = new WeakReference<>(fragment);
         }
 
         @Override
         protected List<Pokemon> doInBackground(Void... voids) {
             long start = System.currentTimeMillis();
-            Log.d("Pokedex", "Starting pokedex download...");
+            Log.d("Pokedex", "Starting pokedex parsing...");
 
-            try {
-                URL url = new URL(dexUrl);
-                HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
-                InputStream is = urlConnection.getInputStream();
-                BufferedReader in = new BufferedReader(new InputStreamReader(is));
+            List<Pokemon> pokemon = Pokemon.getPokemon(mFragReference.get().getResources());
 
-                StringBuilder text = new StringBuilder();
-                String line;
-                while ((line = in.readLine()) != null) {
-                    text.append(line);
-                }
-                long elapsed = System.currentTimeMillis() - start;
-                Log.d("Pokedex", "Finished pokedex download in " + elapsed + " ms.");
-                start = System.currentTimeMillis();
-
-                JSONObject jsonObject = new JSONObject(text.toString());
-                JSONArray results = jsonObject.getJSONArray("result");
-                List<Pokemon> pokemonList = new ArrayList<>();
-
-                for (int i = 0; i < results.length(); i++) {
-                    Pokemon pokemon = Pokemon.parsePokemon(results.getJSONObject(i));
-                    if (pokemon != null) {
-                        pokemonList.add(pokemon);
-                    }
-                }
-                elapsed = System.currentTimeMillis() - start;
-                Log.d("Pokedex", "Finished pokedex parsing in " + elapsed + " ms.");
-                return pokemonList;
-            } catch (IOException | JSONException e) {
-                e.printStackTrace();
-                return null;
-            }
+            long elapsed = System.currentTimeMillis() - start;
+            Log.d("Pokedex", "Finished pokedex parsing in " + elapsed + " ms.");
+            return pokemon;
         }
 
         @Override
@@ -314,5 +265,4 @@ public class DisplayDexFragment extends Fragment {
             fragment.setupUi(fragment.getView(), pokemonList);
         }
     }
-
 }
