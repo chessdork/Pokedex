@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.github.chessdork.smogon.DisplayPokemonActivity">
+
+    <TextView
+        android:id="@+id/pokemon_name"
+        android:text="@string/hello_world"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        style="@style/NameLarge" />
+
+    <TextView
+        android:id="@+id/pokemon_type1"
+        style="@style/TypeTextLarge"
+        android:layout_below="@id/pokemon_name"/>
+
+    <TextView
+        android:id="@+id/pokemon_type2"
+        style="@style/TypeTextLarge"
+        android:layout_toRightOf="@id/pokemon_type1"
+        android:layout_below="@id/pokemon_name"/>
+
+    <TextView
+        android:id="@+id/pokemon_tags"
+        style="@style/TagTextLarge"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_below="@id/pokemon_type1"/>
+
+</RelativeLayout>

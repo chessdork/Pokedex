@@ -3,10 +3,10 @@ package com.github.chessdork.smogon;
 
 import android.content.Context;
 import android.content.Intent;
-import android.graphics.drawable.GradientDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.app.Fragment;
+import android.support.v4.widget.DrawerLayout;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -26,10 +26,17 @@ import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.List;
 
+//TODO different layout for landscape
+//TODO allow sort by Pokemon number or Alphabetically
+//TODO select whether to display types, tags, abilities, etc.
 
 public class DisplayDexFragment extends Fragment {
+    // used to restore the scroll position of the ListView.
+    private static final String LISTVIEW_INDEX = "LISTVIEW_INDEX";
+    private static final String LISTVIEW_TOP = "LISTVIEW_TOP";
 
     private PokedexAdapter mAdapter;
+    private ListView mListView;
     // holds the SearchView query if the user attempted a search before the adapter was prepared.
     private String mQueryBeforeUi;
     private static List<Pokemon> sData;
@@ -52,6 +59,7 @@ public class DisplayDexFragment extends Fragment {
         // Inflate the layout for this fragment.
         View view = inflater.inflate(R.layout.fragment_display_dex, container, false);
         if (sData != null) {
+            // Populate views, e.g., on orientation change.
             setupUi(view, sData);
         }
         return view;
@@ -59,12 +67,14 @@ public class DisplayDexFragment extends Fragment {
 
     private void setupUi(View rootView, List<Pokemon> pokemon) {
         mAdapter = new PokedexAdapter(getActivity(), pokemon);
+        // If the user typed into the SearchView before this point, we need to filter.
         if (mQueryBeforeUi != null) {
             mAdapter.getFilter().filter(mQueryBeforeUi);
         }
-        ListView listView = (ListView) rootView.findViewById(R.id.listview);
-        listView.setAdapter(mAdapter);
-        listView.setOnItemClickListener(new DexItemClickListener());
+        mListView = (ListView) rootView.findViewById(R.id.listview);
+        mListView.setAdapter(mAdapter);
+        mListView.setEmptyView( rootView.findViewById(R.id.empty_text) );
+        mListView.setOnItemClickListener( new DexItemClickListener() );
 
         // Hide the progress bar once the ui is setup.
         rootView.findViewById(R.id.progress_bar).setVisibility(View.GONE);
@@ -73,17 +83,72 @@ public class DisplayDexFragment extends Fragment {
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
+
         MenuItem searchItem = menu.findItem(R.id.action_search);
+        searchItem.setOnActionExpandListener(new DexMenuCollapseListener());
+
         SearchView searchView = (SearchView) searchItem.getActionView();
         searchView.setOnQueryTextListener(new DexQueryTextListener());
+    }
+
+    @Override
+    public void onSaveInstanceState(Bundle savedInstanceState) {
+        super.onSaveInstanceState(savedInstanceState);
+
+        if (mListView != null) {
+            int index = mListView.getFirstVisiblePosition();
+            View view = mListView.getChildAt(0);
+            int top = (view == null) ? 0 : view.getTop();
+
+            savedInstanceState.putInt(LISTVIEW_INDEX, index);
+            savedInstanceState.putInt(LISTVIEW_TOP, top);
+        }
+    }
+
+    /**
+     * Restore the scroll position of the ListView.
+     * @param savedInstanceState the fragment state
+     */
+    @Override
+    public void onActivityCreated(Bundle savedInstanceState) {
+        super.onActivityCreated(savedInstanceState);
+
+        if (savedInstanceState != null && mListView != null) {
+            int index = savedInstanceState.getInt(LISTVIEW_INDEX);
+            int top = savedInstanceState.getInt(LISTVIEW_TOP);
+            mListView.setSelectionFromTop(index, top);
+        }
     }
 
     private void setData(List<Pokemon> pokemonList) {
         sData = pokemonList;
     }
 
-    private class DexQueryTextListener implements SearchView.OnQueryTextListener {
+    /**
+     * Resets the dex when the SearchView is collapsed and closes the navigation drawer
+     * when the SearchView is expanded.
+     */
+    private class DexMenuCollapseListener implements MenuItem.OnActionExpandListener {
+        @Override
+        public boolean onMenuItemActionExpand(MenuItem menuItem) {
+            // close the navigation drawer on search.
+            DrawerLayout drawer = (DrawerLayout) getActivity().findViewById(R.id.drawer_layout);
+            drawer.closeDrawers();
+            return true;
+        }
 
+        @Override
+        public boolean onMenuItemActionCollapse(MenuItem menuItem) {
+            // reset the ListView to an unfiltered state when the SearchView is collapsed
+            mAdapter.reset();
+            return true;
+        }
+    }
+
+    /**
+     * Filters the Dex on text change.
+     */
+    private class DexQueryTextListener implements SearchView.OnQueryTextListener {
         @Override
         public boolean onQueryTextSubmit(String s) {
             return false;
@@ -93,6 +158,7 @@ public class DisplayDexFragment extends Fragment {
         public boolean onQueryTextChange(String s) {
             if (mAdapter != null) {
                 mAdapter.getFilter().filter(s);
+                mQueryBeforeUi = null;
             } else {
                 mQueryBeforeUi = s;
             }
@@ -100,18 +166,22 @@ public class DisplayDexFragment extends Fragment {
         }
     }
 
+    /**
+     * Starts DisplayPokemonActivity on click.
+     */
     private class DexItemClickListener implements AdapterView.OnItemClickListener {
-
         @Override
         public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
             Pokemon pokemon = (Pokemon) adapterView.getItemAtPosition(pos);
-            String alias = pokemon.getAlias();
             Intent intent = new Intent(getActivity(), DisplayPokemonActivity.class);
-            intent.putExtra("test", alias);
+            intent.putExtra(DisplayPokemonActivity.POKEMON_OBJECT, pokemon);
             startActivity(intent);
         }
     }
 
+    /**
+     * BaseAdapter implementation for the Dex.
+     */
     private static class PokedexAdapter extends BaseAdapter implements Filterable {
         private List<Pokemon> mData, mOriginalData;
         private LayoutInflater mInflater;
@@ -120,6 +190,11 @@ public class DisplayDexFragment extends Fragment {
             mInflater = LayoutInflater.from(context);
             mData = pokemon;
             mOriginalData = new ArrayList<>(mData);
+        }
+
+        public void reset() {
+            mData = mOriginalData;
+            notifyDataSetChanged();
         }
 
         @Override
@@ -171,10 +246,6 @@ public class DisplayDexFragment extends Fragment {
             TextView type1, type2;
         }
 
-        // setBackgroundDrawable renamed to setBackground in API 16.  It is deprecated, but
-        // setBackground simply calls setBackgroundDrawable, so we're okay to use it here and
-        // suppress warnings.
-        @SuppressWarnings("deprecation")
         @Override
         public View getView(int index, View convertView, ViewGroup parent) {
             View view = convertView;
@@ -195,46 +266,18 @@ public class DisplayDexFragment extends Fragment {
             holder.name.setText(pokemon.getName());
 
             Type[] types = pokemon.getTypes();
-
-            holder.type1.setText(types[0].getName());
-            GradientDrawable gradient1 = createGradient(types[0]);
-            holder.type1.setBackgroundDrawable(gradient1);
-
-            if (types.length > 1) {
-                holder.type2.setText(types[1].getName());
-                GradientDrawable gradient2 = createGradient(types[1]);
-                holder.type2.setBackgroundDrawable(gradient2);
-
-                // for pokemon with two types, don't round the corners of the TextView intersection.
-                gradient1.setCornerRadii(LEFT_CORNERS);
-                gradient2.setCornerRadii(RIGHT_CORNERS);
-                holder.type2.setVisibility(View.VISIBLE);
-            } else {
-                holder.type2.setVisibility(View.INVISIBLE);
-            }
+            Type.setupTypeView(holder.type1, holder.type2, types);
 
             return view;
-        }
-
-        private static final float r = 4;
-        private static final float[] LEFT_CORNERS = {r, r, 0, 0, 0, 0, r, r};
-        private static final float[] RIGHT_CORNERS = {0, 0, r, r, r, r, 0, 0};
-
-        private GradientDrawable createGradient(Type type) {
-            GradientDrawable gradient = new GradientDrawable(
-                    GradientDrawable.Orientation.TOP_BOTTOM,
-                    new int[] {type.getColor1(), type.getColor2()} );
-            gradient.setCornerRadius(r);
-            gradient.setStroke(1, type.getBorderColor());
-            return gradient;
         }
     }
 
     /**
-     * An AsyncTask for parsing the Pokemon from a JSON asset and updating the UI.
+     * An AsyncTask for parsing the Pokemon from a JSON asset and updating the UI.  Note that
+     * we do not want to cancel the AsyncTask onStop, as the parsed data may be useful at
+     * some point in the future.
      */
     private static class ParsePokedexTask extends AsyncTask<Void, Void, List<Pokemon>> {
-
         private WeakReference<DisplayDexFragment> mFragReference;
 
         public ParsePokedexTask(DisplayDexFragment fragment) {
@@ -258,8 +301,8 @@ public class DisplayDexFragment extends Fragment {
             super.onPostExecute(pokemonList);
             DisplayDexFragment fragment = mFragReference.get();
 
-            // if the fragment has been destroyed, do nothing.
-            if (fragment == null || fragment.getView() == null) return;
+            // if the fragment has been destroyed or is unattached, do nothing.
+            if (fragment == null || fragment.getView() == null || !fragment.isAdded()) return;
 
             fragment.setData(pokemonList);
             fragment.setupUi(fragment.getView(), pokemonList);

@@ -132,8 +132,8 @@ public class DisplayAbilitiesFragment extends Fragment {
             super.onPostExecute(abilities);
             DisplayAbilitiesFragment fragment = mFragReference.get();
 
-            // if the fragment has been destroyed, do nothing.
-            if (fragment == null || fragment.getView() == null) return;
+            // if the fragment has been destroyed or is unattached, do nothing.
+            if (fragment == null || fragment.getView() == null || !fragment.isAdded()) return;
 
             fragment.setData(abilities);
             fragment.setupUi(fragment.getView(), abilities);

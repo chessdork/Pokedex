@@ -1,6 +1,9 @@
 package com.github.chessdork.smogon;
 
 
+import android.graphics.drawable.GradientDrawable;
+import android.view.View;
+import android.widget.TextView;
 
 public enum Type {
     NORMAL("Normal", 0xffa8a878, 0xff8a8a59, 0xff79794E),
@@ -46,5 +49,46 @@ public enum Type {
 
     public int getBorderColor() {
         return borderColor;
+    }
+
+    private static final float r = 4;
+    private static final float[] LEFT_CORNERS = {r, r, 0, 0, 0, 0, r, r};
+    private static final float[] RIGHT_CORNERS = {0, 0, r, r, r, r, 0, 0};
+
+    private static GradientDrawable[] createGradient(Type[] types) {
+        GradientDrawable[] drawables = new GradientDrawable[types.length];
+
+        for (int i = 0; i < drawables.length; i++) {
+            drawables[i] = new GradientDrawable(
+                    GradientDrawable.Orientation.TOP_BOTTOM,
+                    new int[] {types[i].getColor1(), types[i].getColor2()} );
+            drawables[i].setCornerRadius(r);
+            drawables[i].setStroke(1, types[i].getBorderColor());
+        }
+
+        if (types.length > 1) {
+            drawables[0].setCornerRadii(LEFT_CORNERS);
+            drawables[1].setCornerRadii(RIGHT_CORNERS);
+        }
+        return drawables;
+    }
+
+    // setBackgroundDrawable renamed to setBackground in API 16.  It is deprecated, but
+    // setBackground simply calls setBackgroundDrawable, so we're okay to use it here and
+    // suppress warnings.
+    @SuppressWarnings("deprecation")
+    public static void setupTypeView(TextView type1, TextView type2, Type[] types) {
+        GradientDrawable[] gradients = createGradient(types);
+
+        type1.setText(types[0].getName());
+        type1.setBackgroundDrawable(gradients[0]);
+
+        if (types.length > 1) {
+            type2.setText(types[1].getName());
+            type2.setBackgroundDrawable(gradients[1]);
+            type2.setVisibility(View.VISIBLE);
+        } else {
+            type2.setVisibility(View.INVISIBLE);
+        }
     }
 }

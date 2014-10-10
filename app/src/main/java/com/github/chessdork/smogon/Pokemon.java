@@ -2,6 +2,7 @@ package com.github.chessdork.smogon;
 
 
 import android.content.res.Resources;
+import android.util.Log;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -11,10 +12,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Pokemon {
+public class Pokemon implements Serializable {
     private static List<Pokemon> masterList;
 
     private final String name, tag, alias;
@@ -119,8 +121,14 @@ public class Pokemon {
 
             // only one or zero tags, for now.
             JSONArray tagsArray = jsonObject.getJSONArray("tags");
-            String tag = tagsArray.length() > 0 ? tagsArray.getJSONObject(0).getString("shorthand")
-                                                : "";
+            String tag;
+            if (tagsArray.length() == 0) {
+                Log.d("Pokedex", name + " is missing tag.  Defaulting to: Uber.");
+                tag = "Uber";
+            } else {
+                tag = tagsArray.getJSONObject(0).getString("shorthand");
+            }
+
             int hp = jsonObject.getInt("hp");
             int patk = jsonObject.getInt("patk");
             int pdef = jsonObject.getInt("pdef");
