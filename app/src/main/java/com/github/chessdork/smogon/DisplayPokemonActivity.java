@@ -4,6 +4,7 @@ import android.app.ActionBar;
 import android.app.Activity;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
+import android.graphics.Rect;
 import android.graphics.drawable.LayerDrawable;
 import android.os.Bundle;
 import android.support.v4.app.NavUtils;
@@ -53,6 +54,13 @@ public class DisplayPokemonActivity extends Activity {
         setupStatBar(R.id.spe_rectangle, R.id.spe_stat, mPokemon.getSpe());
     }
 
+    /**
+     * Recolors the stat bar and sets the correct text for a stat.  After the layout is complete,
+     * resizeStatBarToFit is called.
+     * @param rectId resource id for rectangle shape
+     * @param textId resource id for TextView
+     * @param statValue stat
+     */
     private void setupStatBar(int rectId, int textId, int statValue) {
         TextView stat = (TextView) findViewById(textId);
         stat.setText(String.valueOf(statValue));
@@ -60,11 +68,43 @@ public class DisplayPokemonActivity extends Activity {
         View rectangle = findViewById(rectId);
         LayerDrawable layer = (LayerDrawable) rectangle.getBackground();
         int color = createColorFromStat( statValue );
-        layer.getDrawable(1).setColorFilter(color, PorterDuff.Mode.SRC_OVER);
+        layer.findDrawableByLayerId(R.id.stat_color).setColorFilter(color, PorterDuff.Mode.SRC_OVER);
 
         ViewGroup.LayoutParams params = rectangle.getLayoutParams();
         params.width = statValue * 2;
         rectangle.setLayoutParams(params);
+    }
+
+    /**
+     * Resize stat bars to fit the screen once they are created.
+     * @param hasFocus whether the window has focus
+     */
+    @Override
+    public void onWindowFocusChanged(boolean hasFocus) {
+        super.onWindowFocusChanged(hasFocus);
+        if (hasFocus) {
+            resizeStatBarToFit(R.id.hp_rectangle);
+            resizeStatBarToFit(R.id.patk_rectangle);
+            resizeStatBarToFit(R.id.pdef_rectangle);
+            resizeStatBarToFit(R.id.spatk_rectangle);
+            resizeStatBarToFit(R.id.spdef_rectangle);
+            resizeStatBarToFit(R.id.spe_rectangle);
+        }
+    }
+
+    /**
+     * Resize stat bars to fit the screen.  Otherwise, the rounded end of the rectangle is drawn
+     * off-screen.
+     * @param rectId resource id for rectangle shape
+     */
+    private void resizeStatBarToFit(int rectId) {
+        View view = findViewById(rectId);
+        Rect r = new Rect();
+        if (view.getGlobalVisibleRect(r)) {
+            ViewGroup.LayoutParams params = view.getLayoutParams();
+            params.width = r.width();
+            view.setLayoutParams(params);
+        }
     }
 
 
