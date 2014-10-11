@@ -33,5 +33,188 @@
         style="@style/TagTextLarge"
         android:layout_marginTop="@dimen/activity_vertical_margin"
         android:layout_below="@id/pokemon_type1"/>
+    <LinearLayout
+        android:id="@+id/hp_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/pokemon_type1"
+        android:layout_marginTop="@dimen/activity_vertical_margin">
 
+        <TextView
+            android:id="@+id/hp_descriptor"
+            style="@style/StatDescriptorText"
+            android:text="@string/hp_descriptor"/>
+
+        <TextView
+            android:id="@+id/hp_stat"
+            style="@style/StatText"
+            android:text="@string/stat_placeholder"/>
+
+        <View
+            android:id="@+id/hp_rectangle"
+            android:background="@drawable/stat_rectangle"
+            android:layout_marginLeft="@dimen/stat_bar_horizontal_margin"
+            android:layout_marginStart="@dimen/stat_bar_horizontal_margin"
+            android:layout_gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="15dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/patk_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/hp_layout">
+
+        <TextView
+            android:id="@+id/patk_descriptor"
+            style="@style/StatDescriptorText"
+            android:text="@string/patk_descriptor"/>
+
+        <TextView
+            android:id="@+id/patk_stat"
+            style="@style/StatText"
+            android:text="@string/stat_placeholder"/>
+
+        <View
+            android:id="@+id/patk_rectangle"
+            android:background="@drawable/stat_rectangle"
+            android:layout_marginLeft="@dimen/stat_bar_horizontal_margin"
+            android:layout_marginStart="@dimen/stat_bar_horizontal_margin"
+            android:layout_gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="15dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pdef_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/patk_layout">
+
+        <TextView
+            android:id="@+id/pdef_descriptor"
+            style="@style/StatDescriptorText"
+            android:text="@string/pdef_descriptor"/>
+
+        <TextView
+            android:id="@+id/pdef_stat"
+            style="@style/StatText"
+            android:text="@string/stat_placeholder"/>
+
+        <View
+            android:id="@+id/pdef_rectangle"
+            android:background="@drawable/stat_rectangle"
+            android:layout_marginLeft="@dimen/stat_bar_horizontal_margin"
+            android:layout_marginStart="@dimen/stat_bar_horizontal_margin"
+            android:layout_gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="15dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/spatk_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/pdef_layout">
+
+        <TextView
+            android:id="@+id/spatk_descriptor"
+            style="@style/StatDescriptorText"
+            android:text="@string/spatk_descriptor"/>
+
+        <TextView
+            android:id="@+id/spatk_stat"
+            style="@style/StatText"
+            android:text="@string/stat_placeholder"/>
+
+        <View
+            android:id="@+id/spatk_rectangle"
+            android:background="@drawable/stat_rectangle"
+            android:layout_marginLeft="@dimen/stat_bar_horizontal_margin"
+            android:layout_marginStart="@dimen/stat_bar_horizontal_margin"
+            android:layout_gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="15dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/spdef_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/spatk_layout">
+
+        <TextView
+            android:id="@+id/spdef_descriptor"
+            style="@style/StatDescriptorText"
+            android:text="@string/spdef_descriptor"/>
+
+        <TextView
+            android:id="@+id/spdef_stat"
+            style="@style/StatText"
+            android:text="@string/stat_placeholder"/>
+
+        <View
+            android:id="@+id/spdef_rectangle"
+            android:background="@drawable/stat_rectangle"
+            android:layout_marginLeft="@dimen/stat_bar_horizontal_margin"
+            android:layout_marginStart="@dimen/stat_bar_horizontal_margin"
+            android:layout_gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="15dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/spe_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/spdef_layout">
+
+        <TextView
+            android:id="@+id/spe_descriptor"
+            style="@style/StatDescriptorText"
+            android:text="@string/spe_descriptor"/>
+
+        <TextView
+            android:id="@+id/spe_stat"
+            style="@style/StatText"
+            android:text="@string/stat_placeholder"/>
+
+        <View
+            android:id="@+id/spe_rectangle"
+            android:background="@drawable/stat_rectangle"
+            android:layout_marginLeft="@dimen/stat_bar_horizontal_margin"
+            android:layout_marginStart="@dimen/stat_bar_horizontal_margin"
+            android:layout_gravity="center_vertical"
+            android:layout_width="0dp"
+            android:layout_height="15dp" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/moveset_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:indeterminate="true"/>
+
+    <TextView
+        android:id="@+id/empty_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/no_movesets_found"
+        android:textSize="20sp"
+        android:textColor="@android:color/darker_gray"
+        android:visibility="gone"/>
 </RelativeLayout>

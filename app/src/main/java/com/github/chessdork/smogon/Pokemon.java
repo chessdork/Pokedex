@@ -127,6 +127,7 @@ public class Pokemon implements Serializable {
                 tag = "Uber";
             } else {
                 tag = tagsArray.getJSONObject(0).getString("shorthand");
+                tag = "Unreleased".equals(tag) ? "N/A" : tag;
             }
 
             int hp = jsonObject.getInt("hp");
@@ -141,7 +142,7 @@ public class Pokemon implements Serializable {
             Type[] types = new Type[numTypes];
 
             for (int i = 0; i < numTypes; i++) {
-                // types are provided in Camelcase, and enums are ALL_CAPS
+                // types are provided in CamelCase, and enums are ALL_CAPS
                 types[i] = Type.valueOf(
                         typesArray.getJSONObject(i).getString("name").toUpperCase() );
             }

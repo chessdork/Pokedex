@@ -31,12 +31,7 @@ import java.util.List;
 //TODO select whether to display types, tags, abilities, etc.
 
 public class DisplayDexFragment extends Fragment {
-    // used to restore the scroll position of the ListView.
-    private static final String LISTVIEW_INDEX = "LISTVIEW_INDEX";
-    private static final String LISTVIEW_TOP = "LISTVIEW_TOP";
-
     private PokedexAdapter mAdapter;
-    private ListView mListView;
     // holds the SearchView query if the user attempted a search before the adapter was prepared.
     private String mQueryBeforeUi;
     private static List<Pokemon> sData;
@@ -71,10 +66,10 @@ public class DisplayDexFragment extends Fragment {
         if (mQueryBeforeUi != null) {
             mAdapter.getFilter().filter(mQueryBeforeUi);
         }
-        mListView = (ListView) rootView.findViewById(R.id.listview);
-        mListView.setAdapter(mAdapter);
-        mListView.setEmptyView( rootView.findViewById(R.id.empty_text) );
-        mListView.setOnItemClickListener( new DexItemClickListener() );
+        ListView listView = (ListView) rootView.findViewById(R.id.listview);
+        listView.setAdapter(mAdapter);
+        listView.setEmptyView( rootView.findViewById(R.id.empty_text) );
+        listView.setOnItemClickListener( new DexItemClickListener() );
 
         // Hide the progress bar once the ui is setup.
         rootView.findViewById(R.id.progress_bar).setVisibility(View.GONE);
@@ -89,35 +84,6 @@ public class DisplayDexFragment extends Fragment {
 
         SearchView searchView = (SearchView) searchItem.getActionView();
         searchView.setOnQueryTextListener(new DexQueryTextListener());
-    }
-
-    @Override
-    public void onSaveInstanceState(Bundle savedInstanceState) {
-        super.onSaveInstanceState(savedInstanceState);
-
-        if (mListView != null) {
-            int index = mListView.getFirstVisiblePosition();
-            View view = mListView.getChildAt(0);
-            int top = (view == null) ? 0 : view.getTop();
-
-            savedInstanceState.putInt(LISTVIEW_INDEX, index);
-            savedInstanceState.putInt(LISTVIEW_TOP, top);
-        }
-    }
-
-    /**
-     * Restore the scroll position of the ListView.
-     * @param savedInstanceState the fragment state
-     */
-    @Override
-    public void onActivityCreated(Bundle savedInstanceState) {
-        super.onActivityCreated(savedInstanceState);
-
-        if (savedInstanceState != null && mListView != null) {
-            int index = savedInstanceState.getInt(LISTVIEW_INDEX);
-            int top = savedInstanceState.getInt(LISTVIEW_TOP);
-            mListView.setSelectionFromTop(index, top);
-        }
     }
 
     private void setData(List<Pokemon> pokemonList) {

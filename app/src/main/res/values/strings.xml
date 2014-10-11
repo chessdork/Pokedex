@@ -28,5 +28,7 @@
     <string name="spdef_descriptor">Sp. Def:</string>
     <string name="spe_descriptor">Speed:</string>
     <string name="moveset_descriptor">Movesets</string>
+    <string name="view_moveset_detail">View moveset detail</string>
+    <string name="no_movesets_found">No movesets found.</string>
 
 </resources>

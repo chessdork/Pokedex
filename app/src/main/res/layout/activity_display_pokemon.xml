@@ -208,4 +208,34 @@
         android:layout_below="@id/spe_layout"
         android:layout_marginTop="@dimen/activity_vertical_margin"
         style="@style/NameLarge" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+        android:layout_below="@id/moveset_descriptor">
+
+        <ListView
+            android:id="@+id/moveset_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:indeterminate="true"/>
+
+        <TextView
+            android:id="@+id/empty_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/no_movesets_found"
+            android:textSize="20sp"
+            android:textColor="@android:color/darker_gray"
+            android:visibility="gone"/>
+    </FrameLayout>
+
 </RelativeLayout>
