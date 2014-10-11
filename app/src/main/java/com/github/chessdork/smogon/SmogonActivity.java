@@ -1,7 +1,7 @@
 package com.github.chessdork.smogon;
 
-import android.app.Activity;
 import android.app.ActionBar;
+import android.app.Activity;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.Context;
@@ -19,6 +19,8 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.github.chessdork.smogon.ui.DisplayDexFragment;
+
 
 public class SmogonActivity extends Activity {
 
@@ -31,7 +33,7 @@ public class SmogonActivity extends Activity {
         setContentView(R.layout.activity_smogon);
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         ListView mDrawerList = (ListView) findViewById(R.id.left_drawer);
-        mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.drawable.ic_drawer,0,0);
+        mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.drawable.ic_drawer, 0, 0);
 
         mDrawerList.setAdapter(new DrawerAdapter(this));
         mDrawerList.setOnItemClickListener(new DrawerItemClickListener());
@@ -148,7 +150,7 @@ public class SmogonActivity extends Activity {
 
             textView = (TextView) convertView;
             textView.setText(mData[index].getName());
-            textView.setCompoundDrawablesWithIntrinsicBounds(mData[index].getResId(),0,0,0);
+            textView.setCompoundDrawablesWithIntrinsicBounds(mData[index].getResId(), 0, 0, 0);
 
             return textView;
         }
@@ -164,12 +166,20 @@ public class SmogonActivity extends Activity {
             Category category = (Category) parent.getItemAtPosition(index);
 
             switch (category) {
-            case ABILITIES: handleClick( new DisplayAbilitiesFragment() ); break;
-            case NATURES: handleClick( new DisplayNaturesFragment() ); break;
-            case POKEMON: handleClick( new DisplayDexFragment() ); break;
-            case TYPES: handleClick( new DisplayTypesFragment() ); break;
+                case ABILITIES:
+                    handleClick(new DisplayAbilitiesFragment());
+                    break;
+                case NATURES:
+                    handleClick(new DisplayNaturesFragment());
+                    break;
+                case POKEMON:
+                    handleClick(new DisplayDexFragment());
+                    break;
+                case TYPES:
+                    handleClick(new DisplayTypesFragment());
+                    break;
 
-            default:
+                default:
             }
         }
 
