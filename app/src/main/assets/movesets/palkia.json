@@ -1,0 +1,2034 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "draco_meteor",
+         "name": "Draco Meteor"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spacial_rend",
+         "name": "Spacial Rend"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder",
+         "name": "Thunder"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Choice Specs",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Specs",
+       "alias": "choice_specs",
+       "description": "Hold item which raises Special Attack by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 4,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hydro Pump hits very hard with Choice Specs equipped, doing 57%-68% to 252 HP Arceus and severely damaging most other neutral targets. Draco Meteor backed by Choice Specs packs nuclear power, but note that the Special Attack drop can be capitalized on, though Choice Specs Palkia is by and large a hit-and-run Pokemon anyway. Spacial Rend is a weaker but far more consistent Dragon-type STAB move and has certain important functions on this set, such as pressuring type-neutral Arceus switch-ins very effectively. Once any opposing Fairy-types have been taken care of, Spacial Rend is also an awesome move for Palkia to clean up with late-game. Fire Blast handles Steel-types, notably Ferrothorn. It also allows Palkia a surefire means of getting past Grass Arceus under neutral or sunny weather, and is Palkia's best attacking option in sun. Thunder can also be used in this slot, hitting Kyogre, Water Arceus, and Lugia. The power boost from Choice Specs allows Thunder to damage these Pokemon severely such that they cannot stall Palkia out by healing off the damage.</p>\n<h4>Set Details</h4>\n<p>252 EVs are invested in both Speed and Special Attack to let Palkia hit as hard and fast as possible. This EV spread is quite straightforward and non-negotiable. Choice Specs is the point of the set, allowing Palkia to pressure/beat some of its would-be checks in support Arceus formes and bulky Fairy-type switch-ins.</p>\n<h4>Usage Tips</h4>\n<p>Spam Hydro Pump most of the time, as it 2HKOes practically all neutral targets barring Blissey, and will punish type-neutral Arceus formes that attempt to switch in. Try having rain active when doing this; the power boost is very significant. In sunny weather, Fire Blast replaces Hydro Pump as your best bet at damaging stuff in general, and once Fairy-types are out of the picture, Spacial Rend is your go-to move to spam. Note that it is important to ensure Fairy-types are no longer an issue before using Spacial Rend loosely, as a simple switch into one of them can reverse your momentum. Having entry hazards up is also a great way to further pressure switch-ins and soften up the opposing team for a cleanup by another teammate or Palkia itself; Spikes support is again much-appreciated. Try as much as possible to bring Palkia in via double switches or as a revenge killer; like offensive Palkia, this Palkia is quite frail with no means of recovery, and its main aim is still checking Kyogre on teams that use it. You should also try as much as possible to steer clear of status, which is also very debilitating for this set; paralysis destroys its Speed advantage and burn/poison wears away at it. Lastly, be mindful of your moves' remaining PP throughout the match, as being locked into and spamming a move drains PP rapidly, not to mention that the ubiquity of Pressure in Ubers exacerbates this issue.</p>\n<h4>Team Options</h4>\n<p>If anything, a solid answer to Fairy-types is more necessary than ever here due to this set's inability to switch moves. As with the offensive set, Scizor and Klefki are good examples of such teammates. Mega Gengar is another great teammate in this regard. Again, Ground-types are useful for dealing with Choice Scarf Zekrom. Groudon and Landorus-T are good teammates that also have access to Stealth Rock, which checks dangerous Pokemon like Ho-Oh and racks up residual damage on switch-ins, which is very nice considering Palkia's ability to force switches. Kyogre is nice to have as well, as its Drizzle ability gives Hydro Pump a large 1.5x power boost and makes Thunder 100% accurate. Spamming Water-type moves is a pretty effective way of softening up teams and a strategy in itself, hence having two users of powerful Water-type moves is a good way to go. A support Arceus forme is good for dealing with opposing Palkia. Fairy and Ghost Arceus are solid candidates for the role as they also help with Mewtwo. Checks to physically-based revenge killers and Extreme Killer Arceus are required; the aforementioned Ghost Arceus and Giratina-O can handle Mega Mewtwo X, Blaziken, and Extreme Killer Arceus. Finally, it is important to ensure that common Calm Mind Arceus such as Electric, Ghost, and Fairy Arceus do not get out of hand and accrue too many Calm Mind boosts.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spacial_rend",
+         "name": "Spacial Rend"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder",
+         "name": "Thunder"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Offensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Lustrous Orb",
+       "alias": "lustrous_orb",
+       "description": "Raises power of Palkia's STAB moves by 20%."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 4,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hydro Pump is a strong STAB move; boosted by Lustrous Orb and coming off base 150 Special Attack, it hits even neutral targets considerably hard, and rain support skyrockets its damage output. Spacial Rend is Palkia's choice of a Dragon-type STAB move, complementing Hydro Pump in providing excellent neutral coverage. It is consistent, fairly powerful, can be used under any weather, and also hits opposing Palkia, Giratina, and Rayquaza super effectively. Fire Blast is mandatory coverage against the numerous Steel-types in Ubers, notably Ferrothorn, which resists both of Palkia's STAB moves. Dragon Tail phazes switch-ins to Palkia such as Blissey and support Arceus formes, racking up chip damage on these Pokemon. It is also very useful for temporarily preventing setup from Calm Mind Arceus formes and Extreme Killer Arceus, Pokemon that this Palkia set is very vulnerable to due to its inability to boost its stats and relative frailty. Note that Dragon Tail is unable to phaze Fairy-type setup sweepers, notably Geomancy Xerneas and Fairy Arceus. Thunder can be used in this slot to hit Kyogre, Water Arceus, and Lugia super effectively. While its 30% chance of paralysis should not be counted on, it is high enough to be significant. Thunder Wave is an excellent third option for crippling Arceus switch-ins and overeager Geomancy Xerneas or Calm Mind Arceus formes. Surf can be used if Hydro Pump's accuracy is a problem, but the power drop is significant. Draco Meteor can be used over Spacial Rend as a stronger Dragon-type move that notably ensures a KO on opposing Assault Vest Palkia, has a 75% chance to KO 0 HP Groudon outright after it has taken Stealth Rock damage, and proves situationally more useful against Arceus switch-ins. However, the Special Attack drop can be taken advantage of by opportunistic setup sweepers, making the consistency of Spacial Rend generally more appreciated.</p>\n<h4>Set Details</h4>\n<p>Maximum Speed and Special Attack investment with a Timid nature makes the best of Palkia's good Speed tier and lets it hit as hard as possible. Lustrous Orb gives Palkia's STAB moves a much-welcomed 1.2x power boost with no drawbacks. Leftovers can also be used to give Palkia more wiggle room in switching in and increasing its longevity somewhat. Haban Berry is an interesting option to consider, allowing Palkia a surefire means of beating opposing Palkia one-on-one. Note that Dragon-type attacks are much less prominent this generation, reducing Haban Berry's utility and making it largely a sub-optimal item choice.</p>\n<h4>Usage Tips</h4>\n<p>Make full use of Palkia's 4x resistance to Water-type moves by switching it into Kyogre, especially early- to mid-game. Don't get cocksure with predictions until late-game, where you might then want to capitalize on predicted Thunders/Ice Beams by switching into other teammates. Note that unlike other Palkia sets, offensive Palkia has no means of recovery and will get worn down quickly, hence it is advised to actively predict the opponent's switches and double switch Palkia in so as to preserve its limited health. Also, do not be rash in switching Palkia into Pokemon with moderately powerful unboosted STAB moves or those that can cripple it with status, especially if you see Kyogre in Team Preview. While it is on the field, Palkia's STAB Hydro Pump is a very abusable move; spam it when Palkia can force the opposing Pokemon out, especially if the opponent's Arceus forme is unrevealed and they do not have an obvious Palkia check like Blissey or Sylveon. This is a good way to get the opponent to reveal their Arceus forme early-game as few other Pokemon are really able to stomach offensive Palkia's assaults. If Dragon Tail is used, it is a nice move to throw out against predicted switch-ins, phazing them for residual damage. This is enhanced if entry hazards are on the field; for this reason, Palkia appreciates Spikes support from its teammates in addition to the requisite Stealth Rock. Using Thunder Wave to cripple switch-ins is also a good idea. Lastly, note that Palkia's moves are quite weather-dependent. Hydro Pump and Thunder function optimally under rain, while Fire Blast can be used in any weather but. Try to manipulate the weather to your advantage with Palkia's teammates for optimum effectiveness of its moves. Spacial Rend is a consistent and powerful move that you can sling around under any weather.</p>\n<h4>Team Options</h4>\n<p>As with standard Palkia, offensive Palkia is very self-sufficient, but some teammates are necessary to have, while it appreciates the presence of others. Firstly, teammates to deal with Fairy-types are a must. Steel-types such as Scizor and Klefki can do this, and these two in particular also fit with the more offensive motif of teams one would like to use this Palkia on. Next, Ground-types are useful for dealing with Choice Scarf Zekrom. Groudon is a good teammate, as is Landorus-T and Gliscor. These Pokemon also have access to Stealth Rock, which checks dangerous Pokemon like Ho-Oh and racks up residual damage on switch-ins, which is very nice considering Palkia's ability to force switches. Kyogre is another good teammate as its Drizzle gives Hydro Pump a large 1.5x power boost and makes Thunder 100% accurate. Spamming Water-type moves is a pretty effective way of softening up teams and a strategy in itself, hence having two users of powerful Water-type moves is a good way to go. Having a support Arceus forme is good for dealing with opposing Palkia. Fairy and Ghost Arceus are solid candidates for the role as they also help with Mewtwo, another potent offensive threat. Mega Gengar can remove Fairy-types, support Arceus formes, Extreme Killer Arceus, and Blissey that are not carrying a Shed Shell, facilitating a Palkia cleanup. It is important to note that given this Palkia's relative frailty and lack of recovery, your other team members should be able to pressure Kyogre decently well such that it does not get to switch in too freely. You should also be able to ensure that common Calm Mind Arceus formes such as Electric, Ghost, and Fairy Arceus do not get out of hand and accrue too many Calm Mind boosts.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sleep_talk",
+         "name": "Sleep Talk"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 8,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Surf is this set's most consistent mono-attacking option, hitting most Pokemon neutrally and possessing 100% accuracy as well as high PP, unlike most of Palkia's other moves. Super effective coverage against Ground-types, Ho-Oh, and Heatran is a nice plus. Toxic, especially when coupled with Rest, allows Palkia to pressure and win one-on-one against many common support Arceus formes such as Ghost, Water, and Rock Arceus. Rest gives Palkia the longevity it needs; it is a necessity on this set, which prioritizes staying power over offensive presence. Sleep Talk allows Palkia to spread Toxic even while asleep and basically prevents it from being completely helpless during its Rest turns. Spacial Rend or Fire Blast can be used in the fourth slot; the former lets Palkia hit Giratina formes hard, and the latter, Steel-types such as Ferrothorn and Scizor. Dragon Tail can also be used in this slot to ensure that Calm Mind Arceus that have already accrued boosts when Palkia switches in do not overwhelm it, especially if Palkia has already taken prior damage. Dragon Tail can also stave off Extreme Killer Arceus in the interim.</p>\n<h4>Set Details</h4>\n<p>252 EVs are invested in both HP and Special Defense to maximize Palkia's special bulk; this works well with Palkia's good base 120 Special Defense and neutrality to most types. To illustrate Palkia's impressive bulk, this set takes a maximum of 29% from Choice Scarf Kyogre's Thunder, while Judgment from a type-neutral 0 Special Attack support Arceus does a maximum of 30%. Leftovers is a mandatory item to prolong Palkia's lifespan and let it survive its Rest turns.</p>\n<h4>Usage Tips</h4>\n<p>This Palkia is a prime check to Kyogre and should be switched in aggressively against it. With its EV spread, Toxic, and Rest, this Palkia now fares well against most common support Arceus barring Fairy and Poison Arceus, so switch it in on those as well. As mentioned, Judgment from a type-neutral 0 SpA Arceus does a maximum of 30%, meaning that this Palkia can switch in far more comfortably against support Arceus than any other Palkia set. Aside from this though, try not to let Palkia sustain any unnecessary damage, as Rest isn't exactly reliable recovery and Palkia should be as healthy as possible in order to tackle the listed threats, of which checks to are in short supply. Letting it get hit by Earthquake/Psystrike/Brave Bird unnecessarily will leave it too crippled to perform its role effectively later in the game.</p>\n<h4>Team Options</h4>\n<p>Entry hazard support should be employed in order to make the best of this set's ability to deal with common Defogging support Arceus. Stealth Rock also checks Ho-Oh, which otherwise threatens this set greatly. Ground-types such as Landorus-T are good Stealth Rock setters that can also handle Zekrom well. Next, teammates to deal with Fairy-types are required. Heatran and Scizor fill this role, as can Ho-Oh and Mega Gengar. Cleric support is much-appreciated. You will find that Fairy-types are friend as much as foe; Sylveon and Xerneas are reliable clerics that can also handle opposing Palkia and wall the Dragon-type attacks that this set is vulnerable to. It is necessary to have a good switch-in to Mewtwo and its Mega Evolutions as they threaten Palkia massively with their superior Speed and powerful attacks. As with other sets, Fairy Arceus and Xerneas can deal with Mega Mewtwo X, while Yveltal and Giratina-O can handle Mega Mewtwo Y and Life Orb Mewtwo. Again, it is advised to have an Arceus forme of your own to take on opposing Palkia; Fairy and Ghost Arceus are solid choices that also put in work against Mewtwo. Finally, checks to strong physical attackers/sweepers are required. The aforementioned Landorus-T can check Ho-Oh and Swords Dance Ground Arceus, while Ghost Arceus and Giratina-O can handle Extreme Killer Arceus and Mega Mewtwo X, and physically defensive Ho-Oh helps against Blaziken and opposing Ho-Oh.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        },
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spacial_rend",
+         "name": "Spacial Rend"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Standard",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 4,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Rest, being Palkia's only means of recovery, grants it more longevity, especially against Kyogre and support Arceus formes; it works particularly well in tandem with cleric support and Leftovers recovery. This move is very important on Palkia as it goes a long way in letting it stand up to the aforementioned Pokemon throughout the course of the match. Toxic is Palkia's means of wearing down bulky opponents such as Lugia; the cumulative nature of Toxic damage will overwhelm these Pokemon if they lack any means of status removal. In conjunction with Rest, this allows Palkia to beat most support Arceus formes one-on-one. Hydro Pump is a powerful STAB move that hits most opponents neutrally for respectable damage and can function as a nuke of sorts under rain. If its PP and accuracy are problematic, Surf is a weaker, more accurate option, but the power drop is quite significant, especially if you choose to invest in Palkia's Special Attack. Spacial Rend complements Hydro Pump excellently, with Ferrothorn being the only commonly seen Pokemon in Ubers that resists both moves. Dragon-types such as both Giratina formes and opposing Palkia that resist Palkia's Water-type STAB moves are conveniently hit super effectively. Alternatively, Fire Blast can be used in this slot to take down problematic Steel-types, mainly Ferrothorn and Scizor. Thunder Wave is a third possible option, giving Palkia access to a second status move that is situationally more useful than Toxic. For example, Thunder Wave can cripple any Geomancy Xerneas that attempts to get ahead of itself and set up on Palkia.</p>\n<h4>Set Details</h4>\n<p>252 Speed EVs with a Timid nature makes the best of Palkia's base 100 Speed, which gives it a very valuable niche. With maximum investment, Palkia can outrun and pick off positive-natured base 90 Speed Pokemon; it also handily outspeeds the newly introduced Xerneas and Yveltal. The remaining EVs can be invested in one of two stats. Using 252 Special Attack EVs maximizes the power of Palkia's moves, allowing it to secure KOs on Pokemon such as Giratina-O and Ho-Oh with its STAB moves and hit foes much harder in general. Alternatively, the EVs can be invested in HP, letting Palkia stomach Judgment from support Arceus formes and survive its Rest turns more comfortably, albeit at the cost of increased damage output. Leftovers is really the only viable item choice on this Palkia set, as it gives Palkia more wiggle room in switching in and taking hits. For example, Judgment from a type-neutral 0 SpA support Arceus is guaranteed a 3HKO on 252 HP / 0 SpD Palkia, but only has a 19% chance to do so when factoring in Leftovers recovery. Leftovers is also effective in tiding Palkia through its Rest turns.</p>\n<h4>Usage Tips</h4>\n<p>Switch Palkia in on Kyogre, especially early- to mid-game, in order to scout its set and minimize damage done to the team. It is likely to be the only Pokemon on your team that is 4x resistant to Water-type moves, so make full use of that. Don't get cocksure with predictions until late-game, when you might then want to capitalize on predicted Thunders/Ice Beams from Choice Specs/Choice Scarf Kyogre by switching into other teammates that can take the hit better. That being said, do not rashly switch Palkia in on Pokemon with relatively powerful unboosted STAB moves, especially if you see Kyogre in Team Preview; you don't want it to be unable to check Kyogre when it needs to. For example, it is a bad idea switching Palkia into Landorus-T's Earthquake, even if you can force it out afterwards, because Palkia will now be in possible KO range of Kyogre's Thunder and will be forced to use Rest.</p>\n<p>Speaking of Rest, Palkia finds itself in a precarious situation while asleep. As it lacks Sleep Talk, this set is next to useless while asleep and is not especially bulky, so minimize unnecessary damage/status inflicted on Palkia such that it does not have to incapacitate itself by using Rest. The move should only ever be used as a means of status removal and shrugging off damage incurred from switching in on Kyogre, in order to let it continue to do just that. As a final caveat regarding Rest, keep in mind that Pressure in conjunction with Rest allows Palkia to outstall specially defensive Kyogre, so if you see one on the opposing team, your usage of the move should be targeted at ultimately outlasting it. Lastly, similar to how it checks Kyogre, this Palkia can put type-neutral support Arceus formes on a timer with Toxic backed up by Rest. Note that it cannot switch into Judgment comfortably unless it is running 252 HP EVs, so keep that in mind when contemplating switching it in.</p>\n<h4>Team Options</h4>\n<p>This Palkia is a very self-sufficient Pokemon, supporting one's team more than it requires support. Still, certain Pokemon are necessary teammates to have, and others are useful partners. First, include teammates to deal with Fairy-types. Steel-types such as Klefki, Scizor, and Jirachi are good choices, as is Ho-Oh. Cleric support is also much-appreciated, working brilliantly with Rest. Sylveon and Xerneas are reliable clerics that can also handle opposing Palkia. A Ground-type to handle Choice Scarf Zekrom is nice, as it is very dangerous as a revenge killer. Groudon is a good option, as is Landorus-T and Gliscor. These Pokemon can also set up Stealth Rock, which is an important entry hazard to have active and which can check threatening Pokemon like Ho-Oh. It is good to note that a Ground-type, along with the Fairy-type clerics mentioned before, puts Zekrom users in an unsavory situation where they have to predict accurately with Zekrom's STAB moves or risk wasting a turn. It is also nice to have a teammate to take advantage of Blissey, a hard counter to Palkia. Ho-Oh can do this, as do powerful physical attackers like Mega Mewtwo X. Regarding Mewtwo, having good switch-ins to it and its Mega Evolutions are required, as they can switch in on this set in a pinch and threaten Palkia greatly with their superior Speed and powerful STAB moves. Fairy Arceus and Xerneas can deal with Mega Mewtwo X, while Yveltal and Giratina-O can handle Mega Mewtwo Y and Life Orb Mewtwo. Finally, it is recommended to have an Arceus forme of your own to deal with opposing Palkia; Fairy and Ghost Arceus are good for this purpose and can also help with Mewtwo. Mega Gengar deserves a mention as a blanket check to a fair few Pokemon that plague Palkia, namely Fairy-types, Extreme Killer Arceus, and Blissey that are not carrying a Shed Shell.</p>\n"
+    }
+   ],
+   "alias": "palkia",
+   "name": "Palkia",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "palkia"
+    },
+    {
+     "gen": "dp",
+     "alias": "palkia"
+    },
+    {
+     "gen": "xy",
+     "alias": "palkia"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "ancient_power",
+     "name": "Ancient Power",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 90,
+     "alias": "aqua_tail",
+     "name": "Aqua Tail",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "aura_sphere",
+     "name": "Aura Sphere",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "avalanche",
+     "name": "Avalanche",
+     "description": "Doubles in power if damaged by the target.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 70,
+     "alias": "blizzard",
+     "name": "Blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "brine",
+     "name": "Brine",
+     "description": "Base Power doubles if foe's HP is 50% or less.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "bulk_up",
+     "name": "Bulk Up",
+     "description": "Boosts Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "dive",
+     "name": "Dive",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "draco_meteor",
+     "name": "Draco Meteor",
+     "description": "Lowers user's Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_breath",
+     "name": "Dragon Breath",
+     "description": "30% chance to paralyze.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_claw",
+     "name": "Dragon Claw",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_pulse",
+     "name": "Dragon Pulse",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "dragon_tail",
+     "name": "Dragon Tail",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "focus_punch",
+     "name": "Focus Punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "gravity",
+     "name": "Gravity",
+     "description": "For 5 turns, prevents flying or jumping; also disables Ground immunities.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "heal_block",
+     "name": "Heal Block",
+     "description": "Prevents the foes from using healing moves for 5 turns.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "hone_claws",
+     "name": "Hone Claws",
+     "description": "Boosts Attack and accuracy one stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 80,
+     "alias": "hydro_pump",
+     "name": "Hydro Pump",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "hyper_voice",
+     "name": "Hyper Voice",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "power_gem",
+     "name": "Power Gem",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "scary_face",
+     "name": "Scary Face",
+     "description": "Lowers Speed by 2 stages.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_claw",
+     "name": "Shadow Claw",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 0,
+     "alias": "shock_wave",
+     "name": "Shock Wave",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "slash",
+     "name": "Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 95,
+     "alias": "spacial_rend",
+     "name": "Spacial Rend",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "surf",
+     "name": "Surf",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 70,
+     "alias": "thunder",
+     "name": "Thunder",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunderbolt",
+     "name": "Thunderbolt",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "trick_room",
+     "name": "Trick Room",
+     "description": "Slower Pokemon move first for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "twister",
+     "name": "Twister",
+     "description": "20% chance to flinch.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 85,
+     "alias": "whirlpool",
+     "name": "Whirlpool",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "palkia",
+     "name": "Palkia"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 120,
+     "height": 4.2,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Pressure",
+       "alias": "pressure",
+       "description": "Enemy attacks lose 1 extra PP. Increases wild encounter rate."
+      },
+      {
+       "gen": "xy",
+       "name": "Telepathy",
+       "alias": "telepathy",
+       "description": "Does not take damage from allies' attacks."
+      }
+     ],
+     "alias": "palkia",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "dragon",
+       "name": "Dragon"
+      },
+      {
+       "gen": "xy",
+       "alias": "water",
+       "name": "Water"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 120,
+     "hp": 90,
+     "spatk": 150,
+     "suffix": "",
+     "pdef": 100,
+     "weight": 336.0,
+     "spe": 100,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

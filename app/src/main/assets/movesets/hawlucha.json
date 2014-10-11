@@ -1,0 +1,1489 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "acrobatics",
+         "name": "Acrobatics"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "high_jump_kick",
+         "name": "High Jump Kick"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sky_attack",
+         "name": "Sky Attack"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "unburden",
+       "name": "Unburden"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Swords Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Power Herb",
+       "alias": "power_herb",
+       "description": "Removes the charge up turn from all moves. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 8,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 248
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Swords Dance gives Hawlucha the power it needs to threaten defensive Pokemon and also lets it sweep severely weakened teams. Acrobatics is Hawlucha's main STAB option since it is decently powerful and has no drawbacks, while High Jump Kick is used for Fighting-type STAB, though it comes with a nasty side effect of causing recoil damage when it misses. Sky Attack is used alongside Power Herb to activate Unburden and is quite powerful, OHKOing Pokemon such as Garchomp at +2.</p>\n<h4>Set Details</h4>\n<p>The given Speed EVs allow Hawlucha to outspeed Garchomp before Unburden. Adamant is the nature of choice because Hawlucha outspeeds the entire unboosted metagame and most of the boosted metagame with Unburden active even without a Speed boosting nature. Jolly can be used to outspeed Latios, Latias, Keldeo, Terrakion, and Gengar before Unburden and OHKO them with Sky Attack, but the Speed is entirely unnecessary once Unburden has been activated, and Hawlucha needs all the power it can get it order to sweep since its base Attack is rather low.</p>\n<h4>Usage Tips</h4>\n<p>Use Swords Dance on a predicted switch or against a Pokemon that cannot threaten Hawlucha. Refrain from setting up or using Sky Attack until Hawlucha's checks and counters have been removed or severely weakened, since Hawlucha will rarely get more than one chance to sweep because of the one-time use nature of Unburden. If you get Hawlucha in early-game, the best option is generally to either double switch into Pokemon a that threatens Hawlucha's counters or spam High Jump Kick if your opponent lacks a Ghost-type. Be wary of Protect users, especially ones that are weak to High Jump Kick, such as Chansey and Heatran.</p>\n<h4>Team Options</h4>\n<p>Choice Scarf Tyranitar is great against Talonflame and Mega Pinsir, two of the biggest threats to Hawlucha. Thundurus, Manectric, and Raikou are also good offensive checks to Talonflame and Mega Pinsir, and in addition, the latter two are also good answers to Thundurus. Excadrill can check Thundurus and Clefable while also softening up physical walls such as Hippowdon for Hawlucha. Heatran has great defensive synergy with Hawlucha, can set up Stealth Rock to give it an easier time sweeping, and is a great switch-in to Talonflame and Unaware Clefable.</p>\n"
+    }
+   ],
+   "alias": "hawlucha",
+   "name": "Hawlucha",
+   "genfamily": [
+    {
+     "gen": "xy",
+     "alias": "hawlucha"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "acrobatics",
+     "name": "Acrobatics",
+     "description": "Doubles in power if user has no held item.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "agility",
+     "name": "Agility",
+     "description": "Boosts Speed by 2 stages.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "ally_switch",
+     "name": "Ally Switch",
+     "description": "Switches position with another Pokemon on user's side of the field.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "baton_pass",
+     "name": "Baton Pass",
+     "description": "User switches, but passes on all stat changes and some special conditions.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 85,
+     "alias": "bounce",
+     "name": "Bounce",
+     "description": "User is made invulnerable for one turn, then hits the next turn. 30% chance to paralyze.",
+     "pp": 5,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "bulk_up",
+     "name": "Bulk Up",
+     "description": "Boosts Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "detect",
+     "name": "Detect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "encore",
+     "name": "Encore",
+     "description": "Causes the target to repeat the last move for 2-5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "endeavor",
+     "name": "Endeavor",
+     "description": "Lowers the target's HP to the user's HP.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "entrainment",
+     "name": "Entrainment",
+     "description": "Changes the target's ability to that of the user.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "false_swipe",
+     "name": "False Swipe",
+     "description": "Always leaves the foe with at least 1 HP.",
+     "pp": 40,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "feather_dance",
+     "name": "Feather Dance",
+     "description": "Lowers Attack 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "fly",
+     "name": "Fly",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 95,
+     "alias": "flying_press",
+     "name": "Flying Press",
+     "description": "Both Fighting-type and Flying-type simultaneously.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 90,
+     "alias": "high_jump_kick",
+     "name": "High Jump Kick",
+     "description": "If it misses, user loses HP equal to 1/2 the damage that would have been dealt.",
+     "pp": 10,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "hone_claws",
+     "name": "Hone Claws",
+     "description": "Boosts Attack and accuracy one stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "karate_chop",
+     "name": "Karate Chop",
+     "description": "Has a high critical hit rate.",
+     "pp": 25,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "low_sweep",
+     "name": "Low Sweep",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "me_first",
+     "name": "Me First",
+     "description": "Uses the foe's attack at 1.5x power. Must be faster to work.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 0,
+     "alias": "mud_sport",
+     "name": "Mud Sport",
+     "description": "Electric-type attacks do 50% damage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "poison_jab",
+     "name": "Poison Jab",
+     "description": "30% chance to poison.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "quick_guard",
+     "name": "Quick Guard",
+     "description": "Protects user and allies from priority attacks.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "retaliate",
+     "name": "Retaliate",
+     "description": "Power doubles if the user's teammate fainted the previous turn.",
+     "pp": 5,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "roost",
+     "name": "Roost",
+     "description": "Heals 50% HP. Temporarily removes the user's Flying-type.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 90,
+     "alias": "sky_attack",
+     "name": "Sky Attack",
+     "description": "Hits the turn after being used.",
+     "pp": 5,
+     "power": 140
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "sky_drop",
+     "name": "Sky Drop",
+     "description": "Hits the turn after being used. The target cannot move while in the air.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 90,
+     "alias": "steel_wing",
+     "name": "Steel Wing",
+     "description": "10% chance to raise the user's Defense by 1 stage.",
+     "pp": 25,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "taunt",
+     "name": "Taunt",
+     "description": "Forces the foe to use damaging moves for 2 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "torment",
+     "name": "Torment",
+     "description": "Prevents the target from using the same move twice in a row.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "u-turn",
+     "name": "U-turn",
+     "description": "Attacks, then switches.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "wing_attack",
+     "name": "Wing Attack",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "x-scissor",
+     "name": "X-Scissor",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "hawlucha",
+     "name": "Hawlucha"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 92,
+     "height": 0.8,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Limber",
+       "alias": "limber",
+       "description": "Blocks paralysis."
+      },
+      {
+       "gen": "xy",
+       "name": "Mold Breaker",
+       "alias": "mold_breaker",
+       "description": "Abilities that hinder attacks are nullified."
+      },
+      {
+       "gen": "xy",
+       "name": "Unburden",
+       "alias": "unburden",
+       "description": "Speed increases when an item is used or lost."
+      }
+     ],
+     "alias": "hawlucha",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "BL",
+       "alias": "bl",
+       "name": "Borderline"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fighting",
+       "name": "Fighting"
+      },
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      }
+     ],
+     "gkpower": 40,
+     "spdef": 63,
+     "hp": 78,
+     "spatk": 74,
+     "suffix": "",
+     "pdef": 77,
+     "weight": 21.5,
+     "spe": 118,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

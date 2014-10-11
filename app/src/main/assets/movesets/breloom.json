@@ -1,0 +1,1997 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "leech_seed",
+         "name": "Leech Seed"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "drain_punch",
+         "name": "Drain Punch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spore",
+         "name": "Spore"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "poison_heal",
+       "name": "Poison Heal"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Leech Seed",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Toxic Orb",
+       "alias": "toxic_orb",
+       "description": "Badly poisons the holder."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 4,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set takes a more defensive approach towards using Breloom with its excellent defensive movepool and abilities. Leech Seed is the move this set is based upon, and it is great for chipping away at an opposing Pokemon's HP while giving Breloom passive recovery each turn. Drain Punch is Breloom's primary STAB attack, and it provides additional recovery on top of Leech Seed. Protect is a useful scouting move, and it also allows Leech Seed damage to rack up on your opponent while Breloom heals. Finally, in the last moveslot, Spore is used to put a switch-in or opposing Pokemon to sleep. However, Grass-types and Pokemon with Overcoat are now immune to Spore, so that is something to watch out for.</p>\n<h4>Set Details</h4>\n<p>For this set, Toxic Orb is the item of choice to take advantage of Poison Heal. The EVs are mostly invested in special bulk to allow Breloom to serve as an effective Thundurus or Keldeo check.</p>\n<h4>Usage Tips</h4>\n<p>When anticipating a switch, it's usually safe to use Leech Seed, since Breloom will need all the recovery it can get. However, watch out especially for Grass-types, which are immune to Leech Seed and Spore and can switch in on those moves with impunity. Once Leech Seed is set up, Breloom can stall with Protect if it is not worried about about the opposing Pokemon setting up. Keep Leech Seed on your opponent as much as possible; the passive damage will wear them down over time.</p>\n<h4>Team Options</h4>\n<p>Because Grass-types are immune to Spore and Leech Seed, Fire-types like Heatran and Talonflame can be great teammates for taking them out. Also, Excadrill's typing lends itself to be an excellent teammate for Breloom as well, as it is immune to Poison and resists all of Breloom's weaknesses bar Fire. Finally, hazard setters like Skarmory or Landorus-T will force anything coming in to take a chunk of damage, and this is useful since Breloom will be forcing a lot of switches in order to shake off Leech Seed; Stealth Rock in particular is great for chipping away at Fire-types, especially the omnipresent Talonflame.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spore",
+         "name": "Spore"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "bullet_seed",
+         "name": "Bullet Seed"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "mach_punch",
+         "name": "Mach Punch"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_tomb",
+         "name": "Rock Tomb"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "technician",
+       "name": "Technician"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Offensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Focus Sash",
+       "alias": "focus_sash",
+       "description": "The holder always survives one attack. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set aims to take advantage of Technician and utilize moves that will leave the opposing team extremely worn down. Spore is one of the moves that set Breloom apart from many other attackers, and it could potentially incapacitate a foe for most of the game. It can also be used on a predicted switch to ease prediction, unless a Grass-type or Pokemon with Overcoat are still alive. Bullet Seed is Breloom's most powerful STAB attack after Technician and is useful for breaking through Sturdy and Focus Sash. Mach Punch is a STAB priority move that is useful for hitting weakened or faster foes, and hits really hard after Technician as well. Finally, Rock Tomb is a very useful attack for slowing down anticipated switch-ins for Breloom to take down later; it can hit many common Breloom checks such as Talonflame and Dragonite really hard. Swords Dance can be used over Rock Tomb to allow Breloom to sweep through unprepared teams, as its Attack soars to sky-high levels after a +2 boost; however, its STAB coverage isn't that great and it can get walled by Pokemon like Talonflame, Charizard-Y, and Gengar with relative ease.</p>\n<p>Breloom can also use Force Palm over Rock Tomb as a reliable and more powerful secondary STAB attack if it needs to hit harder than it would with Mach Punch, and is useful for getting past defensive threats like Ferrothorn. However, Rock Tomb's utility is something that Breloom typically won't want to give up.</p>\n<h4>Set Details</h4>\n<p>The EVs of this set are maxed out in Attack and Speed to capitalize on Breloom's offensive presence. Jolly is mandatory as the nature to avoid Speed ties with Bisharp, tie with opposing Breloom, and a slew of other threats including neutral-natured base 80s, slowerbase 100s, Adamant Gyarados, Gliscor, defensive Landorus-T, Adamant Mega Heracross, and Adamant Diggersby. Focus Sash is preferred for the item to ensure Breloom can take any one hit and attack or sleep the foe. This makes it much more of a threat to offensive teams, as it practically guarantees something will sleep and allows Breloom to check many threats in a pinch. Life Orb or an Adamant nature can be used to OHKO Excadrill. In general, Life Orb Breloom is significantly more powerful, blasting through the likes of Gliscor and Landorus-T, but isn't generally worth losing out on Focus Sash.</p>\n<h4>Usage Tips</h4>\n<p>This set is one that is mostly used either mid-game to check a specific threat or early-game to fire off a quick Spore and weaken things quickly. One thing that Breloom is very good at is punishing switches. When anticipating a switch, use Spore so that whatever is switching in is put to sleep and can't really do much. However, since Grass-types are immune to Spore, if you predict that one is going to switch in, try using Mach Punch or Rock Tomb. If something slightly faster than Breloom is switching in, it can use Rock Tomb to slow it down, hopefully to the point where Breloom can outspeed the opposing Pokemon and finish it off.</p>\n<h4>Team Options</h4>\n<p>A Fire-type or a teammate with a Fire-type move is very useful to have to get rid of opposing Grass-types that are immune to Spore. Heatran is an excellent example of a Fire-type teammate, as it resists Flying, as well as dual-resisting Ice and being immune to Poison. Because Mega Venusaur essentially counters Breloom, a counter to it, such as Latios, is recommended to get it out of the way. A Stealth Rock setter is also a great teammate to have, as it chips away at the opposing team's health and also weakens Fire- and Flying-types, especially the omnipresent Talonflame. Rock-types are also a great choice for directly damaging Fire- and Flying-types. Hippowdon is a bulky Ground-type that can easily take care of Talonflame. Finally, Excadrill is an alternate Ground-type that pairs up well with Breloom, as it is immune to Poison and resists all of Breloom's weaknesses bar Fire and Ice, as well as being a great Rapid Spin user.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "bullet_seed",
+         "name": "Bullet Seed"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "mach_punch",
+         "name": "Mach Punch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spore",
+         "name": "Spore"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "technician",
+       "name": "Technician"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Offensive Spore",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Focus Sash",
+       "alias": "focus_sash",
+       "description": "The holder always survives one attack. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 4,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>The majority of its attacking moveset is boosted by Technician in order to hit as hard as possible. Bullet Seed is the set's first STAB move and is used for taking out threats such as Politoed and Jellicent as it hits them super effectively. As Bullet Seed is a multi-hit move, it can also be used to hit and KO through Focus Sash and Substitute. Mach Punch is the second STAB move and is used for picking off or revenge killing weakened threats. It is used to hit threats such as Bisharp, Kangaskhan, and Tyranitar, while also denting Heatran. Spore lets it stop Pokemon with sleep, giving it and its teammates free turns and momentum. Protect is a staple move, letting it stall out field conditions such as Trick Room, protect itself from damage, and give its teammates an opening to work. Protect is also useful for blocking Fake Out, which would make its Focus Sash otherwise useless.</p>\n<h4>Set Details</h4>\n<p>The EV spread allows Breloom to hit as fast and hard as possible. As Breloom is very frail, Focus Sash is used to let it survive more than one turn by letting it take an otherwise lethal attack and strike back with an attack or Spore. However, if Breloom is being used in a sand or hail team, it is recommended to use a different item as the passive damage applied renders it useless. Life Orb can be used in these cases or at times when a higher damage output is desired. An Adamant nature is used in order to achieve maximum power, though a Jolly nature can be used to safely outspeed Adamant nature Bisharp and Gyarados.</p>\n<h4>Usage Tips</h4>\n<p>Breloom is used to disrupt by applying pressure with powerful moves and Spore. With Spore, Breloom can neuter threats such as Chandelure and Cresselia that it otherwise has problems taking down. It is also useful for giving teammates chances to set up and neutering their checks. Breloom can be used as a check to Trick Room leads by neutralizing them with Spore, preferably paired with a Fake Out partner in order to minimize damage. Mach Punch is mainly useful for KOing weakened threats or Choice Scarf users such as Excadrill and Tyranitar. If using a Focus Sash, Breloom can guarantee getting a strong hit or a Spore off in clutch moments. It is best to keep Breloom away from sand and hail and use Protect on a predicted Fake Out in order to preserve its Focus Sash.</p>\n<h4>Team Options</h4>\n<p>As Breloom is somewhat slow, speed control like Thunder Wave or Tailwind can be a really huge help. Under Tailwind, Breloom can be extremely dangerous, as it can Spore almost everything, and use a powerful Bullet Seed on threats it couldn't hit cleanly before such as Landorus-T and Keldeo. Suicune and Talonflame are both great choices for teammates, as Suicune can also take out annoying Fire-types for Breloom while Talonflame can hit Grass-types. Togekiss can also pair up well as it can also redirect any pesky attacks aimed at Breloom. An opponent crippled by Thunder Wave can be an easy picking for Breloom. Thundurus can make for a great teammate as it can take out Flying-types that annoy Breloom.</p>\n<p>In terms of support, Breloom appreciates Pokemon that can help it last longer and play more freely throughout the battle. Pokemon with the ability to redirect moves are very helpful to Breloom, as they help Breloom play more freely without the risk of getting hit. Again, Togekiss can be helpful as it is very bulky and has Tailwind as well. Jirachi is also good as it resists all of Breloom's weaknesses bar Fire while also having access to Helping Hand to turn possible 2HKOes into OHKOes. Pokemon that can switch into Breloom's weaknesses work fairly well. Heatran can switch in against Flying- and Fire-types such as Talonflame and opposing Heatran, while also being able to scare Amoonguss out. Fake Out users such as Hitmontop and Scrafty can buy Breloom a turn to attack or use Spore. If paired with Breloom, this also makes a good anti-Trick Room lead. Quick Guard users are great as they can patch up Breloom's frailty by stopping priority, notably Fake Out and Talonflame's Brave Bird. Keldeo is a notable partner, as it can take out annoying Fire-types for Breloom. However, the majority of users of Quick Guard and Fake Out are Fighting-types and thus provide type synergy issues with Breloom.</p>\n<p>Pokemon that appreciate the removal of Water- and Rock-type Pokemon from the field make good partners. Mega Charizard Y in particular works because it can remove annoying field conditions such as sand for Breloom. In return, Breloom takes out Tyranitar, Rotom-W, Terrakion, and Politoed. Breloom can also be a good pick for rain teams, taking out threats such as Rotom-W and Kyurem-B, while also benefiting from losing its Fire-type weakness.</p>\n"
+    }
+   ],
+   "alias": "breloom",
+   "name": "Breloom",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "breloom"
+    },
+    {
+     "gen": "dp",
+     "alias": "breloom"
+    },
+    {
+     "gen": "rs",
+     "alias": "breloom"
+    },
+    {
+     "gen": "xy",
+     "alias": "breloom"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "absorb",
+     "name": "Absorb",
+     "description": "Leeches 50% damage.",
+     "pp": 25,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "bulk_up",
+     "name": "Bulk Up",
+     "description": "Boosts Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "bullet_seed",
+     "name": "Bullet Seed",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 30,
+     "power": 25
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "charm",
+     "name": "Charm",
+     "description": "Lowers foe's Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "drain_punch",
+     "name": "Drain Punch",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 50,
+     "alias": "dynamic_punch",
+     "name": "Dynamic Punch",
+     "description": "Confuses the foe.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "energy_ball",
+     "name": "Energy Ball",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fake_tears",
+     "name": "Fake Tears",
+     "description": "Lowers Special Defense by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "false_swipe",
+     "name": "False Swipe",
+     "description": "Always leaves the foe with at least 1 HP.",
+     "pp": 40,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "focus_punch",
+     "name": "Focus Punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "force_palm",
+     "name": "Force Palm",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "giga_drain",
+     "name": "Giga Drain",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "growth",
+     "name": "Growth",
+     "description": "Boosts Attack and Special Attack by one stage. Boosts Attack and Special Attack by two stages in bright sunlight.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "helping_hand",
+     "name": "Helping Hand",
+     "description": "Increases power of ally's moves by 50%.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 75,
+     "alias": "iron_tail",
+     "name": "Iron Tail",
+     "description": "30% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 90,
+     "alias": "leech_seed",
+     "name": "Leech Seed",
+     "description": "Leeches 1/8 of the target's HP each turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "low_sweep",
+     "name": "Low Sweep",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "mach_punch",
+     "name": "Mach Punch",
+     "description": "The user always attacks first.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "mega_drain",
+     "name": "Mega Drain",
+     "description": "Leeches 50% of the damage dealt.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 75,
+     "alias": "mega_kick",
+     "name": "Mega Kick",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "mega_punch",
+     "name": "Mega Punch",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mind_reader",
+     "name": "Mind Reader",
+     "description": "The next move used will always hit.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 75,
+     "alias": "poison_powder",
+     "name": "Poison Powder",
+     "description": "Poisons the target.",
+     "pp": 35,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "refresh",
+     "name": "Refresh",
+     "description": "Removes status.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "retaliate",
+     "name": "Retaliate",
+     "description": "Power doubles if the user's teammate fainted the previous turn.",
+     "pp": 5,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "seed_bomb",
+     "name": "Seed Bomb",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "seismic_toss",
+     "name": "Seismic Toss",
+     "description": "Does damage equal to the user's level.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 90,
+     "alias": "sky_uppercut",
+     "name": "Sky Uppercut",
+     "description": "Hits a Bouncing or Flying target.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge_bomb",
+     "name": "Sludge Bomb",
+     "description": "30% chance to poison.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "snatch",
+     "name": "Snatch",
+     "description": "If certain moves are used, the user of Snatch uses the moves instead.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "spore",
+     "name": "Spore",
+     "description": "Puts the target to sleep.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 75,
+     "alias": "stun_spore",
+     "name": "Stun Spore",
+     "description": "Paralyzes the target.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "superpower",
+     "name": "Superpower",
+     "description": "Lowers the user's Attack and Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "synthesis",
+     "name": "Synthesis",
+     "description": "Heals variably depending on the weather.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_punch",
+     "name": "Thunder Punch",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "vacuum_wave",
+     "name": "Vacuum Wave",
+     "description": "The user always attacks first.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "venoshock",
+     "name": "Venoshock",
+     "description": "Hits poisoned targets with double Base Power.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "wake-up_slap",
+     "name": "Wake-Up Slap",
+     "description": "Double Base Power if used on a sleeping foe.",
+     "pp": 10,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "work_up",
+     "name": "Work Up",
+     "description": "Boosts user's Attack and Special Attack by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "worry_seed",
+     "name": "Worry Seed",
+     "description": "Changes the foe's ability to Insomnia.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "shroomish",
+     "name": "Shroomish"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "breloom",
+       "name": "Breloom"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 130,
+     "height": 1.2,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Effect Spore",
+       "alias": "effect_spore",
+       "description": "Induces paralysis, poison, or sleep on contact."
+      },
+      {
+       "gen": "xy",
+       "name": "Poison Heal",
+       "alias": "poison_heal",
+       "description": "Heals 1/8 of max HP per turn when poisoned."
+      },
+      {
+       "gen": "xy",
+       "name": "Technician",
+       "alias": "technician",
+       "description": "Increases power of moves with 60 base power or less by 50%."
+      }
+     ],
+     "alias": "breloom",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fighting",
+       "name": "Fighting"
+      },
+      {
+       "gen": "xy",
+       "alias": "grass",
+       "name": "Grass"
+      }
+     ],
+     "gkpower": 60,
+     "spdef": 60,
+     "hp": 60,
+     "spatk": 60,
+     "suffix": "",
+     "pdef": 80,
+     "weight": 39.2,
+     "spe": 70,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

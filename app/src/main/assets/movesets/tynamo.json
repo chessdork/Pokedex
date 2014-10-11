@@ -1,0 +1,269 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [],
+   "alias": "tynamo",
+   "name": "Tynamo",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "tynamo"
+    },
+    {
+     "gen": "xy",
+     "alias": "tynamo"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 90,
+     "alias": "charge_beam",
+     "name": "Charge Beam",
+     "description": "70% chance to boost Special Attack by 1 stage.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 0,
+     "alias": "magnet_rise",
+     "name": "Magnet Rise",
+     "description": "User becomes immune to Ground moves for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "spark",
+     "name": "Spark",
+     "description": "30% chance to paralyze.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "tynamo",
+     "name": "Tynamo"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "eelektrik",
+       "name": "Eelektrik"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "eelektross",
+         "name": "Eelektross"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 55,
+     "height": 0.2,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Levitate",
+       "alias": "levitate",
+       "description": "This Pokemon is immune to Ground-type moves."
+      }
+     ],
+     "alias": "tynamo",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "LC",
+       "alias": "lc",
+       "name": "Little Cup"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "electric",
+       "name": "Electric"
+      }
+     ],
+     "gkpower": 20,
+     "spdef": 40,
+     "hp": 35,
+     "spatk": 45,
+     "suffix": "",
+     "pdef": 40,
+     "weight": 0.3,
+     "spe": 60,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

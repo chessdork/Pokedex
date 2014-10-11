@@ -1,0 +1,2318 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        },
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "encore",
+         "name": "Encore"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rain_dance",
+         "name": "Rain Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "drizzle",
+       "name": "Drizzle"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 4,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hydro Pump is the advised STAB attacking option on the Choice Scarf set because it is Politoed's strongest attack. However, Scald is a more reliable option if you are afraid of missing. Ice Beam is the best option in the next slot, as it hits Flying-types, Dragon-types, and Grass-types, and has overall great coverage with a Water-type move. Focus Blast hits Tyranitar and Ferrothorn hard, the latter of which resists Hydro Pump. Finally, in the last spot, Psychic can be used to get a nice neutral hit on Rotom-W and it is super effective against Mega Venusaur and Amoonguss. Alternatively, Encore can be used to stop a Pokemon that just used Protect, or Rain Dance can always be used to set rain back up on a predicted Charizard-Y or Tyranitar switch-in.</p>\n<h4>Set Details</h4>\n<p>The EVs are exactly what you would expect of a Choice Scarf Pokemon in VGC. Maximum Special Attack investment allows Politoed to hit as hard as possible, while maximum Speed in conjunction with Choice Scarf allows Politoed to outrun everything relevant besides Mega Manectric. There are not many alternative options for the first three move slots, but the 4th slot should be whatever has the most utility on a team.</p>\n<h4>Usage Tips</h4>\n<p>Try not to lead with Politoed against teams that have other weather unless you are prepared to lock yourself into Rain Dance on turn one, just in case they also lead with a weather user and so nullify Drizzle. Always prepare to lead up against Rotom-W because it is the best common rain check besides Ferrothorn. Choice Scarf is less unexpected than the standard set with Sitrus Berry, so use this to your advantage and try and get some sneaky KOs early in the game.</p>\n<h4>Team Options</h4>\n<p>It's always a good idea to pair Politoed up with Swift Swim Pokemon such as Kingdra or Ludicolo, no matter what spread Politoed is running. Lum Berry Ferrothorn is always a good option as well, not only because it can dent Rotom-W, but also because super effective Fire-type moves aimed at it are weakened in the rain. Goodra can switch in on Grass-type and Electric-type moves that are super effective against Politoed, and it also has access to Muddy Water. Pokemon with Thunder such as Mega Manectric and Zapdos are good options, because they can easily remove opposing Water-types. Finally, Moltres is a good option to beat Grass-types with super effective 100% accurate Hurricanes in the rain.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hypnosis",
+         "name": "Hypnosis"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "drizzle",
+       "name": "Drizzle"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Offensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Damp Rock",
+       "alias": "damp_rock",
+       "description": "Rain Dance and Drizzle lasts 8 turns."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 172,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 84
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>When boosted by rain, Hydro Pump really hurts despite coming from a relatively low base 90 Special Attack stat. Ice Beam provides great coverage for Politoed, letting it hit bulky Grass- and Dragon-types, such as Chesnaught and Latias. Focus Blast is used to get past Ferrothorn, a common check to both Politoed and rain teams as a whole. Hypnosis is a great option in the last slot to practically disable a threat for the entirety of the game, although the horrendous accuracy and change in sleep mechanics are major downfalls. Psychic can be used since it hits Mega Venusaur as well as other roadblocks for rain teams, such as Tentacruel and Toxicroak, really hard. Scald can be used instead as a more reliable STAB, and it also has a decent burn chance that can cripple defensive checks like Latias and Mega Venusaur.</p>\n<h4>Set Details</h4>\n<p>Maximum Special Attack investment and a Modest nature is used to guarantee the highest damage output. 84 Speed EVs let Politoed outspeed everything up to uninvested base 80s, most notably Mega Venusaur; the rest is thrown in HP for more bulk. Damp Rock, again, is the preferred item, as it lengthens rain turns, letting Politoed support its team to the fullest. Choice Specs can be used instead to be able to beat threats to rain such as Rotom-W, Mega Venusaur, Ferrothorn, and Mega Charizard-Y with much greater ease. Choice Specs does limit the amount of turns rain is on the field, which is the entire point of using Politoed in the first place, but semi-rain teams with Politoed + a Swift Swim sweeper love the power that Choice Specs Politoed brings.</p>\n<h4>Usage Tips</h4>\n<p>This Politoed is played much more offensively, as it greatly pressures its opponents with boosted Hydro Pumps. Politoed's coverage moves should only be used on predicted switches into Pokemon that resist Water, as Hydro Pump will almost always be a better choice otherwise. Again, be wary of Knock Off users, as they limit the turns that rain will be on the field by stripping Politoed of its Damp Rock.</p>\n<h4>Team Options</h4>\n<p>This variant of Politoed's teammates should mostly be those that can work their best on offensive rain teams. Swift Swim Pokemon are again great choices, as Politoed can also soften walls for them to blow past late-game. Keldeo is a great partner for offensive Politoed, blowing past Chansey and Ferrothorn, two Pokemon that usually trouble it. Electric-types like Thundurus-T and Raikou are also appreciated to take on Electric-type moves while firing off powerful 100% accurate Thunders. Backup rain setters are hugely appreciated, especially if Politoed uses Choice Specs; Zapdos and Thundurus are great examples that would fit well on offensive rain teams. Tornadus and Tornadus-T are great rain setters that can also utilize a 100% accurate STAB in Hurricane; Tornadus-T is also an excellent pivot that's appreciated on offensive rain teams.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "perish_song",
+         "name": "Perish Song"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "encore",
+         "name": "Encore"
+        },
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "water_absorb",
+       "name": "Water Absorb"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "NU",
+       "alias": "nu",
+       "name": "Neverused"
+      }
+     ],
+     "name": "Perish Song",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Perish Song is the only reason to use Politoed on a serious team. Perish Song prevents last Pokemon sweepers such as Calm Mind Spiritomb and Calm Mind Slurpuff from running through a weakened stall team. Scald is a good STAB move on Politoed that has a 30% chance to burn the opponent. Toxic allows Politoed to beat setup sweepers such as Feraligatr, as well as status special attackers as they switch in. Protect allows Politoed to gain an extra turn of Leftovers recovery, stall out a turn of Perish Song, or deal extra damage to a statused Pokemon. Encore can also be used in this slot to take advantage of Pokemon trying to set up on Politoed.</p>\n<h4>Set Details</h4>\n<p>Maximum HP and Defense investment along with a Bold nature allows Politoed to take on as many physical threats as possible. Leftovers is Politoed's only form of recovery, and Water Absorb allows it to take on opposing Water-types more easily. A specially defensive spread can be used if you are concerned about Pokemon such as specially based Samurott and Pyroar.</p>\n<h4>Usage Tips</h4>\n<p>It is important to conserve Politoed if your opponent has a Slurpuff or Spiritomb, as stall teams that lack Perish Song cannot deal with Calm Mind variants of these Pokemon. Spamming Scald early and often is a good way to cripple the opponent's physical attackers with burns; however, hitting special attackers with Toxic on the switch is much more valuable. Protect not only gives Politoed an extra turn of Leftovers recovery but also can scout for Choice-locked moves. Once Protect is revealed the opponent might attempt to set up on a predicted Protect, so it should be used more conservatively at that point.</p>\n<h4>Team Options</h4>\n<p>Wish support is mandatory in order for Politoed to function properly. Audino is not only capable of providing Wish support for Politoed, but it is also capable of using Heal Bell to cure it of any status ailments. Politoed also appreciates entry hazard support, which helps to wear down opposing Pokemon that are forced to switch out by Perish Song. Steelix provides Stealth Rock support for Politoed, while Politoed is capable of taking on the Water-types that threaten Steelix. Toxic Spikes support from the likes of Dragalge and Roselia, which both have good synergy with Politoed, is helpful to wear down physical attackers.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "encore",
+         "name": "Encore"
+        },
+        {
+         "gen": "xy",
+         "alias": "icy_wind",
+         "name": "Icy Wind"
+        },
+        {
+         "gen": "xy",
+         "alias": "perish_song",
+         "name": "Perish Song"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "encore",
+         "name": "Encore"
+        },
+        {
+         "gen": "xy",
+         "alias": "helping_hand",
+         "name": "Helping Hand"
+        },
+        {
+         "gen": "xy",
+         "alias": "perish_song",
+         "name": "Perish Song"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "drizzle",
+       "name": "Drizzle"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Rain Setter",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Sitrus Berry",
+       "alias": "sitrus_berry",
+       "description": "Restores 1/4 of the max HP when at 1/2 HP or less. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Scald is the main STAB option of choice, with great neutral coverage and a nifty 30% burn chance that can cripple physical attackers. Hydro Pump can be used instead if you prefer power over reliability. For the second and third moveslots, Politoed can viably run any of the following four moves in whatever combination the user wants: Icy Wind, Encore, Perish Song, and Helping Hand. Each move supports the team in a different way. Although Icy Wind doesn't even do satisfactory damage to Grass- and Dragon-types unless it is 4x super effective, the Speed drop for both opponents can be game-changing. Perish Song can be used to force the opponent to make certain plays: for instance, to KO in last-two situations or when you have Mega Gengar, and to force out opponents that use boosting moves or Substitute. Helping Hand is useful to boost the damage of your allies in a pinch and put the opponent under a lot of pressure; it also functions as a good suicide move. Encore is a great move for forcing plays and reducing predictions, as it will neutralize opposing status abusers; setup sweepers; and users of Fake Out, Protect, Tailwind, and Substitute by locking them into the same move for two or more turns. Finally, Protect is used in the last moveslot to shield Politoed from damage, scout for opponent's attacks, and stall out harmful field conditions.</p>\n<h4>Set Details</h4>\n<p>The given EV spread and nature provides maximum physical bulk to Politoed. A physically defensive set is preferred to a specially defensive set, as Politoed's weaknesses are mainly specially attacking types, meaning it is generally better off switching to a teammate that can sponge said special attacks instead of trying to sponge them itself. Leftovers is recommended as it provides continuous passive recovery, instead of being more one-and-done like Sitrus Berry. However, both are viable options.</p>\n<h4>Usage Tips</h4>\n<p>Politoed's objective is usually to provide support for its teammates while also having strong Water-type STAB. Hence, you should try to keep it alive and healthy for as long as possible. When you see that your opponent has many threatening Pokemon that are faster than yours, Icy Wind is a good way to turn the tables against them. Just don't use Icy Wind on Bisharp, as Defiant will result in a painful backlash. If Politoed doesn't have much to damage a Pokemon with, using Scald to fish for a burn can be a decent idea. Helping Hand can be used strategically to boost the damage of a faster teammate, and it is great to help the likes of Kingdra achieve two KOes with one Muddy Water. Encore is preferably used to lock a faster opponent into Substitute or a boosting move, but using it on an attack is not a bad idea either, as this can prevent the use of Protect. For more dedicated rain teams, it is important to play cautiously and keep Politoed alive as long as possible. This also helps for cleaning with Perish Song.</p>\n<h4>Team Options</h4>\n<p>Swift Swimmers such as Ludicolo and Kingdra love rain a lot as they have their STAB options (Hydro Pump and Muddy Water, respectively) boosted. Electric-types can reliably use Thunder under rain, putting much more offensive pressure on the opponent.</p>\n<p>As far as synergy is concerned, Pokemon such as Latios and Kyurem-B can handle Grass- and Electric-types and are useful teammates for Politoed. Meanwhile, Pokemon such as Excadrill and Landorus-T appreciate Politoed's ability to switch into Water-type attacks. Additionally, anything that is weak to Fire immediately loves Politoed, due to rain neutralizing their Fire weakness. These include Scizor, Ferrothorn, and Heracross. Finally, teammates that beat bulky Grass-types like Ferrothorn and Mega Venusaur without relying on Fire-moves are a necessity for rain teams.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "encore",
+         "name": "Encore"
+        },
+        {
+         "gen": "xy",
+         "alias": "hypnosis",
+         "name": "Hypnosis"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hypnosis",
+         "name": "Hypnosis"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        },
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "drizzle",
+       "name": "Drizzle"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Damp Rock",
+       "alias": "damp_rock",
+       "description": "Rain Dance and Drizzle lasts 8 turns."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 4,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Scald is a must-have for pretty much every bulky Water-type, and Politoed's rain makes it even stronger. Toxic is a crippling status for most Politoed switch-ins like Gastrodon. The third and fourth moveslots are adjustable to your team's needs; Encore can be used in the third slot to foil attempts of using Politoed as setup bait while also giving frail teammates like Kabutops free switch-in opportunities. Hypnosis cripples a single Pokemon for the majority, if not the entirety, of the battle; however, its low accuracy and the change in sleep mechanics are setbacks. Ice Beam has good coverage with Scald and gives Politoed a way to hit Pokemon that resist Water such as Latios and Breloom. Rest is an option for Politoed to get back to full health, giving it opportunities to set up rain later on in the game.</p>\n<h4>Set Details</h4>\n<p>Maximum Special Defense investment complements Politoed's naturally high Special Defense, and Scald burns shield it on the physical side as well. A physically defensive spread can be used if you already pack a check to common special attackers like Greninja. Damp Rock is the item of choice, as it lengthens the duration of rain from five turns to eight, giving Politoed's teammates more than enough time to wreak havoc.</p>\n<h4>Usage Tips</h4>\n<p>Politoed's main role is to activate rain with Drizzle. Due to XY mechanics, rain only lasts for a limited amount of turns, which means that you need to send Politoed back in to reactivate rain. Scald is usually the most spammable move for Politoed, as it has decent power under rain and can cripple both offensive and defensive Pokemon with a burn. If you use Hypnosis, feel free to fire it off as soon as possible. Politoed's other moves should be used with relative care, as a wrong move can result in Politoed's end, hindering the rest of your team; Toxic should only be used on predicted switch-ins to walls or Pokemon that don't care for Scald, such as Keldeo, while Encore should be used on Pokemon like Dragon Dance Mega Charizard-X or Substitute Gyarados that think they can set up on Politoed. Rest should only be used if you feel that Politoed is getting too low on health and you'll need to reactivate rain later on in the game. Also watch out for Knock Off users, as they severely hinder Politoed's supporting capabilities. Keep track of Politoed's health, as it will need to continuously keep switching in to activate rain.</p>\n<h4>Team Options</h4>\n<p>The most obvious teammates for Politoed are those that require rain support or really appreciate it. Swift Swim Pokemon are an extremely scary force to face in the rain, with the best examples being Kingdra, Kabutops, and Omastar. Bulky Steel-types like Mega Scizor love the rain, as it alleviates their Fire-type weaknesses, letting them make better use of their bulk and have an easier time setting up. Thundurus-T can absorb Electric-type attacks aimed at its Water-type teammates and fire back 100% accurate Thunders. Grass-types like Amoonguss and Ferrothorn are nice to deal with opposing Water-types like Keldeo and Azumarill, and they also appreciate their Fire-type weaknesses being alleviated. A backup rain setter is also recommended to ease the pressure off of Politoed; Tornadus, Thundurus, and Zapdos are great examples of this.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "encore",
+         "name": "Encore"
+        },
+        {
+         "gen": "xy",
+         "alias": "perish_song",
+         "name": "Perish Song"
+        },
+        {
+         "gen": "xy",
+         "alias": "rain_dance",
+         "name": "Rain Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "drizzle",
+       "name": "Drizzle"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Support",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Damp Rock",
+       "alias": "damp_rock",
+       "description": "Rain Dance and Drizzle lasts 8 turns."
+      },
+      {
+       "gen": "xy",
+       "name": "Sitrus Berry",
+       "alias": "sitrus_berry",
+       "description": "Restores 1/4 of the max HP when at 1/2 HP or less. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 20,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 236,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>The move you will want to be using most on this set is Scald. Scald is preferred over Hydro Pump for its reliability and the chance to burn dangerous physical threats. Ice Beam is the only other offensive move on this set, since the combination of Water and Ice coverage is only resisted by some other Water-types such as Rotom-W and Blastoise, so it is sufficient for Politoed's purposes. Protect is a staple on this set, but remember not to stall with it because that wastes a turn of rain. The positive side, of course, is to help Politoed scout against enemy attacks. Finally, Politoed can run many different support moves in the last spot. Rain Dance overall has the most utility, setting up rain again if either Charizard-Y and Tyranitar decides to jump in, but Encore shuts down a Pokemon that just used Protect, and Perish Song works great to win against the opponent's last two Pokemon.</p>\n<h4>Set Details</h4>\n<p>The 29 Speed IV and Sassy nature make Politoed just slower than 0 Speed Tyranitar, which means that Drizzle will persist if both are sent out at the same time, but it still faster than relevant threats like Mega Mawile. The EVs are designed to allow Politoed to live a Mega Charizard-Y's Solar Beam in sun, before rain gets back up, or an Energy Ball from Life Orb Venusaur. An alternative, less bulky spread with 244 SpA EVs can be used to OHKO Garchomp with Ice Beam. Sitrus Berry is the preferred item because it increases Politoed's survivability. However, Damp Rock is an option if Sitrus Berry is already being used by another Pokemon on a team, or if you value the eight turns of rain instead of five.</p>\n<h4>Usage Tips</h4>\n<p>Politoed is most effective as a lead. This Politoed is slower than Tyranitar, so rain will be the prevailing weather instead of sand if they're sent out at the same time. However, against sun teams, it is recommended to put Politoed in the back in order to cancel out Mega Charizard-Y's Drought after the Mega Evolution. The best plan with Politoed is to lead with it, then to safely get in your offensive threats as soon as possible to make the most of the rain. Politoed has a limited offensive movepool, so do not expect to kill something like Salamence with Ice Beam because it is incredibly obvious that you will attempt to do so.</p>\n<h4>Team Options</h4>\n<p>A well-known and effective strategy is to pair Politoed with Swift Swim users such as Ludicolo and Kingdra, in order to have the edge on your opponent in terms of Speed. Furthermore, pairing Politoed with any other Pokemon that benefits from rain, such as Thunder Mega Manectric, Zapdos, and its frog friend, Toxicroak, is also a great idea in order to utilize those Pokemon to their full effect. Ironically, Fire-types such as Moltres are also good partners because they help deal with Mega Charizard-Y. Furthermore, Moltres in particular can spam Hurricane and remove Grass-types such as Mega Venusaur for Swift Swim users like Ludicolo so they in turn can spam their Water-type STAB moves. Surprisingly, Ground-types like Garchomp can prove to be good partners in order to remove Water-immune Pokemon such as Heliolisk and Toxicroak. Ferrothorn is another great partner for Politoed because Ferrothorn's Fire-type weakness is mitigated by rain. In addition, Ferrothorn can whack Rotom-W with Power Whip, which completely walls Politoed. Amoonguss is another Pokemon that walls Rotom-W, and can put an opposing Pokemon to sleep, as well as support Swift Swim Pokemon with Rage Powder. Mawile is a cool option because it destroys Tyranitar; however, it sometimes has problems dealing with sun teams. Surf is always an option if you pair Politoed with Pokemon like Gastrodon, Heliolisk, and Toxicroak that appreciate being hit by Water-type moves. Most importantly, remember not to make a team completely dependent on rain. Drizzle is cool, but it will be very hard to consistently beat other weather teams if you are relying on rain in order to do so.</p>\n"
+    }
+   ],
+   "alias": "politoed",
+   "name": "Politoed",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "politoed"
+    },
+    {
+     "gen": "dp",
+     "alias": "politoed"
+    },
+    {
+     "gen": "gs",
+     "alias": "politoed"
+    },
+    {
+     "gen": "rs",
+     "alias": "politoed"
+    },
+    {
+     "gen": "xy",
+     "alias": "politoed"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "belly_drum",
+     "name": "Belly Drum",
+     "description": "User loses 50% of max HP. Maximizes Attack.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 70,
+     "alias": "blizzard",
+     "name": "Blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 85,
+     "alias": "bounce",
+     "name": "Bounce",
+     "description": "User is made invulnerable for one turn, then hits the next turn. 30% chance to paralyze.",
+     "pp": 5,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "bubble",
+     "name": "Bubble",
+     "description": "10% chance to lower Speed by 1 stage.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "bubble_beam",
+     "name": "Bubble Beam",
+     "description": "10% chance to lower Speed by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "defense_curl",
+     "name": "Defense Curl",
+     "description": "Boosts Defense by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "dive",
+     "name": "Dive",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "double_slap",
+     "name": "Double Slap",
+     "description": "Hits 2-5 times in 1 turn.",
+     "pp": 10,
+     "power": 15
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 50,
+     "alias": "dynamic_punch",
+     "name": "Dynamic Punch",
+     "description": "Confuses the foe.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "encore",
+     "name": "Encore",
+     "description": "Causes the target to repeat the last move for 2-5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "endeavor",
+     "name": "Endeavor",
+     "description": "Lowers the target's HP to the user's HP.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "focus_punch",
+     "name": "Focus Punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "haze",
+     "name": "Haze",
+     "description": "Eliminates all stat changes.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "helping_hand",
+     "name": "Helping Hand",
+     "description": "Increases power of ally's moves by 50%.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 80,
+     "alias": "hydro_pump",
+     "name": "Hydro Pump",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "hyper_voice",
+     "name": "Hyper Voice",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 60,
+     "alias": "hypnosis",
+     "name": "Hypnosis",
+     "description": "Puts the foe to sleep.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 90,
+     "alias": "ice_ball",
+     "name": "Ice Ball",
+     "description": "Doubles in power with each hit. Repeats for 5 turns.",
+     "pp": 20,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_punch",
+     "name": "Ice Punch",
+     "description": "10% chance to freeze the target.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 75,
+     "alias": "mega_kick",
+     "name": "Mega Kick",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "mega_punch",
+     "name": "Mega Punch",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "metronome",
+     "name": "Metronome",
+     "description": "Picks a random move.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mind_reader",
+     "name": "Mind Reader",
+     "description": "The next move used will always hit.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "mist",
+     "name": "Mist",
+     "description": "Prevents moves that lower stats from working for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 85,
+     "alias": "mud_bomb",
+     "name": "Mud Bomb",
+     "description": "30% chance to lower accuracy by 1 stage.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 95,
+     "alias": "mud_shot",
+     "name": "Mud Shot",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "perish_song",
+     "name": "Perish Song",
+     "description": "All active Pokemon faint after 3 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "refresh",
+     "name": "Refresh",
+     "description": "Removes status.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "scald",
+     "name": "Scald",
+     "description": "30% chance to burn the target. Thaws the user.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "seismic_toss",
+     "name": "Seismic Toss",
+     "description": "Does damage equal to the user's level.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "splash",
+     "name": "Splash",
+     "description": "No effect whatsoever.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "surf",
+     "name": "Surf",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 75,
+     "alias": "sweet_kiss",
+     "name": "Sweet Kiss",
+     "description": "Confuses the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "thief",
+     "name": "Thief",
+     "description": "Steals target's item.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "wake-up_slap",
+     "name": "Wake-Up Slap",
+     "description": "Double Base Power if used on a sleeping foe.",
+     "pp": 10,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_gun",
+     "name": "Water Gun",
+     "description": "No additional effect.",
+     "pp": 25,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "water_sport",
+     "name": "Water Sport",
+     "description": "Fire-type attacks do 50% damage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "waterfall",
+     "name": "Waterfall",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 85,
+     "alias": "whirlpool",
+     "name": "Whirlpool",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "poliwag",
+     "name": "Poliwag"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "poliwhirl",
+       "name": "Poliwhirl"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "politoed",
+         "name": "Politoed"
+        },
+        "evos": []
+       },
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "poliwrath",
+         "name": "Poliwrath"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 75,
+     "height": 1.1,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Damp",
+       "alias": "damp",
+       "description": "Prevents the use of Self-Destruct or Explosion."
+      },
+      {
+       "gen": "xy",
+       "name": "Drizzle",
+       "alias": "drizzle",
+       "description": "Summons rain."
+      },
+      {
+       "gen": "xy",
+       "name": "Water Absorb",
+       "alias": "water_absorb",
+       "description": "Heals 25% HP when hit by a Water-type attack."
+      }
+     ],
+     "alias": "politoed",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "NU",
+       "alias": "nu",
+       "name": "Neverused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "water",
+       "name": "Water"
+      }
+     ],
+     "gkpower": 60,
+     "spdef": 100,
+     "hp": 90,
+     "spatk": 90,
+     "suffix": "",
+     "pdef": 75,
+     "weight": 33.9,
+     "spe": 70,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

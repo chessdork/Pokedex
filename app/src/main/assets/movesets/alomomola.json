@@ -1,0 +1,1434 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        },
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "wish",
+         "name": "Wish"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Rocky Helmet",
+       "alias": "rocky_helmet",
+       "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 156,
+       "patk": 0,
+       "hp": 104,
+       "spatk": 0,
+       "pdef": 248,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Scald is a reliable, yet pitifully weak STAB move that Alomomola can use to burn physical attackers such as Doublade, Escavalier, and Rhyperior and to hit common switch ins like Amoonguss that, while taking next to no damage from the move itself, don't like the residual damage. Knock Off can be used in its place to cripple Pokemon that usually carry boosting items, such as Druddigon and Emboar, and to break Meloetta's Substutute if it still has an item reducing its lifespan considerably . Wish is a must on this set, letting Alomomola heal itself as well as its teammates with relative ease. Protect is used to turn Wish into reliable recovery, as well as racking up Toxic damage, scouting Choice-locked opponents, and gaining residual recovery from Leftovers. Toxic is recommended in the last slot as it puts setup sweepers such as Meloetta and Gallade on a timer, as well as letting Alomomola have a much easier time winning stall wars.</p>\n<h4>Set Details</h4>\n<p>The EVs increase Alomomola's overall bulk, lets it reach a Leftovers number, and turns Grass Knot from Life Orb Delphox into a 3HKO. However, a spread of 252 HP / 252 Def / 4 SpD can be used to check offensive threats such as Choice Band Druddigon much better. Leftovers gives Alomomola residual recovery, which is useful when coupled with Wish and Protect. However, Rocky Helmet can be used to make Alomomola a much more solid switch in to physical attackers such as Emboar and Braviary, letting it wear them down easier, especially when coupled with a Scald burn or Toxic. Regenerator is used to recover HP when switching and passing off Wish recovery, letting it focus less on healing itself over the course of the match. A Bold nature is used to increase Alomomola's Defense, however, Impish should be used if running Knock Off.</p>\n<h4>Usage Tips</h4>\n<p>Alomomola should generally be used as a physical wall, while at the same time providing Wish support to other teammates that lack reliable recovery. It also should focus on wearing down the opponent with status. It should either be trying to burn or poison the opponent, depending on whether the opponent is physically or specially oriented. The great overall bulk of Alomomola in conjunction with Regenerator means that it can switch into a lot of attackers, scout their set, and can then switch out relatively unscathed. Note that Alomomola generally kills momentum, and as such, should not be used on mainly offensive teams; it fits better on balanced or stall teams.</p>\n<h4>Team Options</h4>\n<p>Pokemon that can take on Electric- and Grass-types are generally great teammates for Alomomola; such Pokemon include Amoonguss or Roselia, the former creating a nasty Regenerator core with Alomomola, while in return Alomomola can take on Fire- and Flying-types. The latter can use most common switch-ins to Alomomola as Spikes fodder. Pokemon such as Escavalier or Druddigon can also defeat the Pokemon that trouble Alomomola, while also providing offensive pressure due to their sheer power and good bulk. These Pokemon also appreciate Alomomola's Wish support, as they can get worn down quickly. Clerics such as Aromatisse generally go well with Alomomola to remove status with relative ease. Registeel, which forms a nice defensive core with Alomomola, counters a good portion of Grass- and Electric-types, barring Virizion, while letting Alomomola take on Fire-types trying to switch in and force Registeel out.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "wish",
+         "name": "Wish"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 24,
+       "patk": 0,
+       "hp": 232,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Wish is the main move of this set, allowing Alomomola to heal itself and its teammates to great effect. In fact, it can heal frail sweepers almost all the way to full health. It also helps with weakened walls and Pokemon that lack reliable recovery and still serve a defensive role such as Ampharos. Protect helps turn Wish into reliable recovery and can also be used to scout your opponent's moves or net an extra turn of Leftovers recovery. Scald is a reliable, albeit weak STAB move that keeps it from being Taunt bait and has a nifty 30% chance to burn the opponent which is always nice for a wall. Toxic is recommended in the last slot to win stall wars with opposing Pokemon such as Slowking, as well as putting opposing sweepers on a timer. Knock Off can be used in the last slot to remove your opponent's item while simultaneously dealing decent damage to the enemy, but Toxic is usually preferred.</p>\n<h4>Set Details</h4>\n<p>The EVs and nature are used to maximize Alomomola's physical bulk. The 232 EVs in HP provide a Leftovers number while minimizing Stealth Rock damage. Leftovers are always useful for a defensive Pokemon, allowing it to get a bit extra recovery and minimize residual damage. Regenerator is an amazing ability, recovering a third of Alomomola's health when it switches out, which it will be doing a lot when it passes Wishes. A Bold nature should be used over Relaxed unless you choose to run Knock Off over Toxic, because it helps minimize damage from Foul Play and confusion.</p>\n<h4>Usage Tips</h4>\n<p>Alomomola should mainly be used to pass enormous Wishes and to switch into physical attackers. It can easily switch into many physical Fire-types including Arcanine, Darmanitan and Entei. With a bit of prediction, it can come in on Victini, but it must be wary of Bolt Strike, as Alomomola is 2HKOed by Choice Band Victini's Bolt Strike making it hard for Alomomola to reliably check it. Scald should only be used for its burn chance and to keep Alomomola from being useless against Taunt users. Toxic should be used to stall out opponents and win stall wars with other Pokemon such as Slowking. Also, its ability to put sweepers on a timer can be the difference between winning and losing a battle. Keep in mind that when using Alomomola you can lose a lot of momentum and therefore is not suited for offensive teams, but functions well in stall and balanced teams.</p>\n<h4>Team Options</h4>\n<p>Bulky Grass-types make excellent partners for Alomomola as they resist both of its weaknesses. Amoonguss in particular has good HP and Special Defense as well as access to Regenerator, forming an effective defensive core between the two. Pokemon that can capitalize on Alomomola's massive Wishes also make good partners. Mega Ampharos has no recovery outside of Rest and covers Alomomola's weaknesses, making them good options to use together. Frail sweepers such as Mega Absol, Mega Houndoom, and Starmie also benefit greatly from Alomomola's massive wishes. Pokemon that can remove Grass-types make awesome teammates for Alomomola. Entei, Arcanine, Victini, Darmanitan, Honchkrow, and Crobat are all excellent examples of Pokemon who can fulfill this role.</p>\n"
+    }
+   ],
+   "alias": "alomomola",
+   "name": "Alomomola",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "alomomola"
+    },
+    {
+     "gen": "xy",
+     "alias": "alomomola"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "aqua_jet",
+     "name": "Aqua Jet",
+     "description": "The user always attacks first.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "aqua_ring",
+     "name": "Aqua Ring",
+     "description": "User recovers 1/16th of max HP each turn.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 70,
+     "alias": "blizzard",
+     "name": "Blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 85,
+     "alias": "bounce",
+     "name": "Bounce",
+     "description": "User is made invulnerable for one turn, then hits the next turn. 30% chance to paralyze.",
+     "pp": 5,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "brine",
+     "name": "Brine",
+     "description": "Base Power doubles if foe's HP is 50% or less.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "calm_mind",
+     "name": "Calm Mind",
+     "description": "Boosts Special Attack and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "dive",
+     "name": "Dive",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "double_slap",
+     "name": "Double Slap",
+     "description": "Hits 2-5 times in 1 turn.",
+     "pp": 10,
+     "power": 15
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "heal_pulse",
+     "name": "Heal Pulse",
+     "description": "Heals the target by 50% its max HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "healing_wish",
+     "name": "Healing Wish",
+     "description": "KOs the user and heals the next Pokemon in.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "helping_hand",
+     "name": "Helping Hand",
+     "description": "Increases power of ally's moves by 50%.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 80,
+     "alias": "hydro_pump",
+     "name": "Hydro Pump",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "knock_off",
+     "name": "Knock Off",
+     "description": "Power is boosted 1.5x if user is holding a removable item. Removes the target's item.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "magic_coat",
+     "name": "Magic Coat",
+     "description": "Bounces back certain non-damaging moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "mirror_coat",
+     "name": "Mirror Coat",
+     "description": "If hit by a special attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "mist",
+     "name": "Mist",
+     "description": "Prevents moves that lower stats from working for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "pain_split",
+     "name": "Pain Split",
+     "description": "Averages both Pokemon's HP.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "pound",
+     "name": "Pound",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "refresh",
+     "name": "Refresh",
+     "description": "Removes status.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "scald",
+     "name": "Scald",
+     "description": "30% chance to burn the target. Thaws the user.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "soak",
+     "name": "Soak",
+     "description": "Changes the target's type to Water.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "surf",
+     "name": "Surf",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tickle",
+     "name": "Tickle",
+     "description": "Lowers Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "wake-up_slap",
+     "name": "Wake-Up Slap",
+     "description": "Double Base Power if used on a sleeping foe.",
+     "pp": 10,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "water_sport",
+     "name": "Water Sport",
+     "description": "Fire-type attacks do 50% damage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "waterfall",
+     "name": "Waterfall",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "wide_guard",
+     "name": "Wide Guard",
+     "description": "Protects user and allies from multi-target attacks.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "wish",
+     "name": "Wish",
+     "description": "Heals 50% of max HP after 2 turns.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "alomomola",
+     "name": "Alomomola"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 75,
+     "height": 1.2,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Healer",
+       "alias": "healer",
+       "description": "30% chance to heal an adjacent teammate of a status condition every turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Hydration",
+       "alias": "hydration",
+       "description": "Heals status effects in rain."
+      },
+      {
+       "gen": "xy",
+       "name": "Regenerator",
+       "alias": "regenerator",
+       "description": "Wielder heals 1/3 of its maximum HP on switching out."
+      }
+     ],
+     "alias": "alomomola",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "water",
+       "name": "Water"
+      }
+     ],
+     "gkpower": 60,
+     "spdef": 45,
+     "hp": 165,
+     "spatk": 40,
+     "suffix": "",
+     "pdef": 80,
+     "weight": 31.6,
+     "spe": 65,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

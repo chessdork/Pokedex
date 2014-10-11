@@ -1,0 +1,1817 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_grass",
+         "name": "Hidden Power Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        },
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Choice Specs",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Specs",
+       "alias": "choice_specs",
+       "description": "Hold item which raises Special Attack by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>After slipping on a pair of Choice Specs, Omastar becomes one of rain's most menacing weapons. Omastar's Hydro Pump is not to be underestimated, as, with rain support, its power is enough to quickly overwhelm the likes of standard Ferrothorn&mdash;one of rain's biggest and most resilient annoyances. However, despite its high power, Hydro Pump's low PP and 80% accuracy isn't very reliable, so Omastar has to make use of its three other moveslots. Ice Beam hits defensive annoyances to rain teams, such as Latias and Dragonite, while Hidden Power Grass hits Gastrodon, which, despite its rarity and questionable use in OU, can be a resilient roadblock for most rain-based sweepers. The last moveslot is a toss-up between Scald and Surf. Scald is capable of OHKOing many offensive threats, such as Mega Pinsir, and comes with the handy chance of burning Omastar's checks, such as Assault Vest Azumarill. Surf, however, has enough power to reliably OHKO 4 HP / 0 SpD Mega Garchomp and Pokemon of similar defensive capability, so it also is an acceptable option. If Hidden Power's coverage is not needed, feel free to run all three STAB attacks.</p>\n<h4>Set Details</h4>\n<p>With a Modest nature, maximum Speed investment, and Swift Swim activated, Omastar can outspeed everything up to and including Adamant Choice Scarf Excadrill. Deviating from the recommended spread isn't ideal because Omastar can't afford to lose much Speed or power, not to mention that it already has the ability to take neutral physical attacks fairly well. Running a Timid nature could prove to be useful, as Omastar is then capable of outspeeding Jolly Choice Scarf Excadrill and +1 Jolly Gyarados, but the drop in power is significant (for example, Omastar will lose the 2HKO on physically defensive Ferrothorn), and it is not worth the extra Speed most of the time.</p>\n<h4>Usage Tips</h4>\n<p>I would honestly love to tell all of you reading this to \"use Hydro Pump a lot\" and end this section here, but Quality Control insists that this analysis needs to look professional.</p>\n<p>Aggression is the name of the game when Omastar is in play. Omastar's main purpose is pressuring offensive and defensive teams alike with its STAB Water-type moves, so don't waste time using coverage attacks unless it's absolutely necessary. Scald is very potent under rainy conditions, so if Hydro Pump's damage output isn't necessary, don't hesitate to go for the burn on potentially antagonistic switch-ins. Additionally, if you're running Hidden Power, try to conceal the identity of its type for as long as possible. Hidden Power is supposed to nab a surprise KO on an unsuspecting Pokemon, and any competent player will almost always scout out coverage moves before comfortably switching in their check to Omastar.</p>\n<p>As far as switching Omastar in is concerned, don't be afraid of taking 60% if it means that Omastar has a very good chance of breaking through something on the opposing team. As mentioned before, Omastar is also capable of checking Mega Pinsir and Talonflame under rain, but switching in raw is still very risky because of Earthquake and U-turn. Instead, try to bait out their Flying-type attacks with Omastar's offensive partners, or limit Omastar to revenge killing the aforementioned threats.</p>\n<h4>Team Options</h4>\n<p>Running Omastar without rain is like betting on a horse in a wheelchair, so Drizzle Politoed is a mandatory teammate. To relieve Politoed of some pressure, it's ideal (but not required) to pack a second rain inducer. Azelf is the best example of this, as it can lead, prevent opposing setup or hazards, lay Stealth Rock, and set up rain. It's advised to pack U-turn and / or Volt Switch support to give Omastar a comfy switch-in. Tornadus-T, Mega Manectric, Rotom-W, and Landorus-T are some good examples of Pokemon to fill this role.</p>\n<p>Not much can stand properly in the wake of Omastar's torrential might, so it's advised to bring Pokemon that appreciate defensive cores being broken down. Pokemon such as Agility Mega Ampharos, Life Orb Keldeo, mixed Thundurus-T with Knock Off, and Kingdra fit the bill quite well; the possibilities for offensive partners are plentiful, but be sure to keep in mind that some physically-based Pokemon, such as Gyarados and Azumarill, are complemented better by Kabutops. Scizor, once again, gets an individual mention for being able to weaken special walls with Pursuit and U-turn while also luring in the physically defensive Pokemon that Omastar has no trouble breaking through. Latias, Latios, and Zapdos cover Omastar's weaknesses pretty well, and possess a multitude of valuable support options. Lastly, Omastar greatly appreciates entry hazard support, which Pokemon such as Ferrothorn, Landorus-T, Focus Sash Mamoswine, and Azelf can reliably provide.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spikes",
+         "name": "Spikes"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        },
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "weak_armor",
+       "name": "Weak Armor"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Suicide Lead",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Focus Sash",
+       "alias": "focus_sash",
+       "description": "The holder always survives one attack. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Omastar boasts access to every single entry hazard except for Sticky Web, and this set looks to take advantage of this by setting up hazards quickly at the beginning of the match to support hyper offense teams. Thanks to Focus Sash, Omastar is almost always able to get Stealth Rock up unless it is hit by Bullet Seed or Taunted, but if Omastar has more free turns, it is also able to set up Spikes to put even more pressure on the opposing team; alternatively, Spikes can be replaced with Toxic Spikes to weaken certain defensive cores. To avoid becoming setup bait and to further take advantage of Omastar's stellar Special Attack stat, a STAB move is recommended. Scald is the preferred option for the burn chance; however, Hydro Pump offers more raw power in exchange for accuracy. Ice Beam provides decent coverage alongside Omastar's Water-type STAB moves and hits most Defog users hard.</p>\n<h4>Set Details</h4>\n<p>The EVs and nature allow Omastar to set up as many entry hazards as possible before fainting while still being able to deal heavy damage to Pokemon that try to remove its hazards. Focus Sash is the preferred item to ensure Omastar is able to set up at least one layer of hazards.</p>\n<h4>Usage Tips</h4>\n<p>This Omastar variant is best used as a lead to ensure Focus Sash is intact when it is sent into play, and if you are confident in your ability to keep its entry hazards on the field, this Omastar is best played as a suicide lead. However, if the opponent has a Rapid Spinner or Defogger and your team does not have a method to effectively block or discourage it, Omastar can instead be saved for later in the match, but this situation is not ideal and should be avoided in teambuilding.</p>\n<h4>Team Options</h4>\n<p>Omastar is best used on hyper offense teams, which tend not to mind having a member down at the start of the match as much. Hyper offensive teams greatly appreciate the entry hazards and are more able to maintain momentum to prevent the opponent from using Rapid Spin or Defog. To maintain the hazards, a Ghost-type such as Doublade, Mega Banette, or Mismagius helps to block Rapid Spin, while Braviary can discourage the use of Defog by taking advantage of it to gain a Defiant boost; however, most Defog users will be hard-pressed to use it when faced with Omastar's Ice Beam.</p>\n"
+    }
+   ],
+   "alias": "omastar",
+   "name": "Omastar",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "omastar"
+    },
+    {
+     "gen": "dp",
+     "alias": "omastar"
+    },
+    {
+     "gen": "gs",
+     "alias": "omastar"
+    },
+    {
+     "gen": "rb",
+     "alias": "omastar"
+    },
+    {
+     "gen": "rs",
+     "alias": "omastar"
+    },
+    {
+     "gen": "xy",
+     "alias": "omastar"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "ancient_power",
+     "name": "Ancient Power",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "aurora_beam",
+     "name": "Aurora Beam",
+     "description": "10% chance to lower Attack by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "bide",
+     "name": "Bide",
+     "description": "Charges for 2-3 turns; returns double the damage received in those turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "bind",
+     "name": "Bind",
+     "description": "Prevents the opponent from attacking for 2-5 turns.",
+     "pp": 20,
+     "power": 15
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "bite",
+     "name": "Bite",
+     "description": "10% chance to flinch.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 70,
+     "alias": "blizzard",
+     "name": "Blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "brine",
+     "name": "Brine",
+     "description": "Base Power doubles if foe's HP is 50% or less.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "bubble_beam",
+     "name": "Bubble Beam",
+     "description": "10% chance to lower Speed by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "constrict",
+     "name": "Constrict",
+     "description": "10% chance to lower Speed by 1 stage.",
+     "pp": 35,
+     "power": 10
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "dive",
+     "name": "Dive",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "gyro_ball",
+     "name": "Gyro Ball",
+     "description": "Does damage based on the foe's Speed and the user's Speed.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "haze",
+     "name": "Haze",
+     "description": "Eliminates all stat changes.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 80,
+     "alias": "hydro_pump",
+     "name": "Hydro Pump",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "iron_defense",
+     "name": "Iron Defense",
+     "description": "Boosts Defense by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "knock_off",
+     "name": "Knock Off",
+     "description": "Power is boosted 1.5x if user is holding a removable item. Removes the target's item.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "leer",
+     "name": "Leer",
+     "description": "Lowers target's Defense by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 95,
+     "alias": "mud_shot",
+     "name": "Mud Shot",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 85,
+     "alias": "muddy_water",
+     "name": "Muddy Water",
+     "description": "30% chance to lower accuracy by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "reflect_type",
+     "name": "Reflect Type",
+     "description": "User becomes the same type as the target.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_blast",
+     "name": "Rock Blast",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 10,
+     "power": 25
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "rock_climb",
+     "name": "Rock Climb",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "rock_polish",
+     "name": "Rock Polish",
+     "description": "Boosts Speed by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rollout",
+     "name": "Rollout",
+     "description": "Doubles in power with each hit. Repeats for 5 turns.",
+     "pp": 20,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "scald",
+     "name": "Scald",
+     "description": "30% chance to burn the target. Thaws the user.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "seismic_toss",
+     "name": "Seismic Toss",
+     "description": "Does damage equal to the user's level.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "shell_smash",
+     "name": "Shell Smash",
+     "description": "Boosts user's Attack, Special Attack, and Speed by 2 stages and lowers user's Defense and Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 75,
+     "alias": "slam",
+     "name": "Slam",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "smack_down",
+     "name": "Smack Down",
+     "description": "Can hit if target is using Fly, Bounce, or Sky Drop. Ends target's airborne moves and its benefits from Flying type or Levitate.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "spike_cannon",
+     "name": "Spike Cannon",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 15,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 0,
+     "alias": "spikes",
+     "name": "Spikes",
+     "description": "Causes damage to the enemy whenever they switch.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "stealth_rock",
+     "name": "Stealth Rock",
+     "description": "Damages foe's switch-ins.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 55,
+     "alias": "supersonic",
+     "name": "Supersonic",
+     "description": "Confuses the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "surf",
+     "name": "Surf",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "thief",
+     "name": "Thief",
+     "description": "Steals target's item.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tickle",
+     "name": "Tickle",
+     "description": "Lowers Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 0,
+     "alias": "toxic_spikes",
+     "name": "Toxic Spikes",
+     "description": "Poisons opponents as they switch switch in.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_gun",
+     "name": "Water Gun",
+     "description": "No additional effect.",
+     "pp": 25,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "waterfall",
+     "name": "Waterfall",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 85,
+     "alias": "whirlpool",
+     "name": "Whirlpool",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "withdraw",
+     "name": "Withdraw",
+     "description": "Boosts Defense by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "wring_out",
+     "name": "Wring Out",
+     "description": "Base power depends on the foe's remaining HP.",
+     "pp": 5,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "omanyte",
+     "name": "Omanyte"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "omastar",
+       "name": "Omastar"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 60,
+     "height": 1.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Shell Armor",
+       "alias": "shell_armor",
+       "description": "Prevents critical hits."
+      },
+      {
+       "gen": "xy",
+       "name": "Swift Swim",
+       "alias": "swift_swim",
+       "description": "Speed doubles in rain."
+      },
+      {
+       "gen": "xy",
+       "name": "Weak Armor",
+       "alias": "weak_armor",
+       "description": "Boosts Speed by 1 stage and lowers Defense by 1 stage when hit by a Physical move."
+      }
+     ],
+     "alias": "omastar",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "rock",
+       "name": "Rock"
+      },
+      {
+       "gen": "xy",
+       "alias": "water",
+       "name": "Water"
+      }
+     ],
+     "gkpower": 60,
+     "spdef": 70,
+     "hp": 70,
+     "spatk": 115,
+     "suffix": "",
+     "pdef": 125,
+     "weight": 35.0,
+     "spe": 55,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

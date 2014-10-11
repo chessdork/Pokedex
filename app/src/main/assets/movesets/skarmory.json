@@ -1,0 +1,2025 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        },
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        },
+        {
+         "gen": "xy",
+         "alias": "defog",
+         "name": "Defog"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sturdy",
+       "name": "Sturdy"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Rocky Helmet",
+       "alias": "rocky_helmet",
+       "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>The first slot goes to Roost, which provides Skarmory with reliable and instant recovery, and makes it near-impossible for any physical attacker to beat it one-on-one without the aid of boosting moves or super effective STAB moves. Whirlwind is primarily for when the opponent attempts to boost up; however, it also has great utility in letting Skarmory scout its switch-ins and rack up entry hazard damage by shuffling the opponent's Pokemon. Stealth Rock is a great option for the third slot; thanks to its great physical bulk and resilience, Skarmory finds no trouble setting Stealth Rock up at many points within a battle. Defog allows Skarmory to clear the field of entry hazards to make the battlefield more welcoming for hazard-susceptible teammates. However, Brave Bird is also a viable option over either Stealth Rock or Defog according to the team's needs, as it gives Skarmory a moderately strong STAB attack that threatens some of its frailer switch-ins, a way to pick off opponents weakened by its entry hazards, and something to prevent it from being Taunt bait. Spikes can be used in place of Stealth Rock should the team already have a reliable user of Stealth Rock, as Skarmory is an effective Spiker. However, because Spikes is counterproductive to the use of Defog and redundant with Stealth Rock, it should always be run alongside Brave Bird. Finally, Taunt can be run as a way to prevent opposing Pokemon from setting up alongside it, particularly defensive ones.</p>\n<h4>Set Details</h4>\n<p>This is Skarmory's standard set, as it lets Skarmory most effectively use its great Defense stat. Skarmory runs full HP and Defense EVs to maximize its physical bulk, its most valuable statistical trait. If taking advantage of Sturdy is absolutely necessary, a spread of 224 HP / 252 Def / 32 SpD can be used so Skarmory recovers exactly enough HP to reactivate Sturdy two turns after switching into Stealth Rock. However, this is not only extremely situational but also implies a waste of Skarmory's potential, as the only attacks that bring it down to Sturdy are powerful special attacks, which it should not be attempting to tank. An Impish nature should be used alongside Brave Bird; however, if this is not the case, a Bold nature should be used, as it lessens the damage taken from Foul Play and confusion. Because Skarmory is a defensive Pokemon, Leftovers is an ideal item, increasing its survivability alongside Roost. However, due to Skarmory's role as a physical wall, Rocky Helmet is also a great item, as it quickly wears down the physical attackers Skarmory switches into. Shed Shell is another possibility, allowing Skarmory to escape the clutches of Magnezone and Gothitelle, but this is extremely situational, albeit useful.</p>\n<h4>Usage Tips</h4>\n<p>Skarmory usually enters the battle as a counter to physical attackers such as Mega Pinsir, although it can come in on other defensive Pokemon such as Ferrothorn and Blissey. Roost should be used liberally, to restore Skarmory to full health, as this lets it avoid 2HKOs from some of the stronger attackers in the tier. As a general rule, when in doubt, use Whirlwind. Not only is it a great scouting move, but it also gets you out of unexpected situations, such as when facing Garchomp or Tyranitar sets that utilize Fire Blast. Defog should be used whenever entry hazards may threaten the other members of your team. Furthermore, Skarmory can follow up Defog with Stealth Rock, essentially keeping the battle in your favor in a short span of two turns. Although entry hazards are great to have set up as soon as possible, they should not be your number one priority, as Skarmory's longevity is usually far more important. Skarmory can't stay in on powerful special attackers such as Latios, so switch out to a teammate when possible to avoid taking major damage. Taunt and Brave Bird, with a bit of prediction, can be used to force out or wear down counters, respectively, when used on the switch. In particular, Brave Bird is usually a smart choice when the opponent possesses a Magic Bounce user, as they will all be hit for significant damage.</p>\n<h4>Team Options</h4>\n<p>Skarmory functions best either on fully defensive teams or as a part of a defensive core, as both provide defensive teammates that patch up its weak points. Blissey and Chansey work particularly well in tandem with Skarmory, as their respective defensive stats function well together against almost any attacker not using a mixed set. Although they need additional team support, specially defensive variants of Jellicent and Heatran also work well, as both can stop many of the Fire-type attackers that try to break through Skarmory. Teammates resistant or immune to Electric-type moves are appreciated as well. Celebi in particular stands out in this role, as it hard-counters Rotom-W, one of Skarmory's most common switch-ins. If Skarmory is being used on a team largely dependent on entry hazards, a spinblocker can be useful as well, although it will not stop users of Defog. If Skarmory is being used as part of a defensive core on a balanced team, offensive teammates that value the effect of entry hazards and the ability to easily fall back on a defensive wall when forced out will appreciate Skarmory's presence. Examples of such include Dragonite and Tyranitar.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        },
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        },
+        {
+         "gen": "xy",
+         "alias": "defog",
+         "name": "Defog"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sturdy",
+       "name": "Sturdy"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Rocky Helmet",
+       "alias": "rocky_helmet",
+       "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 240,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 16,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Roost lets Skarmory wall some of the weaker attackers in the tier and stay healthy to continue putting pressure on the opponent's team. Whirlwind lets Skarmory rack up further chip damage and scout the opponent's team, and despite this set's decreased capacity against popular boosting physical threats such as Gyarados, it can still stop a potential sweeper in its tracks. Stealth Rock is a great choice for specially defensive Skarmory, as its great defensive typing and decent mixed bulk let it set up Stealth Rock against a wide range of opponents. If either Stealth Rock or Defog is not necessary, Brave Bird gives Skarmory a way to inflict immediate damage on opposing Pokemon and prevents it from being Taunt bait. Teammates weak to hazards will most appreciate Defog; however, keep in mind that using it makes Skarmory's job of laying hazards harder as it will remove your hazards as well. Though not listed, Skarmory is a solid user of Spikes, usually possessing ample time to set up over the course of a match. However, carrying both Spikes and Defog is counterproductive, so Spikes should always be run alongside Brave Bird. Finally, Taunt is another option to prevent opposing defensive Pokemon from setting up alongside Skarmory.</p>\n<h4>Set Details</h4>\n<p>High Special Defense and HP investment allows Skarmory to patch up the weaker of its two defensive stats and become a better mixed wall, letting it switch into a wider variety of threats. Specifically, 240 Special Defense EVs let Skarmory avoid a 2HKO from Garchomp's uninvested Fire Blast after both Stealth Rock damage and Leftovers and nearly guarantee the same with Tyranitar's Fire Blast. The remaining 16 EVs are invested in Defense, as they offer a higher point return than investing in Special Defense. An Impish nature is chosen despite the Special Defense investment as it raises Skarmory's stats the most; note that if Brave Bird is not being used, a Bold nature is preferred instead to take less damage from confusion and Foul Play. Leftovers gives Skarmory the ability to passively regain health, lessening the number of times Roost must be used and allowing it more time to set up. However, Rocky Helmet is a great item for this Skarmory, letting it inflict further chip damage on physical attackers that attempt to break through it. Finally, Shed Shell is an option to let Skarmory escape from Magnezone and Gothitelle.</p>\n<h4>Usage Tips</h4>\n<p>Skarmory likes switching in on weaker attackers, such as defensive and support Pokemon, as they typically do not threaten it at all. Skarmory should also utilize its great defensive typing to find opportunities to switch in against Pokemon it walls, such as Mega Pinsir and Krookodile. Stealth Rock should be used when a free turn is obtained, especially if the opponent possesses no spinner or Defog user. However, remember to use Defog before Stealth Rock if necessary, as Defog will also remove the hazards you set. Whirlwind is also a great choice to use on a free turn, particularly if the opponent's Skarmory counter is weak to hazards, and should also be used liberally against well-known boosting threats such as Dragonite and Lucario to prevent any sort of setup. However, remember that Roost is the best choice should Skarmory risk getting low on health, as it can only continue to function as a wall if its HP is high. If a Magic Bounce user such as Espeon is on the opponent's team, it's often not a bad idea to go straight for Brave Bird, as both Espeon and Mega Absol will be lured in and take significant damage from a well-timed attack, although Xatu will be able to heal it off with Roost.</p>\n<h4>Team Options</h4>\n<p>This Skarmory set is much more standalone than physically defensive variants, sacrificing some of its walling potential for the ability to stand up against a wider array of threats. Therefore, this set is one of the most reliable Defog and Stealth Rock users. Teammates that appreciate the presence of hazards will enjoy having Skarmory as a teammate, particularly ones that force many switches, such as Kyurem-B. Teammates weak to entry hazards, such as Talonflame, appreciate Skarmory's Defog support. If hazards are absolutely necessary for the success of a team, a spinblocker can be used as a teammate to take pressure off Skarmory should the opponent have a spinner. However, keep in mind that only Rapid Spin, and not Defog, can be blocked. Finally, Skarmory will end up attracting many Fire- and Electric-type moves, which Pokemon such as Heatran, Thundurus-T, and Garchomp can use to gain a free switch-in with their respective immunities. Specially based moves in general will often be hurled at Skarmory, moves that Pokemon such as Goodra and Tyranitar love to sponge.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spikes",
+         "name": "Spikes"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sturdy",
+       "name": "Sturdy"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Spikes",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 172,
+       "spe": 84
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Spikes is the focal point of this set, taking advantage of Skarmory's exceptional Defense and resistances to reliably set up multiple layers of entry hazards. Whirlwind allows Skarmory to scout its switch-ins and easily rack up entry hazard damage; late-game, Skarmory can actually \"sweep\" weakened teams with Whirlwind and entry hazard damage, particularly if the greatest offensive threats to Skarmory have been removed. Roost allows Skarmory to stay healthy throughout a match, allowing it to continue walling common Pokemon such as Mega Pinsir while laying down Spikes or shuffling with Whirlwind. Finally, Taunt allows Skarmory to prevent opposing Pokemon from using Defog, permitting it to continue its Spikes-stacking. Taunt is also significant in that it prevents opposing Pokemon from using recovery moves, allowing Spikes to take them out. Brave Bird can be used to give Skarmory an attacking option, but Skarmory is hard-pressed to give up any of the previously mentioned moves for it.</p>\n<h4>Set Details</h4>\n<p>84 Speed EVs let Skarmory outspeed uninvested base 80s such as Mandibuzz, Togekiss, and Mega Venusaur, and use Taunt before they can use Defog or Synthesis/Leech Seed, respectively. 252 HP EVs patch up Skarmory's low HP stat. The rest is thrown into Defense, allowing Skarmory to set up against many of the popular physical attackers in OU. A Bold nature is ideal for lowering the damage from confusion and Foul Play; however, if Brave Bird is being used, an Impish nature should be chosen, as it won't decrease Brave Bird's power. Leftovers is the preferred item, allowing Skarmory more turns to set up and phaze instead of recovering with Roost. However, Rocky Helmet can be used to get even more chip damage on physical attackers, and Shed Shell can be used if Magnezone is of major concern.</p>\n<h4>Usage Tips</h4>\n<p>Skarmory can be sent out against either the physical attackers it walls, such as Mega Pinsir, or against other defensive Pokemon, such as Chansey, as Skarmory will almost always outspeed the latter and can use Taunt against them. From there, Skarmory can proceed to set up hazards, or if hazards are already present, use Whirlwind. Note that Whirlwind is sometimes the best choice even if full hazards have not been set up, as many potential switch-ins to Skarmory, such as Mega Charizard Y, will take substantial damage from Stealth Rock alone. Roost should be used whenever necessary to keep Skarmory healthy, as some of the stronger physical attackers in the tier, such as Conkeldurr with Guts activated, can catch Skarmory at somewhat low health and take it out. Finally, remember to use Taunt whenever defensive Pokemon such as Ferrothorn or Mandibuzz switch in, as moves such as Leech Seed and Defog can wear Skarmory down or nullify its effectiveness, respectively.</p>\n<h4>Team Options</h4>\n<p>Because this Skarmory does not carry Stealth Rock, a reliable Stealth Rock user is heavily recommended to increase the amount of damage done through phazing. Heatran is a great option, as it can easily take advantage of Skarmory's weakness to Fire-type moves, and can handle many Electric-type moves that may come Skarmory's way. Skarmory has a huge reliance on entry hazards, so a spinblocker can be useful. Trevenant is a great choice, as it matches up well against the most common spinner, Excadrill, and can force numerous switches of its own. Prankster Taunt users such as Thundurus and Sableye can be major hindrances to this set, so having a Pokemon that can deal with them, such as Clefable or Assault Vest Conkeldurr, is very beneficial. Finally, due to the shuffling effect of Whirlwind and the entry hazards that are set up, this variant of Skarmory tends to leave the opponent's team in a heavily weakened state. Therefore, setup sweepers such as Mega Charizard X and Mega Pinsir are recommended as teammates because they can easily sweep weakened teams.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "defog",
+         "name": "Defog"
+        },
+        {
+         "gen": "xy",
+         "alias": "spikes",
+         "name": "Spikes"
+        },
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        },
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sturdy",
+       "name": "Sturdy"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Standard",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Rocky Helmet",
+       "alias": "rocky_helmet",
+       "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact."
+      },
+      {
+       "gen": "xy",
+       "name": "Shed Shell",
+       "alias": "shed_shell",
+       "description": "Allows holder to switch out even when trapped."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>The first slot is reserved exclusively for Roost; reliable recovery is one of Skarmory's main niches over other Steel-types and is thus an absolute necessity. The next slots, however, are not as straightforward. Toxic is ideal if Skarmory chooses to run Defog in place of an entry hazard, so it can better pressure support Arceus (however, a specially defensive set, as explained below, is more ideal for this role). Taunt is best to pressure other hazard setters and Defog users on the switch-in if it should run hazards. Defog allows Skarmory to remove dangerous hazards such as Sticky Web and Toxic Spikes; Skarmory's immunity to both makes its job easier. Spikes is generally preferred to Stealth Rock due to this move's limited distribution in Ubers, but Stealth Rock is fine if it absolutely can not be fit anywhere else. The last slot is a toss-up. Whirlwind is key for phazing out Extreme Killer Arceus so it cannot attain too many boosts. However, Brave Bird has legitimate use for hitting Mega Mewtwo X (which otherwise Taunts and shuts Skarmory down), and is nice as a last-ditch way to take down Mega Blaziken. It also hits miscellaneous Pokemon like Scolipede and Amoonguss.</p>\n<h4>Set Details</h4>\n<p>Maximum HP and Defense allow Skarmory to better take attacks from the aforementioned physical attackers. However, the only relevant thing said investment helps with is Extreme Killer Arceus, which can 2HKO 252 HP / 0 Def Skarmory with Silk Scarf equipped at +4 Attack. If this is not a concern, Skarmory can run a spread of 252 HP / 252 SpD, which lets it beat Defog support Arceus in a one-on-one situation (this can be very useful in conjunction with an entry hazard such as Spikes). Bold is an option on Skarmory that do not run Brave Bird to reduce Foul Play damage. If it should carry that move, then just run an Impish nature. Regarding item choice, Shed Shell is ideal to escape Mega Gengar, which can otherwise eliminate Skarmory not running Brave Bird. Do note, however, that with 12 Atk EVs, Brave Bird will 2HKO standard Mega Gengar, meaning Skarmory can win if Mega Gengar switches in or chooses to Taunt it first. Rocky Helmet is also a good item to help with Mega Kangaskhan, Mega Mewtwo X, and Extreme Killer Arceus, as well as get chip damage on the random physical attackers that Skarmory loves to switch in on. Finally, Leftovers is an item that grants longevity to Skarmory, though it is not especially necessary for it.</p>\n<h4>Usage Tips</h4>\n<p>Perhaps the most important thing to remember when using Skarmory is that it is not a special wall by any means. Even neutral support Arceus' Judgment stands a good chance of 2HKOing it with just a little prior damage, so it must be played incredibly conservatively versus any special attacker with any power. However, what Skarmory loses in special bulk, it makes up for in massive physical bulk which rivals that of Groudon. It is often a great answer to bulky Ground-types such as Landorus-T, Groudon, and Hippowdon, easily Defogging, Taunting, or setting entry hazards versus them. No other Steel-type barring the uncommon Bronzong can accomplish this, and this is one of Skarmory's biggest niches over Mega Scizor.</p>\n<h4>Team Options</h4>\n<p>Due to its being forced out by some physical attackers and Zekrom unlike most Steel-types, Skarmory can be difficult to build around. It fits well alongside things that generally take special attacks, such as Assault Vest Palkia, but be sure to have an answer to the aforementioned Zekrom. A non-Steel-type Xerneas check is also borderline mandatory to avoid overlap, so Ho-Oh, specially defensive Roar Xerneas, and specially defensive Kyogre can all make good teammates. Hippowdon, Gliscor, and Landorus-T are all appreciated for taking on Zekrom, Ho-Oh, and Mega Blaziken to some extent. Arceus-Water, especially its Calm Mind variant, makes a good teammate due to its ability to beat Kyogre, Ho-Oh, Palkia and Mega Blaziken for Skarmory, while the latter can compensate for the lack of a support Arceus by providing Defog and checking opposing Swords Dance Arceus. Arceus-Electric is in a similar boat, but it trades the ability to easily take on Mega Blaziken for the ability to sponge Electric attacks for Skarmory and force out opposing Ho-Oh. Chople Berry Tyranitar is acceptable as a teammate, as it can Pursuit-trap Mega Gengar while Skarmory walls Hippowdon and Groudon,  assuming the latter lacks a Fire move. Skarmory itself is more suited to balance than hyper offense due to its lack of offensive presence and impressive synergy with the aforementioned Pokemon. However, it is ideal to pressure Defoggers with teammates, especially with Spikes Skarmory, so running it on an offensive team is not entirely out of the question.</p>\n"
+    }
+   ],
+   "alias": "skarmory",
+   "name": "Skarmory",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "skarmory"
+    },
+    {
+     "gen": "dp",
+     "alias": "skarmory"
+    },
+    {
+     "gen": "gs",
+     "alias": "skarmory"
+    },
+    {
+     "gen": "rs",
+     "alias": "skarmory"
+    },
+    {
+     "gen": "xy",
+     "alias": "skarmory"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "agility",
+     "name": "Agility",
+     "description": "Boosts Speed by 2 stages.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "air_cutter",
+     "name": "Air Cutter",
+     "description": "High critical hit rate.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "air_slash",
+     "name": "Air Slash",
+     "description": "High critical hit rate.",
+     "pp": 20,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "assurance",
+     "name": "Assurance",
+     "description": "Base Power doubles if the foe takes damage in the same turn, before the attack hits.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "autotomize",
+     "name": "Autotomize",
+     "description": "Boosts user's Speed by 2 stages. Reduces user's weight.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "brave_bird",
+     "name": "Brave Bird",
+     "description": "Has 1/3 recoil damage.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "curse",
+     "name": "Curse",
+     "description": "Does 1/4 of max HP damage per turn at the cost of half the user's max HP if the user is a Ghost. Boosts Attack and Defense and lowers Speed by 1 stage otherwise.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "dark_pulse",
+     "name": "Dark Pulse",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "defog",
+     "name": "Defog",
+     "description": "Lowers target's evasion by 1 stage. Removes various field effects.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "drill_peck",
+     "name": "Drill Peck",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "feint",
+     "name": "Feint",
+     "description": "Only works if the foe uses Detect or Protect; nullifies effects of those moves.",
+     "pp": 10,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "flash_cannon",
+     "name": "Flash Cannon",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "fly",
+     "name": "Fly",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "fury_attack",
+     "name": "Fury Attack",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 20,
+     "power": 15
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "guard_swap",
+     "name": "Guard Swap",
+     "description": "Swaps Defense and Special Defense boosts and drops.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "iron_defense",
+     "name": "Iron Defense",
+     "description": "Boosts Defense by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "leer",
+     "name": "Leer",
+     "description": "Lowers target's Defense by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 85,
+     "alias": "metal_sound",
+     "name": "Metal Sound",
+     "description": "Lower's Special Defense by 2 stages.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "night_slash",
+     "name": "Night Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "ominous_wind",
+     "name": "Ominous Wind",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "peck",
+     "name": "Peck",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "pluck",
+     "name": "Pluck",
+     "description": "Uses foe's Berry.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "pursuit",
+     "name": "Pursuit",
+     "description": "Doubles in power if the target switches, and hits them before they can escape.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "roost",
+     "name": "Roost",
+     "description": "Heals 50% HP. Temporarily removes the user's Flying-type.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "sand_attack",
+     "name": "Sand Attack",
+     "description": "Lowers foe's accuracy by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 90,
+     "alias": "sky_attack",
+     "name": "Sky Attack",
+     "description": "Hits the turn after being used.",
+     "pp": 5,
+     "power": 140
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "sky_drop",
+     "name": "Sky Drop",
+     "description": "Hits the turn after being used. The target cannot move while in the air.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "slash",
+     "name": "Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 0,
+     "alias": "spikes",
+     "name": "Spikes",
+     "description": "Causes damage to the enemy whenever they switch.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "stealth_rock",
+     "name": "Stealth Rock",
+     "description": "Damages foe's switch-ins.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 90,
+     "alias": "steel_wing",
+     "name": "Steel Wing",
+     "description": "10% chance to raise the user's Defense by 1 stage.",
+     "pp": 25,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "tailwind",
+     "name": "Tailwind",
+     "description": "Doubles Speed for 3 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "taunt",
+     "name": "Taunt",
+     "description": "Forces the foe to use damaging moves for 2 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "thief",
+     "name": "Thief",
+     "description": "Steals target's item.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "torment",
+     "name": "Torment",
+     "description": "Prevents the target from using the same move twice in a row.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "twister",
+     "name": "Twister",
+     "description": "20% chance to flinch.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "whirlwind",
+     "name": "Whirlwind",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "x-scissor",
+     "name": "X-Scissor",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "skarmory",
+     "name": "Skarmory"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 80,
+     "height": 1.7,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Keen Eye",
+       "alias": "keen_eye",
+       "description": "Pokemon's accuracy cannot be lowered. Opponent's evasion boosts are ignored. Decreases wild encounter rate."
+      },
+      {
+       "gen": "xy",
+       "name": "Sturdy",
+       "alias": "sturdy",
+       "description": "The weilder cannot be KO'd in one hit. OHKO moves will fail."
+      },
+      {
+       "gen": "xy",
+       "name": "Weak Armor",
+       "alias": "weak_armor",
+       "description": "Boosts Speed by 1 stage and lowers Defense by 1 stage when hit by a Physical move."
+      }
+     ],
+     "alias": "skarmory",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      },
+      {
+       "gen": "xy",
+       "alias": "steel",
+       "name": "Steel"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 70,
+     "hp": 65,
+     "spatk": 40,
+     "suffix": "",
+     "pdef": 140,
+     "weight": 50.5,
+     "spe": 70,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,202 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [],
+   "alias": "pumpkaboo-large",
+   "name": "Pumpkaboo-Large",
+   "genfamily": [
+    {
+     "gen": "xy",
+     "alias": "pumpkaboo-large"
+    }
+   ],
+   "moves": [],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "pumpkaboo-large",
+     "name": "Pumpkaboo-Large"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "gourgeist-large",
+       "name": "Gourgeist-Large"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 66,
+     "height": 0.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Frisk",
+       "alias": "frisk",
+       "description": "Reveals the foe's items."
+      },
+      {
+       "gen": "xy",
+       "name": "Insomnia",
+       "alias": "insomnia",
+       "description": "Prevents sleep."
+      },
+      {
+       "gen": "xy",
+       "name": "Pickup",
+       "alias": "pickup",
+       "description": "If the wielder has no held item, it gets the last item consumed at the end of the turn. Adds a chance of finding an item after each battle."
+      }
+     ],
+     "alias": "pumpkaboo-large",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "LC",
+       "alias": "lc",
+       "name": "Little Cup"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "ghost",
+       "name": "Ghost"
+      },
+      {
+       "gen": "xy",
+       "alias": "grass",
+       "name": "Grass"
+      }
+     ],
+     "gkpower": 20,
+     "spdef": 55,
+     "hp": 54,
+     "spatk": 44,
+     "suffix": "",
+     "pdef": 70,
+     "weight": 0.0,
+     "spe": 46,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2142 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sludge_bomb",
+         "name": "Sludge Bomb"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "synthesis",
+         "name": "Synthesis"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_fire",
+         "name": "Hidden Power Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "leech_seed",
+         "name": "Leech Seed"
+        },
+        {
+         "gen": "xy",
+         "alias": "sleep_powder",
+         "name": "Sleep Powder"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "chlorophyll",
+       "name": "Chlorophyll"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Venusaurite",
+       "alias": "venusaurite",
+       "description": "Mega-evolves Venusaur."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 240,
+       "spe": 16
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Giga Drain is Venusaur's main STAB move and helps in keeping it healthy, especially against powerful attackers such as Landorus-T. Sludge Bomb is a good secondary STAB move that is mainly used to hit Flying- and Dragon-types, and it also hits most Fairy-types super effectively. Sadly, Synthesis is Venusaur's only reliable recovery move other than Rest&mdash;its low PP and ineffectiveness in most weather conditions might present an issue, but it is necessary for healing alongside Giga Drain.</p>\n<p>Several moves are viable options in the last slot. Leech Seed offers yet another method of recovery in addition to a decent phazing tool, and it also grants Venusaur the ability to defeat Chansey and Blissey. Sleep Powder can incapacitate a counter, though unfortunately it will not work against Ferrothorn, Mandibuzz, or Escavalier. Hidden Power Fire hits Steel-types such as Scizor and Ferrothorn super effectively. Unlike Sludge Bomb, it's also capable of damaging Chesnaught. Knock Off is particularly useful against Latios and Gengar, but it also cripples Pokemon such as Chansey and Heatran via its added effect of removing items. Earthquake smashes the Steel-types that don't mind Hidden Power Fire, namely Heatran. Lastly, Roar is a much more reliable phazing tool than Leech Seed against setup sweepers and Substitute users.</p>\n<h4>Set Details</h4>\n<p>16 Speed EVs are used in order to outrun Adamant Azumarill, but 20 Speed EVs should be used with Hidden Power Fire to compensate for the imperfect Speed IV it requires. However, these EVs should be moved into Venusaur's defenses and a Relaxed nature should be used if Knock Off or Earthquake is chosen in the final slot. The rest of the EVs focus on making Venusaur as physically bulky as possible, but a specially defensive spread is also a viable option in order to let it deal with Pokemon such as Manaphy and Raikou more effectively. Chlorophyll is more useful than Overgrow prior to Mega Evolving, as it occasionally allows Venusaur to pick up a temporary Speed boost against teams that use Mega Charizard Y.</p>\n<h4>Usage Tips</h4>\n<p>Getting Venusaur in early so it can Mega Evolve is extremely valuable when attempting to switch it in later thanks to the addition of Thick Fat and the increase in its defensive stats. Also, try to make sure Venusaur's HP is high whenever it switches back out, as it needs to be healthy in order to safely switch in against powerful threats such as Choice Specs Keldeo. Synthesis can be used to scout the movesets of faster Pokemon, but be wary of those with access to setup moves. If you opt for a coverage move in the last slot, try to hide it until you're sure you can hit your intended target.</p>\n<h4>Team Options</h4>\n<p>Defensive Venusaur makes itself at home on teams utilizing any of several different playstyles, but particularly balance and stall. Therefore, it can be used with almost any Pokemon that synergizes well with it defensively. Heatran forms an outstanding defensive core with Venusaur, as it is capable of taking Flying- and Psychic-type attacks with ease. Rotom-W works similarly, serving as a counter to almost any user of Flying-type attacks.  Excadrill and Slowbro are good partners for Venusaur by virtue of their typing. Skarmory and Bisharp pair decently with Venusaur as well, as Venusaur can cover their major weaknesses and vice versa. On stall teams, Clefable and Quagsire are effective alongside Venusaur because of their ability to deal with the setup sweepers it struggles against.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sludge_bomb",
+         "name": "Sludge Bomb"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_fire",
+         "name": "Hidden Power Fire"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "synthesis",
+         "name": "Synthesis"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "chlorophyll",
+       "name": "Chlorophyll"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Offensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Venusaurite",
+       "alias": "venusaurite",
+       "description": "Mega-evolves Venusaur."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 232,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 20
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>With maximum Special Attack investment, Giga Drain deals a solid amount of damage while simultaneously restoring a good chunk of Venusaur's health. Sludge Bomb hits the Flying- and Dragon-types that often try to switch in on Giga Drain for a surprisingly large amount of damage, easily 2HKOing Mega Pinsir and even 2HKOing Latios and Kyurem-B after Stealth Rock. Hidden Power Fire provides coverage against Steel-types and Chesnaught and will 2HKO most of them, including Ferrothorn and Bisharp. Synthesis provides valuable healing and is generally reliable, as offensive Venusaur is capable of threatening every auto-inducer of rain, sand, or hail with the appropriate move.</p>\n<p>Four other moves are usable on this set. Earthquake is an option for Heatran, which is cleanly 2HKOed even if Venusaur uses a Modest nature. Like Hidden Power Fire, it also covers Bisharp. Knock Off is a decent option against Gengar, Latias, and Chansey, and allows Venusaur to be a massive annoyance to stall teams. Leaf Storm is usable over Giga Drain for its significantly greater power, but lessens the recovery Mega Venusaur gets overall, and prevents it from recovering effectively in the sand. Lastly, Leech Seed is another healing option that lets Venusaur deter setup or outlast foes with high HP, such as Chansey.</p>\n<h4>Set Details</h4>\n<p>Maximum Special Attack investment coupled with a Modest nature allows Venusaur's attacks to hit as hard as possible, while 20 Speed EVs allow Venusaur to outpace Adamant Azumarill, factoring in the required IVs for Hidden Power Fire. The remaining EVs are placed in HP to increase Venusaur's overall bulk, though 4 EVs are moved into Special Defense in order to minimize residual damage. An alternative EV spread of 160 HP / 252 SpA / 96 Spe is also an option if Venusaur needs to outspeed Jolly Azumarill. An alternative spread of 248 HP / 164 SpA / 96 Spe can be run if bulk is desired over power. Another option is 44 Speed EVs to outrun Suicune if Venusaur's team is particularly weak to it.</p>\n<p>If Knock Off is used, Venusaur's nature should be changed to Quiet and the Speed and Special Defense EVs should be moved into Attack. An IV spread that includes a 31 Attack IV should also be used; all of this gives Venusaur a 50% chance to OHKO 28 HP Gengar after Stealth Rock. Chlorophyll is the superior ability prior to Mega Evolving, as it can occasionally give Venusaur the ability to outspeed and KO a weakened Mega Charizard Y or take advantage of the sun it brings in general.</p>\n<h4>Usage Tips</h4>\n<p>It is imperative to get Venusaur in and let it Mega Evolve early, as it appreciates the added bulk and Thick Fat when switching in later. In addition, bear in mind that although Venusaur will end up being walled by something depending on what moves it runs, your opponent won't initially know what can actually wall Venusaur. For example, if you're using Earthquake, try not to reveal it until you're sure you can hit your opponent's Heatran. Finally, capitalize on the power of Sludge Bomb; Venusaur can actually take out its common checks such as Latios if it hits them with the move on the switch, and most of these Pokemon cannot OHKO Venusaur in return.</p>\n<h4>Team Options</h4>\n<p>This variant of Venusaur is particularly useful on bulky offensive teams. Heatran and Rotom-W both have excellent synergy with Venusaur and perform well under this playstyle, making them ideal teammates. Excadrill is another great example of this, capable of taking Flying- and Psychic-type attacks while Venusaur easily defeats the Water- and Fighting-types it has trouble with. Bisharp and Tyranitar are also good teammates for Venusaur, though the latter's Sand Stream will interfere with Venusaur's tanking capabilities. Many of these Pokemon can also set up Stealth Rock, which ensures crucial 2HKOs against Pokemon such as Kyurem-B.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sludge_bomb",
+         "name": "Sludge Bomb"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sleep_powder",
+         "name": "Sleep Powder"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "chlorophyll",
+       "name": "Chlorophyll"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Special Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 180,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 76
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<ul>\n<li>Sludge Bomb is Venusaur's most powerful STAB, and allows you to hit Fairy-type Pokemon For super effective damage.</li>\n<li>Giga Drain is the secondary STAB on the set, giving Venusaur recovery while attacking.</li>\n<li>Sleep Powder gives it a supporting option for it's teammates and allows it to abuse the lack of sleep clause</li>\n<li>Protect allows Venusaur to protect from super effective damage while teammates deal with the problem.</li>\n</ul>\n<h4>Set Details</h4>\n<ul>\n<li>The EV spread makes Venusaur to be the fastest Pokemon in the Metagame while sun is up, allowing it to outspeed the most common Choice Scarf users. It's also faster than common Pokemon like Heatran without sun.</li>\n<li>Thanks to Chlorophyll, Venusaur doesn't need many speed EVs to be fast, so you can invest in HP to be a very bulky attacker.</li>\n<li>Modest nature paired with Life Orb gives Venusaur the power to deal major damage.</li>\n</ul>\n<h4>Usage Tips</h4>\n<ul>\n<li>Pair Venusaur with Mega Charizard-Y, Sun should be up to ensure Venusaur's success.</li>\n<li>Not only does Venusaur apply a lot of pressure with its STABs, but access to sleep powder means it can put Pokemon to sleep at will. It can use this option to support teammates.</li>\n<li>Venusaur's Grass-typing also allows Venusaur to be immune to powder moves. Venusaur can bully Amoonguss and all other Grass-types in the tier by switching into them at will and threatening them with Sludge Bomb.</li>\n<li>Venusaur should be used in the early game to apply a lot of pressure on the opposing teams and potentially set up something for a teammate in the later game.</li>\n</ul>\n<h4>Team Options</h4>\n<ul>\n<li>Venusaur should always be used in tandem with Mega Charizard-Y.</li>\n<li>Heatran is also a good partner for Venusaur, as it has the ability to switch into all Fire-type attacks, and removes Steel-type Pokemon.</li>\n<li>Pokemon that use Sunny Day can set up sun for a potential sweep for Venusaur.</li>\n<li>Pokemon with a powerful Ground-type STAB like Landorus-T also remove Steel-type Pokemon that would potentially be a problem for Venusaur.</li>\n</ul>\n<h4>Other Options</h4>\n<ul>\n<li>Mega Venusaur can be used. It is very bulky and doesn't rely on sun to succeed.</li>\n<li>Earthquake and Growth are two interesting options for Venusaur to run. Earthquake allows it to hit Heatran for super effective damage, while Growth gives it a +2 stat boost in sun.</li>\n<li>Wide Lens could be used to raise the accuracy of Sleep Powder.</li>\n</ul>\n<h4>Checks and Counters</h4>\n<p><strong>Offensive Typing Advantage</strong>: </p>\n<p>Two of the most common Pokemon in the tier, Charizard-Y and Heatran, are both Fire-type and can use their powerful STAB to scare Venusaur.</p>\n<p><strong> Defensive Typing Advantage</strong>: </p>\n<p>Since Venusaur only runs its two STAB moves, it has no way to hit Steel-type for any damage other than Giga Drain. It can put them to sleep but nothing will happen other than that.</p>\n<p><strong> Speed Control</strong>: </p>\n<p>Pokemon like Thundurus and Cresselia aren't going to take much from Venusaur, and they will be able to slow it down with Thunder Wave and Icy Wind respectively, making Chlorophyll less of a factor in the battle.</p>\n<p><strong>Opposing Weather</strong>: </p>\n<p>Venusaur wants sun up at all times, as if the weather war is lost Venusaur's success will be hindered.</p>\n"
+    }
+   ],
+   "alias": "venusaur",
+   "name": "Venusaur",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "venusaur"
+    },
+    {
+     "gen": "dp",
+     "alias": "venusaur"
+    },
+    {
+     "gen": "gs",
+     "alias": "venusaur"
+    },
+    {
+     "gen": "rb",
+     "alias": "venusaur"
+    },
+    {
+     "gen": "rs",
+     "alias": "venusaur"
+    },
+    {
+     "gen": "xy",
+     "alias": "venusaur"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "amnesia",
+     "name": "Amnesia",
+     "description": "Boosts Special Defense by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "bind",
+     "name": "Bind",
+     "description": "Prevents the opponent from attacking for 2-5 turns.",
+     "pp": 20,
+     "power": 15
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "block",
+     "name": "Block",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "bullet_seed",
+     "name": "Bullet Seed",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 30,
+     "power": 25
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "charm",
+     "name": "Charm",
+     "description": "Lowers foe's Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "curse",
+     "name": "Curse",
+     "description": "Does 1/4 of max HP damage per turn at the cost of half the user's max HP if the user is a Ghost. Boosts Attack and Defense and lowers Speed by 1 stage otherwise.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "defense_curl",
+     "name": "Defense Curl",
+     "description": "Boosts Defense by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "energy_ball",
+     "name": "Energy Ball",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "false_swipe",
+     "name": "False Swipe",
+     "description": "Always leaves the foe with at least 1 HP.",
+     "pp": 40,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 90,
+     "alias": "frenzy_plant",
+     "name": "Frenzy Plant",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "giga_drain",
+     "name": "Giga Drain",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_pledge",
+     "name": "Grass Pledge",
+     "description": "Use with Grass Pledge and Water Pledge for additional effect.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 55,
+     "alias": "grass_whistle",
+     "name": "Grass Whistle",
+     "description": "Puts the foe to sleep.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "grassy_terrain",
+     "name": "Grassy Terrain",
+     "description": "For five turns, Pokemon on the ground restore 1/16 of their HP each turn. Their Grass-type moves are powered up by 50%.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "growl",
+     "name": "Growl",
+     "description": "Lowers target's Attack by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "growth",
+     "name": "Growth",
+     "description": "Boosts Attack and Special Attack by one stage. Boosts Attack and Special Attack by two stages in bright sunlight.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "ingrain",
+     "name": "Ingrain",
+     "description": "Heals the user 1/16 its max HP each turn. Prevents the user from switching.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "knock_off",
+     "name": "Knock Off",
+     "description": "Power is boosted 1.5x if user is holding a removable item. Removes the target's item.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 90,
+     "alias": "leaf_storm",
+     "name": "Leaf Storm",
+     "description": "Lowers user's Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 90,
+     "alias": "leech_seed",
+     "name": "Leech Seed",
+     "description": "Leeches 1/8 of the target's HP each turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "magical_leaf",
+     "name": "Magical Leaf",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "nature_power",
+     "name": "Nature Power",
+     "description": "Attack changes based on terrain.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "petal_blizzard",
+     "name": "Petal Blizzard",
+     "description": "Hits all adjacent Pokemon.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "petal_dance",
+     "name": "Petal Dance",
+     "description": "Repeats for 2-3 turns. Confuses the user at the end.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 75,
+     "alias": "poison_powder",
+     "name": "Poison Powder",
+     "description": "Poisons the target.",
+     "pp": 35,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 85,
+     "alias": "power_whip",
+     "name": "Power Whip",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 95,
+     "alias": "razor_leaf",
+     "name": "Razor Leaf",
+     "description": "Has a high critical hit rate.",
+     "pp": 25,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "rock_climb",
+     "name": "Rock Climb",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "seed_bomb",
+     "name": "Seed Bomb",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "skull_bash",
+     "name": "Skull Bash",
+     "description": "Charges up turn one; attacks turn two. Boosts Defense by 1 stage.",
+     "pp": 15,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 75,
+     "alias": "sleep_powder",
+     "name": "Sleep Powder",
+     "description": "Puts the target to sleep.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge",
+     "name": "Sludge",
+     "description": "30% chance to poison.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge_bomb",
+     "name": "Sludge Bomb",
+     "description": "30% chance to poison.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "string_shot",
+     "name": "String Shot",
+     "description": "Lowers foe's Speed 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "sweet_scent",
+     "name": "Sweet Scent",
+     "description": "Lowers evasion by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "synthesis",
+     "name": "Synthesis",
+     "description": "Heals variably depending on the weather.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "take_down",
+     "name": "Take Down",
+     "description": "Has 1/4 recoil.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "venoshock",
+     "name": "Venoshock",
+     "description": "Hits poisoned targets with double Base Power.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "vine_whip",
+     "name": "Vine Whip",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 45
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "weather_ball",
+     "name": "Weather Ball",
+     "description": "Doubles in power and changes type if there is weather.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "worry_seed",
+     "name": "Worry Seed",
+     "description": "Changes the foe's ability to Insomnia.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "bulbasaur",
+     "name": "Bulbasaur"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "ivysaur",
+       "name": "Ivysaur"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "venusaur",
+         "name": "Venusaur"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 82,
+     "height": 2.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Chlorophyll",
+       "alias": "chlorophyll",
+       "description": "Speed doubles in sun."
+      },
+      {
+       "gen": "xy",
+       "name": "Overgrow",
+       "alias": "overgrow",
+       "description": "Raises the power of Grass-type moves by 50% when at 1/3 HP or less."
+      }
+     ],
+     "alias": "venusaur",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "grass",
+       "name": "Grass"
+      },
+      {
+       "gen": "xy",
+       "alias": "poison",
+       "name": "Poison"
+      }
+     ],
+     "gkpower": 100,
+     "spdef": 100,
+     "hp": 80,
+     "spatk": 100,
+     "suffix": "",
+     "pdef": 83,
+     "weight": 100.0,
+     "spe": 80,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    },
+    {
+     "patk": 100,
+     "height": 2.4,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Thick Fat",
+       "alias": "thick_fat",
+       "description": "Halves Ice- and Fire-type damage."
+      }
+     ],
+     "alias": "venusaur-mega",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "grass",
+       "name": "Grass"
+      },
+      {
+       "gen": "xy",
+       "alias": "poison",
+       "name": "Poison"
+      }
+     ],
+     "gkpower": 100,
+     "spdef": 120,
+     "hp": 80,
+     "spatk": 122,
+     "suffix": "Mega",
+     "pdef": 123,
+     "weight": 155.5,
+     "spe": 80,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

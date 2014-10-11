@@ -1,0 +1,2535 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "rough_skin",
+       "name": "Rough Skin"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 4,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Outrage is Garchomp's most powerful move with a Choice Scarf, but it should be used sparingly until the opponent's Steel- and Fairy-types are down or only when the extra power is mandatory. Earthquake is its secondary STAB, which hits Pokemon such as Heatran and Azumarill that are not felled by Garchomp's Dragon-type moves. Rock Slide and Stone Edge can be chosen interchangeably for revenge killing certain threats such as Volcarona and Charizard. Rock Slide has a nifty flinch chance and higher accuracy, but Stone Edge has greater power and nets a guaranteed 2HKO on Togekiss. Fire Blast is Garchomp's main option in the final move slot, roasting the likes of Ferrothorn and Skarmory, which can both shrug off Garchomp's other attacks. Alternatively, Dragon Claw can be used as a means of giving Garchomp a Dragon-type STAB without getting locked into Outrage. Similarly, Dual Chop may also be used in order to break through Substitutes when revenge killing.</p>\n<h4>Set Details</h4>\n<p>Employing a Choice Scarf, this particular set aims to maximize Garchomp's revenge killing capabilities by boosting its Speed. It also gives Garchomp the ability to act as a late-game cleaner after its main checks and counters have been disposed of. A Naive nature is used to boost Garchomp's Speed stat to the highest degree, allowing it to outpace as many Pokemon as possible, such as +1 Timid Volcarona. Alternatively, a Naughty nature can be used at the expense of outspeeding Pokemon such as +1 Mega Charizard X in exchange for extra power. If Fire Blast isn't used, then a Jolly or Adamant nature should be used instead. The EVs are all pumped into Garchomp's Attack and Speed stats for the obvious reasons of maximizing its power and Speed.</p>\n<h4>Usage Tips</h4>\n<p>Choice Scarf Garchomp acts primarily as a revenge killer and cleaner in order to take full advantage of its great Speed. Because of this, it is best to preserve Garchomp as a safety net for boosted threats and not use it recklessly. This also means that Garchomp shines in the end game, a point by which most Pokemon have already been weakened if not fainted. Because this set lacks the power possessed by its Swords Dance set, it should not be used to bash down walls or attack bulky foes that are not already weakened. Instead, it should enter the fray on free switches to finish off Pokemon.</p>\n<p>Owing to its effect, Outrage is best used when the opponent has no Steel- or Fairy-type Pokemon so as not to give the opponent free setup opportunities. Likewise, Outrage should only be used when the power is essential to cleaning up, meaning that it will be used in the end game most of the time. Fire Blast should mainly be for hitting the formerly mentioned defensive Steel-types in order to give teammates, as well as Garchomp itself, an easier time of KOing them at a later point.</p>\n<h4>Team Options</h4>\n<p>Magnezone and Thundurus both have excellent synergy with Garchomp. The former resists all of Garchomp's weaknesses while simultaneously being able to trap opposing Steel-types to give Garchomp more liberal use of Outrage. Thundurus can take out opposing Dragon-types that threaten Garchomp with an assortment of moves including Thunder Wave, Hidden Power, and Focus Blast. Dugtrio can also be used in a similar manner to Magnezone, getting rid of any remaining Steel-type Pokemon so that Garchomp can use its Dragon-type STAB without having to worry about the potential consequences of being locked into it.</p>\n<p>Due to the lower damage output of Choice Scarf Garchomp compared to its other sets, it can be a good idea to run other powerful Dragon-types alongside it. Examples of Pokemon that can fit this role include Kyurem-B and Latios, which can weaken or remove Garchomp's checks and counters. Overall, Choice Scarf Garchomp works best as a glue for offensive and balanced teams, functioning as a good fail-safe and providing support in a variety of ways.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "draco_meteor",
+         "name": "Draco Meteor"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "rough_skin",
+       "name": "Rough Skin"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Mixed",
+     "natures": [
+      {
+       "spdef": 0.9,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Garchompite",
+       "alias": "garchompite",
+       "description": "Mega-evolves Garchomp."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 4,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Mixed Garchomp takes a special role in being able to hit hard both physically and specially, meaning that few walls will be able to withstand its onslaught. Earthquake is Garchomp's main STAB attack and is boosted by Sand Force when Mega Garchomp is used under sand. Draco Meteor is a secondary STAB option to hit common switch-ins, such as Landorus-T and Hippowdon, on their weaker defensive stat so that they can be finished off later. Fire Blast also takes advantage of Mega Garchomp's mixed capabilities, hitting Pokemon such as Skarmory and Ferrothorn for impressive damage. Lastly, Stone Edge completes Mega Garchomp's coverage, allowing it to hit Pokemon such as Togekiss and Rotom-W. Stone Edge also gains a power boost from Sand Force.</p>\n<h4>Set Details</h4>\n<p>While it may seem foolish not to run investment in Garchomp's Attack stat, the given EV spread is used so that Garchomp can still threaten Pokemon with its Speed prior to Mega Evolution. This includes Pokemon such as Bisharp, Mega Charizard X, and Kyurem-B, which would otherwise outpace it. The rest of the EVs are pumped into Garchomp's Special Attack in order to make its Draco Meteor and Fire Blast hit as hard as possible. A Naughty nature extends this power, while lowering its less useful defensive stat. Garchompite is an obvious item choice as it allows Garchomp to Mega Evolve, granting it massive raw power.</p>\n<h4>Usage Tips</h4>\n<p>Mixed Garchomp shines at one role above all else: breaking down defensive cores. With astonishingly high offensive stats, few defensive Pokemon can safely switch into its attacks. Because of its role as a wallbreaker, it is best used in the early- to mid-game in order to lure in and weaken Pokemon such as Skarmory and Landorus-T. It is important to know that it is not always necessary to Mega Evolve Garchomp instantly because prior to Mega Evolution, Garchomp outspeeds certain threats (such as Kyurem-B) that it otherwise cannot after it has Mega Evolved.</p>\n<p>Moreover, it should be noted that complete sweeps are not the goal of this Garchomp set; it simply intends to dismantle defensive cores so that other teammates can come in to clean-up fractured teams. In a similar vein, Mixed Garchomp should not attempt to stay in for prolonged periods of time due to its lowered Speed and vulnerability to revenge killing. For this reason, hit-and-run tactics generally prove to be far more effective.</p>\n<h4>Team Options</h4>\n<p>Sand support is highly recommended for this set due to the fact that a lot of Mega Garchomp's power derives from Sand Force. As a result, Tyranitar is an excellent teammate&mdash;especially when equipped with a Smooth Rock. By the same token, Hippowdon can also do this, albeit having a somewhat conflicting typing with Garchomp. Sand Rush Excadrill can also work alongside this, cleaning up with the Speed boost provided by sand and ably removing hazards from the field with Rapid Spin.</p>\n<p>Choice Band Azumarill is another effective teammate, as it can exploit Mega Garchomp's wallbreaking capabilities to clean up with Aqua Jet. Other sweepers that appreciate having their checks and counters worn down by Garchomp are also prime candidates. For instance, Swords Dance Talonflame enjoys being able to use Brave Bird without the presence of Rotom-W, making mixed Garchomp a valuable teammate. Suicune also fits under this category, valuing the removal of Pokemon such as Blissey and Ferrothorn from the game.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        },
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "rough_skin",
+       "name": "Rough Skin"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Offensive Stealth Rock",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Focus Sash",
+       "alias": "focus_sash",
+       "description": "The holder always survives one attack. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Lum Berry",
+       "alias": "lum_berry",
+       "description": "Cures status. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Rocky Helmet",
+       "alias": "rocky_helmet",
+       "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 4,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set takes advantage of Garchomp's handy ability to force switches by incorporating Stealth Rock. A staple of almost every single team, Stealth Rock provides invaluable support, and Garchomp is one of the few good offensive Pokemon to learn it. Earthquake and Outrage act as Garchomp's two main STAB attacks, while Outrage rounds off the coverage, hitting the Flying-types and Levitate users that are immune to Earthquake. Dragon Claw can potentially replace Outrage if getting locked into it is undesirable, but lacks the power that Outrage boasts. Fire Blast is an excellent choice for hitting the likes of Ferrothorn and Skarmory for a lot more damage, opening holes for setup sweepers later in the game and halting opposing entry hazard setters. Alternatively, Swords Dance can be used to make Garchomp an immediate threat to the opposing team and grants it a role outside of setting Stealth Rock.</p>\n<h4>Set Details</h4>\n<p>The EVs are fairly straightforward, prioritizing Garchomp's Speed so it can be as fast as possible, with the rest placed in Attack to escalate the power of Earthquake and Outrage. Garchomp's main item choice is a Focus Sash, which ensures that it can get Stealth Rock up and survive otherwise deadly attacks. Alternatively, a Rocky Helmet works well in conjunction with Rough Skin to punish opponents that make contact with Garchomp, such as Scizor and Tyranitar. Finally, a Lum Berry or Life Orb are also options. The former can be used to give Garchomp a one-time cure against status, while the latter adds extra power to Garchomp's attacks if the other item choices aren't wanted. In particular, a Lum Berry heals a single burn from Pokemon such as Rotom-W, or a self-induced confusion from Outrage. In the case that one opts to run Swords Dance over Fire Blast, a Jolly nature is preferred as Garchomp would no longer require any Special Attack.</p>\n<h4>Usage Tips</h4>\n<p>Unlike the some of the other sets, this particular Garchomp is best used early-game in order to get Stealth Rock on the field as soon as possible. As such, it is very common for this set to be used as a lead, but it doesn't necessarily need to be. Garchomp should ideally set up Stealth Rock on Pokemon that can't immediately threaten it or will generally switch out, such as Heatran and Excadrill. Doing so allows Garchomp to make use of the free turns it gains from prompting said switches. This Garchomp set is more efficient at weakening opposing Pokemon early in the game rather than attempting a complete sweep. For instance, it can use Fire Blast to weaken Skarmory or massively dent Gliscor with a +2 Outrage, allowing other sweepers to come in late-game and clean up the remains.</p>\n<h4>Team Options</h4>\n<p>Pokemon that appreciate the presence of Stealth Rock are generally good partners. Examples of this include Talonflame and Mega Pinsir, two Pokemon that can take advantage of Stealth Rock to secure KOs and sweep weakened teams. These Pokemon also appreciate Garchomp's ability to fracture defensive Pokemon such as Skarmory or Hippowdon, depending on the final move chosen. In a similar vein, powerful wallbreakers such as Kyurem-B and Mega Charizard Y pair well with Garchomp to dismantle defensive Pokemon. Garchomp also resists Rock-type moves, which both of these Pokemon are weak too.</p>\n<p>In order to keep Stealth Rock up, having a Ghost-type teammate to block Rapid Spin can be a great idea. Gengar fills this role capably. Bisharp is also another team option to consider, as it can exploit the evasion drop from Defog being used to remove Garchomp's Stealth Rock in order to trigger an Attack boost through Defiant.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "rough_skin",
+       "name": "Rough Skin"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Physical Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      },
+      {
+       "gen": "xy",
+       "name": "Rocky Helmet",
+       "alias": "rocky_helmet",
+       "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Garchomp's high Attack and Speed stats, along with its excellent typing, enable it to run a very efficient physical attacking set. Earthquake is Garchomp's main STAB move due to its high Base Power, spread effect, and all around great coverage. Dragon Claw is Garchomp's secondary STAB move and finds its utility in defeating bulky Dragon-types such as Salamence and Zygarde, as well as having decent Base Power and not hitting Garchomp's partner. However, if Dragon Claw's low Base Power is unappealing, Substitute can be used in its place to protect Garchomp from Will-O-Wisp and Intimidate, giving Garchomp a better chance to beat Pokemon such as Hitmontop and Rotom-W. Garchomp's excellent bulk and typing make it relatively easy for it to set up multiple Substitutes. Rock Slide and Stone Edge are primarily used to hit Flying-types for super effective damage. Rock Slide is preferred for its spread effect, though Stone Edge may be more useful in certain scenarios due to its higher Base Power, as well as its ability to go through Wide Guard. Both moves also receive perfect coverage with Earthquake. Finally, Protect is used because it allows Garchomp to scout for super effective coverage attacks, Will-O-Wisp, and Fake Out.</p>\n<h4>Set Details</h4>\n<p>Rough Skin is chosen as the main ability, as it is a more reliable ability than Sand Veil and deters physical attackers from using contact moves. The item of choice depends on your personal preferences. Life Orb allows Garchomp to hit as hard as possible and makes up for the mediocre Base Power of Dragon Claw and Rock Slide. Rocky Helmet, on the other hand, works well in conjunction with Rough Skin and makes Garchomp a decent check to priority users and Pokemon carrying contact moves, most notably Mega Kangaskhan. Leftovers is an option if using Substitute, increasing the amount of times Garchomp can make Substitutes.</p>\n<p>Garchomp has several options that can be considered on this set. An Adamant nature can be used to further increase Garchomp's power, but it is inferior to a Jolly nature, as the latter allows Garchomp to outspeed Mega Kangaskhan and Mega Charizard Y. A Lum Berry can also be used to protect Garchomp from status moves, though it is rather redundant with Substitute. Finally, Garchomp can use Fire Blast to defeat Pokemon such as Bronzong and Skarmory.</p>\n<h4>Usage Tips</h4>\n<p>Due to Garchomp's high Speed and powerful attacks, it is advised that it be used mid- to late-game, once Pokemon with Intimidate or Will-O-Wisp are eliminated. Garchomp can be used early game too, as Garchomp's spread attacks and Rough Skin ability weaken threats such as Mega Kangaskhan and Tyranitar, making it easier for other Pokemon to clean up the foe's team later in the match.</p>\n<p>Garchomp's decent defensive typing also allows it to switch into moves from Pokemon such as Mega Charizard Y's Fire Blast, Heatran's Heat Wave, and Tyranitar's Rock Slide. Due to the threat of Earthquake and Rock Slide, Garchomp can force these threats out and receive a free turn to either use its powerful coverage moves or set up a Substitute. Garchomp's vulnerability to Will-O-Wisp makes it a wise idea to switch out from a Will-O-Wisp user that it cannot OHKO or immediately use Substitute if the Will-O-Wisp user is slower. If Garchomp has not set up a Substitute, Pokemon with Intimidate, such as Hitmontop and Landorus-T, will give Garchomp trouble and should be removed before attempting to clean up the foe's team.</p>\n<h4>Team Options</h4>\n<p>Steel-types such as Scizor, Genesect, Bisharp, and Aegislash are excellent partners, as all four have nearly perfect defensive synergy with Garchomp, can defeat the Fairy-, Dragon-, and Ice-types that give Garchomp trouble, and are able to defeat Cresselia with their secondary STAB moves. Bisharp stands out as a partner, as it deters Pokemon with the Intimidate ability from switching in with its own ability, Defiant. In return, Garchomp is able to defeat the Fire-type Pokemon that give these Steel-types trouble. However, it should be noted that all of these Pokemon take large amounts of damage from Garchomp's Earthquake. Garchomp also appreciates any form of speed control, as it allows Garchomp to outspeed and OHKO threats such as Latios, Latias, and Terrakion, as well as threaten the opposing team even more with its powerful spread attacks. Good partners that can provide Garchomp with speed control include Togekiss, Zapdos, Cresselia, and Thundurus, as many of these Pokemon are immune to Garchomp's Earthquake. Flying-types and Pokemon with the ability Levitate are great partners in general, as they are immune to Garchomp's Earthquake, allowing Garchomp to freely use the move without any drawbacks. Mega Charizard Y is another excellent partner, as it can deal a massive amount of damage to Rotom-W with Solar Beam, defeat Pokemon with the ability Intimidate, such as Non-Choice Scarf Landorus-T and Hitmontop, is immune to Earthquake, allowing Garchomp to freely use the move without repercussion, and can even provide speed control with Tailwind. Venusaur is also a good partner, as it can defeat bulky Water- and Fairy-types with Giga Drain and Sludge Bomb, respectively.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "draco_meteor",
+         "name": "Draco Meteor"
+        },
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "rough_skin",
+       "name": "Rough Skin"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Sand Sweeper",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Garchompite",
+       "alias": "garchompite",
+       "description": "Mega-evolves Garchomp."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 4,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Mega Garchomp's increased attacking stats and ability, Sand Force, allow it to take advantage of Sandstorm more efficiently than regular Garchomp and surprise some of its checks and counters. Earthquake remains as Garchomp's main STAB move thanks to its excellent coverage, spread effect, and power, while also receiving a potential power boost from Sandstorm. Draco Meteor takes the role as Garchomp's secondary STAB attack, as it deals a massive amount of damage to several of Garchomp's usual counters such as Landorus-T, Hitmontop, and Rotom-W, is unaffected by Will-O-Wisp, and still hits Dragon-types for super effective damage. However, if you would rather have Garchomp clean up the foe's team later in the the game, Swords Dance is the recommended option over Draco Meteor to bolster Garchomp's attack power. Stone Edge and Rock Slide are both used to defeat Flying-types immune to Garchomp's STAB Earthquake. Stone Edge is the recommended choice if using Draco Meteor, as the combination of a -1 Stone Edge and Draco Meteor is able to KO Landorus-T. Rock Slide, on the other hand, is the better choice if using Swords Dance, as its spread effect is more useful than Stone Edge's greater power in this scenario. Finally, Protect is used in the fourth slot, as it allows Garchomp to scout for super effective coverage attacks, status moves, and Fake Out.</p>\n<h4>Set Details</h4>\n<p>Garchompite is the only viable item on this set, as it allows Garchomp to run special attacks such as Draco Meteor and take advantage of Sandstorm more efficiently. Fire Blast can be used on this set, as it hits Bronzong and bulky Grass-types such as Trevenant for super effective damage, but it has little use beyond this. An Adamant or Naughty nature can be used if speed control is provided. However, the ability to outspeed threats such as Jolly Landorus-T, Mega Kangaskhan, and Mega Charizard Y if Garchomp has not Mega-Evolved is rarely worth passing up for a small amount of extra power.</p>\n<h4>Usage Tips</h4>\n<p>Swords Dance variations of Mega Garchomp are better used late-game to clean up the foe's team with its high-powered spread attacks. Draco Meteor variations of Garchomp are better used early-game to lure and defeat its common checks such as Landorus-T and Rotom-W, making it easier for Pokemon such as Swords Dance Scizor and Choice Scarf Tyranitar to clean up the foe's team later in the match. Although this set does better against Will-O-Wisp users, Garchomp should still switch out in such a matchup, as Garchomp does not like taking residual damage and having its main STAB move weakened.</p>\n<p>It should be noted that Garchomp does not have to Mega Evolve immediately, as regular Garchomp's higher Speed is more useful than Mega Garchomp's increased power against some specific threats such as Salamence, Mega Kangaskhan, and Mega Charizard Y.</p>\n<h4>Team Options</h4>\n<p>Tyranitar is a mandatory partner for this set, as the Sandstorm it provides bolsters Mega Garchomp's power to incredible levels due to Mega Garchomp's ability, Sand Force. Tyranitar can also defeat Flying-types such as Togekiss with Rock Slide and can put Cresselia in a checkmate position with Crunch. In return, Garchomp is able to defeat Steel-types that genuinely give Tyranitar trouble, such as Bisharp, non-Wide Guard Aegislash, and Heatran. Garchomp also enjoys any form of speed control, even more so than the previous set due to Mega Garchomp's lowered Speed stat. Good partners that can provide Garchomp with speed control include Cresselia, Togekiss, Zapdos, and Jirachi. Steel-types such as Genesect, Scizor, and Bisharp are also great partners, as they have nearly flawless defensive synergy with Garchomp, can defeat Cresselia with their secondary STAB moves, and are able to defeat Ice-, Dragon-, and Fairy-types that Garchomp dislikes facing. Flying-types and Pokemon with the ability Levitate are also good partners, as they allow Garchomp to use Earthquake without any repercussion.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        },
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_fang",
+         "name": "Fire Fang"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "rough_skin",
+       "name": "Rough Skin"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Swords Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      },
+      {
+       "gen": "xy",
+       "name": "Lum Berry",
+       "alias": "lum_berry",
+       "description": "Cures status. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 4,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Swords Dance allows Garchomp to augment its Attack stat, providing it with the necessary power to sweep teams after it sets up. Earthquake is its main STAB move and its primary attack; the Ground-type coverage complements its secondary Dragon-type attack, hitting the Fairy- and Steel-types that can ignore Outrage. Outrage has greater power than Earthquake and hits Pokemon immune and resistant to Earthquake, such as Rotom-W and Landorus-T. However, it comes with the disadvantage of locking Garchomp into the move for two to three turns. If getting locked into the move is not preferred, Dragon Claw is an equally viable alternative. Garchomp's final moveslot is dedicated to choosing what Pokemon can counter it; if Stone Edge is chosen, Garchomp misses out on Skarmory, Bronzong, and Ferrothorn. Conversely, if you opt to use Fire Fang, Garchomp can no longer defeat Togekiss with ease. Apart from the moves listed, Substitute can potentially be used to shield Garchomp from status and provide safety from faster threats at the cost of losing out on a coverage move.</p>\n<h4>Set Details</h4>\n<p>The EV spread is quite clear-cut, maximizing Speed and Attack in order to boost Garchomp's sweeping potential. A Jolly nature is chosen so not to be outsped by the assortment of Pokemon sitting just below Garchomp's Speed tier, such as Kyurem-B and Charizard. Lum Berry gives Garchomp a way to shield against status or cure the confusion induced by Outrage. Alternatively, a Life Orb adds a bit of oomph to Garchomp's attacks, securing extra KOs. Outside of the items listed, a Yache Berry can be used to weaken revenge killing attempts from the likes of Keldeo and Thundurus. One could also opt to use Garchomp's Mega Stone, Garchompite, if the ability to run through defensive teams more easily is desired. Finally, if you choose to use Substitute on the set, Leftovers is also a viable option.</p>\n<h4>Usage Tips</h4>\n<p>Swords Dance Garchomp is best saved for mid- to late-game when most of its main checks and counters have already been significantly weakened or fainted. This means that you should generally try to deal with Pokemon such as Skarmory and Bronzong before you try to set up Swords Dance so that Garchomp's sweeping attempt doesn't instantly fail. Because Garchomp can force switches quite easily, Swords Dance is best used on a predicted switch or when the Pokemon it is facing can do little to prevent a sweep. Examples of Pokemon that Garchomp can attempt to set up on include Chansey, Excadrill, and some variants of Tyranitar. Keep in mind that setting up a Swords Dance is a lot easier when Garchomp has a Lum Berry, as it gives it the ability to use Swords Dance on Pokemon such as Rotom-W, which would otherwise burn it. Lastly, Outrage should only be used in situations where the opponent cannot reliably halt Garchomp's onslaught. In other words, do not use Outrage when your opponent still has a Fairy-type or healthy Steel-type remaining.</p>\n<h4>Team Options</h4>\n<p>Thundurus makes for an excellent partner to Swords Dance Garchomp. Not only can it deal with Skarmory, one of Garchomp's best counters, it also has access to Prankster Thunder Wave. With this support, Garchomp no longer fears faster revenge killers, such as Latios and Keldeo.</p>\n<p>Heatran has great offensive and defensive synergy with Garchomp as well. It resists Ice-, Fairy-, and Dragon-type attacks, while also being able to handle Skarmory and Ferrothorn with its Fire-type attacks. Additionally, Heatran can also set up Stealth Rock to help Garchomp pull off a sweep and can switch into any Talonflame that attempts to revenge kill Garchomp.</p>\n<p>Smooth Rock Tyranitar is a near obligatory partner for this set if you opt to use Garchompite due to Mega Garchomp's Sand Force ability activating in the weather condition provided. Alternatively, Hippowdon could fill this role, but doubling up on Ground-types usually isn't the best idea.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "rough_skin",
+       "name": "Rough Skin"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Tank",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Rocky Helmet",
+       "alias": "rocky_helmet",
+       "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This Garchomp set takes a new approach to its role, and while Earthquake still makes an appearance on the set, Garchomp's offensive abilities take a more backseat approach to its unique ability to work as a defensive Pokemon. Earthquake allows Garchomp to still finish off opponents and acts as a basic form of damage output. It is especially useful against Steel-type Pokemon, which are immune to Toxic and often don't mind Dragon Tail. Garchomp's second attack, Dragon Tail, is used to phaze opponents and help rack up damage from entry hazards. This means that most Pokemon cannot easily set up when facing Garchomp. Stealth Rock is a near-mandatory move on every team, and Garchomp can exploit the switches it causes to set it up with relative ease. Toxic gives Garchomp another way to hurt opponents by applying status and is an excellent move for dealing with Pokemon such as Rotom-W and Hippowdon. Fire Blast can also be used in this slot in order to hit Ferrothorn and Skarmory for extra damage.</p>\n<p>In terms of alternative move choices, Garchomp can potentially run a combination of Rest and Sleep Talk in the third and fourth moveslots in order to compensate for the lack of reliable recovery. However, this deprives Garchomp of Stealth Rock and Toxic for support that can be provided by teammates. If the team already has a Stealth Rock user outside of Garchomp, then the third slot can be dedicated to Fire Blast for extra coverage. Stone Edge is also a decent move on the set which can be used to OHKO Charizard-Y, Talonflame, and Mega Pinsir. Lastly, if one decides to use Leftovers, Protect can be used to recover HP while scouting attacks.</p>\n<h4>Set Details</h4>\n<p>The main idea behind tank Garchomp is to impede physical attackers by whittling down their health with the combination of Rough Skin and Rocky Helmet, which causes opponents that make contact to lose almost 30% of their total HP. The EV spread and nature provide maximum physical bulk, allowing Garchomp to take as many physical blows as possible. While an Impish nature is usually favorable, a Lax or Relaxed nature can also be used if Fire Blast is preferred over a support move.</p>\n<p>Leftovers is an alternative item which grants Garchomp a means of passive recovery without relying on team support, but sacrifices its utility of extra passive damage. An EV spread of 252 HP / 196 Def / 60 Spe is also viable with a Jolly nature so that Garchomp can outspeed and OHKO Adamant Lucario and maximum Speed Heatran with Earthquake.</p>\n<h4>Usage Tips</h4>\n<p>Garchomp's offensive presence takes a backseat role in this set's success, with its new use being to punish the wide array of physical attackers in the tier. As such, bringing Garchomp in on attacks such as Scizor's U-turn and Mega Pinsir's Quick Attack is generally a good idea. With a Rocky Helmet and Rough Skin, passive damage can rack up fairly quickly. Keep in mind, however, that despite the defensive investment, Garchomp is by no means a wall and should not be used to combat setup sweepers, merely to punish lighter physical attackers. Garchomp also lacks any form of recovery outside of Rest, so it doesn't want to be switching in on attacks such as Choice Band Terrakion's Close Combat.</p>\n<p>The Tank set can be brought out at virtually any point of a game, depending on when the opponent decides to use their physical attackers. However, that being said, getting up Stealth Rock as soon as possible is generally a good idea, as it allows your team to rack up passive damage more quickly. If you choose to run Protect on this set, it should be used to scout Choice-locked moves and gain extra Leftovers recovery.</p>\n<h4>Team Options</h4>\n<p>Chansey stands out as being one of the best teammates for this Garchomp set. It can not only pass Wishes to compensate for Garchomp's lack of recovery, but it also has the benefit of luring in many physical attackers, which Garchomp can punish with its brutal combination of Rough Skin and Rocky Helmet. Moreover, Chansey can handle almost all special attackers that threaten Garchomp, such as Latios, Manaphy, and Sylveon.</p>\n<p>Defensive Heatran resists all of Garchomp's weaknesses and can cover the special attackers that Garchomp fears as well. Heatran can also use Stealth Rock and Roar to synergize with Garchomp's access to Dragon Tail. Pokemon that are weak to U-turn greatly appreciate having Garchomp as a teammate to discourage the use of the same. Examples of these include Latias and Tyranitar.</p>\n"
+    }
+   ],
+   "alias": "garchomp",
+   "name": "Garchomp",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "garchomp"
+    },
+    {
+     "gen": "dp",
+     "alias": "garchomp"
+    },
+    {
+     "gen": "xy",
+     "alias": "garchomp"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 90,
+     "alias": "aqua_tail",
+     "name": "Aqua Tail",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "crunch",
+     "name": "Crunch",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "draco_meteor",
+     "name": "Draco Meteor",
+     "description": "Lowers user's Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_breath",
+     "name": "Dragon Breath",
+     "description": "30% chance to paralyze.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_claw",
+     "name": "Dragon Claw",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_pulse",
+     "name": "Dragon Pulse",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_rage",
+     "name": "Dragon Rage",
+     "description": "Always does 40 HP damage.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 75,
+     "alias": "dragon_rush",
+     "name": "Dragon Rush",
+     "description": "20% chance to flinch.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "dragon_tail",
+     "name": "Dragon Tail",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "dual_chop",
+     "name": "Dual Chop",
+     "description": "Hits 2 times in one turn.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "false_swipe",
+     "name": "False Swipe",
+     "description": "Always leaves the foe with at least 1 HP.",
+     "pp": 40,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 95,
+     "alias": "fire_fang",
+     "name": "Fire Fang",
+     "description": "10% chance to flinch. 10% chance to burn.",
+     "pp": 15,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "hone_claws",
+     "name": "Hone Claws",
+     "description": "Boosts Attack and accuracy one stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 75,
+     "alias": "iron_tail",
+     "name": "Iron Tail",
+     "description": "30% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 95,
+     "alias": "metal_claw",
+     "name": "Metal Claw",
+     "description": "10% chance to boost Attack by 1 stage.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 95,
+     "alias": "mud_shot",
+     "name": "Mud Shot",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "poison_jab",
+     "name": "Poison Jab",
+     "description": "30% chance to poison.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "rock_climb",
+     "name": "Rock Climb",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "sand_attack",
+     "name": "Sand Attack",
+     "description": "Lowers foe's accuracy by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 85,
+     "alias": "sand_tomb",
+     "name": "Sand Tomb",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "scary_face",
+     "name": "Scary Face",
+     "description": "Lowers Speed by 2 stages.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_claw",
+     "name": "Shadow Claw",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "slash",
+     "name": "Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "stealth_rock",
+     "name": "Stealth Rock",
+     "description": "Damages foe's switch-ins.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "surf",
+     "name": "Surf",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "take_down",
+     "name": "Take Down",
+     "description": "Has 1/4 recoil.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "thrash",
+     "name": "Thrash",
+     "description": "Repeats for 2-3 turns. Confuses the user.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "twister",
+     "name": "Twister",
+     "description": "20% chance to flinch.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 85,
+     "alias": "whirlpool",
+     "name": "Whirlpool",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "gible",
+     "name": "Gible"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "gabite",
+       "name": "Gabite"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "garchomp",
+         "name": "Garchomp"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 130,
+     "height": 1.9,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Rough Skin",
+       "alias": "rough_skin",
+       "description": "Deals 1/8 recoil damage when the opponent makes contact."
+      },
+      {
+       "gen": "xy",
+       "name": "Sand Veil",
+       "alias": "sand_veil",
+       "description": "Evasion increases by 20% in a sandstorm."
+      }
+     ],
+     "alias": "garchomp",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "dragon",
+       "name": "Dragon"
+      },
+      {
+       "gen": "xy",
+       "alias": "ground",
+       "name": "Ground"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 85,
+     "hp": 108,
+     "spatk": 80,
+     "suffix": "",
+     "pdef": 95,
+     "weight": 95.0,
+     "spe": 102,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    },
+    {
+     "patk": 170,
+     "height": 1.9,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Sand Force",
+       "alias": "sand_force",
+       "description": "Increases power of Ground-, Rock-, and Steel-type attacks by 30% in a sandstorm."
+      }
+     ],
+     "alias": "garchomp-mega",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "dragon",
+       "name": "Dragon"
+      },
+      {
+       "gen": "xy",
+       "alias": "ground",
+       "name": "Ground"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 95,
+     "hp": 108,
+     "spatk": 120,
+     "suffix": "Mega",
+     "pdef": 115,
+     "weight": 95.0,
+     "spe": 92,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

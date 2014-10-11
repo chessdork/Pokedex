@@ -1,0 +1,2587 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        },
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fake_out",
+         "name": "Fake Out"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "rain_dish",
+       "name": "Rain Dish"
+      },
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Assault Vest",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Assault Vest",
+       "alias": "assault_vest",
+       "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 164,
+       "spatk": 68,
+       "pdef": 140,
+       "spe": 132
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Due to this set's more defensive nature, Scald is preferred over Hydro Pump for its perfect accuracy and chance to burn your opponent. That said, if you want more power, Hydro Pump is still an option, as the extra power is noticeable; for instance, Hydro Pump has a good chance to 2HKO Tyranitar in sand, something Scald fails to do. Giga Drain complements this set, acting as an inconsistent form of recovery. It also allows Ludicolo to threaten Rotom-W, along with other Water-types. With Ice Beam, Ludicolo is able to threaten the common Dragon-types in the metagame and potentially break through the bulky Grass-types that would otherwise stop it in its tracks. The fourth moveslot is reserved for Fake Out, which gives a partner Pokemon a free turn and generally eases prediction for you.</p>\n<h4>Set Details</h4>\n<p>This set uses the Assault Vest to boost Ludicolo's Special Defense with very little investment, allowing it to invest far more in Defense. With the EVs listed, Ludicolo can survive a maximum Attack Play Rough from Mega Mawile, which is one of the strongest neutral physical hits in the game. On top of that, a Jolly nature Garchomp will never 2HKO with Dragon Claw and has a decent chance to be OHKOed by Ice Beam. With the Assault Vest, Ludicolo is never 2HKOed by Modest Salamence's Draco Meteor, not considering the Special Attack drop. Rain Dish gives Ludicolo recovery equal to Leftovers each turn in rain, improving its overall longevity. With the Speed EVs, Ludicolo can outspeed the most defensive Rotom-W and threaten them directly with Giga Drain. Ludicolo will hit 214 Speed in rain thanks to Swift Swim, allowing it to outspeed most other Pokemon.</p>\n<h4>Usage Tips</h4>\n<p>Although Assault Vest and Ludicolo's good bulk can make it difficult to take down and help it take on many Pokemon, it lacks Protect. Because of this, Pokemon that can deal with it must be taken care of before Ludicolo can come in safely. If, however, you feel confident enough, Ludicolo can function as a decent lead with Fake Out. This set is far less dependent on rain and can function well outside of it. It is worth noting that Ludicolo is far harder to take down inside of rain as it gets recovery from not only Giga Drain but also Rain Dish.</p>\n<h4>Team Options</h4>\n<p>Ludicolo appreciates Pokemon that can take on Talonflame, such as Rotom-W. If you aren't running rain as this set isn't completely dependent on it, Rotom-H can make an excellent partner with its ability to beat the bulky Grass-types that Ludicolo has problems with. Politoed is always appreciated, as it brings the rain, which lets Ludicolo function at its fullest by either giving it recovery each turn or doubling its Speed, whilst always boosting the power of Scald or Hydro Pump. Garchomp takes on opposing weather setters and generally has good offensive synergy with Ludicolo, as Earthquake hits Ludicolo for little damage, especially when considering the latter's recovery. Aegislash takes on Mega Kangaskhan and Mega Mawile, which would otherwise cause problems for Ludicolo, even with the investment.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rain_dance",
+         "name": "Rain Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "NU",
+       "alias": "nu",
+       "name": "Neverused"
+      }
+     ],
+     "name": "Rain Dance Sweeper",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hydro Pump is Ludicolo's main STAB attack that hits very hard when backed by STAB, Life Orb, and rain. Giga Drain is another good STAB move that can recover HP and make up for the Life Orb recoil. It also hits Pokemon that rain teams can struggle with, such as Seismitoad. Ice Beam is good coverage against Grass-types such as Vileplume, while also hitting Dragon-types such as Dragalge and Altaria for super effective damage. Rain Dance is important for activating Ludicolo's ability and powering up Hydro Pump. It can also assist other Pokemon, such as Kabutops, in sweeping. Scald can be used over Hydro Pump for better accuracy and more consistency, though it is noticeably weaker.</p>\n<h4>Set Details</h4>\n<p>The EV spread maximizes Ludicolo's Special Attack and Speed, making it hit as hard and as fast as possible. Life Orb helps to boost Ludicolo's damage output while also allowing it to switch moves. Damp Rock can be used if you want more rain turns, though Ludicolo becomes much weaker. Swift Swim doubles Ludicolo's Speed in rain, allowing it to outspeed Pokemon it normally wouldn't and hit them with a powerful attack. A Modest nature allows Ludicolo to 2HKO Lickilicky and Assault Vest Hariyama in rain after Stealth Rock, as well as 2HKO specially defensive Dragalge after a bit of prior damage. A Timid nature, however, can be used to outspeed Choice Scarf users such as Typhlosion and Pyroar under rain.</p>\n<h4>Usage Tips</h4>\n<p>On rain teams, Ludicolo acts as a main rain sweeper and a backup Rain Dance setter. As a stand alone sweeper, it's better to use Ludicolo as a mid- or late-game sweeper once entry hazards have been set and the opponent's team is weakened. It can also be used early-game to remove a counter for another Pokemon. Overall, however, Ludicolo is a very simple Pokemon: just set up Rain Dance and then use the appropriate move depending on the situation.</p>\n<h4>Team Options</h4>\n<p>Good Rain Dance setters such as Liepard, Volbeat, and Meowstic-M pair well with Ludicolo to support its sweep. Uxie can set up rain as well as Stealth Rock, and it can use U-turn or Memento to safely bring in Ludicolo or another Swift Swim sweeper. Spikes setters such as Accelgor and Qwilfish can lay down Spikes to aid Ludicolo's sweep. Spikes can allow Ludicolo to 2HKO Pokemon such as Lickilicky, Hariyama, and Dragalge, making setters very helpful. Good Swift Swim sweepers that make for good teammates include Life Orb Seismitoad, Swords Dance Kabutops, and Shell Smash Carracosta, the last of which has Solid Rock to ease its setup and Aqua Jet as a form of priority. Lastly, Electivire is a solid teammate to break certain walls such as Ferroseed and Vileplume, which could otherwise stop Ludicolo from sweeping.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        },
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rain_dance",
+         "name": "Rain Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Rain Dance Sweeper",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 4,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hydro Pump is a STAB move that is capable of dishing out incredible damage in the rain. Surf is a more reliable alternative that won't suffer an untimely miss, though there is a significant drop in damage output. Giga Drain is a secondary STAB choice that allows Ludicolo to restore health (useful in conjunction with Life Orb) and overcome bulky Water-type opponents. Ice Beam preys on the Grass-types and Dragon-types that resist Ludicolo's STAB attacks. Rain Dance is in the last slot for setting up rain once it has run out; Ludicolo can also use it for the initial rain setup, though it would prefer an ally to do this.</p>\n<h4>Set Details</h4>\n<p>Special Attack and Speed are maxed out so that Ludicolo will hit as hard and as fast as possible. A Modest nature bolsters Ludicolo's damage output further and Ludicolo's Speed is already very high in the rain. However, with a Timid nature, Ludicolo outspeeds Choice Scarf variants of Mienshao, Jirachi, and Hydreigon. A Life Orb is the item of choice for this set; it provides Ludicolo with a much-appreciated boost to its damage output, and Giga Drain serves to somewhat mitigate Life Orb's recoil damage.</p>\n<h4>Usage Tips</h4>\n<p>Preferably, bring Ludicolo in once an ally has already set up rain for it; this way, Ludicolo does not have to spend a turn doing so, and a dedicated rain support ally's rain will last for 8 turns thanks to Damp Rock. Try and make sure that Ludicolo's checks and counters have been taken care of before trying to sweep with it. Ideally, dispose of entry hazards (here's looking at you, Sticky Web) before attempting to sweep with Ludicolo.</p>\n<h4>Team Options</h4>\n<p>Having an ally that can provide fast rain support with a Damp Rock such as Azelf is strongly advised. Ludicolo likes entry hazard support; this ensures that its opponents have their Focus Sash / Sturdy broken upon entering the field, and also means that Ludicolo should have an easier time netting KOs. Donphan makes for a good teammate, as it can provide the aforementioned hazards and has good type synergy with Ludicolo. Entry hazards serve to wear Ludicolo down quickly and in Sticky Web's case, hinder its attempts to sweep. Thus, Rapid Spin / Defog support is very appreciated. The aforementioned Donphan can use Rapid Spin to dispose of entry hazards that would otherwise hinder Ludicolo's longevity or its Speed. A physical wallbreaker such as Darmanitan will prove useful for getting past the special walls that Ludicolo despises. Cleric support is a possibility to cure Ludicolo of any debilitating status, especially paralysis.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        },
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Rain Sweeper",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hydro Pump is a monstrous move when the rain is active, as it scores many OHKOs and 2HKOs on Pokemon that do not resist it, such as Bisharp, Thundurus and Conkeldurr, easing prediction. However, if you fear the accuracy of the move, you can run Surf, although the power drop is noticable. Giga Drain is the Grass-type STAB of choice for Ludicolo as it hits with decent power, covering the Water-types that like to come in and sponge Ludicolo's hits while also providing healing. Ice Beam is there to hit the Grass- and Dragon-types that resist both of Ludicolo's STAB moves. Finally, Focus Blast is an attractive option for hitting Ferrothorn and Abomasnow, the latter of which can clear your rain. However, Ludicolo should only be using this on a predicted switch-in as these two Pokemon are only 2HKOd by Focus Blast and can both maim Ludicolo back with Knock Off and Blizzard, respectively. If you prefer the ability to set up rain with Ludicolo itself predicting a forced switch, you can run Rain Dance. This also has merit for gaining momentum against opposing weather-changer switch-ins. However, this does leave Ludicolo completely walled by the aformentioned Ferrothorn and Abomasnow despite the momentum gained against the latter; as such, it isn't recommended.</p>\n<h4>Set Details</h4>\n<p>The given EVs are simple: maximize Ludicolo's Speed while providing as much punch as possible. Life Orb is used to aid Ludicolo in this respect as it can boost its power to terrifying levels in the case of Hydro Pump and usable levels for its other moves. A Modest nature has been chosen in order to boost Ludicolo's power further, as Ludicolo will mostly be attacking under rain as it is. Swift Swim is used so that Ludicolo actually has some sweeping capabilities, as its Speed stat is otherwise middling.</p>\n<h4>Usage Tips</h4>\n<p>Due to the weather nerf this generation, Ludicolo now has a limited number of turns in which to use rain, so play Ludicolo with precision (i.e., land all of your predictions: Ludicolo doesn't have enough time to using a resisted move). However, you will find that Ludicolo will still be using Hydro Pump most of the time anyway due to its raw power when under rain. Make sure that the rain is always up when you bring Ludicolo in; if it means sacrificing your Politoed to get the rain up, so be it. Refresh the rain as much as possible; also make sure that you remove anything that can prevent Ludicolo from successfully sweeping, such as Talonflame and Ferrothorn.</p>\n<h4>Team Options</h4>\n<p>Politoed, most notably the Damp Rock variant, is an amazing partner for Ludicolo for obvious reasons. Kingdra and Ludicolo share the same set of checks and counters offensively, giving you a backup plan when one of them faints and letting one soften walls for the other to break. Additionally, Ludicolo gets past bulky Water-types for Kingdra, making it easier for Kingdra to sweep when Ludicolo cannot. Rotom-W is capable of dealing with Talonflame effectively, making it a valuable asset on any team that features Ludicolo. Rapid Spin and Defog users, most notably Tentacruel for its ability to absorb Toxic Spikes and Latios due to its nicely buffed-up Surf and Thunder, are able to deal with Sticky Web and Toxic Spikes, both of which plague Ludicolo due to the fact that they limit its sweeping capabilities and wear it down quickly, respectively. Anything with Heal Bell or Aromatherapy to get rid of status on Ludicolo, such as Chansey, Blissey, or Clefable, is an excellent teammate. Finally, Thundurus provides a reliable stop to both Ferrothorn and Talonflame, most notably the former as Ludicolo is immune to Leech Seed and Thundurus is immune to Thunder Wave. Thundurus also has great synergy with Ludicolo with its nicely buffed Thunder.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fake_out",
+         "name": "Fake Out"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        },
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Special Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Assault Vest",
+       "alias": "assault_vest",
+       "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves."
+      },
+      {
+       "gen": "xy",
+       "name": "Lum Berry",
+       "alias": "lum_berry",
+       "description": "Cures status. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 104,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 152
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set is by far the most effective one to use on Ludicolo. Fake Out can disrupt strategies by rendering an opposing Pokemon immobile for a turn, potentially allowing a partner to KO them. Hydro Pump is the main STAB attack and is great due to its neutral coverage, high power, and the fact that it gets a 50% boost from rain. Giga Drain is an accurate secondary STAB attack, hitting Water-types that resist Hydro Pump such as Rotom-W or Azumarill; the passive recovery it provides also helps improve Ludicolo's longevity. Ice Beam is a good coverage option to hit the Grass- and Dragon-types that can sponge Ludicolo's STAB attacks. If those Pokemon aren't a problem for you, then Protect is another option, letting Ludicolo selectively shield itself from damage when needed and dodge potential KOs.</p>\n<h4>Set Details</h4>\n<p>The EV spread grants Ludicolo as much power as possible as well as the ability to outspeed everything up to Choice Scarf Landorus-T when under rain. Assault Vest is the main option for an item as it boosts Ludicolo's special bulk, something that proves even more useful due to the fact that Ludicolo typically lacks room for Protect. Lum Berry is also usable to shield Ludicolo from Thunder Wave, particularly from Thundurus. Life Orb is a nice option to grant Ludicolo even more power, but the recoil can wear Ludicolo down quickly, especially without Protect.</p>\n<h4>Usage Tips</h4>\n<p>A good idea is typically to bring in Ludicolo late-game once the opponent's team is weakened, where it can clean up with its Speed granted by Swift Swim and Water-type attacks. Also, if your opponent is carrying a Thunder Wave user such as Thundurus, play cautiously, as a paralyzed Ludicolo is infinitely less threatening than a healthy one. Fake Out is a great tool to use selectively to apply pressure on your opponent, force them into making certain plays, and create free turns for a partner, so make sure you use the move wisely. If you're not planning on using Ludicolo for a late-game sweep (or if you're sure you can keep it in good enough health to achieve said sweep), it makes for a great early-game pivot with its bulk (augmented by Assault Vest) and access to Fake Out.</p>\n<h4>Team Options</h4>\n<p>Politoed makes for an amazing partner for Ludicolo, as the rain from Drizzle activates Ludicolo's Swift Swim ability and gives Hydro Pump a 50% power boost. Also, Politoed has Helping Hand to boost the power of attacks coming off of Ludicolo's middling base 90 Special Attack. Pokemon such as Landorus-T and Garchomp appreciate having Ludicolo as a partner due to its ability to handle Water-types such as Rotom-W that are problematic for them. Anything that appreciates the free turns bought by Fake Out, such as Substitute Heatran, could make for a good partner to Ludicolo. Pokemon such as Tyranitar and Rotom-W that threaten Talonflame are excellent partners as well, as Talonflame can get around Ludicolo's Swift Swim with Gale Wings and KO with a priority Brave Bird. Other good partners are Intimidate users such as Landorus-T, Scrafty, and Hitmontop that can patch up Ludicolo's lower Defense stat.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        },
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fake_out",
+         "name": "Fake Out"
+        },
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        },
+        {
+         "gen": "xy",
+         "alias": "rain_dance",
+         "name": "Rain Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Swift Swim",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 4,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Ludicolo's Water-type STAB moves are boosted 1.5 times by rain, taking them to dangerous levels. For instance, Hydro Pump can OHKO neutral Pokemon such as Mega Mawile and Mega Manectric. Surf is an alternative to Hydro Pump; it has the advantage of hitting both of the opponent's Pokemon, but unfortunately it also hits your own Pokemon. On top of that, it is significantly weaker, not only due to its lower Base Power, but also from being a spread move. Giga Drain acts as a secondary STAB move that allows Ludicolo to beat Rotom-W and somewhat counteract Life Orb recoil with its recovery. Ice Beam complements Ludicolo's STAB moves, giving it perfect neutral coverage. It also allows Ludicolo to threaten common Dragon-types such as Garchomp and Salamence, as they are both easily OHKOed by it. Fake Out gives a partner Pokemon a free turn and generally eases prediction for you. With Rain Dance, Ludicolo can set up rain on its own; this could be of use against Pokemon like Tyranitar that can remove rain and survive a Hydro Pump in sand. Ludicolo could also use Protect i nthe fourth slot; this could be useful for scouting an opposing Pokemon's set or blocking an attack to allow Ludicolo's partner to take down the threat.</p>\n<h4>Set Details</h4>\n<p>With maximum Speed and Special Attack EVs, Ludicolo hits as fast and as hard as possible. Ludicolo with a Modest nature only needs to run 204 EVs in Speed to outspeed Adamant Choice Scarf Garchomp. However, the extra 52 EVs in HP serve little to no purpose. A Timid nature could be used to outspeed Choice Scarf Salamence in rain and other base 100s. Life Orb is used to make up for Ludicolo's mediocre base 90 Special Attack, and Giga Drain's recovery mitigates Life Orb recoil.</p>\n<h4>Usage Tips</h4>\n<p>Ludicolo arguably plays best late-game, as it can easily clean up against weakened teams in rain. Hopefully, by this point in the battle, Pokemon which threaten Ludicolo will have been taken care of. Ludicolo could also function as a lead with Fake Out to ease first-turn predictions. Ludicolo can work outside of rain with its good coverage and typing. That said, Ludicolo is far more useful inside of rain as this augments its otherwise mediocre Speed.</p>\n<h4>Team Options</h4>\n<p>Politoed is almost required as a partner, as it automatically starts rain with its ability, Drizzle. As this set is less bulky, it might be favorable to run a bulkier Politoed with Rain Dance rather than an offensive set. However, Choice Scarf Politoed could be used to overwhelm the opponent by outspeeding them and hitting them hard with rain-boosted Hydro Pumps. Ludicolo's biggest weakness is Talonflame, as it will always move before Ludicolo with its priority Brave Bird. Because of this, Electric-types that can deal with Talonflame, such as Rotom-W, Mega Manectric, and Zapdos, to a lesser extent, are all ideal partners for Ludicolo. Aegislash and Mega Mawile enjoy Ludicolo's presence as Ludicolo beats the Fire- and Ground-types which threaten them, while they can both take on physical attackers such as Mega Kangaskhan that threaten Ludicolo. Garchomp also deals with both non-Choice Scarf Tyranitar and Mega Charizard Y, the two most common weather inducers. Thanks to Ludicolo's Grass typing, it can take Garchomp's Earthquakes well enough to never be 3HKOed, allowing them to work well together.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hydro_pump",
+         "name": "Hydro Pump"
+        },
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rain_dance",
+         "name": "Rain Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Swift Swim Sweeper",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hydro Pump is Ludicolo's main STAB move, OHKOing or 2HKOing almost anything that doesn't resist it in the rain. However, it is fairly inaccurate, so Surf can be used if you prefer accuracy over power. Please note, however, that Surf is more reliant on rain than Hydro Pump to deal heavy damage, and it should only be used on dedicated rain teams. Giga Drain is the Grass-type STAB move of choice, healing Ludicolo and giving it some longevity. This works well alongside Life Orb as it negates the recoil somewhat, and it also helps Ludicolo deal with poison or burn damage for a little longer before being forced out. Ice Beam is absolutely necessary for Ludicolo to deal with opposing Grass-types that resist its STAB combination, as well as Druddigon. This combination of attacks gives Ludicolo perfect neutral coverage against all relevant Pokemon. Finally, Rain Dance is a necessity for Ludicolo as it lets it set up rain and continue its sweep. You can use Focus Blast over Rain Dance for Ludicolo to hit Abomasnow and Ferroseed hard when they switch in, but those are its only targets, and it is far too inaccurate to be recommended; Ludicolo is very reliant on Rain Dance to sweep.</p>\n<h4>Set Details</h4>\n<p>The EVs are incredibly simple, maximizing Ludicolo's power and Speed, while giving it a Stealth Rock HP number. A Modest nature is used to maximize Ludicolo's power, as a Timid nature isn't needed to outpace anything notable outside of Choice Scarf Cinccino and Timid Choice Scarf Delphox. Life Orb is the preferred item for Ludicolo as it can't afford to be locked into a move with Choice Specs, and it needs the power boost to deal heavy damage with its coverage moves. Leftovers might look great on paper to improve Ludicolo's longevity, especially when you consider its excellent special bulk, but Ludicolo can't do without the power boost Life Orb provides due to its middling Special Attack. Similarly, Damp Rock can be used to give Ludicolo more turns to use the rain it summons, but it suffers from the same downfalls as Leftovers.</p>\n<h4>Usage Tips</h4>\n<p>Make sure to play Ludicolo conservatively, as it can't afford to take too many hits while switching in despite having Giga Drain and good special bulk. Try to keep it away from Toxic as it will force Ludicolo out very quickly, and in cases where Ludicolo does get hit by status, try and clear it up fairly quickly with Heal Bell or Aromatherapy. However, this shouldn't come at the cost of momentum; the additional residual damage will be worth it if Ludicolo can take down another Pokemon or two. Ludicolo is best brought in on a slow U-turn, Volt Switch, or Parting Shot or after another Pokemon on your team has fainted so as to preserve its HP as best as possible. It is also advisable to keep teammates that can set up rain healthy so that Ludicolo needn't waste a turn on Rain Dance. Furthermore, Ludicolo walls most bulky Water-types cold, so it can switch in on them to set up Rain Dance, even if it gets hit with Toxic in the process; in any case, if Ludicolo can't sweep yet, a fellow rain attacker can make use of the rain to soften up Ludicolo's counters or pull off a sweep itself.</p>\n<h4>Team Options</h4>\n<p>Ludicolo works well on hyper offense, bulky offensive, and balanced teams. Build around it accordingly to maximize the success that it can achieve. Pokemon that resist Flying, such as Omastar, Kabutops, and Registeel, are useful to prevent Fletchinder from taking out Ludicolo. The former two also have great synergy with Ludicolo, benefiting from the rain with their own Swift Swim and thus keeping up offensive pressure. Rain setters like Volbeat, Liepard, and Uxie are great partners for Ludicolo, with the former also being able to Baton Pass Tail Glow boosts. Speaking of Baton Pass, Gorebyss is a great Shell Smash passer, capable of boosting Ludicolo's offensive presence to terrifying levels while also getting a Swift Swim boost if the rain is up. Clerics like Lanturn and Aromatisse can keep Ludicolo free of status, ensuring that paralysis doesn't cut its sweep short. Slow users of Volt Switch, U-turn, and Parting Shot, such as Pangoro and Eelektross, and users of self-KO moves, such as Accelgor and dual screens Uxie, are great for getting Ludicolo in safely. Thunder users such as Jolteon, Heliolisk, Rotom-C, and the aforementioned Eelektross benefit from the rain, receiving 100% accuracy on said move. Finally, entry hazards are incredibly useful for Ludicolo, most notably Spikes as they can wear down grounded walls such as specially defensive Ludicolo and Roselia. This makes the aforementioned Accelgor and Omastar amazing teammates for Ludicolo.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "waterfall",
+         "name": "Waterfall"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "bullet_seed",
+         "name": "Bullet Seed"
+        },
+        {
+         "gen": "xy",
+         "alias": "seed_bomb",
+         "name": "Seed Bomb"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_punch",
+         "name": "Ice Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "rain_dance",
+         "name": "Rain Dance"
+        },
+        {
+         "gen": "xy",
+         "alias": "zen_headbutt",
+         "name": "Zen Headbutt"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "swift_swim",
+       "name": "Swift Swim"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Swords Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 4,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Waterfall is Ludicolo's main attack on this set, capable of dishing out some rather hefty damage after boosts from Swords Dance and the rain. Seed Bomb is Ludicolo's secondary STAB choice, and hits the bulky Water-types that tank Waterfall. Alternatively, one can opt for Bullet Seed for its ability to break past Substitutes. Ice Punch rounds out Ludicolo's coverage. Notably, it preys on the Dragon-types and Grass-types that resist Ludicolo's STAB moves. Rain Dance can be chosen in the last slot for Ludicolo to renew the rainfall when it ceases. However, the initial setup of rain is best left to an ally. Ludicolo can opt to run Zen Headbutt in the last moveslot in order to nail Toxicroak, which would otherwise wall this set.</p>\n<h4>Set Details</h4>\n<p>Ludicolo's maxed-out Attack and Speed ensures that it will be inflicting as much damage and outspeeding as many opponents as possible. An Adamant nature ups Ludicolo's firepower and is advisable given Ludicolo's mediocre Attack stat, though a Jolly nature can be used should you wish Ludicolo to outspeed Choice Scarf variants of Mienshao, Jirachi, and Hydreigon in the rain. A Life Orb is the chosen item on this set, as it grants a much-appreciated boost to Ludicolo's offensive prowess.</p>\n<h4>Usage Tips</h4>\n<p>Ideally, an ally should be the one providing Ludicolo with rain, as Ludicolo would rather not have to use up a turn setting it up, and a dedicated rain support ally with a Damp Rock will be able to summon rainfall for an extended 8 turns. Ludicolo should prioritize the use of Swords Dance over anything else; it needs the boosts to attain the power necessary to sweep. Swords Dance Ludicolo plays as a late-game cleaner and thus should be sent in to finish things up after its allies have worn down the opponent. Ludicolo's checks and counters should definitely be severely weakened or disposed of before it is brought in. Ludicolo is best played on a field where it isn't plagued by entry hazards, especially Sticky Web, which would make Ludicolo's attempt to sweep far more difficult because of the Speed loss.</p>\n<h4>Team Options</h4>\n<p>A fast ally capable of summoning the rain is a must. Azelf is an example of a Pokemon that fits this criteria. Another rain sweeper such as Kabutops works well alongside Ludicolo, as the latter can come in to clean up after an ally has wreaked havoc on the opposing team. Entry hazard support is definitely worth considering, as it means that Ludicolo will have an easier time KOing its opponents, and their Focus Sash / Sturdy will be rendered useless. Donphan synergizes well with Ludicolo and is capable of setting up Stealth Rock. Life Orb recoil will wear Ludicolo down and entry hazards will add to the residual damage or, in the case of Sticky Web, slow Ludicolo down and ultimately decrease its chances of a successful sweep. Donphan can remove hazards with Rapid Spin, and as previously stated, has good synergy with Ludicolo. A specially offensive wallbreaker such as Nidoking or Mega Houndoom will be able to deal with the handful of physically defensive Pokemon that can actually stand up to Ludicolo. Paralysis will bring Ludicolo's sweep to a standstill, and it definitely dislikes having residual damage from poison or burn on top of Life Orb recoil. Cleric support is always useful to have on the team for making Ludicolo healthy again.</p>\n"
+    }
+   ],
+   "alias": "ludicolo",
+   "name": "Ludicolo",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "ludicolo"
+    },
+    {
+     "gen": "dp",
+     "alias": "ludicolo"
+    },
+    {
+     "gen": "rs",
+     "alias": "ludicolo"
+    },
+    {
+     "gen": "xy",
+     "alias": "ludicolo"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "absorb",
+     "name": "Absorb",
+     "description": "Leeches 50% damage.",
+     "pp": 25,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "astonish",
+     "name": "Astonish",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 70,
+     "alias": "blizzard",
+     "name": "Blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "bubble_beam",
+     "name": "Bubble Beam",
+     "description": "10% chance to lower Speed by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "bullet_seed",
+     "name": "Bullet Seed",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 30,
+     "power": 25
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "dive",
+     "name": "Dive",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "drain_punch",
+     "name": "Drain Punch",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 50,
+     "alias": "dynamic_punch",
+     "name": "Dynamic Punch",
+     "description": "Confuses the foe.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "energy_ball",
+     "name": "Energy Ball",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "fake_out",
+     "name": "Fake Out",
+     "description": "The user always moves first, and flinches the foe. Can only be used on the first turn out.",
+     "pp": 10,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "fire_punch",
+     "name": "Fire Punch",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flail",
+     "name": "Flail",
+     "description": "Does more damage as HP decreases.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "focus_punch",
+     "name": "Focus Punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 80,
+     "alias": "fury_swipes",
+     "name": "Fury Swipes",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 15,
+     "power": 18
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "giga_drain",
+     "name": "Giga Drain",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "growl",
+     "name": "Growl",
+     "description": "Lowers target's Attack by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "hone_claws",
+     "name": "Hone Claws",
+     "description": "Boosts Attack and accuracy one stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 80,
+     "alias": "hydro_pump",
+     "name": "Hydro Pump",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "hyper_voice",
+     "name": "Hyper Voice",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_punch",
+     "name": "Ice Punch",
+     "description": "10% chance to freeze the target.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 90,
+     "alias": "leech_seed",
+     "name": "Leech Seed",
+     "description": "Leeches 1/8 of the target's HP each turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "mega_drain",
+     "name": "Mega Drain",
+     "description": "Leeches 50% of the damage dealt.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 75,
+     "alias": "mega_kick",
+     "name": "Mega Kick",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "mega_punch",
+     "name": "Mega Punch",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "metronome",
+     "name": "Metronome",
+     "description": "Picks a random move.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "mist",
+     "name": "Mist",
+     "description": "Prevents moves that lower stats from working for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "nature_power",
+     "name": "Nature Power",
+     "description": "Attack changes based on terrain.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 95,
+     "alias": "razor_leaf",
+     "name": "Razor Leaf",
+     "description": "Has a high critical hit rate.",
+     "pp": 25,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "rock_climb",
+     "name": "Rock Climb",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "scald",
+     "name": "Scald",
+     "description": "30% chance to burn the target. Thaws the user.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "seed_bomb",
+     "name": "Seed Bomb",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "seismic_toss",
+     "name": "Seismic Toss",
+     "description": "Does damage equal to the user's level.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "surf",
+     "name": "Surf",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "sweet_scent",
+     "name": "Sweet Scent",
+     "description": "Lowers evasion by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "synthesis",
+     "name": "Synthesis",
+     "description": "Heals variably depending on the weather.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "teeter_dance",
+     "name": "Teeter Dance",
+     "description": "Confuses all other active Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "thief",
+     "name": "Thief",
+     "description": "Steals target's item.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_punch",
+     "name": "Thunder Punch",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tickle",
+     "name": "Tickle",
+     "description": "Lowers Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "uproar",
+     "name": "Uproar",
+     "description": "Repeats for 2-5 turns. No Pokemon can sleep during these turns.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_gun",
+     "name": "Water Gun",
+     "description": "No additional effect.",
+     "pp": 25,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "water_sport",
+     "name": "Water Sport",
+     "description": "Fire-type attacks do 50% damage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "waterfall",
+     "name": "Waterfall",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 85,
+     "alias": "whirlpool",
+     "name": "Whirlpool",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 90,
+     "alias": "zen_headbutt",
+     "name": "Zen Headbutt",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "lotad",
+     "name": "Lotad"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "lombre",
+       "name": "Lombre"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "ludicolo",
+         "name": "Ludicolo"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 70,
+     "height": 1.5,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Own Tempo",
+       "alias": "own_tempo",
+       "description": "Cannot be confused."
+      },
+      {
+       "gen": "xy",
+       "name": "Rain Dish",
+       "alias": "rain_dish",
+       "description": "Heals 1/16 of max HP in rain."
+      },
+      {
+       "gen": "xy",
+       "name": "Swift Swim",
+       "alias": "swift_swim",
+       "description": "Speed doubles in rain."
+      }
+     ],
+     "alias": "ludicolo",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "NU",
+       "alias": "nu",
+       "name": "Neverused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "grass",
+       "name": "Grass"
+      },
+      {
+       "gen": "xy",
+       "alias": "water",
+       "name": "Water"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 100,
+     "hp": 80,
+     "spatk": 90,
+     "suffix": "",
+     "pdef": 70,
+     "weight": 55.0,
+     "spe": 70,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

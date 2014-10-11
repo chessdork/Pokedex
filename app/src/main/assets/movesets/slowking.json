@@ -1,0 +1,2968 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Assault Vest",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Assault Vest",
+       "alias": "assault_vest",
+       "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Scald is Slowking's primary STAB move, allowing it to spread burns while inflicting damage. Psyshock is Slowking's other STAB move, hitting specially defensive Pokemon such as Roserade and Florges on their weaker Defense stat. Dragon Tail is one of the big selling points of Slowking, as it can phaze Pokemon, hindering setup sweepers as well as possibly inflicting further damage with entry hazards. Ice Beam and Fire Blast are both able to hit the Grass-types that Slowking tends to attract. Ice Beam is generally more useful, as it is able to hit Hydreigon and other Dragon-types super effectively. Fire Blast, however, deals much more damage to Steel-types, such as Forretress, Cobalion, and Escavalier.</p>\n<h4>Set Details</h4>\n<p>Assault Vest boosts Slowking's excellent Special Defense to even greater heights, letting Slowking sponge a multitude of special attacks, even most of the ones it's weak to. Regenerator makes Slowking incredibly hard to wear down, restoring 33% of its HP upon switching out. The given EV spread maximizes Slowking's HP while giving it as much of an offensive presence as possible with the leftover EVs placed into Special Defense, as even without investment, Slowking's Special Defense is staggeringly high with Assault Vest equipped. However, if Slowking needs to take special attacks more easily, an alternate spread of 248 HP / 8 SpA / 252 SpD can be used to maximize Special Defense while allowing Slowking to OHKO offensive Roserade with Psyshock. A Quiet nature with 12 Attack EVs can be used so that Dragon Tail is able to reliably break Kingdra's Substitutes. Focus Blast can be used in the fourth moveslot to hit Dark- and Steel-types switching in, but be wary of its shaky accuracy. Grass Knot can also be used if your team requires support against bulky Water-types such as Swampert and Mega Blastoise, though it isn't useful for much else.</p>\n<h4>Usage Tips</h4>\n<p>This Slowking set functions as an offensive pivot that doubles as a special tank, so it's best used when switching in on special attackers it's effectively able to check, sponging a hit, and responding with the appropriate coverage move. Pokemon such as Noivern, Nidoking, Nidoqueen, Starmie, and Porygon-Z are effectively checked by this set. Because of its ability Regenerator, switching in and out with Slowking is actually encouraged as it replenishes HP, offsetting damage taken from entry hazards, weaker or resisted attacks, and status. Thanks to Dragon Tail, Slowking is able to check most Calm Mind users in the tier and force them out. This allows it to keep them at bay, repeatedly deterring setup throughout the early- and mid-game phases. Assault Vest Slowking can even survive special attacks it's weak to in a pinch, including STAB moves from Chandelure, Roserade, Hydreigon, Rotom-H, Mega Houndoom, and Raikou, though it's not advised to let Slowking take these attacks unless Slowking is able to take out the attacker immediately afterward. For the most part, it's best to have a backup special wall to handle the aforementioned special attackers, which Slowking prefers not to deal with.</p>\n<h4>Team Options</h4>\n<p>Because this set is more of an offensive pivot that doubles as a special tank, backing from a specially defensive Pokemon that can handle special moves it normally doesn't want to take is helpful. Umbreon and Florges are both valuable, as they both cover some of Slowking's weaknesses. Florges is especially notable, as it can sponge Dark- and Bug-type moves for Slowking, while Slowking can check Nidoking, Nidoqueen, and Chandelure for Florges. Physically defensive Pokemon such as Mega Aggron, defensive Mega Ampharos, and Arcanine can form a defensive core with Slowking to cover physical and special attacks, taking the physical moves that Slowking otherwise falls victim to. These Pokemon are also notable for their ability to take Knock Off, a move that Slowking fares poorly against. Slowking has issues breaking through Florges, even with Psyshock, and Florges can't be forced out due to its immunity to Dragon Tail; partners who can take out Florges for Slowking, such as Crobat, Nidoking, Darmanitan, and Cobalion, are much appreciated. Because Slowking is able to phaze the opponent's Pokemon with Dragon Tail, entry hazard setters such as Qwilfish, Roserade, Chesnaught, Forretress, Donphan, and Mega Aggron are suitable partners, as the support they offer helps wear down the opposing team. Other Pokemon with Regenerator, such as Tangrowth, Amoonguss, and Mienshao, can form an annoying Regenerator core that outlasts the opponent's Pokemon through constant switching.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "calm_mind",
+         "name": "Calm Mind"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "slack_off",
+         "name": "Slack Off"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Calm Mind",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Scald is Slowking's main STAB move, as it has decent Base Power and a burn chance that discourages physical attackers from coming in , thus helping the process of setting up Calm Mind. Psyshock is a reliable secondary STAB move and hits Pokemon such as Amoonguss and Roselia resist Slowking's other STAB move while helping in winning Calm Mind wars. However, Fire Blast can be used for a stronger hit on Escavalier and Grass-type switch-ins. Calm Mind gives Slowking sweeping potential, giving it much-needed power and making it nearly unbreakable on the special side. Slack Off gives Slowking reliable recovery and keeps Slowking healthy while it sets up.</p>\n<h4>Set Details</h4>\n<p>248 HP EVs give Slowking a Stealth Rock number that minimizes the residual damage it takes. Max Defense investment with a Bold nature is used to take physical attacks well while setting up with Calm Mind. Leftovers is the item of choice, letting Slowking heal some damage without having to use Slack Off too frequently.</p>\n<h4>Usage Tips</h4>\n<p>This Slowking can still take most special hits decently thanks to its natural bulk and can shrug them off with Calm Mind, so you can use it early- or mid-game as a pivot because Regenerator will keep it healthy. You should set up late-game when Dark-type Pokemon and strong physical attackers are gone, as they can easily overpower Slowking while it sets up. This set also hates Toxic, so you should be careful against Alomomola and Bronzong, which commonly use the move.</p>\n<h4>Team Options</h4>\n<p>This Slowking works well as a win condition in stall teams but it is a nice fit on balanced teams too thanks to its good mixed bulk and ability to form defensive cores with a lot of Pokemon. Physically defensive Aromatisse can take Dark- and Bug-type attacks well and cure Slowking from Toxic with Aromatherapy. Other physical walls such as Gligar are also useful to take on the physical attackers that threaten Slowking, namely Hitmonlee, Drapion, Skuntank, and Doublade. Toxic Spikes support is incredibly useful for Slowking to outlast other Calm Mind sweepers and walls. Roselia and Drapion are good users of the move and can also absorb Toxic Spikes on entry. The first can also use Aromatherapy and the latter can phaze and threaten Psychic-types.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        },
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "trick",
+         "name": "Trick"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Choice Specs",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Specs",
+       "alias": "choice_specs",
+       "description": "Hold item which raises Special Attack by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Scald is preferred as Slowking's Water-type STAB move, as it's capable of inflicting burns, but Surf can be used for maximum damage output. Psyshock is necessary to hit Pokemon such as Florges and Roserade on their weaker physical Defense stat. Ice Beam and Fire Blast both hit the Grass-types that check Slowking; Ice Beam also nails Hydreigon and other Dragon-types, while Fire Blast immediately dispatches Steel-types such as Forretress, Cobalion and Escavalier. Trick is preferred for the last moveslot, as crippling special walls such as Florges, Umbreon, and Snorlax can prove to be invaluable in helping Slowking or its teammates, though Focus Blast allows Slowking to deal serious damage to Dark-types switching in. Grass Knot can also be used in the fourth moveslot if your team requires more support against bulky Water-type Pokemon; with Choice Specs, it's capable of nabbing a 2HKO on Mega Blastoise, Jellicent, Suicune, and Swampert.</p>\n<h4>Set Details</h4>\n<p>With a Modest nature and Choice Specs, Slowking reaches the full potential of its strength. Regenerator is Slowking's best ability, giving it access to reliable recovery while dealing damage throughout a match. The EVs listed give Slowking as much bulk and power as possible.</p>\n<h4>Usage Tips</h4>\n<p>Be advised that this set is significantly less bulky than the Assault Vest set, so Slowking's ability to switch in and out on attacks is reduced. With Regenerator, Slowking differentiates itself from other Choice item users, as they get worn down as they switch in and out repeatedly to change attacks, while Slowking receives 33% of its HP back when it switches out. This greatly eases the punishment associated with predicting incorrectly, though bear in mind that this doesn't grant Slowking absolute freedom to use any move; Slowking, like any other Choice item user, still relies heavily on using the correct move to put pressure on the opponent. On top of this, Slowking is slow, meaning it also depends on either hitting a Pokemon switching in or taking a blow and retaliating. Due to the surprise value of Trick, it's best to use the move after revealing to the opponent that Slowking is holding Choice Specs, as special walls like Umbreon and Florges will be much more likely to switch in on Slowking in the hopes of forcing it out and getting free turns.</p>\n<h4>Team Options</h4>\n<p>Choice Specs Slowking's hit-and-run nature lends it to being switched in and out numerous times, so partners that can cover its weaknesses allow it to constantly switch in much more easily. Grass-types such as Roserade, Shaymin, and Amoonguss can take the Grass- and Electric-type moves aimed at Slowking. Dark-types such as Hydreigon, Umbreon, and Mega Houndoom can switch in on the Dark- and Ghost-type moves directed at Slowking; the former two also check most Electric-type attackers while all three can check most Grass-types. Pokemon that can take the Bug- and Grass-type moves aimed at Slowking such as Chandelure, Arcanine, and Crobat are appreciated, as are Ground-types like Hippowdon, Nidoking, Nidoqueen, and Swampert, which can absorb the Electric-type moves that Slowking is weak to. In return, Slowking can check most of the bulky Water-type Pokemon that give these Pokemon trouble, especially if it opts to run Grass Knot.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "trick",
+         "name": "Trick"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Choice Specs",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Specs",
+       "alias": "choice_specs",
+       "description": "Hold item which raises Special Attack by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 172,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 84
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Trick is the most important move as it cripples switch-ins such as Amoonguss and Cresselia, limiting their effectiveness. Scald is Slowking's main STAB move, as it has decent power and a burn chance that discourages physical attackers from coming in, but Surf is usable to hit slightly harder. Psyshock is Slowking's secondary STAB move and hits Pokemon such as Amoonguss and Roselia, which resist its other STAB move, but Psychic is an option as it can be used to break Alomomola. In the last slot, Fire Blast OHKOes Escavalier and Tangrowth.</p>\n<h4>Set Details</h4>\n<p>84 Speed EVs let Slowking outspeed uninvested Rhyperior to OHKO with Scald, but if it is not a concern for your team, you can run 44 EVs to get the jump on uninvested Doublade.\nMax Special Attack is used to hit as hard as possible and along with Choice Specs, Slowking has enough power to OHKO some of its offensive switch-ins such as Drapion.</p>\n<h4>Usage Tips</h4>\n<p>This Slowking can tank resisted attacks and hit back hard. It doesn't really have the investment to stand up to physical and special attacks as well as the other sets, so be careful with switching it in. Regenerator can keep it healthy throughout the game to check Delphox and Fire-type Pokemon in general.</p>\n<h4>Team Options</h4>\n<p>Aromatisse takes Bug- and Dark-type attacks and can heal Slowking of status afflictions with Aromatherapy. It can also pass a Wish if Slowking is at low health and Regenerator is not enough to take a powerful attack. Gligar and Golbat appreciate their Ice-type weakness covered and can switch into physical attackers with ease. They can also use Defog to remove entry hazards and to make Regenerator more effective. Finally, Amoonguss and Tangrowth can form a Regenerator core and they cover Slowking's weaknesses decently.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "slack_off",
+         "name": "Slack Off"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 184,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 76,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Scald is Slowking's best STAB move, as it has decent power and its burn chance discourages physical attackers from coming in. It also hits Pokemon that Slowking checks such as Emboar and Moltres for super effective damage. Psyshock is its secondary STAB move and hits Pokemon such as Amoonguss and Roselia, which resist its other STAB move, pretty hard, though Fire Blast can be used instead to get a stronger hit on Escavalier and Grass-type switch-ins. Thunder Wave cripples fast attackers on the switch and Toxic helps with bulky Water-type Pokemon such as Alomomola, but most switch-ins are crippled more by the paralysis from Thunder Wave and the burn from Scald, so it is usually inferior. Slack Off gives Slowking reliable recovery and keeps Slowking healthy when it can't afford to switch out. It also helps to stall if you are running Toxic. Dragon Tail is useful to beat most Calm Mind sweepers such as Reuniclus.</p>\n<h4>Set Details</h4>\n<p>248 HP EVs give Slowking a Stealth Rock number that minimizes residual damage. 184 EVs in Special Defense let Slowking avoid the 2HKO from Timid Life Orb Moltres's Hurricane. The remaining EVs are placed into Defense to let Slowking take a Knock Off from Adamant Life Orb Hitmonlee and OHKO back with Psyshock.</p>\n<h4>Usage Tips</h4>\n<p>This Slowking is more of a defensive pivot and thus is best fit on balanced and stall teams that need a reliable answer to Fire-type Pokemon such as Moltres. Abuse Regenerator to keep Slowking healthy and spread status without being worn down. Scald is usually the best move to go for on predicted switches as neither of Slowking's checks, such as Drapion or Skuntank, appreciate a burn too much. This Slowking can take some physical hits thanks to its investment in Defense, but strong physical attacks will leave a big dent in Slowking, so switching out in front of strong physical attackers is usually the best option.</p>\n<h4>Team Options</h4>\n<p>Aromatisse, which takes Dark- and Bug-type attacks and can get rid of status with Aromatherapy, is a very good partner and makes a strong core with Slowking. Registeel can set up Stealth Rock and walls most special attackers Slowking can't deal with very well such as Exploud while appreciating Slowking's ability to wall Fire-types. Weezing can set up Toxic Spikes, freeing a slot for an additional attack or Dragon Tail, and takes most of the physical hits that trouble Slowking really well thanks to its stellar physical bulk. Drapion can set up Toxic Spikes too and can help with Psychic-type Pokemon such as Cresselia and Reuniclus, as it can phaze them if they try to set up on Slowking or hit them hard with STAB Knock Off. Gligar and Golbat, which appreciate having some of their weaknesses covered and can wall physical threats, are also good partners and the Defog support they provide is also useful as multiple layers of Spikes can nullify Regenerator. Finally, Amoonguss and Roselia resist Slowking's Electric and Grass weaknesses and the former can form a Regenerator core that is very hard to take down while the latter can set up Spikes and Toxic Spikes.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "trick_room",
+         "name": "Trick Room"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        },
+        {
+         "gen": "xy",
+         "alias": "surf",
+         "name": "Surf"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "nasty_plot",
+         "name": "Nasty Plot"
+        },
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Offensive Trick Room",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Trick Room allows Slowking to support itself and its teammates by making faster Pokemon move second for five turns. Scald is preferred over Surf for the potential burn chance it offers, but Surf can still be used to give Slowking as much power as possible. Focus Blast is the preferred choice over Fire Blast, as it has better overall coverage, hitting Dark- and most Steel-type Pokemon for super effective damage. However, Focus Blast's shaky accuracy can be off-putting, and Fire Blast allows Slowking to readily take out Grass- and Steel-type Pokemon. Ice Beam can be used in the third moveslot but Slowking gets more use out of Focus Blast and Fire Blast, as they both have better power and coverage, which is essential considering Slowking has a limited number of turns to attack after setting up Trick Room. Psyshock is Slowking's backup STAB option, allowing it to cover even more Pokemon, targeting Florges and Roserade on their weaker defensive stat. If Psyshock's additional coverage is not needed, Nasty Plot can be used to make Slowking much more threatening under Trick Room. Nasty Plot also allows Slowking to become a greater offensive threat against defensive teams that aren't adversely affected by Trick Room.</p>\n<h4>Set Details</h4>\n<p>With a Quiet nature and a Speed IV of 0, Slowking is as slow as possible, which allows it to outspeed nearly the entire tier under Trick Room. With maximum HP and Special Attack, Slowking gets the bulk it needs to take hits while being able to hit as hard as possible. Regenerator restores Slowking's HP as it switches out, allowing it to set up Trick Room multiple times in a match if needed. Leftovers increases Slowking's longevity by giving it passive recovery and is the recommended item when running Nasty Plot. Life Orb is still usable, as Regenerator offsets the recoil damage it causes when Slowking attacks. Life Orb also allows Slowking to hit as hard as it possibly can, and it is especially favorable if Nasty Plot is not chosen, as if so, Slowking has no other means of boosting its power. If extra bulk is required, a specially defensive spread of 248 HP / 8 SpA / 252 SpD with a Sassy nature can be used, with Nasty Plot to compensate for Slowking's lesser offensive presence. Slack Off can also be used to keep Slowking healthy without the need to switch, but this means it loses offensive potential by giving up either Nasty Plot or one of its coverage options.</p>\n<h4>Usage Tips</h4>\n<p>Because setting Trick Room up is the primary goal of this Slowking set, use the move as soon as the opportunity presents itself; from there, Slowking can go on the offensive, turning the Speed stats of faster Pokemon against them. If Slowking is running Nasty Plot, it's preferred to use it on a weaker move or a predicted switch, followed by setting up Trick Room afterward. This allows Slowking to have as many offensive turns as possible after setting up, making it an immediate threat for the opponent. Never set Nasty Plot up after using Trick Room unless it's absolutely necessary, because this will cost Slowking a vital turn it could be using to attack. Sadly, Slowking's selection of coverage choices will always leave it walled by something, so adjust your team according to what Slowking has trouble breaking through. With Fire Blast and Psyshock, Slowking will be unable to beat Umbreon and Hydreigon. The combination of Focus Blast and Psyshock leaves Slowking walled by Celebi and Chesnaught to a lesser extent, as Chesnaught's Defense allows it to survive a Psyshock if Life Orb is not chosen. With only Scald and Fire Blast, Slowking is walled by all bulky Water-types in the tier except Swampert, as well as Dragon-types such as Hydreigon, Noivern, and Mega Ampharos. With only Scald and Focus Blast, Celebi, Roserade, Noivern, and Chesnaught are able to stop Slowking short. Lastly, Jellicent, and Starmie will wall Slowking by virtue of their typing regardless of what moves Slowking chooses to run.</p>\n<h4>Team Options</h4>\n<p>Slowking's use of Trick Room offers great support to Pokemon who can abuse it for themselves, such as Choice Band Snorlax, Reuniclus, Escavalier, Mega Ampharos, Exploud, and Druddigon. Druddigon, Mega Ampharos, and Escavalier also have notable synergy with Slowking, each covering some of its weaknesses. Pokemon that also set Trick Room, such as Aromatisse, Cofagrigus, Porygon2, and Bronzong, are able to support Slowking as well as the rest of their team.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "slack_off",
+         "name": "Slack Off"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 8,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Dragon Tail is listed first among Slowking's moves as the ability to phaze is what makes Slowking a viable option over the other bulky Water-types in the tier. Scald and Psyshock are STAB moves, the former being able to spread burns, and the latter hitting Pokemon such as Florges and Roserade harder. Slack Off gives Slowking a reliable way to regain HP without having to switch out.</p>\n<h4>Set Details</h4>\n<p>The given EVs maximize Slowking's physical bulk while giving Slowking a high chance to OHKO offensive Roserade with Psyshock. With a Bold nature, Slowking is able to survive most physical hits easily, though not as well as Suicune. In exchange for lesser physical bulk, however, Slowking has an inherently good Special Defense stat that should not be overlooked; this makes it somewhat of a mixed wall to an extent. Regenerator enables Slowking to recover HP as it switches, which is essential as this is a highly defensive set that relies on having as much HP as possible in order to do its job.</p>\n<h4>Usage Tips</h4>\n<p>This set exchanges better physical bulk for the ability to phaze with Dragon Tail. Take advantage of the phazing support it offers by pairing Slowking with entry hazard setters to help rack up damage throughout the opponent's team. You should also use Dragon Tail to oust Pokemon trying to set up on Slowking, such as Reuniclus and Suicune. As this set takes physical hits better than any of Slowking's other sets, it allows Slowking to more effectively check physical attackers such as Darmanitan, Cobalion, Victini, Crobat, Toxicroak, and Mienshao. Despite Slowking's inherently good Special Defense stat, this set's ability to survive special attacks is poor compared to the Assault Vest set, so try not to let Slowking take them unless it is either absolutely necessary to do so, or they are resisted hits. As Slack Off allows Slowking to recover HP without switching out, take use it to wear down opposing Pokemon passively through recoil or status when applicable.</p>\n<h4>Team Options</h4>\n<p>Pokemon such as Cobalion, Mega Aggron, Mega Ampharos, and Chesnaught partner well with physically defensive Slowking, as they can easily switch into Knock Off for it. Chesnaught is a noteworthy partner, as a core of Chesnaught and Slowking can stand up to the majority of the physical attackers in the tier. Slowking's ability to stand up to physical attackers allows it to form a defensive core with Pokemon that can take special attacks, such as Umbreon and Florges. Entry hazard setters such as Hippowdon, Mega Aggron, Forretress, Chesnaught, and Roserade can stack entry hazards to make phazing with Dragon Tail more damaging to the opponent's team. These Pokemon also appreciate Slowking's ability to handle Fire-type moves such as V-Create and Flare Blitz from Victini and Darmanitan.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass_knot",
+         "name": "Grass Knot"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Special Tank",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Assault Vest",
+       "alias": "assault_vest",
+       "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Scald is Slowking's main STAB move, as it has decent Base Power and a burn chance that discourages physical attackers from coming in. It also hits Pokemon that Slowking checks such as Emboar and Moltres for super effective damage. In the second slot, Psyshock is Slowking's secondary STAB move and hits Pokemon such as Amoonguss and Roselia, which resist its other STAB moves, pretty hard. Fire Blast rounds off Slowking's coverage and usually OHKOes Escavalier and Doublade after Stealth Rock and does heavy damage to Grass-type Pokemon such as Tangrowth that are not weak to Psyshock. Dragon Tail is the primary option for the last slot as it is useful to phaze Calm Mind Delphox and Reuniclus before they become too much of a threat to your team, though Grass Knot can be used to hit Water-type Pokemon harder than Slowking's other moves.</p>\n<h4>Set Details</h4>\n<p>248 HP EVs give Slowking a Stealth Rock number and decent all-around bulk thanks to Assault Vest and max Special Attack along with a Modest nature, which is used to let Slowking hit decently hard and take advantage of its great coverage. The leftover EVs are placed in Special Defense to amplify the Assault Vest boost.</p>\n<h4>Usage Tips</h4>\n<p>You should use Regenerator and Slowking's resistances to keep it healthy and let it act as an offensive pivot, especially against Choice-locked special attackers. However, remember that this Slowking has no Defense investment, so be careful of Pursuit, Knock Off, and physical attackers that have a neutral STAB move, as they can deal a large amount of damage or outright OHKO Slowking; it should only be used to check Pokemon such as Emboar that can't touch it with their main STAB moves.</p>\n<h4>Team Options</h4>\n<p>This Slowking set is best used in balanced and offensive teams in need of an offensive pivot so Choiced attackers that need something to fall back on when they have to switch out such as Braviary and Delphox are good partners. Entry hazard setters such as Rhyperior for Stealth Rock and Roselia for Spikes have nice synergy with Slowking and are very helpful, as it forces a lot of switches and uses Dragon Tail. On more balanced teams, Aromatisse, which takes Dark- and Bug-type attacks and can get rid of status with Aromatherapy, makes a strong core with Slowking. Drapion and Skuntank are also good partners as they help with Cresselia and Reuniclus which can set up on Slowking if Cresselia or Reuniclus are the last Pokemon or if Slowking lacks Dragon Tail. Gligar appreciates having its Water and Ice weakness covered and can wall physical threats while providing useful Defog support, as multiple layers of Spikes can nullify Regenerator. Amoonguss resists some of Slowking's weaknesses and can form a Regenerator core that is very hard to take down.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "trick_room",
+         "name": "Trick Room"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "scald",
+         "name": "Scald"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Trick Room",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Trick Room turns Slowking's abysmal Speed into an asset, making it the \"fastest\" Pokemon in the tier. Scald is Slowking's main STAB move, as it has decent power and a burn chance that can help getting chip damage on Slowking's checks and potentially crippling switch-ins. Slowking doesn't get Hydro Pump, but Surf is an acceptable alternative as it has a bit more Base Power than Scald. Fire Blast OHKOes Escavalier after Stealth Rock damage and does a lot of damage to Grass-type Pokemon that usually wall Slowking. Psyshock is used for additional STAB coverage and to OHKO most Fighting-type Pokemon that have lower Defense than Special Defense, although Nasty Plot can be used as it gives Slowking sweeping potential and the ability to overpower walls. Slack Off can be used to reliably set up Trick Room throughout the game. Slowking should use a 248 HP / 76 Def / 184 SpD spread with a Sassy nature to take hits from a variety of Pokemon and be very reliable during the game. However, this spread can lead to a loss of momentum as it can't hit very hard and gives a free switch to a lot of Pokemon such as Aromatisse and Reuniclus who can start setting up or heal your opponent's team.</p>\n<h4>Set Details</h4>\n<p>Minimum Speed IVs and a Quiet nature give Slowking 58 Speed, allowing to outspeed everything in the tier. Max Special Attack is to hit hard and soften walls before other Trick Room sweepers come in. Leftovers is chosen for longevity, but Life Orb can be used as Slowking can heal the residual damage with Regenerator.</p>\n<h4>Usage Tips</h4>\n<p>Setting up Trick Room is the priority to support Slowking and its partners. You should try to switch into your sweeper immediately after setting up Trick Room to give them more turns to wreck your opponent's team.</p>\n<h4>Team Options</h4>\n<p>Aromatisse can take Dark-type attacks and set up Trick Room reliably thanks to its ability, Aroma Veil, which gives it an immunity to Taunt. Bronzong, Cofagrigus, and Reuniclus are also good setters of Trick Room, but they share weaknesses with Slowking. Choice Band Escavalier and Rhyperior are the fastest Pokemon in the tier with Trick Room up and can decimate most offensive teams while being almost impossible to switch into for balanced ones. Exploud has just enough Speed to work well in Trick Room and can decimate everything with STAB Boomburst. Druddigon can hit really hard with STAB Outrage and has really nice synergy with Slowking. Mega Abomasnow has STAB Blizzard and the coverage to destroy defensive cores. It also has amazing synergy with Slowking.</p>\n"
+    }
+   ],
+   "alias": "slowking",
+   "name": "Slowking",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "slowking"
+    },
+    {
+     "gen": "dp",
+     "alias": "slowking"
+    },
+    {
+     "gen": "gs",
+     "alias": "slowking"
+    },
+    {
+     "gen": "rs",
+     "alias": "slowking"
+    },
+    {
+     "gen": "xy",
+     "alias": "slowking"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "after_you",
+     "name": "After You",
+     "description": "The target will attack immediately after the user in the same turn.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "amnesia",
+     "name": "Amnesia",
+     "description": "Boosts Special Defense by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 90,
+     "alias": "aqua_tail",
+     "name": "Aqua Tail",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "avalanche",
+     "name": "Avalanche",
+     "description": "Doubles in power if damaged by the target.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "belch",
+     "name": "Belch",
+     "description": "The user must eat a Berry to use this move.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "belly_drum",
+     "name": "Belly Drum",
+     "description": "User loses 50% of max HP. Maximizes Attack.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 70,
+     "alias": "blizzard",
+     "name": "Blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "block",
+     "name": "Block",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "brine",
+     "name": "Brine",
+     "description": "Base Power doubles if foe's HP is 50% or less.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "calm_mind",
+     "name": "Calm Mind",
+     "description": "Boosts Special Attack and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "confusion",
+     "name": "Confusion",
+     "description": "10% chance to confuse.",
+     "pp": 25,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "curse",
+     "name": "Curse",
+     "description": "Does 1/4 of max HP damage per turn at the cost of half the user's max HP if the user is a Ghost. Boosts Attack and Defense and lowers Speed by 1 stage otherwise.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "disable",
+     "name": "Disable",
+     "description": "Prevents the last move used from being used again for 2-5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "dive",
+     "name": "Dive",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "dragon_tail",
+     "name": "Dragon Tail",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "drain_punch",
+     "name": "Drain Punch",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "dream_eater",
+     "name": "Dream Eater",
+     "description": "Leeches 50% of the damage dealt. Only works if target is asleep.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 50,
+     "alias": "dynamic_punch",
+     "name": "Dynamic Punch",
+     "description": "Confuses the foe.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "focus_punch",
+     "name": "Focus Punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "foul_play",
+     "name": "Foul Play",
+     "description": "Uses the target's Attack stat in damage calculation.",
+     "pp": 15,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "future_sight",
+     "name": "Future Sight",
+     "description": "Deals damage at the end of the turn after three turns.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "growl",
+     "name": "Growl",
+     "description": "Lowers target's Attack by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "heal_pulse",
+     "name": "Heal Pulse",
+     "description": "Heals the target by 50% its max HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_punch",
+     "name": "Ice Punch",
+     "description": "10% chance to freeze the target.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "iron_defense",
+     "name": "Iron Defense",
+     "description": "Boosts Defense by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 75,
+     "alias": "iron_tail",
+     "name": "Iron Tail",
+     "description": "30% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "magic_coat",
+     "name": "Magic Coat",
+     "description": "Bounces back certain non-damaging moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "me_first",
+     "name": "Me First",
+     "description": "Uses the foe's attack at 1.5x power. Must be faster to work.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 75,
+     "alias": "mega_kick",
+     "name": "Mega Kick",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "mega_punch",
+     "name": "Mega Punch",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 0,
+     "alias": "mud_sport",
+     "name": "Mud Sport",
+     "description": "Electric-type attacks do 50% damage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "nasty_plot",
+     "name": "Nasty Plot",
+     "description": "Boosts Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "nightmare",
+     "name": "Nightmare",
+     "description": "Does 1/4 of the target's max HP per turn to a sleeping target.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "power_gem",
+     "name": "Power Gem",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psyshock",
+     "name": "Psyshock",
+     "description": "Damage is based on the target's Defense stat.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "quash",
+     "name": "Quash",
+     "description": "Forces the target to move last.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "recycle",
+     "name": "Recycle",
+     "description": "Restores a used up item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "scald",
+     "name": "Scald",
+     "description": "30% chance to burn the target. Thaws the user.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "seismic_toss",
+     "name": "Seismic Toss",
+     "description": "Does damage equal to the user's level.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "signal_beam",
+     "name": "Signal Beam",
+     "description": "10% chance to confuse.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "skill_swap",
+     "name": "Skill Swap",
+     "description": "The user and the target trade abilities.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "slack_off",
+     "name": "Slack Off",
+     "description": "Heals 50% max HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "stomp",
+     "name": "Stomp",
+     "description": "30% chance to flinch.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "surf",
+     "name": "Surf",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "telekinesis",
+     "name": "Telekinesis",
+     "description": "Lasts 3 turns and makes all moves hit the target.  Makes target immune to Ground-type moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "trick",
+     "name": "Trick",
+     "description": "Switches items with the foe.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "trick_room",
+     "name": "Trick Room",
+     "description": "Slower Pokemon move first for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "trump_card",
+     "name": "Trump Card",
+     "description": "Power increases as PP decreases.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_gun",
+     "name": "Water Gun",
+     "description": "No additional effect.",
+     "pp": 25,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 85,
+     "alias": "whirlpool",
+     "name": "Whirlpool",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "wonder_room",
+     "name": "Wonder Room",
+     "description": "Swaps Defense and Special Defense of all Pokemon.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "yawn",
+     "name": "Yawn",
+     "description": "Puts the target to sleep after 2 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 90,
+     "alias": "zen_headbutt",
+     "name": "Zen Headbutt",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "slowpoke",
+     "name": "Slowpoke"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "slowbro",
+       "name": "Slowbro"
+      },
+      "evos": []
+     },
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "slowking",
+       "name": "Slowking"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 75,
+     "height": 2.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Oblivious",
+       "alias": "oblivious",
+       "description": "Grants immunity to infatuation, Captivate, and taunt."
+      },
+      {
+       "gen": "xy",
+       "name": "Own Tempo",
+       "alias": "own_tempo",
+       "description": "Cannot be confused."
+      },
+      {
+       "gen": "xy",
+       "name": "Regenerator",
+       "alias": "regenerator",
+       "description": "Wielder heals 1/3 of its maximum HP on switching out."
+      }
+     ],
+     "alias": "slowking",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "psychic",
+       "name": "Psychic"
+      },
+      {
+       "gen": "xy",
+       "alias": "water",
+       "name": "Water"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 110,
+     "hp": 95,
+     "spatk": 100,
+     "suffix": "",
+     "pdef": 80,
+     "weight": 79.5,
+     "spe": 30,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

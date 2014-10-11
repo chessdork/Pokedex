@@ -1,0 +1,2243 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "iron_head",
+         "name": "Iron Head"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "healing_wish",
+         "name": "Healing Wish"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_punch",
+         "name": "Ice Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "trick",
+         "name": "Trick"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 252,
+       "hp": 128,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 124
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Iron Head is a reliable STAB move; with a Choice Scarf boosting Jirachi's Speed, its 60% flinch rate comes in very useful for picking off weakened opponents. Secondary effects aside, don't underestimate Iron Head's power; with maximum Attack investment, 108 HP / 28 Def Geomancy Xerneas takes 53-63% from the move, while frailer Pokemon like Mega Mewtwo Y and Darkrai have a high chance of being 2HKOed after taking a round of Stealth Rock damage. U-turn's damage output is paltry, but it is nonetheless a key move on this set as it allows Jirachi to pivot out of unfavorable matchups unscathed. Healing Wish allows Jirachi to sacrifice itself to fully restore a weakened teammate; it works nicely with a Choice Scarf as Jirachi's elevated Speed means it can likely pull off the move uninterrupted. In the last moveslot, Ice Punch is useful for hitting Landorus-T, a common switch-in to Jirachi. Note that when factoring in Intimidate's Attack drop, Ice Punch does not even manage a 2HKO on physically bulky Landorus-T, although offensive variants are cleanly dispatched. Alternatively, Trick is a useful move for crippling bulky Pokemon such as Ferrothorn and Heatran that are popular switch-ins to standard specially defensive Jirachi. Locking an opposing wall or tank into a single move severely inhibits its defensive and supportive capabilities, paving the way for Jirachi's teammates to sweep.</p>\n<h4>Set Details</h4>\n<p>124 Speed EVs with a Jolly nature lets Choice Scarf Jirachi outspeed everything up to Deoxys-A. 252 EVs are then invested in Attack to let Jirachi's Iron Head hit as hard as possible. 128 HP EVs provide some appreciable bulk; Geomancy Xerneas's +2 Hidden Power Fire only has a 25% chance of OHKOing Jirachi after it taken two rounds of Stealth Rock damage. As mentioned, a Choice Scarf allows Jirachi to outspeed many frail offensive powerhouses and overwhelm them with Iron Head. Also, a fast Healing Wish can reverse the tide of the battle in a pinch.</p>\n<h4>Usage Tips</h4>\n<p>Choice Scarf Jirachi has some offensive presence and therefore should be played more aggressively than standard specially defensive Jirachi. It revenge kills frail offensive Pokemon such as Mega Mewtwo Y and Mega Gengar quite reliably and should generally be used to do so. However, if its item has already been revealed and the opponent's switching out is imminent, do not hesitate to U-turn into a relevant teammate. Be alert in seeking out opportunities to use Healing Wish. Double switching Jirachi in on an opposing Pokemon that the intended recipient of its Healing Wish matches up well against is highly recommended. For example, if you are aiming to restore your Rock Polish Groudon for a late-game sweep and the opponent has a Klefki, actively attempt to use Healing Wish against it, so that you give Groudon a favorable switch-in. Also, take note that Healing Wish is best used when Jirachi itself is on the brink of being KOed itself. Lastly, be mindful of Jirachi's health, especially if you see in Team Preview that the opponent has a Xerneas. Note that this set cannot deal with Geomancy Xerneas nearly as well as specially defensive Jirachi; a +2 Hidden Power Fire has a 25% chance of OHKOing it after it has taken two rounds of Stealth Rock damage. Be more conservative with switching Jirachi in if you are intending to check what is a possible Geomancy Xerneas with it later in the game.</p>\n<h4>Team Options</h4>\n<p>This set finds its home on offensive teams in need of a sturdy pivot that can be reserved to deal upwards of 50% damage to Geomancy Xerneas. Enrtry hazard support, especially Stealth Rock, is necessary for Iron Head to net many crucial 2HKOs, such as against Mega Mewtwo Y and Darkrai. Suicide leads such as Deoxys-S can build offensive pressure for Jirachi to capitalize on early-game. Teammates that can provide Thunder Wave support are also much appreciated, as paralyzed opponents let Jirachi and its Iron Head abuse the Serene Grace paraflinch strategy to no end. Groudon, Xerneas, and even Kyogre are viable users of Thunder Wave that simultaneously pose a large offensive threat. It is worth highlighting that powerful wallbreakers and sweepers are good partners for Jirachi as they can take advantage of its U-turn to switch in and soften up the opposition for Jirachi to clean up with Iron Head; they are also excellent recipients of Healing Wish. The latter point is particularly notable, as hard-hitters like Choice Specs Kyogre and Mega Blaziken can wreak havoc early-game, only to be completely renewed by Healing Wish late-game to clinch you the victory.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "iron_head",
+         "name": "Iron Head"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_punch",
+         "name": "Fire Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice_punch",
+         "name": "Ice Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "zen_headbutt",
+         "name": "Zen Headbutt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "healing_wish",
+         "name": "Healing Wish"
+        },
+        {
+         "gen": "xy",
+         "alias": "trick",
+         "name": "Trick"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "serene_grace",
+       "name": "Serene Grace"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Iron Head is the star of the set, giving you a solid STAB that hits Fairies like Clefable hard, and allowing you to abuse Serene Grace to flinch your way through your opponent. The second move is for coverage. Zen Headbutt beats Fighting-types and Mega Venusaur, Ice Punch hits bulky Ground-types and Dragons like Gliscor, Landorus-T, and Dragonite, and Fire Punch hits Steel-types like Scizor and Ferrothorn; however, the latter two are extremely weak and will even fail to kill things like Physically defensive Ferrothorn, or even regular Garchomp. U-turn is used to maintain momentum. The last moveslot is preference. Trick can help cripple stall Pokemon like Chansey or Skarmory, while Healing Wish is useful for allowing a crippled mon to come back to life at full health.</p>\n<h4>Set Details</h4>\n<p>Max Attack and Speed with a Jolly nature is to avoid getting outsped while hitting as hard as possible. Choice Scarf allows you to outspeed everything in the game bar Ninjask and Deoxys-S.</p>\n<h4>Usage Tips</h4>\n<p>The idea of the set is to hit things hard and fast, and be able to flinch past your checks if need be. Running this set with a paralysis spreader can help increase the chance of your opponent not moving. Once again, avoid Pursuit trappers by U-turning out if you think they'll switch in.</p>\n<h4>Team Options</h4>\n<p>Klefki makes an excellent partner, as it spread paralysis extremely well. Mandibuzz, Edgequake users like Landorus-T, Fighting-types like Conkeldurr, Water-types such as Azumarill, and Electric-types like Rotom-W all help beat its checks.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "iron_head",
+         "name": "Iron Head"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "body_slam",
+         "name": "Body Slam"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_punch",
+         "name": "Fire Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice_punch",
+         "name": "Ice Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "zen_headbutt",
+         "name": "Zen Headbutt"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "serene_grace",
+       "name": "Serene Grace"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Paraflinch",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 252,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Iron Head gives Jirachi STAB and a high chance to cause a flinch. Body Slam is useful for spreading paralysis to Ground-types, however, it has a chance to fail and can't hit Ghost-types, so Thunder Wave could also be used. U-turn allows Jirachi to retain momentum for the team, allowing a more powerful threat to come in. The final moveslot will usually be Zen Headbutt for STAB damage against threats like Mega Venusaur and Keldeo in exchange for a lowered flinch chance, however, Ice Punch and Fire Punch can be used for super-effective coverage on dual type Ground-types and Dragon-types like Gliscor or Dragonite, or dual type Steel-types like Scizor or Ferrothorn. Note that the elemental punches are only useful when they hit for 4x super-effective damage, otherwise, they're extremely weak.</p>\n<h4>Set Details</h4>\n<p>The EVs are used to maximize bulk and Attack to increase staying power and damage dealt. Leftovers allows Jirachi to heal itself in the time the enemy can't move.</p>\n<h4>Usage Tips</h4>\n<p>The main goal of this set is to abuse the flinch chance of Iron Head, coupled with the chance of full paralysis. Be sure to U-turn out if you think a Pursuit-trapper is coming in. Electric-types should also be avoided, as they are immune to paralysis.</p>\n<h4>Team Options</h4>\n<p>Jirachi enjoys Wish support from things like Sylveon, as it can increase the amount of times it can come in. Since Electric-types like Rotom-W are the biggest stop to this set, partners that beat it are great teammates. Mega Venusaur, Thundurus-I, Excadrill, Kyurem-B, and Mega Gyarados all check Rotom-W, and have great synergy with Jirachi. Mandibuzz is also a good choice, as it beats many Dark- and Ghost-types. EdgeQuake users like Landorus-T or Garchomp are useful for beating Steel-types that wall it and Fire-types like Mega Charizard X/Y that outright destroy it. Fighting-types like Conkeldurr are also useful for their ability to beat Dark-types like Bisharp. Water-types like Azumarill help ease Fire- and Ground-type weaknesses, while Electric-types like Mega Manectric can help break bulky Water-types that wall this set.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "iron_head",
+         "name": "Iron Head"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "wish",
+         "name": "Wish"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 4,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Thunder Wave cripples the opponent with paralysis. Its most significant target is Geomancy Xerneas, which is much easier to handle by Jirachi and its teammates if its Speed boosts are negated. Iron Head is Jirachi's STAB move of choice, doing 42-50% to standard 108 HP / 28 Def Geomancy Xerneas. Once augmented by Serene Grace, it has a useful 60% flinch rate that can subdue any Xerneas variant when used with Thunder Wave. Wish allows Jirachi to pass parcels of 202 HP to its teammates and also heal its own HP, if needed. In the last moveslot, U-turn is a useful move to preserve momentum by letting Jirachi pivot out of switch-ins to it, as well as Mega Gengar attempting to trap it, which would prevent it from checking Xerneas later in the game. Healing Wish is a rare and nifty move that can give a weakened teammate a second wind. This can prove very useful in catching opponents off-guard late-game and potentially staging a sweep with a Pokemon they thought they had previously put out of commission. Lastly, Stealth Rock can be used especially if your team is hard-pressed to fit another user of the move. Jirachi's Steel typing gives it a useful immunity to Toxic and a 2x resistance to Stealth Rock, which aids it in switching in to set up the entry hazard. However, Jirachi's typing also leaves it vulnerable to common offensive threats such as Ho-Oh, Yveltal, and Ground-types, which may make it difficult for it to find opportunities to switch in.</p>\n<h4>Set Details</h4>\n<p>252 HP and SpD EVs with a Careful nature maximize Jirachi's special bulk at the cost of its unused Special Attack stat, letting it better stomach the assaults of boosted Geomancy Xerneas and stand up stoutly to neutral and resisted special attacks. Leftovers grants Jirachi passive healing, which works well with spamming Iron Head and Protect, if it is used. Jirachi's item choice is essentially non-negotiable as it needs all the spare HP it can get.</p>\n<h4>Usage Tips</h4>\n<p>If you see a Xerneas in Team Preview, Jirachi should not be switching in on much else as it needs the bulk of its HP intact to stand up to Geomancy Xerneas (it is prudent to assume Xerneas to be a Geomancy variant), which it is a dedicated check to and which justifies its usage in the first place. Xerneas aside, Jirachi generally fares well against Fairy-types, so feel free to switch it in on those, while maneuvering your way around Will-O-Wisp burns from the likes of Fairy Arceus. When Jirachi is on the field and you predict the opponent to switch out, evaluate the benefits of staying in. Depending on the opponent's team structure, you should not be too eager to stay in and attempt to hit switch-ins with Thunder Wave. Many common switch-ins to Jirachi, such as Ho-Oh and Landorus-T, are not too bothered by paralysis while having a significant offensive presence. With regard to the above point, staying in to use and pass a Wish to a teammate might be the best course of action; Wish passing is a relatively rare and useful means of support that Jirachi can offer its team, so make full use of it. As mentioned before, do not let Jirachi sustain a burn; the status condition eats away at its health and halves Iron Head's power. This is especially significant if you see Xerneas in Team Preview. When in a pinch, rely on Iron Head's flinch rate to muscle past weakened threats, provided they are already paralyzed and do not resist Iron Head; the odds are technically in your favor. Finally, be wary of double switches into Mega Gengar, as well as Pursuit users such as Scizor and Tyranitar, if you see them in Team Preview.</p>\n<h4>Team Options</h4>\n<p>Choice Scarf Kyogre is a stellar teammate for Jirachi, doing well against most of the Pokemon that check it, such as Ground-types and Ho-Oh. It also greatly appreciates Jirachi's Wish support. The rain Kyogre brings is useful for insuring Jirachi against Fire Blast Mewtwo. Bulky Fairy-types are generally good partners to check Dark-types. Physically defensive Xerneas can do this, as well as handle most Ground-types that like switching into Jirachi. Other Xerneas variants such as a Life Orb all-out attacker also synergize well with Jirachi. Landorus-T and Gliscor handle Zekrom and can set up Stealth Rock, which checks Ho-Oh. Their Flying typing also allows them to check other Ground-types. Notably, Gliscor with Roost and Toxic is an excellent Ho-Oh check, being immune to burns while possessing reliable recovery. Yveltal appreciates Jirachi's support in checking Fairy-types; in return, it can help Jirachi against Ghost- and Ground-types, though it must predict carefully around the latter. Specially defensive Palkia checks Kyogre excellently and fares well against Calm Mind Arceus formes barring Fairy Arceus, which Jirachi conveniently checks. Tyranitar fares well against Ho-Oh and Yveltal; it can also check Calm Mind Ghost and Electric Arceus with Toxic and its impressive special bulk in sand, but note that it compounds the team's Ground-type weakness.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "wish",
+         "name": "Wish"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "iron_head",
+         "name": "Iron Head"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "body_slam",
+         "name": "Body Slam"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        },
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "serene_grace",
+       "name": "Serene Grace"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Wishmaker",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>The first slot goes to Wish, which allows Jirachi a method of recovering either itself or its teammates and allows it to preform the role of cleric. Iron Head gives Jirachi a great STAB and allows Jirachi to abuse its ability and flinch its checks to death. Thunder Wave is the preferred option in the third moveslot as it allows Jirachi guaranteed paralysis, but Body Slam can be used to spread paralysis while Taunted and paralyze Ground-types like Garchomp. Note that while Body Slam can be used to paralyze Ground-types, it can't touch Ghost-types, and it has a 40% chance to fail to paralyze entirely. The fourth moveslot is mostly preference and team-dependence. Protect can drastically increase Jirachi's lifespan by allowing it to bypass the charge turn of Wish (useful if your team heavily relies on Jirachi), U-turn can allow Jirachi to maintain momentum and bring allies free switch-ins, and Stealth Rock is good if it hasn't been added to the team yet, as Jirachi can beat common Defoggers like Latias and Skarmory.</p>\n<h4>Set Details</h4>\n<p>Max investment is put in to HP and Special Defense to increase Jirachi's bulk. Leftovers  is used to give passive recovery. Jirachi can also run a physically defensive version of this set with the Special Defense EVs moved to Defense and nature changed to Impish in order to get paralysis on a number of threats, including Mega Pinsir and Terrakion, but Jirachi tends to come in on special attacks more easily. 252 HP / 136 SpD /120 Spe Careful nature can be used to outrun Jolly Mega Tyranitar if you absolutely fear it and want to try flinching it to death.</p>\n<h4>Usage Tips</h4>\n<p>This set is useful for slower, bulkier teams that like the paralysis and Wish support. Jirachi also tends to have an easy time coming in on Chansey and Blissey, as it has an immunity to Toxic. Beware of Pursuit users, however, as they can trap Jirachi and beat it. Electric-type Pokemon are also annoying, as they are completely immune to paralysis. The same is true of Ground-types if Thunder Wave is used over Body Slam.</p>\n<h4>Team Options</h4>\n<p>Mandibuzz makes an excellent partner for Jirachi, as it resists Dark-, Ghost-, and Ground-type hits. EdgeQuake users and Fighting-types help beat many of Jirachi's checks, like Bisharp and Tyranitar. Water-types like Keldeo help with the Ground- and Fire-type weaknesses, while bulky Fairy-types help beat Dark-types.</p>\n"
+    }
+   ],
+   "alias": "jirachi",
+   "name": "Jirachi",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "jirachi"
+    },
+    {
+     "gen": "dp",
+     "alias": "jirachi"
+    },
+    {
+     "gen": "rs",
+     "alias": "jirachi"
+    },
+    {
+     "gen": "xy",
+     "alias": "jirachi"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "ancient_power",
+     "name": "Ancient Power",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "calm_mind",
+     "name": "Calm Mind",
+     "description": "Boosts Special Attack and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 90,
+     "alias": "charge_beam",
+     "name": "Charge Beam",
+     "description": "70% chance to boost Special Attack by 1 stage.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "confusion",
+     "name": "Confusion",
+     "description": "10% chance to confuse.",
+     "pp": 25,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "cosmic_power",
+     "name": "Cosmic Power",
+     "description": "Boosts Defense and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "dazzling_gleam",
+     "name": "Dazzling Gleam",
+     "description": "Deals damage to all adjacent foes.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "defense_curl",
+     "name": "Defense Curl",
+     "description": "Boosts Defense by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "doom_desire",
+     "name": "Doom Desire",
+     "description": "Deals damage at the end of the turn after three turns.",
+     "pp": 5,
+     "power": 140
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "draco_meteor",
+     "name": "Draco Meteor",
+     "description": "Lowers user's Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "drain_punch",
+     "name": "Drain Punch",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "dream_eater",
+     "name": "Dream Eater",
+     "description": "Leeches 50% of the damage dealt. Only works if target is asleep.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 50,
+     "alias": "dynamic_punch",
+     "name": "Dynamic Punch",
+     "description": "Confuses the foe.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "energy_ball",
+     "name": "Energy Ball",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "fire_punch",
+     "name": "Fire Punch",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "flash_cannon",
+     "name": "Flash Cannon",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "follow_me",
+     "name": "Follow Me",
+     "description": "All moves target the user.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "future_sight",
+     "name": "Future Sight",
+     "description": "Deals damage at the end of the turn after three turns.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "gravity",
+     "name": "Gravity",
+     "description": "For 5 turns, prevents flying or jumping; also disables Ground immunities.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "healing_wish",
+     "name": "Healing Wish",
+     "description": "KOs the user and heals the next Pokemon in.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "helping_hand",
+     "name": "Helping Hand",
+     "description": "Increases power of ally's moves by 50%.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_punch",
+     "name": "Ice Punch",
+     "description": "10% chance to freeze the target.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "iron_defense",
+     "name": "Iron Defense",
+     "description": "Boosts Defense by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "last_resort",
+     "name": "Last Resort",
+     "description": "Can only be used if all other moves have been used once.",
+     "pp": 5,
+     "power": 140
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "magic_coat",
+     "name": "Magic Coat",
+     "description": "Bounces back certain non-damaging moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "magic_room",
+     "name": "Magic Room",
+     "description": "Held items have no effect for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 90,
+     "alias": "meteor_mash",
+     "name": "Meteor Mash",
+     "description": "20% chance to raise Attack by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "metronome",
+     "name": "Metronome",
+     "description": "Picks a random move.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "moonblast",
+     "name": "Moonblast",
+     "description": "Deals damage to one adjacent target with a 30% chance to lower its Special Attack by 1 stage.",
+     "pp": 15,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "nightmare",
+     "name": "Nightmare",
+     "description": "Does 1/4 of the target's max HP per turn to a sleeping target.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psyshock",
+     "name": "Psyshock",
+     "description": "Damage is based on the target's Defense stat.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "recycle",
+     "name": "Recycle",
+     "description": "Restores a used up item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "reflect",
+     "name": "Reflect",
+     "description": "Lowers damage from physical attacks for 5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "refresh",
+     "name": "Refresh",
+     "description": "Removes status.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 0,
+     "alias": "shock_wave",
+     "name": "Shock Wave",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "signal_beam",
+     "name": "Signal Beam",
+     "description": "10% chance to confuse.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "skill_swap",
+     "name": "Skill Swap",
+     "description": "The user and the target trade abilities.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "stealth_rock",
+     "name": "Stealth Rock",
+     "description": "Damages foe's switch-ins.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "telekinesis",
+     "name": "Telekinesis",
+     "description": "Lasts 3 turns and makes all moves hit the target.  Makes target immune to Ground-type moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 70,
+     "alias": "thunder",
+     "name": "Thunder",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_punch",
+     "name": "Thunder Punch",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunderbolt",
+     "name": "Thunderbolt",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "trick",
+     "name": "Trick",
+     "description": "Switches items with the foe.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "trick_room",
+     "name": "Trick Room",
+     "description": "Slower Pokemon move first for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "u-turn",
+     "name": "U-turn",
+     "description": "Attacks, then switches.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "uproar",
+     "name": "Uproar",
+     "description": "Repeats for 2-5 turns. No Pokemon can sleep during these turns.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "wish",
+     "name": "Wish",
+     "description": "Heals 50% of max HP after 2 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 90,
+     "alias": "zen_headbutt",
+     "name": "Zen Headbutt",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "jirachi",
+     "name": "Jirachi"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 100,
+     "height": 0.3,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Serene Grace",
+       "alias": "serene_grace",
+       "description": "This Pokemon's secondary effect chances are doubled."
+      }
+     ],
+     "alias": "jirachi",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "psychic",
+       "name": "Psychic"
+      },
+      {
+       "gen": "xy",
+       "alias": "steel",
+       "name": "Steel"
+      }
+     ],
+     "gkpower": 20,
+     "spdef": 100,
+     "hp": 100,
+     "spatk": 100,
+     "suffix": "",
+     "pdef": 100,
+     "weight": 1.1,
+     "spe": 100,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1848 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "slack_off",
+         "name": "Slack Off"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sand_stream",
+       "name": "Sand Stream"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Physical Wall",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 4,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hippowdon's physical bulk allows it to set up Stealth Rock multiple times throughout the match. Slack Off can keep Hippowdon healthy over the course of a game and prevents it from being worn down. Hippowdon wishes to check physical sweepers instead of becoming setup fodder to them, and Whirlwind can phaze these sweepers out, also racking up residual damage with Stealth Rock. If that does not sound appealing to you, Toxic can be used to stall out attackers, with Sand Stream negating Leftovers recovery of non Ground-, Rock-, and Steel-types. Earthquake is a solid attacking move to use, as it keeps Hippowdon from being Taunt bait and can OHKO Mega Gengar after it has Mega Evolved.</p>\n<h4>Set Details</h4>\n<p>Hippowdon should run a physically defensive EV spread with Leftovers to check threats such as Mega Blaziken and Mega Lucario. Because of this, try not to deviate from this spread so that Hippowdon can be as helpful as it can.</p>\n<h4>Usage Tips</h4>\n<p>As Hippowdon is a physical wall, try to avoid special attackers as its special bulk is somewhat lacking. Also, Zekrom carries Draco Meteor to defeat bulky Ground-types, so be careful when attempting to switch into it. Getting burned or poisoned by Toxic is not something Hippowdon wants to deal with because it uses Slack Off a lot, so avoid these status conditions as much as possible. When facing extremely strong physical attackers like Rayquaza and Choice Band users, try using Slack Off repeatedly if they do not carry boosting moves to stall them out; however exercise caution while doing the same, because while Hippowdon might have large physical bulk, it can still be 3HKOed or 2HKOed by powerful physical attacks.</p>\n<h4>Team Options</h4>\n<p>Specially defensive clerics like Sylveon and Xerneas can not only heal Hippowdon of status, but also deal with Yveltal very well, and Xerneas can deal with mixed Zekrom variants. This also applies to special tanks like Aegislash and walls like Blissey. A Kyogre check is also very appreciated; Palkia, Grass Arceus, and Amoonguss can do nicely. As Hippowdon can check Zekrom well, Water-types such as Water Arceus and Kyogre pair up well with Hippowdon. Ferrothorn can partner up with Hippowdon to form an entry hazard core if Ferrothorn chooses to run Spikes, but a Fire-type resistance would be required to make the core better. Finally, Sand Rush users such as Excadrill love Hippowdon's presence and the weather it brings with it so they can sweep or clean.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "slack_off",
+         "name": "Slack Off"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sand_force",
+       "name": "Sand Force"
+      },
+      {
+       "gen": "xy",
+       "alias": "sand_stream",
+       "name": "Sand Stream"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Smooth Rock",
+       "alias": "smooth_rock",
+       "description": "Makes Sandstorm and Sand Stream last 8 turns."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Stealth Rock is the first move of this set, as with Hippowdon's great natural bulk, it is one of the most durable and reliable Stealth Rock setters in the tier. Slack Off is a necessity in order to keep Hippowdon healthy throughout the course of the match. Earthquake is a reliable STAB option that actually can do a surprising amount of damage coming off Hippowdon's good Attack stat. Rock Slide is the preferred option in the last slot, as it allows Hippowdon to hit Pokemon that are immune to Earthquake such as Mega Aerodactyl for super effective damage. Toxic can be effective, however, as it can rack up a lot of residual damage when combined with Stealth Rock and sandstorm damage. Whirlwind is another option that can be used to phaze setup sweepers while racking up entry hazard damage.</p>\n<h4>Set Details</h4>\n<p>Max HP and max Defense investment with an Impish nature are used to help boost Hippowdon's best defensive stat, making it a great physical wall. Leftovers is used for passive recovery, which is great on a defensive Pokemon such as Hippowdon. Smooth Rock can be helpful, however, as it extends the duration of sand, allowing Pokemon such as Stoutland to their job more effectively. Sand Stream is the preferred ability, as it can wear down on the opponent while also crippling the opponent's recovery moves, such as Synthesis and Moonlight. However, if sandstorm hurts your team members' ability to recover HP, Sand Force can be used instead.</p>\n<h4>Usage Tips</h4>\n<p>When using Hippowdon, the game plan is simple: Tank hits, set up Stealth Rock, and focus on wearing the opponent down through entry hazard, sand, and potential Toxic damage. Slack Off should be used often to keep Hippowdon healthy throughout the match and help it wall the opponent more effectively. It's important to know Hippowdon's limits; while it's a great physical tank, it still can't switch into powerful special attackers and physical wallbreakers such as Chandelure and Choice Band Victini.</p>\n<h4>Team Options</h4>\n<p>Grass-types such as Roserade and Celebi can easily take Water- and Grass-type attacks for Hippowdon, making them some of the best partners. Roserade can also help set up Spikes and Toxic Spikes, allowing it to wear down the opponent more easily. Water-types such as Vaporeon and Suicune can take Ice- and Water-type attacks with ease. Jellicent can spinblock, while Mega Blastoise, Starmie, Empoleon, and Tentacruel can remove entry hazards. Tentacruel can also lay down Toxic Spikes to help further wear down the opposing team. Specially defensive Pokemon such as Umbreon, Florges, and Snorlax can take on the powerful special attackers Hippowdon dislikes. Flying-types also make good partners, as Hippowdon can take on the Rock- and Electric-type moves they hate. Crobat provides helpful Defog support, while Mega Aerodactyl receives a Special Defense boost in the sand. Sand Rush Stoutland can use Hippowdon's Sand Stream ability to achieve a large boost to its Speed, which turns it into a fast and powerful revenge killer and late-game cleaner.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "slack_off",
+         "name": "Slack Off"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sand_force",
+       "name": "Sand Force"
+      },
+      {
+       "gen": "xy",
+       "alias": "sand_stream",
+       "name": "Sand Stream"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>The moveset is exactly the same as the Specially Defensive set. Earthquake is the obligatory STAB attack that hits fairly hard and prevents it from being setup bait. Stealth Rock is arguably the best move in the game and Hippowdon is a good user of it due to its great bulk. Slack Off provides reliable recovery, further augmenting its walling capabilities. The last slot depends on what your team needs. Toxic cripples common switch-ins such as Rotom-W and Mandibuzz, as well as opposing walls. Rock Slide breaks Air Balloon and covers Talonflame, Mega Charizard Y, and Mega Pinsir. Stone Edge can be used to OHKO Mega Pinsir, but most of the time Rock Slide is enough. If your team can handle the aforementioned Pokemon well, consider Whirlwind, as it gets rid of your opponent's stat boosts and racks up entry hazard damage. It is Hippowdon's best chance against bulkier set-up sweepers like Mega Scizor.</p>\n<h4>Set Details</h4>\n<p>The given EVs along with an Impish nature maximize Hippowdon's physical bulk so that it can check or counter a multitude of physical attackers in the tier, such as Mega Charizard X, Talonflame, and Garchomp. Leftovers provides passive recovery which always comes in handy. Sand Force is the preferred ability because this set does not need sand to fulfill its purpose and sand is generally a nuisance for the rest of the team, but Sand Stream can be used if one of its teammates appreciates sand support. Smooth Rock with Sand Stream can be used to extend the number of sand turns to 8, providing a sweeping opportunity for Sand Rush Excadrill and giving a boost to Mega Garchomp's Earthquake and Stone Edge.</p>\n<h4>Usage Tips</h4>\n<p>Use this set if your team lacks Stealth Rock and needs a bulky Pokemon to check physical threats, such as Terrakion, Dragonite, Garchomp, and Talonflame. Always try to keep Hippowdon as healthy as possible because it will almost always move last, forcing it to withstand two attacks. Keep in mind that Hippowdon can set up Stealth Rock several times, so you don't have to worry much about Defog or Rapid Spin. Its Special Defense is not as impressive as its Defense, so be wary of switching into even moderately strong special attacks.</p>\n<h4>Team Options</h4>\n<p>Hippowdon appreciates teammates that can take on special attackers easily, such as Chansey and Latias. The former can also rid Hippowdon of any status effect that it might have been inflicted with, while the latter can use Defog to support the team. Speaking of Defog, entry hazard control is necessary as Hippowdon can potentially be 2HKOed by taking entry hazard damage followed by two hits from the opponent. Something to take on Mega Gyarados, Azumarill, and other Water-types is also appreciated. Ferrothorn can do this and has good synergy with Hippowdon. Rotom-W makes a great teammate, as it can take Water- and Ice-type attacks for Hippowdon. Mega Venusaur is a very good teammate as it can check most of the Water- and Grass-types that tend to switch into Hippowdon, and is not weak to Ice-type moves, thanks to Thick Fat. Hippowdon in return can check Talonflame and Mega Pinsir which threaten Mega Venusaur. Mega Garchomp and Sand Rush Excadrill also appreciate the sand provided by Hippowdon, becoming a fearsome sweeper or wallbreaker respectively; however, this strategy's viability has been hit hard by the weather nerf.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "slack_off",
+         "name": "Slack Off"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sand_force",
+       "name": "Sand Force"
+      },
+      {
+       "gen": "xy",
+       "alias": "sand_stream",
+       "name": "Sand Stream"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Earthquake is a strong STAB attack that deters frail sweepers from setting up on Hippowdon. Stealth Rock is a great support move and Hippowdon is very good at setting it up due to its great bulk. Slack Off provides reliable recovery making it more difficult to wear it down. The last slot depends on what your team needs. Toxic cripples opposing walls such as Mandibuzz and Rotom-W, making it easier for teammates to sweep. Rock Slide breaks Air Balloon and covers Talonflame, Mega Charizard Y, and Mega Pinsir. If your team can handle them, consider Whirlwind as it gets rid of your opponent's stat boosts while racking up entry hazard damage. It is Hippowdon's best chance against bulkier set-up sweepers like Mega Scizor.</p>\n<h4>Set Details</h4>\n<p>The EV spread and nature are straightforward. Max HP, Max Special Defense, and a Careful nature maximize Hippowdon's Special Defense, allowing it to check some powerful special attackers such as Thundurus, Gengar, and Mega Charizard Y. Leftovers is used to provide passive recovery which could mean the difference between an OHKO or 2HKO. Sand Stream is the preferred ability as it lets Hippowdon check Mega Charizard Y, although Sand Force can be used if Sand Stream is detrimental to rest of your team. Smooth Rock with Sand Stream can be used to provide a sweeping opportunity for Sand Rush Excadrill or to give a boost to Mega Garchomp's Earthquake and Stone Edge, as it extends the number of sand turns to 8.</p>\n<h4>Usage Tips</h4>\n<p>Try to keep Hippowdon as healthy as possible if there is a Pokemon on the opposing team that can be checked by Hippowdon, as its low Speed often forces it to take 2 hits before it can fire off an attack. Keep in mind that Hippowdon can set up Stealth Rock several times, so you don't have to worry too much about Defog or Rapid Spin. Thanks to its naturally high Defense stat, it can take weaker physical attacks easily. If you see a Pokemon that is badly affected by sandstorm on the opposing team, such as Chansey or Mega Venusaur, always try to take advantage of it.</p>\n<h4>Team Options</h4>\n<p>A way of controlling entry hazards on your side, such as Defog, is appreciated as Hippowdon can potentially be 2HKOed by taking entry hazard damage followed by two hits from the opponent. Latias and Mega Scizor are good candidates, having solid synergy with Hippowdon. Hippowdon also appreciates teammates that can switch into Water-, Ice-, and Grass-type attacks aimed at it, such as Ferrothorn and Mega Venusaur. The former can also lay Spikes, which can quickly wear down the opponent in conjunction with Stealth Rock, sand, and Whirlwind. If you are using Mega Venusaur, be sure to use Sand Force as Hippowdon's ability as Sand Stream reduces Synthesis recovery. Mega Garchomp and Sand Rush Excadrill also appreciate the sand provided by Hippowdon, becoming a fearsome wallbreaker or sweeper, respectively; however, this strategy's viability has been hit hard by the weather nerf.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "slack_off",
+         "name": "Slack Off"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "sand_force",
+       "name": "Sand Force"
+      },
+      {
+       "gen": "xy",
+       "alias": "sand_stream",
+       "name": "Sand Stream"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Smooth Rock",
+       "alias": "smooth_rock",
+       "description": "Makes Sandstorm and Sand Stream last 8 turns."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Hippowdon is a great Stealth Rock setter thanks to its durability and access to reliable recovery. Slack Off is used in the second slot for reliable recovery, keeping Hippowdon healthy throughout the match. Earthquake is used in the third slot as it provides a good STAB attack that can actually do decent damage to the opponent. Rock Slide is the preferred move in the last spot as it can hit Flying-type Pokemon such as Mega Aerodactyl. Toxic can be used, however, to cripple both set up sweepers and walls, as well as rack up a lot of residual damage along with sand and Stealth Rock. Whirlwind is another option to phaze setup sweepers and can rack up entry hazard damage.</p>\n<h4>Set Details</h4>\n<p>Max HP and max Special Defense investment with a Careful nature turns Hippowdon into a great mixed defensive tank, allowing it to take both physical and special hits. Leftovers is used to help Hippowdon heal off residual damage. Smooth Rock is an option, however, to extend the duration of Sand Stream, helping Pokemon such as Stoutland effectively do their job. Sand Stream is the favored ability, as it's great for wearing down the opponent in combination with entry hazard and potential Toxic damage. It also hinders the opponent's recovery moves, such as Moonlight and Synthesis. However, if Sand Stream harms your teammates' ability to recover, then Sand Force can be used instead.</p>\n<h4>Usage Tips</h4>\n<p>In general, Hippowdon should be tanking hits, setting up Stealth Rock, healing, and wearing the opponent down through residual damage. It's important to keep Hippowdon's HP as high as possible at all times, or else Hippowdon itself will get worn down. Even if Hippowdon is using a specially defensive spread, this doesn't mean it's able to take on extremely powerful special attackers. Instead, it should be used as a mixed tank that is capable of tanking moderately powerful special and physical attacks. Most notably, this set functions much better against Electric-types, as it's able to stomach their Hidden Power Ice or Grass much easier.</p>\n<h4>Team Options</h4>\n<p>Grass-types such as Roserade and Celebi make excellent partners, as they can easily sponge the Water- and Grass-type moves Hippowdon hates. Roserade can also set up Spikes and Toxic Spikes, which in combination with Stealth Rock and Hippowdon's Sand Stream, can easily wear down the opponent. Water-types such as Vaporeon and Suicune make for great partners, as they can help tank Water- and Ice-type attacks for Hippowdon. Mega Blastoise, Starmie, Empoleon, and Tentacruel can remove entry hazards, with the latter also being able to set Toxic Spikes up. Jellicent can block Rapid Spin, making it especially helpful. Hippowdon can easily take on Rock- and Electric-type attacks, making Flying-types good partners. Crobat can remove entry hazards via Defog, while Mega Aerodactyl appreciates the Special Defense boost it receives from the sand. Choice Band Stoutland with Sand Rush loves Hippowdon's sand support, as it turns it into a powerful and fast attacker.</p>\n"
+    }
+   ],
+   "alias": "hippowdon",
+   "name": "Hippowdon",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "hippowdon"
+    },
+    {
+     "gen": "dp",
+     "alias": "hippowdon"
+    },
+    {
+     "gen": "xy",
+     "alias": "hippowdon"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "bite",
+     "name": "Bite",
+     "description": "10% chance to flinch.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "crunch",
+     "name": "Crunch",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "curse",
+     "name": "Curse",
+     "description": "Does 1/4 of max HP damage per turn at the cost of half the user's max HP if the user is a Ghost. Boosts Attack and Defense and lowers Speed by 1 stage otherwise.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 95,
+     "alias": "fire_fang",
+     "name": "Fire Fang",
+     "description": "10% chance to flinch. 10% chance to burn.",
+     "pp": 15,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 30,
+     "alias": "fissure",
+     "name": "Fissure",
+     "description": "Will OHKO the target.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "ice_fang",
+     "name": "Ice Fang",
+     "description": "10% chance to flinch. 10% chance to freeze.",
+     "pp": 15,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 75,
+     "alias": "iron_tail",
+     "name": "Iron Tail",
+     "description": "30% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "revenge",
+     "name": "Revenge",
+     "description": "Doubles in power if damaged.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "sand_attack",
+     "name": "Sand Attack",
+     "description": "Lowers foe's accuracy by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 85,
+     "alias": "sand_tomb",
+     "name": "Sand Tomb",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "slack_off",
+     "name": "Slack Off",
+     "description": "Heals 50% max HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "spit_up",
+     "name": "Spit Up",
+     "description": "Varies in power depending on the number of uses of Stockpile.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "stealth_rock",
+     "name": "Stealth Rock",
+     "description": "Damages foe's switch-ins.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "stockpile",
+     "name": "Stockpile",
+     "description": "Sets the user up to use Spit Up and Swallow.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "superpower",
+     "name": "Superpower",
+     "description": "Lowers the user's Attack and Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swallow",
+     "name": "Swallow",
+     "description": "Healing varies based on the number of uses of Stockpile.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "take_down",
+     "name": "Take Down",
+     "description": "Has 1/4 recoil.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 95,
+     "alias": "thunder_fang",
+     "name": "Thunder Fang",
+     "description": "10% chance to flinch. 10% chance to paralyze.",
+     "pp": 15,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "whirlwind",
+     "name": "Whirlwind",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "yawn",
+     "name": "Yawn",
+     "description": "Puts the target to sleep after 2 turns.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "hippopotas",
+     "name": "Hippopotas"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "hippowdon",
+       "name": "Hippowdon"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 112,
+     "height": 2.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Sand Force",
+       "alias": "sand_force",
+       "description": "Increases power of Ground-, Rock-, and Steel-type attacks by 30% in a sandstorm."
+      },
+      {
+       "gen": "xy",
+       "name": "Sand Stream",
+       "alias": "sand_stream",
+       "description": "Summons sandstorm."
+      }
+     ],
+     "alias": "hippowdon",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "ground",
+       "name": "Ground"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 72,
+     "hp": 108,
+     "spatk": 68,
+     "suffix": "",
+     "pdef": 118,
+     "weight": 300.0,
+     "spe": 47,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

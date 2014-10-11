@@ -1,0 +1,1858 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "overheat",
+         "name": "Overheat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "volt_switch",
+         "name": "Volt Switch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_grass",
+         "name": "Hidden Power Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_ice",
+         "name": "Hidden Power Ice"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunderbolt",
+         "name": "Thunderbolt"
+        },
+        {
+         "gen": "xy",
+         "alias": "trick",
+         "name": "Trick"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Rotom-H's great STAB coverage and decent Speed makes it the perfect candidate for a Choice Scarfed revenge killer. Overheat is used as its main revenge killing tool due to its high Base Power. Volt Switch gains offensive momentum and can also be used for revenge killing in combination with Overheat. Hidden Power Grass nails Swampert, Gastrodon, and Rhyperior, which would otherwise wall Rotom-H completely. However, Hidden Power Ice can instead be used to hit Flygon, Hydreigon, and Mega Ampharos. Trick allows Rotom-H to cripple walls such as Blissey and slower attackers such as Snorlax. Thunderbolt can also used in this slot to revenge kill more effectively without switching out.</p>\n<h4>Set Details</h4>\n<p>Using maximum Speed EVs with a Modest Nature allows it to outspeed Jolly Mega Aerodactyl and everything below. A Timid nature can also be used to outspeed Choice Scarf Porygon-Z and Chandelure</p>\n<h4>Usage Tips</h4>\n<p>This set functions as a great lead with its great Speed in combination with Volt Switch, allowing it to quickly grab momentum early-game. Rotom-H should be wary of being locked into Overheat, as Pokemon such as Kyurem and Houndoom can take advantage of it. Rotom-H also shouldn't Trick away its Choice Scarf early-game, as it severely hinders Rotom-H's ability to revenge kill. Furthermore, if it is tricked onto the wrong Pokemon; one that can take advantage of it, it can be detrimental. Rotom-H should find opportunities to switch in agaist most Ground-types, Electric-types, Grass-types, Steel-types, and Flying-types in general, or be switched in through U-turn or Volt Switch.</p>\n<h4>Team Options</h4>\n<p>Much like the first set, entry hazard removal is mandatory. Flygon and Crobat are great options, as in addition to having access to Defog, they also have access to U-turn, forming a VoltTurn core. Pokemon such as Toxicroak and Aerodactyl that attract burns and paralysis can also give Rotom-H switch in opportunities. Finally, Hydreigon and Jirachi, to name a couple, appreciate some of the Pokemon that Rotom-H take out gone, such as Escavalier, Honchkrow, and Kyurem.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "overheat",
+         "name": "Overheat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "volt_switch",
+         "name": "Volt Switch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_ice",
+         "name": "Hidden Power Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunderbolt",
+         "name": "Thunderbolt"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunderbolt",
+         "name": "Thunderbolt"
+        },
+        {
+         "gen": "xy",
+         "alias": "trick",
+         "name": "Trick"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 4,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Unfortunately, the inconsistent Overheat is Rotom-H's only Fire-type STAB, and cannot be replaced. However, it is far stronger than any of Rotom-H's other attacks, boosting its viability greatly, and meshes well with this set's hit-and-run nature. Volt Switch is functionally Rotom-H's most important move, as it allows Rotom-H to safely scout the opponent's team and quickly get itself out of a bad situation. Hidden Power Ice gives Rotom-H the ability to revenge kill popular offensive Pokemon such as Garchomp and Landorus, even outspeeding +1 Dragonite thanks to the Choice Scarf. However, its low power means the aforementioned threats will need to have taken some prior damage for a clean OHKO. Thunderbolt, on the other hand, dishes out a much stronger hit than Volt Switch to foes such as Togekiss, as they can otherwise simply recover the damage taken from Volt Switch. In addition, it lets Rotom-H stay in battle with a STAB attack, which Volt Switch and Overheat do not allow. Finally, Trick lets Rotom-H permanently cripple the walls that aim to stop it, namely Chansey and Sylveon.</p>\n<h4>Set Details</h4>\n<p>The given EVs maximize Rotom-H's Special Attack and Speed, the two most important stats for this set's success. A Timid nature lets Rotom-H Speed tie with +1 Rotom-W and outspeed +1 Jolly Dragonite and +1 Adamant Excadrill. A slightly bulkier spread of 108 HP / 176 SpA / 224 Spe with a Timid nature lets Rotom-H survive Choice Band Azumarill's Aqua Jet from full health, and outspeeds Mega Alakazam, Mega Aerodactyl, and +1 Mega Gyarados. If more power is desired, a Modest nature guarantees an OHKO on Dragonite with Hidden Power Ice after Stealth Rock, but keep in mind this prevents Rotom-H from outspeeding all of the aforementioned threats, so it generally isn't worth it.</p>\n<h4>Usage Tips</h4>\n<p>Rotom-H can be brought out against the Pokemon it walls, such Thundurus and Talonflame, taking minimal damage and immediately threatening them. This Rotom-H also functions as a great revenge killer, threatening many popular offensive Pokemon such as Mega Pinsir with one of its STAB or coverage moves after a teammate faints. In addition, Rotom-H functions as an excellent lead, using Volt Switch to gain early momentum. Overheat is usually a powerful move to spam should Volt Switch be a poor choice; however, one must be extremely wary of being locked into Overheat against Heatran or setup sweepers such as Calm Mind Keldeo or Dragon Dance Dragonite.</p>\n<h4>Team Options</h4>\n<p>Due to this set's hit-and-run nature, Rapid Spin or Defog support is crucial to prevent Rotom-H from being worn down. Good Rapid Spin or Defog users to pair with Rotom-H include Empoleon, Latias, Mega Blastoise, Starmie, Tentacruel, and bulky variants of Scizor, as all share decent synergy with Rotom-H. Pokemon with Volt Switch or U-turn can easily form a VoltTurn core with Rotom-H, as it matches well with common users of the strategy such as Landorus and Scizor. Finally, teammates that attract resisted moves or threats such as Ferrothorn or Talonflame are great for Rotom-H, as smart plays will let Rotom-H easily grab momentum with Volt Switch or fire off powerful Overheats.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "overheat",
+         "name": "Overheat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "volt_switch",
+         "name": "Volt Switch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_grass",
+         "name": "Hidden Power Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_ice",
+         "name": "Hidden Power Ice"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunderbolt",
+         "name": "Thunderbolt"
+        },
+        {
+         "gen": "xy",
+         "alias": "trick",
+         "name": "Trick"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Choice Specs",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Specs",
+       "alias": "choice_specs",
+       "description": "Hold item which raises Special Attack by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set takes a more offensive approach compared to the last two; focusing on Rotom-H's Special Attack and offensive coverage by using Choice Specs. Overheat is its main tool for denting opponents, and does an extremely high amount of damage when coupled with Choice Specs. Volt Switch allows Rotom-H to pivot, while dealing great damage. The next slot is for coverage: Hidden Power Grass is for Rhyperior, Swampert, and Quagsire, and Hidden Power Ice is for Flygon, Hydreigon, and Mega Ampharos. Will-O-Wisp can also be used in the third slot, allowing you to cripple physical attackers after you Trick away your Choice Specs. Trick also allows it to cripple walls, especially specially orientated ones, such as Florges and Porygon2, along with setup sweepers such as Toxicroak. Thunderbolt can also be used as an Electric-type STAB attack that doesn't force Rotom-H to switch out, but it leaves Rotom-H vulnerable to special walls.</p>\n<h4>Set Details</h4>\n<p>Using Choice Specs on Rotom-H allows it to hit like an absolute truck and hits more frail Pokemon that resist Fire hard. Using a Timid nature allows it to outspeed non-Choice Porygon-Z, Nidoking, and Toxicroak. However, a Modest nature provides more firepower, allowing Rotom-H to get OHKOs and 2HKOs more easily. Also, a more bulky spread of 252 HP / 252 SpA / 4 SpD with a Modest Nature can be used, but it fails to deal with Pokemon such as Nidoking and Honchkrow as easily compared to the given EVs.</p>\n<h4>Usage Tips</h4>\n<p>Rotom-H should be brought out on a Pokemon it counters, such as Nidoking, or through U-turn or Volt Switch. Once Rotom-H is in a threatening position, it can grab momentum with Volt Switch and deal a lot of damage in doing so. However, try not to bring Rotom-H in at all when Stealth Rock is on the field, as the damage racks up very quickly because Rotom-H will be switching a lot. Be wary of using Volt Switch too often, as the opponent can take advantage of it by switching into a Ground-type, or into a Pokemon that would normally be countered by Rotom-H.</p>\n<h4>Team Options</h4>\n<p>The teammates for this set are very similar to the others; make sure to have some form of entry hazard removal, a Stealth Rock setter, and optionally a U-turn user to form a VoltTurn core. A bulky Grass-type can help this particular set to get rid of Rhyperior and Swampert, allowing it to repeatedly use its STAB moves more safely. Celebi fits this role nicely, while also having U-turn to complete the VoltTurn core. Other teammates for this set are Pokemon that appreciate Rotom-H's wallbreaking ability, such as Mega Aerodactyl and Darmanitan.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "overheat",
+         "name": "Overheat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "volt_switch",
+         "name": "Volt Switch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "pain_split",
+         "name": "Pain Split"
+        },
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Chesto Berry",
+       "alias": "chesto_berry",
+       "description": "Cures sleep. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Despite Rotom-H's defensive nature, Overheat remains its main STAB move of choice to threaten most of the Pokemon it counters. Volt Switch provides momentum and switching utility; with Rotom-H's greatly increased longevity, more opportunities to use Volt Switch will arise. Will-O-Wisp cripples many of the attackers that might try to switch into Rotom-H, such as Garchomp and Tyranitar. Finally, Pain Split is one of two choices Rotom-H has for recovery, putting it to decent use with a low HP stat of 50. However, Rest provides a much more thorough form of recovery than Pain Split, particularly in removing the effects of Toxic, at the cost of practically forcing Rotom-H to carry Chesto Berry (and therefore only working reliably once). However, it is also possible to run a second status move in place of recovery. Thunder Wave is better for offensive teams looking to outspeed many of Rotom-H's faster switch-ins, whereas Toxic deals with Rotom-W much more efficiently than Will-O-Wisp does and has better synergy with defensive teams.</p>\n<h4>Set Details</h4>\n<p>A physically defensive spread of 252 HP / 252 Def / 4 SpD lets Rotom-H take on many of the physical attackers it walls, including Talonflame and Mega Pinsir. However, a specially defensive spread is equally viable, allowing Rotom-H to take on attackers like Thundurus and Mega Charizard Y better, and the choice of a spread is really up to what the team needs most. Note, however, that +2 Mega Pinsir can OHKO Rotom-H after Stealth Rock if a physically defensive spread is not used. Leftovers gives Rotom-H a reliable long-term method of recovery, healing chip damage that might be incurred from switching into something it walls and making up for the presence of Stealth Rock in particular. However, if Rest is being used, Chesto Berry is the best option, essentially giving Rotom-H a second chance at life.</p>\n<h4>Usage Tips</h4>\n<p>With a defensive build, Rotom-H can very easily come in on attackers, especially against ones that are already at a severe type disadvantage. Unlike many defensive Pokemon, it can force most of them out, threatening them with one of its STAB attacks or a status move. Because of this, it's essential to have Stealth Rock up on the opponent's side, as many of the Pokemon Rotom-H counters, such as Talonflame and Mega Charizard Y, will be taking massive damage from it. The durability of this Rotom-H makes it very easy for attackers to incur entry hazard damage over the course of a match. Furthermore, prediction against incoming switch-ins is key with this Rotom-H; a timely burn or a smart Volt Switch can easily turn the tide of a battle in your favor. This Rotom-H excels at playing mind games with the opponent, as its wide range of functions and increased utility make it a very relevant defensive threat to many attackers.</p>\n<h4>Team Options</h4>\n<p>Like with the other sets, Rapid Spin or Defog support is crucial, as Rotom-H cannot perform its defensive duties well if it is taking 25% damage each time it switches in. Powerful, hole-punching Pokemon such as Azumarill or setup sweepers such as Calm Mind Landorus love Rotom-H because it is great at reliably gaining momentum throughout the course of a match, presenting offensive Pokemon with great opportunities to set up or attack. In addition, setup sweepers and defensive Pokemon such as Skarmory will also appreciate the reduced damage output from a burned opponent. However, if being used on a defensive team, teammates must be able to handle powerful physical Fire-types such as Mega Charizard X, as they cannot be burnt. Teammates should also be able to handle Pokemon such as Tyranitar that can easily switch in on anything bar Will-O-Wisp and hit Rotom-H for super effective damage. Because Rotom-H handles Talonflame extremely well, Pokemon that are vulnerable to being revenge killed by it will easily appreciate Rotom-H's support.  Keldeo is a great teammate in this regard, especially considering it easily takes out Tyranitar, a major threat to Rotom-H.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "overheat",
+         "name": "Overheat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "volt_switch",
+         "name": "Volt Switch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        },
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "pain_split",
+         "name": "Pain Split"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 216,
+       "spe": 44
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set utilizes Rotom-H's defensive typing, bulk, and its ability to spread status. Overheat is Rotom-H's main STAB move, and is good for softening up an opposing Pokemon, however, it has the downside of lowering Special Attack, and therefore cannot be spammed. Volt Switch is a very important move in Rotom-H's arsenal: it allows Rotom-H to pivot to its teammates, and has great coverage with Overheat. Will-O-Wisp is used to cripple physical attackers, but Thunder Wave can also be used to cripple setup sweepers such as Volcarona. Pain Split gives Rotom-H recovery while also damaging the opponent, and is especially helpful early-game if Rotom-H is at low health.</p>\n<h4>Set Details</h4>\n<p>This set maximizes Defense to allow Rotom-H to check physical attackers such as Darmanitan and Victini, while still being able to switch into Florges. 248 HP EVs let Rotom-H take minimum damage from Stealth Rock, while 44 Speed EVs are used to allow it to outspeed Victini after the Speed drop from V-create. However, giving Rotom-H 136 Speed EVs allow it to outspeed Adamant Honchkrow and burn it before it can attack. A specially defensive set can also be used if it is more helpfuul to your team.</p>\n<h4>Usage Tips</h4>\n<p>Thanks to Rotom-H's bulk and excellent defensive typing, this set can threaten many Pokemon and force them out. Because of this, getting up Stealth Rock early-game can be beneficial. Pain Split should generally should not be spammed in a situation when the opposing Pokemon is faster than Rotom-H, because it will lose in the end. Status can be spread freely even if the opponent has a Synchronise user, since Rotom-H is immune to both Will-O-Wisp and Thunder Wave. Rotom-H is a good switch-in to Florges, as it can take a Moonblast and pivot to something else which can deal with it.</p>\n<h4>Team Options</h4>\n<p>It is almost mandatory to have some kind of entry hazard removal in your team if it includes Rotom-H. Flygon, Empoleon, and Mega Blastoise are good options, with the former resisting Rock and having U-Turn, and the latter two resisting Water. Rotom-H's ability to force switches often makes Stealth Rock very beneficial. Nidoqueen and Jirachi are good options to use, as they both have great synergy with Rotom-H, the former relying on Rotom-H to take Water- and Grass-type attacks while the latter relying on it to take Ground- and Fire-type attacks, and both taking Rock-type attacks for Rotom-H. Setup sweepers such as Toxicroak enjoy its pivoting ability and its ability to cripple potential revenge killers. Pokemon with U-turn can be beneficial by forming a VoltTurn core with Rotom-H. Celebi is a good option, as it can deal with Rhyperior, Swampert, Gastrodon, and Lanturn.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "overheat",
+         "name": "Overheat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunderbolt",
+         "name": "Thunderbolt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        },
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Offensive Support",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Safety Goggles",
+       "alias": "safety_goggles",
+       "description": "Protects the holder from weather-related damage and powder moves."
+      },
+      {
+       "gen": "xy",
+       "name": "Sitrus Berry",
+       "alias": "sitrus_berry",
+       "description": "Restores 1/4 of the max HP when at 1/2 HP or less. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 200,
+       "spatk": 88,
+       "pdef": 0,
+       "spe": 220
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Overheat is a powerful STAB move that allows Rotom-H to hit Shaymin-S and Genesect super effectively while doing good damage to neutral threats at the cost of -2 Special Attack. Thunderbolt lets it hit Mega Charizard Y and other Flying-types and is a more reliable STAB attack due to its lack of a Special Attack drop. The next moveslot depends on what the team needs; Will-O-Wisp lets Rotom-H cripple almost every physical attacker, and Thunder Wave provides easy speed control with the chance of free turns. Lastly, Protect keeps it alive by allowing it to stall out field conditions, scout for attacks, and ruin offensive strategies.</p>\n<h4>Set Details</h4>\n<p>The EV spread allows Rotom-H to outspeed Jolly Breloom and Bisharp while surviving a Stone Edge from an Adamant Landorus-T. A Modest nature and 88 Special Attack EVs grant it some decent firepower. However, the 88 Special Attack EVs can be moved into Special Defense and the nature can be changed to Calm in order to survive a Hydro Pump from a positive-natured 132 SpA Rotom-W, but there are more benefits for focusing on offenses, like the ability to always break Heatran's Substitute with Thunderbolt. Sitrus Berry adds much-needed longevity to Rotom-H, allowing it to support its team longer, but Safety Goggles can be used, making Rotom-H a perfect switchin to every sleep-inducing threat in the Doubles metagame.</p>\n<h4>Usage Tips</h4>\n<p>Rotom-H typically uses its typing, ability, and bulk to switch into threats that cannot hurt it, such as Doubles' many Flying-type Pokemon. Once switched in, it can proceed to cripple threats with status depending on which of the opposing Pokemon threatens its team the most. It can offer chip damage support with its STAB attacks, but Rotom-H's damage output is somewhat lacking, so it cannot be relied on for KOs unless it can hit super effectively; even then, despite being super effective, Thunderbolt will generally not KO bulky Water-types such as Milotic and Suicune, and they can react with powerful Water-type attacks. It is also important to note that although Rotom-H resists Mega Charizard Y's coverage, the combination of Heat Wave and Overheat will KO it in the sun. Lastly, keep in mind that Rotom-H can get worn down quickly, even with a Sitrus Berry, so try to limit the amounts of damage it takes.</p>\n<h4>Team Options</h4>\n<p>Pokemon that like Shaymin-S, Talonflame, or Mega Charizard Y swiftly taken out include Amoonguss, Breloom, Suicune, Mega Pinsir, and Mega Heracross, making them good partners. Almost every Pokemon in Doubles appreciates Rotom-H's Will-O-Wisp support, and in conjunction with Intimidate partners such as Landorus-T and Gyarados, physical attackers are hard-stopped. Pokemon that appreciate Thunder Wave support such as Genesect, Hydreigon, Mega Heracross, and Mega Kangaskhan make great teammates as well. Fighting-types such as Terrakion, Conkeldurr, and Scrafty take out the Rock-types that scare Rotom-H, and Pokemon such as Breloom, Mega Charizard Y, Amoonguss, Mega Venusaur, and Thundurus take out the Water-types that threaten it. In addition, Fairy-types such as Sylveon and Mega Gardevoir appreciate Rotom-H's ability to handle Steel-type Pokemon. Mamoswine, Mega Mawile, and Azumarill can handle the Dragon-types that wall Rotom-H's coverage moves. Lastly, Rotom-H enjoys Wide Guard support from Pokemon such as Hitmontop and Aegislash to protect it from Rock Slide, Muddy Water, and Mold Breaker Earthquake.</p>\n"
+    }
+   ],
+   "alias": "rotom-heat",
+   "name": "Rotom-Heat",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "rotom-heat"
+    },
+    {
+     "gen": "dp",
+     "alias": "rotom-heat"
+    },
+    {
+     "gen": "xy",
+     "alias": "rotom-heat"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "astonish",
+     "name": "Astonish",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 0,
+     "alias": "charge",
+     "name": "Charge",
+     "description": "Doubles power of an Electric-type move used next turn.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 90,
+     "alias": "charge_beam",
+     "name": "Charge Beam",
+     "description": "70% chance to boost Special Attack by 1 stage.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "confuse_ray",
+     "name": "Confuse Ray",
+     "description": "Confuses the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "dark_pulse",
+     "name": "Dark Pulse",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "discharge",
+     "name": "Discharge",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "dream_eater",
+     "name": "Dream Eater",
+     "description": "Leeches 50% of the damage dealt. Only works if target is asleep.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "electro_ball",
+     "name": "Electro Ball",
+     "description": "Inflicts more damage the faster the user is compared to the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 95,
+     "alias": "electroweb",
+     "name": "Electroweb",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hex",
+     "name": "Hex",
+     "description": "Base Power doubles if target has a status ailment.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "ominous_wind",
+     "name": "Ominous Wind",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "pain_split",
+     "name": "Pain Split",
+     "description": "Averages both Pokemon's HP.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "reflect",
+     "name": "Reflect",
+     "description": "Lowers damage from physical attacks for 5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 0,
+     "alias": "shock_wave",
+     "name": "Shock Wave",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "signal_beam",
+     "name": "Signal Beam",
+     "description": "10% chance to confuse.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "snatch",
+     "name": "Snatch",
+     "description": "If certain moves are used, the user of Snatch uses the moves instead.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "spite",
+     "name": "Spite",
+     "description": "Lowers the PP of the move used last by 1-5.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "sucker_punch",
+     "name": "Sucker Punch",
+     "description": "The user always moves first. Will only work if the foe attacked.",
+     "pp": 5,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "telekinesis",
+     "name": "Telekinesis",
+     "description": "Lasts 3 turns and makes all moves hit the target.  Makes target immune to Ground-type moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "thief",
+     "name": "Thief",
+     "description": "Steals target's item.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 70,
+     "alias": "thunder",
+     "name": "Thunder",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_shock",
+     "name": "Thunder Shock",
+     "description": "10% chance to paralyze.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunderbolt",
+     "name": "Thunderbolt",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "trick",
+     "name": "Trick",
+     "description": "Switches items with the foe.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "uproar",
+     "name": "Uproar",
+     "description": "Repeats for 2-5 turns. No Pokemon can sleep during these turns.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "volt_switch",
+     "name": "Volt Switch",
+     "description": "Forces user to switch.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "will-o-wisp",
+     "name": "Will-O-Wisp",
+     "description": "Burns the foe.",
+     "pp": 15,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "rotom",
+     "name": "Rotom"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "rotom-fan",
+       "name": "Rotom-Fan"
+      },
+      "evos": []
+     },
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "rotom-frost",
+       "name": "Rotom-Frost"
+      },
+      "evos": []
+     },
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "rotom-heat",
+       "name": "Rotom-Heat"
+      },
+      "evos": []
+     },
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "rotom-mow",
+       "name": "Rotom-Mow"
+      },
+      "evos": []
+     },
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "rotom-wash",
+       "name": "Rotom-Wash"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 65,
+     "height": 0.3,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Levitate",
+       "alias": "levitate",
+       "description": "This Pokemon is immune to Ground-type moves."
+      }
+     ],
+     "alias": "rotom-heat",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "electric",
+       "name": "Electric"
+      },
+      {
+       "gen": "xy",
+       "alias": "fire",
+       "name": "Fire"
+      }
+     ],
+     "gkpower": 20,
+     "spdef": 107,
+     "hp": 50,
+     "spatk": 105,
+     "suffix": "",
+     "pdef": 107,
+     "weight": 0.3,
+     "spe": 86,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2424 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        },
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "waterfall",
+         "name": "Waterfall"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "bounce",
+         "name": "Bounce"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Bulky Dragon Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 192,
+       "hp": 88,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 224
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set takes a different approach from Gyarados's fully offensive sets. Ideally, Gyarados utilizes its great typing, natural bulk, and Intimidate to set up multiple Dragon Dances and then attempt to sweep. Taunt and Substitute are the two possible moves of choice to help Gyarados set up Dragon Dances or sweep easier. Taunt does an excellent job of shutting down recovery and stopping moves such as Will-O-Wisp, Thunder Wave, and Toxic from hampering Gyarados's sweep, while also preventing Roar and Whirlwind from forcing Gyarados out. Specifically, Taunt is great for threats such as Skarmory and Gliscor, as they are often dependent on support moves such as Whirlwind and Roost. Substitute helps by preventing status from hampering Gyarados, blocking weak attacks to ease setting up Dragon Dance, obtaining extra recovery from Leftovers, and preventing Gyarados from being easy to revenge kill. Waterfall is Gyarados's obligatory Water-type STAB move, and Bounce is its best option for a secondary attack. Bounce allows Gyarados to take out some of its biggest counters&mdash;Mega Venusaur, Amoonguss, and Chesnaught&mdash;while the charge-up turn allows Gyarados to recover HP with Leftovers and protect its Substitute. Taunt and Bounce are great together because Taunt completely shuts down the opponent's attempts at blocking Bounce with Substitute or Protect. Although Bounce is superior most of the time, Stone Edge is an option to beat opposing Gyarados, Kyurem-B, and Rotom-W more easily.</p>\n<h4>Set Details</h4>\n<p>The given Speed EVs allow Gyarados to outspeed Timid Noivern after a Dragon Dance. The HP and Defense EVs allow Gyarados to take a burned Ferrothorn's Power Whip from behind a Substitute, leaving the Substitute intact. They also prevent many Water-types, such as Slowbro without a Psychic-type move, from breaking Gyarados's Substitute in one hit. The remaining EVs are placed into Attack to make Gyarados's attacks hit reasonably hard after a single Dragon Dance. After Stealth Rock damage, a +1 Bounce can OHKO Calm Mega Venusaur and max HP Conkeldurr. With that said, Gyarados can opt to go slower in exchange for extra power. After a Dragon Dance, an investment of 176 Speed EVs guarantees that Gyarados will outspeed Raikou and Starmie. Leftovers further augments Gyarados's bulk, though Lum Berry is usable to allow Gyarados to switch in easier and to bluff Gyaradosite.</p>\n<h4>Usage Tips</h4>\n<p>Bulky Dragon Dance Gyarados is a very flexible Pokemon due to its offensive and defensive prowess. The choice between Substitute and Taunt is crucial to Gyarados setting up Dragon Dance successfully. Using Taunt means running a few more risks with Dragon Tail, Scald, and Lava Plume; however, Substitute leaves Gyarados vulnerable to Roar, Whirlwind, and having Bounce blocked by Protect and Substitute. Gyarados can switch into a variety of offensive and defensive Pokemon and begin setting up. With Taunt, Gyarados can switch into an opposing Skarmory and Taunt it to prevent it from using Whirlwind and Roost. Thanks to Intimidate and Gyarados's defensive EV spread, Brave Bird can only manage a 5HKO while Skarmory takes recoil damage in the process, making a 2HKO from a boosted Waterfall easier. Substitute is great against Pokemon such as Gastrodon that rely on status to cripple their opponents, letting Gyarados continuously set up with Dragon Dance. Best of all, Substitute can make Gyarados more difficult to revenge kill.</p>\n<h4>Team Options</h4>\n<p>This variant of Gyarados works exceptionally well on balanced teams that combine offensive and defensive Pokemon. Mega Venusaur is a great defensive Grass-type that can harass a lot of Gyarados's checks and counters with its great defenses and solid movepool. For example, it can use its STAB Sludge Bomb to hit Unaware Clefable, and its STAB Giga Drain eliminates Rotom-W. Hidden Power Fire further aids Gyarados by weakening or KOing Ferrothorn. Ferrothorn itself resists many moves Gyarados is weak to and can help Gyarados remain bulky with Leech Seed, ensure KOs with Stealth Rock, or slow opponents down with Thunder Wave. Water-types with Scald or Will-O-Wisp, such as Slowbro and Rotom-W, are great for luring in Ferrothorn to help Gyarados set up on it. Latias, Scizor, and Zapdos are great users of Defog, which helps Gyarados out tremendously as it is weak to Stealth Rock. Scizor and Zapdos can use their STAB U-turn and Volt Switch, respectively, to pivot out to Gyarados to help it set up. Latios is a more offensive alternative to Latias for a Defog user as it can KO or severely dent various Pokemon that Gyarados might struggle against, such as Mega Venusaur, Ferrothorn, and Skarmory. Thanks to Magnet Pull, Magnezone is a great way of completely removing Steel-type threats such as Skarmory and Ferrothorn. Excadrill is another Steel-type that has perfect defensive synergy with Gyarados. Finally, this variant of Gyarados appreciates Wish and Heal Bell support, as Gyarados is often needed to check dangerous threats such as Landorus and Keldeo. Sylveon and Clefable are great for sponging status and passing Wish around.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "waterfall",
+         "name": "Waterfall"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        },
+        {
+         "gen": "xy",
+         "alias": "roar",
+         "name": "Roar"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Gyaradosite",
+       "alias": "gyaradosite",
+       "description": "Mega-evolves Gyarados."
+      },
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set is the standard Gyarados set, and it aims to check dangerous threats such as Blaziken while still having utility in Taunt and either Dragon Tail or Roar. Waterfall is Gyarados's best STAB move, as it hits Ho-Oh and Blaziken for good damage. Taunt is a great move in Ubers, preventing threats such as Arceus from boosting and shutting down defensive Pokemon including Defog Skarmory and Scizor. Taunt also stops Aegislash from using Toxic and King's Shield. Roar phazes opponents, and Fairy-types aren't immune to it. Dragon Tail is a good option for chip damage and uses Gyarados's respectable Attack stat; however, it invites Xerneas to switch in for free. Earthquake hits Aegislash, Dialga, and Lucario for major damage. Keep in mind this Gyarados set is rather weak. Earthquake also hits unsuspecting Mega Gengar switch-ins, but Thunderbolt will be an easy OHKO although it is a rare move.</p>\n<p>Aqua Tail can be used over Waterfall, but it can miss and loses the 20% flinch chance. Fire Blast surprises Ferrothorn and Forretress, easily 2HKOing both in neutral weather. Rest helps to recover fast and remove status, and is best used when paired with a cleric such as Blissey, Sylveon, or Xerneas. Sylveon is usually best as it can pass Wishes too. Protect helps to scout and grant some recovery. Thunder Wave can be used over Toxic to stop fast threats such as Darkrai, Choice Scarf Kyogre, Mewtwo, and others.</p>\n<h4>Set Details</h4>\n<p>Intimidate is the key to this set's success. It not only helps buff Gyarados's Defense, but it also supports the team overall. Defensive Gyarados is weak and does not carry any offensive pressure, and as such should be not be used on offensive teams. This set beats Blaziken relatively well while also checking Ho-Oh, although burns and Life Orb Brave Birds will be a 2HKO if Stealth Rock is up. It can also check Extreme Killer Arceus, Rayquaza and other Swords Dance Arceus formes such as Bug and Ground once. Maximum Defense is required to reduce damage from Blaziken, Ho-Oh, Arceus and other threats as much as possible. Gyaradosite is an option to reduce Knock Off damage and gain significant bulk, but Gyarados will no longer have Intimidate and certain useful resistances.</p>\n<p>76 Speed EVs can be used to outrun slow base 90s such as Groudon and Giratina so Gyarados can move before they can set up Stealth Rock or burn it. More Speed can help to outrun defensive Xerneas, but it is usually not worth losing the bulk. If you want an offensive Gyarados with Taunt, the Dragon Dance set is a better choice.</p>\n<h4>Usage Tips</h4>\n<p>This set is best used in defensive and balanced teams that need a check to Lucario, Blaziken, and a shaky check to Ho-Oh. Taunt annoys defensive Pokemon such as Blissey, Skarmory, and Scizor. Intimidate is very useful, so you should feel free to switch Gyarados in on physical attackers whenever you need to weaken them. However, be wary of Gyarados's weakness to Stealth Rock, so a teammate that can remove hazards is much appreciated.</p>\n<h4>Team Options</h4>\n<p>Ferrothorn pairs up nicely with Gyarados in terms of synergy, and it also sets up hazards. Dialga resists Thunder and beats Kyogre and Palkia, and it appreciates Gyarados's immunity to Ground and resistance to Fighting. Excadrill can spin away Stealth Rock and shares perfect type synergy with Gyarados. Groudon can form a physically defensive core with Gyarados, and Drought makes Thunder inaccurate at the cost of Waterfall's power. These Ground-types can also beat Zekrom. Offensive Groudon and Excadrill can defeat Rock Arceus, which can 2HKO Gyarados with Judgment. Blissey and Sylveon can use Heal Bell and pass Wishes, and they have good special bulk. Aegislash is a great partner to beat Xerneas and it has great Special Defense to support Gyarados.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "waterfall",
+         "name": "Waterfall"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "bite",
+         "name": "Bite"
+        },
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Mega Dragon Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Gyaradosite",
+       "alias": "gyaradosite",
+       "description": "Mega-evolves Gyarados."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Offensive Gyarados finally got some use in Ubers thanks to its Mega Evolution. This Gyarados can easily set up Dragon Dance and has a chance at sweeping. Taunt is the main move as it is that move separates Gyarados from other sweepers. Waterfall is Gyarados's main STAB move, and it has a bonus 20% chance to flinch and never misses. Aqua Tail can be used for more power but has a risky 10% miss chance. Earthquake is a great coverage move as it destroys Aegislash, Lucario, Dialga, Zekrom, and is Mega Gyarados's best move against Ferrothorn. Mold Breaker Earthquake also hits Bronzong and Gengar for super effective damage. Bite is a weak STAB move but it OHKOes Mewtwo after a Dragon Dance, and packs a great 30% flinch chance. Bite also takes out Giratina formes without resorting to Outrage. Stone Edge destroys Ho-Oh in any weather, breaks through Lugia's Multiscale, and is Mega Gyarados's best move against Yveltal and Kyurem. Taunt can be used if you want to avoid status from defensive threats such as Arceus. Substitute can also stop status, but it does not prevent Roar and Whirlwind from working. Ice Fang OHKOes Rayquaza but it is otherwise nearly useless.</p>\n<p>The EV spread can be changed accordingly. HP and Special Defense can be maxed out, but Gyarados will lose a lot of power. 252 HP / 252 Atk / 4 Def is a fine spread, but Mega Gyarados won't outrun everything up to Choice Scarf Terrakion at +2, and loses out on Choice Scarf Kyogre and other base 90s at +2. Taunt can be used with a bulky spread, but Mega Gyarados is still relatively bulky without investment anyway.</p>\n<h4>Set Details</h4>\n<p>Intimidate is the recommended ability in order to maximize Gyarados's bulk while using Dragon Dance and give it more setup opportunities. It also helps Gyarados's role as a team player. Moxie is great for sweeping teams that sacrifice something to bring in their Gyarados check. You don't have to Mega Evolve instantly; sometimes, you want to keep Gyarados's ability and typing, such as against Blaziken. Mold Breaker is a near-useless ability in Ubers, but it helps breaks Lugia's Multiscale and the rare Gastrodon's Storm Drain. Maximum Attack is used, as Gyarados's STAB moves are disappointingly weak despite its high Attack. Maximum Speed outruns everything up to Shaymin-S after a Dragon Dance with Adamant, while with Jolly, Gyarados can outrun Mega Mewtwo-Y and Rash Deoxys-A.</p>\n<h4>Usage Tips</h4>\n<p>Intimidate and the great resistances provided by Gyarados's Flying typing are great for setting up. After Mega-Evolving, Gyarados gains more unfortunate weaknesses and will no longer be able to check Blaziken and Lucario. Gyarados is 1 point faster in base Speed than normal Blaziken, so it can outrun the latter before or on the turn Blaziken Mega Evolves or against normal Blaziken. It is likely Blaziken will use Protect first on that turn, allowing you to act accordingly. Gyarados can use its type change for a free Dragon Dance as Mega Gyarados. For example, Gyarados can switch in on Landorus-T and Mega Evolve to take laughable damage from Stone Edge. Mega Gyarados can survive Thunders if it has full health, so use that chance to grab another boost if you desperately need it. Not even Life Orb Mewtwo's Aura Sphere can OHKO minimal bulk Mega Gyarados after Stealth Rock damage. A +2 Earthquake OHKOes Kyogre and Palkia after Stealth Rock damage, so you can grab another boost as they come in to try and Thunder you if you're feeling ballsy. Simply spamming attacks from the start can be great to weaken down foes such as Groudon. Support Groudon can't really destroy Gyarados quickly, so wear it down first before attempting a sweep. Rain boosts Gyarados's power, and is greatly appreciated but not necessary because Kyogre shares some unfortunate weaknesses with Gyarados. Mega Gyarados is one of the bulkiest sweepers, so use that to your advantage. It can tank hits such as Dialga's Draco Meteor and KO back with a boosted Earthquake. Mega Gyarados is immune to Psytrike so you can play around Mewtwo. Even if the opponent predicts well and uses Aura Sphere, Mega Gyarados can survive and take out Mewtwo with a boosted Bite or Waterfall. Iron Head is your best move against Xerneas but does not provide much coverage. Mega Gyarados can outrun and almost OHKO Rock Arceus and Ground Arceus after a boost, something other physical sweepers such as Mega Kangaskhan can't boast. Gyarados also has no problem destroying Ho-Oh, although switching in directly can be very risky.</p>\n<h4>Team Options</h4>\n<p>Stealth Rock is great for wearing down opponents. Defog support helps Gyarados live as long as possible since it lacks recovery. Excadrill makes a great partner for using Rapid Spin, setting up Stealth Rock and firing off Earthquakes to weaken threats such as Ferrothorn and Dialga. Defog support is also useful, but Gyarados enjoys Stealth Rock on the opponent's side of the field as well. Landorus-T forms a nice core with Gyarados and beats Zekrom. If Landorus-T uses Earth Plate, it also has a chance to OHKO Zekrom and Dialga. Ho-Oh can switch in on potential Will-O-Wisps and destroy Ferrothorn, Skarmory, and other Steel-types. Heal Bell and Aromatherapy support help Gyarados by removing status issues such as random burns from Scald.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "waterfall",
+         "name": "Waterfall"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_fang",
+         "name": "Ice Fang"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        },
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Mega Dragon Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Gyaradosite",
+       "alias": "gyaradosite",
+       "description": "Mega-evolves Gyarados."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set's goal is to set up Dragon Dance in order to let Gyarados sweep opposing teams. Waterfall is Gyarados's STAB move of choice, coming with steady power, perfect accuracy, and a handy 20% flinch rate. Earthquake complements Waterfall as it too has perfect accuracy and great power, hitting many of the targets that resist Waterfall. Thanks to Mold Breaker, Earthquake can hit Levitate users such as Rotom-W and Gengar. Ice Fang is Gyarados's best option in the last slot, as after a Dragon Dance, it can 2HKO Calm Mega Venusaur while still harming Latias, Garchomp, and Dragonite. Courtesy of Mold Breaker, Gyarados ignores Mega Venusaur's Thick Fat and Dragonite's Multiscale when using Ice Fang. Substitute might seem like an odd option on a set that doesn't utilize Leftovers as an item, but it is great for helping Gyarados set up on targets such as Scizor and Heatran lacking Roar or Taunt. Substitute can also prevent Intimidate from lowering Gyarados's Attack and prevent moves such as Will-O-Wisp, Thunder Wave, and Leech Seed from crippling Gyarados. Alternatively, Taunt is another great option that shuts down walls such as Skarmory and Hippowdon. With Mold Breaker, Taunt hits through Magic Bounce, which can be nifty in stopping Espeon from setting up Calm Mind or dual screens.</p>\n<p>Bounce is also a viable alternative to use on this set to KO Mega Venusaur and Keldeo as regular Gyarados, which can open the door for a Mega Gyarados sweep later in the game. After Stealth Rock damage, a +1 Bounce is capable of OHKOing Mega Venusaur 50% of the time and will also OHKO Amoonguss and Chesnaught. Stone Edge is great for hitting opposing Gyarados, Zapdos, and Kyurem-B, while still hitting Dragonite. Bite can be used to hit Slowbro, Latias, and Latios, but it is suboptimal in most cases due to its mediocre Base Power.</p>\n<h4>Set Details</h4>\n<p>252 Speed EVs allow Gyarados to outspeed Adamant Dragonite before a boost. Intimidate is the recommended ability on this set as Gyarados appreciates the Attack drop it provides, which maximizes Gyarados's tanking capabilities while it sets up Dragon Dance. Moxie, while not as useful as Intimidate, is great for punishing opponents that sacrifice a Pokemon to safely switch in their Gyarados check. Because Gyarados doesn't need to Mega Evolve immediately, Moxie can be used to give Mega Gyarados some extra power while lowering the number of Dragon Dances it needs to sweep. Moxie also allows Gyarados to safely check Bisharp, as Moxie does not give Bisharp a Defiant boost when Gyarados switches in.</p>\n<h4>Usage Tips</h4>\n<p>Gyarados has a very flexible Mega Evolution; staying as regular Gyarados to take advantage of Intimidate and Flying's great resistances can ease setup. Because Mega Gyarados will usually draw in attacks such as Keldeo's Secret Sword and Conkeldurr's Mach Punch, Gyarados can hold off on Mega Evolving in order to set up on moves that Mega Gyarados is weak to that opponents might attempt to target. This can also work the other way around, with Gyarados using its Flying typing to find room for a free Dragon Dance as Mega Gyarados. For example, Gyarados can switch into Landorus-T and Mega Evolve to take laughable damage from Stone Edge. Another great example is delaying Gyarados's Mega Evolution to lure in Rotom-W and then immediately Mega Evolving to shut it down with a Mold Breaker Earthquake.</p>\n<p>If using Moxie, Gyarados should be held back and used later in the game or when the opponent has a significant number of Pokemon to use as fodder. As many Moxie boosts as possible should be accumulated before Gyarados Mega Evolves, as it will then lose Moxie for Mold Breaker. The chosen coverage move is crucial in determining the threats Gyarados will need eliminated before it can attempt to sweep. Finally, remember that Gyarados's number one counter is Ferrothorn. Unless Gyarados is using Bounce, Ferrothorn and Mega Venusaur being either weakened or eliminated is an absolute must before Gyarados attempts to sweep.</p>\n<h4>Team Options</h4>\n<p>Gyarados has a very threatening offensive presence, but as always, it appreciates support from other Pokemon. It is an excellent late-game cleaner, so packing heavily offensive Pokemon such as Kyurem-B is a good idea. Kyurem-B can easily plow through many of Gyarados's checks and counters with Fusion Bolt and its STAB Ice Beam. Latias can also puncture Mega Venusaur thanks to STAB Psyshock, and it can also provide support with Defog. Similarly, Latios can be used as an offensive Defog user, and if it runs Hidden Power Fire, Skarmory and Ferrothorn become less of an issue. Talonflame is an excellent offensive teammate with access to Brave Bird to take out Conkeldurr and Breloom while using its STAB Flare Blitz to hit Ferrothorn and Skarmory. Ferrothorn itself has multiple methods of supporting Gyarados, such as entry hazards, paralysis, and Leech Seed. For entry hazard removal, consider Excadrill and Starmie for Rapid Spin and their ability to take on a few of Gyarados's checks. As Defog users, Scizor and Zapdos both work well. Zapdos does well at beating bulky Water-types and keeping Ferrothorn on its toes with Heat Wave. Scizor can use its STAB U-turn to help Gyarados switch in. Thundurus's Prankster Thunder Wave is a huge nuisance to Gyarados&mdash;for this reason, Clefable and Sylveon are great teammates that can use Heal Bell and Wish to keep Gyarados in good shape.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sleep_talk",
+         "name": "Sleep Talk"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "waterfall",
+         "name": "Waterfall"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Mega RestTalk",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Gyaradosite",
+       "alias": "gyaradosite",
+       "description": "Mega-evolves Gyarados."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 16,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 244,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set gives Gyarados the ability to check threats repeatedly and can Mega Evolve after it's done with checking Blaziken and Lucario. After Mega Evolving, Gyarados gains extra bulk, and this helps it to avoid the 2HKO from Choice Scarf Kyogre's Water Spout and take on Yveltal. Mega Gyarados is also not 2HKOed by Mega Mewtwo Y's Aura Sphere and is immune to Psytrike, a move that would normally 2HKO standard Gyarados.</p>\n<p>Waterfall is the best STAB move and it takes out Blaziken, Ho-Oh, Rock Arceus, Ground Arceus and Excadrill. Waterfall also uses Gyarados's good Attack stat which is further boosted on Mega Evolving. Dragon Tail is the preferred phazing move as it bypasses Taunt, and is a useful move to phaze out Yveltal and others. Dragon Tail also lands a solid hit on Dragon-types such as Palkia, Rayquaza, and Kyurem. The EV spread gives the best overall bulk. 16 Special Defense EVs get a jump point while the rest are maxed out in Def and HP. With Intimidate, normal Gyarados can check the standard threats it is supposed to check and only Mega Evolve when the time is right such as when it needs to cushion a huge hit and Intimidate is no longer needed. For example, Mega Gyarados survives Choice Scarf Zekrom's Bolt Strike 100% of the time with Intimidate.</p>\n<p>Keep in mind that Gyarados only has a 1/3 chance to phaze while asleep. This set can lure Fairy Arceus and Xerneas in to spam their STABs, but luckily, repeated Waterfalls can easily wear down offensive Xerneas. Fairy Arceus doesn't hit as hard and can be beaten with teammates which resist Fairy-type moves, such as Ho-Oh. Rest gives Gyarados much needed recovery, and with the new sleep mechanics, it is a great way to cure off status and recover. This also lets Gyarados switch in freely in on Scalds, random Lava Plumes such as from Groudon, and Sacred Fire.</p>\n<h4>Set Details</h4>\n<p>Defensive Mega Gyarados plays similarly to Kyogre, but checks different threats. Ghost- and Dark-type resistances are useful for tanking attacks from Ghost Arceus and Darkrai. However, Focus Blast hits Mega Gyarados for super effective damage. Fortunately, Focus Blast rarely hits more than 3 times in a row and has low PP. Stone Edge can be used if you want Mega Gyarados to OHKO Ho-Oh and 2HKO Yveltal. Earthquake crushes Dialga, and Gyarados can survive even a Choice Specs Draco Meteor; it has the added bonus of hitting Aegislash and Zekrom. This set can completely wall Aegislash without Sacred Sword as Rest removes poison.</p>\n<p>If you prefer regular Gyarados's resistances and consistent Intimidate ability instead, use a spread of 248 HP / 252 Def / 8 SpD for maximum physical bulk. It lets Gyarados check powerful physical threats such as Blaziken, Lucario, and Ho-Oh, while keeping it healthy with Rest.</p>\n<h4>Usage Tips</h4>\n<p>You have to pick the right time to Mega Evolve Gyarados. Knock Off from Blaziken fails to KO Gyarados even after Stealth Rock because it wont be boosted. Once Mega Evolved, Gyarados becomes essentially a mixed tank, able to stave off hits such as Choice Specs Kyogre's Surf and Arceus's Judgment. Intimidate can also let Gyarados check Ho-Oh, Groudon, Mega Charizard X, and Arceus. Groudon's -1 Stone Edge fails to 2HKO Gyarados. If you choose to Mega Evolve then Mega Gyarados can easily tank it, but keep in mind that this makes it vulnerable to Earthquake the next switch in, especially from the Earth Plate variants.</p>\n<p>Even with base 155 Attack, don't expect Gyarados to hit hard. Waterfall still hits decently hard against less bulky threats such as Genesect and offensive Yveltal, but it barely scratches Arceus and defensive Groudon.</p>\n<h4>Team Options</h4>\n<p>Aegislash is a solid partner as it helps beat Xerneas, a major threat to this set. Sylveon is another great partner; it provides Wish support to Gyarados, while beating Palkia with Hyper Voice. Xerneas with Aromatherapy can wake Gyarados up immediately and beats up most Dragon-types with Moonblast. Gastrodon helps wall Choice Specs Kyogre and non-Choice Specs Palkia. It can also come in on Bolt Strike or Thunder for free while spamming Scald, which can easily annoy would-be counters to Gyarados and Gastrodon, such as Ferrothorn. Ho-Oh can phaze Xerneas once and defeat Ferrothorn and Skarmory. In return, Gyarados can take on Rock Arceus fairly well, especially with the increased bulk of this set.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "aqua_tail",
+         "name": "Aqua Tail"
+        },
+        {
+         "gen": "xy",
+         "alias": "waterfall",
+         "name": "Waterfall"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "bounce",
+         "name": "Bounce"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      },
+      {
+       "gen": "xy",
+       "alias": "moxie",
+       "name": "Moxie"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Offensive Dragon Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      },
+      {
+       "gen": "xy",
+       "name": "Lum Berry",
+       "alias": "lum_berry",
+       "description": "Cures status. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This Gyarados set trades any attempt at being bulky for pure offensive might. Waterfall is Gyarados's primary STAB move, though Aqua Tail is a stronger yet slightly inaccurate alternative. With Stealth Rock up, a +1 Life Orb-boosted Aqua Tail can OHKO max HP Scizor and Mega Charizard X. Bounce is a secondary STAB move that allows Gyarados to defeat Mega Venusaur and Keldeo, as well as other Pokemon like Amoonguss. Stone Edge is used in the last slot to eliminate Zapdos, Dragonite, and Mandibuzz. Earthquake is also an option to deal more damage to grounded Electric-types, while Taunt can grant Gyarados more opportunities to set up.</p>\n<h4>Set Details</h4>\n<p>An Adamant nature with maximum Attack and Speed investment is recommended on this set to help maximize Gyarados's sweeping potential. Intimidate is a viable ability to help Gyarados set up Dragon Dance; however, Moxie can allow Gyarados to sweep with fewer Dragon Dances and is thus the preferred ability. Lum Berry protects Gyarados from status such as burns and paralysis, while Life Orb is great for maximizing Gyarados's power and 2HKOing Skarmory with Waterfall after a Dragon Dance. Power Herb can be used with Bounce for a one-turn attack, and if Gyarados is being used as a Mega bluff, Bounce can successfully nail threats such as Mega Venusaur, Amoonguss, and Celebi.</p>\n<h4>Usage Tips</h4>\n<p>It is best to use Gyarados as either a late-game sweeper or a Pokemon that can create dents in the opponent's team mid-game. Thus, you want your opponent to save Pokemon as potential sacrifices for Gyarados to give it Attack boosts from Moxie. Though it might seem questionable to use Gyarados as a Pokemon that punches holes instead of sweeping through the opponent's team, other Pokemon such as Charizard can take advantage of weakened threats and sweep through the remaining Pokemon. This is partly because this Gyarados should not attempt to set up too many Dragon Dances. Instead, this set wants to take advantage of one or two boosts and then utilize Moxie for any remaining attacking power that Gyarados might need. If a Lum Berry is used, it can help Gyarados obtain multiple Dragon Dances or safely 2HKO potential checks that rely on status to stop it. It can also be used to bluff its Mega combined with another Mega.</p>\n<h4>Team Options</h4>\n<p>This variant of Gyarados appreciates powerful Pokemon that can pierce through teams and weaken them significantly to help Gyarados finish them off. Kyurem-B is a great example of this, as it can handle Rotom-W with Substitute and Earth Power, Skarmory and bulky Water-types with Fusion Bolt, and Mega Venusaur with Ice Beam. As this Gyarados doesn't use Gyaradosite, various Mega Evolutions can help punch holes in the opponent's team. For example, Mega Charizard X can use Flare Blitz to break through Skarmory and Ferrothorn while heavily damaging bulky Water-types such as Rotom-W with Dragon Claw. Entry hazard removal is very vital. Excadrill and Starmie can spin away entry hazards, while Latias, Scizor, and Zapdos are great Defog users. Latias can Defog for Gyarados while using its STAB Psyshock to harass Mega Venusaur. Zapdos can use STAB Thunderbolt or Volt Switch to tackle bulky Water-types. Scizor can use U-turn to help Gyarados switch in easier. Latios is a great offensive teammate for Gyarados as it can also utilize Defog to clear out Stealth Rock while punishing Mega Venusaur with Psyshock as well as Skarmory and Ferrothorn with Hidden Power Fire.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "waterfall",
+         "name": "Waterfall"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sleep_talk",
+         "name": "Sleep Talk"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        },
+        {
+         "gen": "xy",
+         "alias": "roar",
+         "name": "Roar"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "RestTalk",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 8
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Waterfall is the mandatory Water-type STAB move and helps Gyarados check threats such as Landorus, Heatran, and Charizard. With Rest and Sleep Talk, Gyarados can cure itself of status, keep itself healthy, and avoid being completely helpless while asleep. Thunder Wave allows Gyarados to cripple Speed-reliant Pokemon such as Keldeo and Greninja, while Dragon Tail deals minor damage and allows Gyarados to phaze. Alternatively, Roar can be used in order to phaze Fairy-types and Substitute users. Toxic is another interesting option that can catch many common switch-ins to Gyarados off-guard, including Mandibuzz, Kyurem-B, Azumarill, and Alomomola.</p>\n<h4>Set Details</h4>\n<p>This set takes advantage of Intimidate and Gyarados's great typing and bulk, turning Gyarados into a defensive status absorber and utility counter. The given EVs and nature maximize Gyarados's special bulk, and Intimidate softens physical blows considerably. 8 Speed EVs allow Gyarados to outspeed Adamant Azumarill. A physically defensive spread is also an option to allow Gyarados to check threats such as Mega Charizard X more effectively, but it sacrifices effectiveness against the likes of threats such as Landorus and Greninja. Leftovers is necessary on this set to keep Gyarados healthy.</p>\n<h4>Usage Tips</h4>\n<p>With the listed EV spread, Gyarados is a fantastic switch-in to specially based threats such as Landorus, Mega Charizard Y, Heatran, Keldeo, and Greninja. Thanks to Intimidate, it can also check several physically based threats, such as Scizor, Conkeldurr, and Mamoswine lacking Freeze-Dry. Gyarados should be switched in on one of these threats and proceed to spread status with Thunder Wave, shuffle the opponent's team around with Dragon Tail or Roar, or simply damage the opposing Pokemon with Waterfall. Usage of Rest and Sleep Talk is rather straightforward&mdash;Rest should be used to heal Gyarados and cleanse it of any status ailments, and Sleep Talk should be used while asleep. These two moves also allow Gyarados to switch into and absorb status moves.</p>\n<h4>Team Options</h4>\n<p>Stealth Rock is a great way to punish the opposing Pokemon when shuffling them around with Dragon Tail or Roar. Ferrothorn is a good teammate, as it can lay down Stealth Rock or Spikes to help Gyarados with phazing, spread paralysis to completely cripple offensive threats, and use Leech Seed to help Gyarados passively recover HP against some targets. As Dragon Tail can be a liability against Fairy-types, Excadrill can be used to KO them with its STAB Iron Head, and it can also remove entry hazards with Rapid Spin. Mega Venusaur is also a great teammate, and Gyarados's Intimidate can temporarily improve its physical bulk, potentially allowing it to switch in and get off a Synthesis or Mega Evolve freely. Using another Pokemon with Intimidate such as Landorus-T or Krookodile can be great to scare off physically inclined threats or make their attacks significantly weaker than usual.</p>\n"
+    }
+   ],
+   "alias": "gyarados",
+   "name": "Gyarados",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "gyarados"
+    },
+    {
+     "gen": "dp",
+     "alias": "gyarados"
+    },
+    {
+     "gen": "gs",
+     "alias": "gyarados"
+    },
+    {
+     "gen": "rb",
+     "alias": "gyarados"
+    },
+    {
+     "gen": "rs",
+     "alias": "gyarados"
+    },
+    {
+     "gen": "xy",
+     "alias": "gyarados"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 90,
+     "alias": "aqua_tail",
+     "name": "Aqua Tail",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "avalanche",
+     "name": "Avalanche",
+     "description": "Doubles in power if damaged by the target.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "bite",
+     "name": "Bite",
+     "description": "10% chance to flinch.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 70,
+     "alias": "blizzard",
+     "name": "Blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 85,
+     "alias": "bounce",
+     "name": "Bounce",
+     "description": "User is made invulnerable for one turn, then hits the next turn. 30% chance to paralyze.",
+     "pp": 5,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "brine",
+     "name": "Brine",
+     "description": "Base Power doubles if foe's HP is 50% or less.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "dark_pulse",
+     "name": "Dark Pulse",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "dive",
+     "name": "Dive",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 0,
+     "alias": "dragon_dance",
+     "name": "Dragon Dance",
+     "description": "Boosts Attack and Speed by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_pulse",
+     "name": "Dragon Pulse",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_rage",
+     "name": "Dragon Rage",
+     "description": "Always does 40 HP damage.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "dragon_tail",
+     "name": "Dragon Tail",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flail",
+     "name": "Flail",
+     "description": "Does more damage as HP decreases.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 80,
+     "alias": "hydro_pump",
+     "name": "Hydro Pump",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "ice_fang",
+     "name": "Ice Fang",
+     "description": "10% chance to flinch. 10% chance to freeze.",
+     "pp": 15,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 75,
+     "alias": "iron_tail",
+     "name": "Iron Tail",
+     "description": "30% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "leer",
+     "name": "Leer",
+     "description": "Lowers target's Defense by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "scald",
+     "name": "Scald",
+     "description": "30% chance to burn the target. Thaws the user.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "spite",
+     "name": "Spite",
+     "description": "Lowers the PP of the move used last by 1-5.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "splash",
+     "name": "Splash",
+     "description": "No effect whatsoever.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "surf",
+     "name": "Surf",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "taunt",
+     "name": "Taunt",
+     "description": "Forces the foe to use damaging moves for 2 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "thrash",
+     "name": "Thrash",
+     "description": "Repeats for 2-3 turns. Confuses the user.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 70,
+     "alias": "thunder",
+     "name": "Thunder",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunderbolt",
+     "name": "Thunderbolt",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "torment",
+     "name": "Torment",
+     "description": "Prevents the target from using the same move twice in a row.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "twister",
+     "name": "Twister",
+     "description": "20% chance to flinch.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "uproar",
+     "name": "Uproar",
+     "description": "Repeats for 2-5 turns. No Pokemon can sleep during these turns.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "water_pulse",
+     "name": "Water Pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "waterfall",
+     "name": "Waterfall",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 85,
+     "alias": "whirlpool",
+     "name": "Whirlpool",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 15,
+     "power": 35
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "magikarp",
+     "name": "Magikarp"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "gyarados",
+       "name": "Gyarados"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 125,
+     "height": 6.5,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Intimidate",
+       "alias": "intimidate",
+       "description": "Lowers the foe's Attack by 1 stage. Decreases wild encounter rate."
+      },
+      {
+       "gen": "xy",
+       "name": "Moxie",
+       "alias": "moxie",
+       "description": "Boosts Attack by 1 stage if the wielder knocks out another Pokemon."
+      }
+     ],
+     "alias": "gyarados",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      },
+      {
+       "gen": "xy",
+       "alias": "water",
+       "name": "Water"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 100,
+     "hp": 95,
+     "spatk": 60,
+     "suffix": "",
+     "pdef": 79,
+     "weight": 235.0,
+     "spe": 81,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    },
+    {
+     "patk": 155,
+     "height": 6.5,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Mold Breaker",
+       "alias": "mold_breaker",
+       "description": "Abilities that hinder attacks are nullified."
+      }
+     ],
+     "alias": "gyarados-mega",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "dark",
+       "name": "Dark"
+      },
+      {
+       "gen": "xy",
+       "alias": "water",
+       "name": "Water"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 130,
+     "hp": 95,
+     "spatk": 70,
+     "suffix": "Mega",
+     "pdef": 109,
+     "weight": 305.0,
+     "spe": 81,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

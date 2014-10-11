@@ -1,0 +1,1731 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "close_combat",
+         "name": "Close Combat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "x-scissor",
+         "name": "X-Scissor"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "justified",
+       "name": "Justified"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Choice Scarf Terrakion is a great revenge killer capable of outspeeding nearly everything. Close Combat is Terrakion's most powerful Fighting-type STAB and is a great weapon for checking opposing sweepers and occasionally sweeping late-game. Stone Edge is also a powerful STAB move, and it offers excellent neutral coverage alongside Close Combat while keeping sweepers such as Dragonite, Salamence, and Gyarados in check. Earthquake serves as a great weapon against Heatran. X-Scissor lets Terrakion check Espeon, Alakazam, Latios, Latias, and Starmie, which Terrakion can outrun thanks to the Choice Scarf. As Stone Edge is notorious for its 80% accuracy, Rock Slide can also be used as a slightly more accurate alternative for when you absolutely need to KO an opponent's sweeper and can't afford to miss.</p>\n<h4>Set Details</h4>\n<p>With a Jolly nature and maximum Speed investment, Choice Scarf Terrakion gains the ability to outspeed +2 Adamant Dragonite and everything slower. The Choice Scarf is necessary for Terrakion to check as many offensive Pokemon as possible. While it may seem as though Choice Scarf Terrakion is fast enough to not require a Jolly nature, it is still necessary for outspeeding and checking threats such as +1 Mega Charizard X and Choice Scarf Garchomp.</p>\n<h4>Usage Tips</h4>\n<p>Choice Scarf Terrakion is primarily a check to offensive threats and should be used as such. You should play conservatively with it as long as your opponent has a sweeper that you might need Terrakion to defeat. However, Terrakion does possess the Speed and power to occasionally sweep late-game even without a boosting item, so it can be used as a secondary win condition. In the event that you try to sweep with Terrakion, you'll want to make sure that you eliminate its checks or weaken them to the point where you can sweep with one move (usually Close Combat).</p>\n<h4>Team Options</h4>\n<p>Terrakion needs as much prior damage as possible to ensure that it can KO the Pokemon that it is supposed to keep in check. Stealth Rock in particular is needed to guarantee that Rock Slide will KO Dragon Dance Salamence and Dragonite. In addition, as Choice Scarf Terrakion is not all that powerful, it will often be forced out by some of its bulkier checks. Pokemon that can tackle these checks and take advantage of them are great partners. For instance, Dragon Dance Gyarados with either Substitute or Taunt can set up on defensive Gliscor and Landorus-T sets lacking Stone Edge.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "close_combat",
+         "name": "Close Combat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_ice",
+         "name": "Hidden Power Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "justified",
+       "name": "Justified"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Life Orb Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 4,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This Terrakion serves as a fantastic wallbreaker. Close Combat and Stone Edge serve as Terrakion's best and most powerful STAB moves. Earthquake serves as a more reliable move against opponents such as Heatran. Hidden Power Ice is great for luring in and eliminating Landorus-T and Gliscor, two of Terrakion's best counters. If either switches into Stone Edge with Stealth Rock down, they have a good shot at being KOed by Hidden Power Ice the next turn. Hidden Power Ice can also be used to pick off other opponents 4x weak to it such as Garchomp and Dragonite, alleviating worries about Stone Edge's low accuracy or Close Combat's defense drops. Alternatively, Terrakion can use Swords Dance instead of Hidden Power Ice to sweep later in the game once the opposing team has been weakened and faster threats or priority users have been removed.</p>\n<h4>Set Details</h4>\n<p>A Speed-boosting nature and maximum Speed investment is needed to allow Terrakion to outrun as many foes as possible. Terrakion's Attack stat is maximized to provide optimal physical power, while the Naive nature and 4 Special Attack EVs maintain the power of Hidden Power Ice. If you are using Swords Dance, a Jolly nature should be used instead with the leftover 4 EVs placed into Special Defense. Protect can be used to scout the moves of incoming Choice item users, such as Choice Band Scizor and Choice Scarf Landorus-T, but doing so will cost Terrakion valuable coverage. Life Orb is the primary item as it provides a significant boost to all of Terrakion's attacks. Expert Belt can also be used to bluff a Choice item and act as an even more effective lure. However, the power loss means that more prior damage is required in order for Terrakion to safely beat Landorus-T and Gliscor.</p>\n<h4>Usage Tips</h4>\n<p>This set is best used as a general wallbreaker early-to-mid-game and a lure for Landorus-T and Gliscor\u2014two of the biggest threats to Terrakion in the game\u2014if you are using Hidden Power Ice. It is very important to not reveal Hidden Power Ice unless absolutely necessary. Doing so too early will alert the opponent that their Landorus-T or Gliscor is not safe to switch in, and thus you'll be unable to successfully lure them in and KO. Swords Dance versions should focus on attacking outright early in the game and saving Swords Dance for later when obstacles to a sweep are removed. If you choose to use Protect, use it sparingly as well. While it's great for scouting Choice-locked opponents, you must make sure that the opponent you're trying to scout is not a setup sweeper. Otherwise, they might set up on Protect and threaten to sweep.</p>\n<h4>Team Options</h4>\n<p>Because variants with Hidden Power Ice excel at luring in and removing Landorus-T and Gliscor, sweepers that have trouble with the aforementioned Pokemon\u2014such as Lucario and Dragonite\u2014are great teammates. These offensive Pokemon also appreciate the openings that Terrakion can create with its natural wallbreaking abilities. Terrakion itself needs entry hazard support to turn as many 3HKOs into 2HKOs and 2HKOs into OHKOs as possible, especially if attempting a sweep with Swords Dance. As previously mentioned, Stealth Rock in particular is necessary to KO defensive Gliscor and Landorus-T with Stone Edge followed by Hidden Power Ice.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "close_combat",
+         "name": "Close Combat"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Offensive Stealth Rock",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Fist Plate",
+       "alias": "fist_plate",
+       "description": "Raises power of Fighting-type moves 20%. Pokemon with Multitype become Fighting-type."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 4,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Stealth Rock is an indispensable entry hazard and Terrakion uses its decent Speed and the threat of its powerful STAB moves to function as an effective setter. Close Combat is Terrakion's strongest move, hitting Steel-types such as Dialga, Ferrothorn, and Heatran super effectively. Boosted by a Life Orb, it deals heavy damage to Pokemon that do not resist its moves. Stone Edge rounds out Terrakion's coverage nicely, hitting Ho-Oh, Yveltal, Lugia, and the Ghost- and Fairy-types that resist Close Combat. Taunt prevents opposing setup, and also stops Giratina-O and incoming support Arceus from attempting to use Will-O-Wisp or Defog. Toxic could also be used in this moveslot to cripple Terrakion's switch-ins.</p>\n<h4>Set Details</h4>\n<p>252 Speed EVs with a Jolly nature outruns everything relevant, notably allowing Terrakion to outspeed Palkia and Mega Kangaskhan. 252 Attack EVs and a Life Orb maximize Terrakion's offensive potential, allowing it to do 49-58% damage to 252 HP support Arceus and 79-93% damage to offensive Palkia with Close Combat. A Fist Plate can also be used to give Close Combat a decent 1.2x power boost while avoiding getting worn down by Life Orb recoil, and the targets of Stone Edge are generally KOed by it anyway, so the damage loss there is not too significant.</p>\n<h4>Usage Tips</h4>\n<p>This set is not a dedicated lead; it fares badly against common leads such as Deoxys formes and Groudon. Play smartly based off Team Preview. The combination of Terrakion's STAB moves is difficult for many defensive Pokemon to handle, and more offensively-inclined Pokemon such as Palkia can be picked off with Close Combat after taking minimal prior damage. Even offensive Groudon takes a hefty 55-66% from Close Combat. Therefore, do not blindly sacrifice Terrakion in a hurry after it has set up Stealth Rock, as its power and coverage may come in handy later in the match. In the same vein, exercise prediction in using Taunt or Toxic. For example, hitting a predicted Ghost Arceus switch-in with Toxic is very useful. Lastly, bear in mind that although Terrakion has a poor defensive typing, Dark- and Normal-type resistances allow it to check non-Jolly-natured Extreme Killer Arceus, switch into Yveltal's Dark Pulse in a pinch, and check Focus Blast-lacking Darkrai.</p>\n<h4>Team Options</h4>\n<p>Sticky Web support from Shuckle or Smeargle lets Terrakion check Extreme Killer Arceus more reliably and outspeed all common Choice Scarf users. Also, Terrakion's access to Stealth Rock and Taunt lets it fit in on such builds. Mega Gengar is a great teammate to trap and KO bothersome Fairy-types. Yveltal handles Ghost-types, notably being an excellent check to Ghost Arceus, which threatens Terrakion greatly. A check to boosted Geomancy Xerneas is needed, making Scizor, Klefki, and Aegislash viable partners. Checks to Ground-type spam are also appreciated, as Terrakion shares a Ground-type weakness with many of its other recommended teammates. Support Arceus formes with Will-O-Wisp, Giratina-O, and Landorus-T can do this; note that since Terrakion sets Stealth Rock for the team, Landorus-T can take on other roles, if it is used.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "close_combat",
+         "name": "Close Combat"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "quick_guard",
+         "name": "Quick Guard"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        },
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Physical Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Focus Sash",
+       "alias": "focus_sash",
+       "description": "The holder always survives one attack. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 4,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Rock Slide is Terrakion's main STAB because it's a spread attack, has decent Base Power, and has a nifty flinch chance. However, Stone Edge is an option to hit threats much harder at the loss of covering both opponents. Close Combat hits very hard as well, granting Terrakion the option to snipe particular Pokemon. Protect helps Terrakion scout for attacks, stall field conditions, and ruin double-targeting strategies. Quick Guard is used to protect itself and its teammate against many priority attackers in Doubles, including Talonflame, Bisharp, and Azumarill. Terrakion also outspeeds, and therefore blocks, every common Fake Out user in the tier bar Weavile. Substitute allows Terrakion to set up on many status inducers, making its sweep much easier. However, Taunt can be used to reliably stop Trick Room, a playstyle that hurts Terrakion badly.</p>\n<h4>Set Comments</h4>\n<p>Life Orb is the most reliable item because of the damage output and should be used with Substitute; the extra damage doesn't bother Terrakion much because it won't survive many hits anyway. Terrakion can use a Focus Sash decently as well to guarantee survival against any attack, but it must use Quick Guard in that set. A Lum Berry can easily fit into the set as well, as it allows Terrakion to take a Will-O-Wisp and switch into Heatran's or Mega Charizard Y's Heat Waves more reliably.</p>\n<h4>Usage Tips</h4>\n<p>They best way to use Terrakion in battle is to keep constant offensive pressure on the opponent. Use Close Combat or Stone Edge to snipe particular Pokemon and Rock Slide to get key spread damage on the opponents. If neither attack is able to KO the opponents, use Protect and let Terrakion's partner deal some damage first. Terrakion is difficult to use because it is easily damaged beyond repair, so unless the damage is worth it, keep it out of play. This is why Terrakion works well as a late-game sweeper; once its opponents are sufficiently damaged, Terrakion can just use Rock Slide and wipe them out. However, if a Focus Sash is being used, Terrakion can revenge kill almost any opponent with little fear. Quick Guard is for situational threats, such as Prankster users and priority attackers. With a Focus Sash and Quick Guard, Terrakion makes a very good lead. Taunt should pretty much only be used when obvious Trick Room leads are present, because if Terrakion uses Taunt and the opponents attack, Terrakion's teamslot is wasted. Terrakion can set up Substitute on status users or use it as a makeshift Protect against slower opponents. With Substitute, it is better to play more cautiously, because if the opponent doesn't break Terrakion's Substitute on the turn it sets it up, Terrakion will have a field day attacking. Lastly, remember that Terrakion attracts Intimidate users and faster sweepers like flies, so some smart double-switching is needed to get momentum up against these threats.</p>\n<h4>Team Options</h4>\n<p>Cresselia is a fantastic partner for Terrakion because it can take almost every attack aimed at it, boost the power of its attacks with Helping Hand, and neuter threats such as Hitmontop and Landorus-T with Psyshock and Icy Wind, respectively. Amoonguss can dispose of key threats with its great bulk and Spore, as well as direct attacks aimed at Terrakion towards itself with Rage Powder. Azumarill is a good offensive partner because its STAB attacks threaten almost every Intimidate user that plans on switching into Terrakion. Mega Charizard Y can eliminate the Grass- and Fighting-types that threaten Terrakion. Lastly, Tyranitar and Excadrill can handle the bulky Psychic-types that wall Terrakion.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "close_combat",
+         "name": "Close Combat"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        },
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        },
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "justified",
+       "name": "Justified"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Stealth Rock",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Focus Sash",
+       "alias": "focus_sash",
+       "description": "The holder always survives one attack. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Terrakion is a great offensive Stealth Rock user capable of using its sheer offensive presence to force switches and set up its entry hazard. Close Combat and Stone Edge are Terrakion's best STAB moves available, and the coverage and power they offer together are splendid. Taunt prevents slower entry hazard setters such as Skarmory and Smeargle from getting up their own entry hazards while Terrakion lays down Stealth Rock. It also helps prevent slower Defog users from removing Stealth Rock. Earthquake hits Heatran hard. Swords Dance, on the other hand, gives Terrakion excellent sweeping potential once it completes its job as a Stealth Rock setter.</p>\n<h4>Set Details</h4>\n<p>Focus Sash is the primary item choice because it almost guarantees that Terrakion will get Stealth Rock up and/or Taunt slower entry hazard users if used in the lead position. Life Orb is also an option because it gives Terrakion significantly more offensive presence. Leftovers also has its merits as it lets Terrakion survive longer to act as a more consistent Stealth Rock setter. Maximum Speed and a Jolly nature let Terrakion outrun as many opposing hazard users as possible, and maximum Attack gives Terrakion a lot of bite as well.</p>\n<h4>Usage Tips</h4>\n<p>Because Stealth Rock is so vital for offensive teams, it is important to get Terrakion in to set up Stealth Rock as early as you can. If the opponent has a likely dedicated lead such as Smeargle, you definitely want to lead with Terrakion and use Taunt to prevent them from setting up their own entry hazards. Be careful against faster leads that might be carrying Taunt (such as Greninja), as these can prevent Terrakion from performing its most important job\u2014getting up Stealth Rock. If your opponent has a Rapid Spin or Defog user, you should play more conservatively with Terrakion in case it needs to set up Stealth Rock again. If your opponent doesn't have one of these, you don't need Terrakion to check anything, or if a Swords Dance sweep seems unlikely should you be using that, don't be afraid to sacrifice Terrakion to gain momentum.</p>\n<h4>Team Options</h4>\n<p>Terrakion is best used on fast-paced offensive teams that need a reliable offensive Stealth Rock user. That said, you'll want to pair this Terrakion set with powerful offensive teammates such as Greninja, Talonflame and Lucario, which are capable of both making full use of the extra Stealth Rock damage and using their natural offensive presence to prevent the opponent from easily using Rapid Spin or Defog to remove Stealth Rock. A spinblocker such as Gengar can help stop Rapid Spin while using Stealth Rock's passive damage to complement its own offensive abilities.</p>\n"
+    }
+   ],
+   "alias": "terrakion",
+   "name": "Terrakion",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "terrakion"
+    },
+    {
+     "gen": "xy",
+     "alias": "terrakion"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "block",
+     "name": "Block",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "calm_mind",
+     "name": "Calm Mind",
+     "description": "Boosts Special Attack and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "close_combat",
+     "name": "Close Combat",
+     "description": "Lowers user's Defense and Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "double_kick",
+     "name": "Double Kick",
+     "description": "Hits twice in 1 turn.",
+     "pp": 30,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "false_swipe",
+     "name": "False Swipe",
+     "description": "Always leaves the foe with at least 1 HP.",
+     "pp": 40,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "helping_hand",
+     "name": "Helping Hand",
+     "description": "Increases power of ally's moves by 50%.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "leer",
+     "name": "Leer",
+     "description": "Lowers target's Defense by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "poison_jab",
+     "name": "Poison Jab",
+     "description": "30% chance to poison.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "quick_attack",
+     "name": "Quick Attack",
+     "description": "The user always attacks first.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "quick_guard",
+     "name": "Quick Guard",
+     "description": "Protects user and allies from priority attacks.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "reflect",
+     "name": "Reflect",
+     "description": "Lowers damage from physical attacks for 5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "retaliate",
+     "name": "Retaliate",
+     "description": "Power doubles if the user's teammate fainted the previous turn.",
+     "pp": 5,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "rock_polish",
+     "name": "Rock Polish",
+     "description": "Boosts Speed by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "sacred_sword",
+     "name": "Sacred Sword",
+     "description": "Ignores the target's stat changes.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "smack_down",
+     "name": "Smack Down",
+     "description": "Can hit if target is using Fly, Bounce, or Sky Drop. Ends target's airborne moves and its benefits from Flying type or Levitate.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "stealth_rock",
+     "name": "Stealth Rock",
+     "description": "Damages foe's switch-ins.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "superpower",
+     "name": "Superpower",
+     "description": "Lowers the user's Attack and Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "take_down",
+     "name": "Take Down",
+     "description": "Has 1/4 recoil.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "taunt",
+     "name": "Taunt",
+     "description": "Forces the foe to use damaging moves for 2 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "work_up",
+     "name": "Work Up",
+     "description": "Boosts user's Attack and Special Attack by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "x-scissor",
+     "name": "X-Scissor",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 90,
+     "alias": "zen_headbutt",
+     "name": "Zen Headbutt",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "terrakion",
+     "name": "Terrakion"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 129,
+     "height": 1.9,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Justified",
+       "alias": "justified",
+       "description": "Raises Attack by one stage when hit by a Dark-type move."
+      }
+     ],
+     "alias": "terrakion",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fighting",
+       "name": "Fighting"
+      },
+      {
+       "gen": "xy",
+       "alias": "rock",
+       "name": "Rock"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 90,
+     "hp": 91,
+     "spatk": 72,
+     "suffix": "",
+     "pdef": 90,
+     "weight": 260.0,
+     "spe": 108,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

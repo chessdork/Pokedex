@@ -1,0 +1,1797 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hurricane",
+         "name": "Hurricane"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "flamethrower",
+         "name": "Flamethrower"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "agility",
+         "name": "Agility"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_grass",
+         "name": "Hidden Power Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Agility",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 104,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 148
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Agility is an extremely useful supporting move that enables Moltres to increase its base 90 Speed stat. After one boost, Moltres's Speed is propelled to an insane 506, which allows it to outspeed everything up to Choice Scarf base 105 Speed Pokemon. Flamethrower is used over Fire Blast because this set is mainly for mid- or late-game sweeping, which means Moltres can't afford to miss. Also, around that time in the game, most of the opponent's Pokemon would be weakened, so Flamethrower would clean up nicely. However, if you prefer the extra power, Fire Blast can be used over Flamethrower. Hurricane is Moltres's other insanely strong STAB attack that rounds out Moltres's near-perfect coverage. Roost is used to recover HP lost from resisted hits, Life Orb recoil, and Stealth Rock damage. Hidden Power Grass is a viable option over Roost, which allows Moltres to pick off weakened Water-, Rock-, and Ground-type Pokemon.</p>\n<h4>Set Details</h4>\n<p>Maximum Special Attack, a Modest nature, and a Life Orb ensure Moltres hits as hard as possible. This moveset only recommends 148 Speed EVs because that's all the investment that's necessary for Moltres to outspeed the entire tier after using Agility. The rest of the EV investment was placed into HP for a little bulk. You can always use a 252 SpA / 4 Def / 252 Spe spread if you want Moltres to outspeed Pokemon like Hitmonlee and non-Choice Scarf Rotom-C. Be wary of Rock- and bulky Water-type Pokemon like Slowking and Lanturn because they can wall this set. There's no need to ever run a positive Speed nature since you'll be increasing your Speed with Agility. The extra Speed may be nice but the drop off in power is noticeable.</p>\n<h4>Usage Tips</h4>\n<p>This moveset functions just like the all-out attacking Life Orb moveset. The goal is to blast the opposing Pokemon with Moltres's extremely powerful STAB attacks after boosting Moltres's Speed with Agility. This moveset is best when used mid- or late-game, or after most of Moltres's checks and counters have been eliminated. For example, you would switch Moltres in on a resisted Grass-type attack from a Pokemon Moltres forces out, then boost its Speed with Agility as your opponent switches. It's also possible to masquerade as the conventional Life Orb wall breaking set in order to lure your opponent into a false sense of security. Your opponent is guaranteed to be stumped by this tactic, as their checks would be overwhelmed when matched against Moltres's insane Speed after using Agility.</p>\n<h4>Team Options</h4>\n<p>Support from Substitute + Baton Pass Jolteon can prove to be very useful. With Substitute Moltres is able to avoid status moves and attacks, and set up Agility safely. Both Pokemon share decent synergy as Jolteon only has one weakness, which is to Ground. Moltres is a Flying-type Pokemon and is immune to the Ground-type moves aimed at Jolteon, so thanks to its typing, there's a higher probability Moltres will be passed a Substitute. Rotom-C is a great partner as well as it resists every one of Moltres's weaknesses. It's also able to remove some of Moltres's counters with its Grass- and Electric-type STAB attacks. It can also avoid Ice- and Fire-type attacks through the use of Volt Switch, which is a very effective way to switch Moltres in safely since Moltres can take Ice- and Fire-type attacks well. Moltres always needs a Pokemon that can rid the field of entry hazards. Hitmonlee and Shiftry are amazing offensive hazard removers that can eliminate Moltres's checks and counters and remove Stealth Rock at the same time. Hitmonlee's High Jump Kick is insanely strong and even 2HKOes Pokemon that resist Fighting-type attacks. Shiftry's ability to force out bulky Water-, Rock-, and Ground-type Pokemon with its Grass-type STAB attacks and its overpowered Knock Offs is unmatched.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hurricane",
+         "name": "Hurricane"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flamethrower",
+         "name": "Flamethrower"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Fire Blast is Moltres's main STAB move that can OHKO or 2HKO most of the tier. Hurricane is its second STAB move that is only resisted by Rock-, Steel-, and Electric-type Pokemon. Flamethrower is a much more reliable STAB which can be used on weakened Pokemon or for a late-game sweep if you can't afford to miss. U-turn is used in order to scout and keep or gain momentum. Roost is also an option but when your opponent realizes you're Choice-locked into it, Moltres becomes setup bait. Tailwind can be a last ditch move that allows Moltres to support its teammates after being KOed.</p>\n<h4>Set Details</h4>\n<p>A Choice Scarf mitigates Moltres's awkward Speed and allows it to beat its normal checks along with its Choice Scarf checks and counters such as Jolteon, Heliosk, Rotom-C, and Cobalion. A Modest nature is preferred over a Timid nature for some extra power, although a Timid nature allows Moltres to outspeed Choice Scarf Rotom-C. U-turn is just a filler move and is used to gain momentum. As it won't be OHKOing anything, nothing wrong with a nature that lowers its Attack.</p>\n<h4>Usage Tips</h4>\n<p>Choice Scarf Moltres can be used as an effective lead Pokemon. Choice Scarf Moltres also holds a bit of surprise factor because most people would assume it's a Life Orb or defensive variant. Its Choice Scarf allows it to get rid of its normal checks and counters, such as Jolteon, Cobalion with Stone Edge, Heliolisk, Virizion with Stone Edge, and Choice Scarf Rotom-C.</p>\n<h4>Team Options</h4>\n<p>Moltres needs Rapid Spin support for every set it runs because of its severe weakness to Stealth Rock. Defog support is equally as effective as Rapid Spin is but at the cost of your own entry hazards. Hitmonlee is RU's best offensive spinner and does a great job of removing this set's counters. Shiftry can also be considered because it can eliminate the opposing teams bulky Water-, Rock-, and Ground-types that can cause huge problems for this moveset. Hazard support is a necessity as well. Druddigon is a good teammate because it can eat the Water- and Electric-type moves that Moltres can't handle. Cobalion is also a great option that offers great hazard support with Stealth Rock and provides a nice Rock-type resist. Spikes-stacking Pokemon such as Qwilfish, Roselia, and Accelgor are also excellent partners for Moltres. Accelgor and Qwilfish should be utilized on offensive teams as suicide lead support Pokemon. Heliosk and Jolteon are great teammates and they form a nice Volt-Turn core with Moltres because they can effectively switch into the others counters.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hurricane",
+         "name": "Hurricane"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_grass",
+         "name": "Hidden Power Grass"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Life Orb Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This is arguably the best Moltres set in RU; its power, versatility, and coverage are qualities that set it apart from the tier's offensive Pokemon. Fire Blast is Moltres's most useful STAB move, as it's capable of hitting a majority of the tier for large amounts of damage. Hurricane is Moltres's secondary STAB move that hits most things for great damage and covers most of the Pokemon that resist Fire Blast. Hidden Power Grass rounds out Moltres's coverage, and allows Moltres to hit Ground-, Water-, and Rock-types for super effective damage. Roost is handy, enabling Moltres to recover from Stealth Rock and Life Orb damage as well as resisted hits, increasing its longevity.</p>\n<h4>Set Details</h4>\n<p>A Timid nature and maximum EV investment in Special Attack and Speed ensures that Moltres will hit as hard and fast as possible. It's also possible to give Moltres a Modest nature but it won't be able to outspeed Pokemon such as Rotom-C that it would normally. Life Orb adds to Moltres's exceptional power and is useful for ensuring Fire Blast and Hurricane attain crucial KOs. The 4 EVs in Defense instead of in HP will allow Moltres to switch into Stealth Rock twice without being KOed.</p>\n<h4>Usage Tips</h4>\n<p>Because of Moltres's Fire / Flying typing, it loses 50% of its health every time it switches into Stealth Rock, which means Moltres should always be paired with a Pokemon who can remove entry hazards. Moltres also needs a teammate that can set hazards up as they are crucial to secure numerous OHKOs and 2HKOs. For example, after Stealth Rock and one layer of Spikes, Assault Vest Slowking is 2HKOed by Hurricane.</p>\n<h4>Team Options</h4>\n<p>Moltres needs a teammate that can clear the field of hazards because Stealth Rock cuts its health in half every time it switches in. Hitmonlee is RU's best offensive spinner because of its incredibly strong STAB move High Jump Kick, which allows Hitmonlee to eliminate hazard setters like Rhyperior and Druddigon. Shiftry is another Pokemon that shares great synergy with Moltres because of its ability to clear the field of all hazards with Defog, and at the same time, challenge Moltres's biggest counters, which are the tier's bulky Water-type Pokemon. Giving Moltres hazard support is just as important as pairing it with a teammate who can remove hazards. Druddigon is one of the best Pokemon to consider for a hazard supporting role, as with its great bulk and Dragon-typing, it's able to absorb Water- and Electric-type attacks aimed at Moltres. Druddigon is no sitting duck; it has a huge base 120 Attack and a plethora of moves that can take advantage of its sky-high Attack. Zoroark is another great option because of its ability to challenge Moltres's counters with its powerful attacks such as Knock Off, Grass Knot, Flamethrower, and Sucker Punch. Grass Knot allows it to beat Rock-, Water-, and Ground-type switch-ins and Knock Off devastates everything else. It's also able to masquerade as Moltres thanks to its ability, Illusion, and can confuse the opponent longer through the use of Flamethrower. Also, a Pokemon that can spread paralysis can also be very useful and it would make it possible for Moltres to beat Pokemon such as Cobalion, Virizion, and Delphox that outspeed it.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flamethrower",
+         "name": "Flamethrower"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "SubRoost",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 124,
+       "spe": 136
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This moveset is geared to take advantage of Moltres's ability Pressure, its amazing defensive typing, and its decent bulk. Pressure is an exceptional ability for a Pokemon that's used on stall or balanced teams because of its ability to shorten the PP of moves directed at Moltres. Substitute is used to avoid status ailments, but it can also be used in conjunction with Roost to PP stall opposing Pokemon. Moltres is able to wear down opponents with Toxic or cripple physical threats with Will-O-Wisp. Although Toxic is more useful because its passive damage increases every turn, Will-O-Wisp can be used if your team has problem with powerful physical attackers. Flamethrower is used so Moltres is not completely shut down by Taunt or Steel- and Poison-type Pokemon who are immune to Toxic. Roost is a very important part of this set because it allows Moltres to recover HP lost from passive damage and resisted hits.</p>\n<h4>Set Details</h4>\n<p>Pressure is an amazing ability, especially for a set like this one. With Pressure, Moltres is able to limit the amount of PP a Pokemon has, which can prove to be very useful when used with Roost and Substitute. This moveset is difficult for bulky offensive and balanced teams to break through without losing a lot of PP or being crippled by Toxic. Leftovers are essential because they provide Moltres with much needed passive recovery. This moveset is geared to take advantage of Pressure and Moltres's great resistances, in order to Toxic stall the opponent. Moltres is given a Timid nature and 136 Speed EVs in order to outspeed everything up to Adamant Hitmonlee. The rest of the EVs are dumped into HP and Defense to give Moltres as much bulk as possible. The 124 Defense EVs can easily be moved to Special Defense to handle an uninvested Scald from Lanturn or Slowking.</p>\n<h4>Usage Tips</h4>\n<p>Defensive SubRoost Moltres is best if used on a balanced, stall, or semi-stall team. Moltres is fast for a defensive Pokemon so it'll have the advantage against most of the tier's other defensive Pokemon. This is essential for this set because it's built to take advantage of Moltres's ability to PP stall with Pressure and wear down the opponent with Toxic. Moltres can switch in on many common defensive Pokemon such as Aromatisse, Amoonguss, Bronzong, Gligar, and Registeel, and then proceed to Toxic stall the aforementioned Pokemon and more into submission.</p>\n<h4>Team Options</h4>\n<p>Like every Moltres moveset, this one needs a bulky Pokemon who can remove hazards. Hitmontop is a great defensive hazard remover. Hitmontop has great Defense and its ability, Intimidate, helps it when dealing with top-tier physical threats. Intimidate can also make it easier for Moltres to deal with physical threats. Hitmontop's Special Defense is also very high, so it's able to take Electric- and Water-type attacks aimed at Moltres. A powerful Ground-type Pokemon who can set up hazards would also be appreciated because it's able to get rid of Poison-type Pokemon who are immune to Toxic. Dragalge can also be a great supporting teammate because it can take the Water- and Electric-type attacks aimed at Moltres, as well as spread poison around with Toxic Spikes, thus making it easier for Moltres to Pressure stall the opponent. Drapion is also a great option for a defensive Toxic Spikes stacking Pokemon. A Pokemon with the ability to phaze opposing Pokemon is useful too, along with a Toxic Spikes stacking Pokemon and Moltres.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flamethrower",
+         "name": "Flamethrower"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "pressure",
+       "name": "Pressure"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "SubToxic",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 160,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 100
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>The combination of Substitute, Roost, and Toxic works excellently with Pressure to stall out slower opponents. Substitute provides protection from status, which otherwise cripples Moltres, and is easy to set up thanks to Moltres's handy resistances. Any defensive Pokemon worth its salt loves a form of recovery; Roost provides this longevity for Moltres. Toxic is a great way to cripple common switch-ins, especially bulky Water-types such as Rotom-W and Azumarill. Finally, Flamethrower is a decently strong STAB attack that has the added advantage of denting many Pokemon that don't mind Toxic, such as Steel-types, Mega Venusaur, Poison Heal Gliscor, and Celebi.</p>\n<h4>Set Details</h4>\n<p>The given EVs and Calm nature emphasize special bulk, allowing Moltres to check the likes of Alakazam, Landorus, and Mega Charizard Y, while also minimizing Stealth Rock damage and allowing Moltres to outspeed Adamant variants of Bisharp and Breloom. Leftovers is the item of choice for its useful HP restoration.</p>\n<h4>Usage Tips</h4>\n<p>This set is designed to stall out opposing Pokemon with passive damage from Toxic while keeping healthy with Roost. Moltres should try to set up a Substitute on Pokemon that cannot break it, such as Gliscor, or when it is expected that the opponent will switch out. A good example of when to use Substitute is if Moltres is on the field against a Ferrothorn. Keep in mind that if Moltres is not safely behind a Substitute, Toxic should nearly always be used to hit Water-types as they switch in, which will force Moltres out otherwise. It is also important to remember that Pressure will double the PP cost of moves used against Moltres, so it is feasible to stall out the PP of moves such as Stone Edge or Hydro Pump through the use of Substitute and Roost. Because Stealth Rock takes a huge 50% of Moltres's HP upon switching in, you should play cautiously when it is on the field, as using Substitute once before switching out will make Moltres only useful as death fodder unless you've previously removed Stealth Rock. Although this set invests in Special Defense, Moltres's typing allows it to check physical attackers, too. Scizor and Conkeldurr can do very little outside of Knock Off, and Ground-types such as Excadrill that lack a Rock-type coverage move will be completely shut down.</p>\n<h4>Team Options</h4>\n<p>This Moltres set is best suited for defensively inclined or balanced teams. In order for it to be effective, Defog or Rapid Spin support is a necessity; Excadrill has nice defensive synergy with Moltres and can demolish Tyranitar and Heatran with its STAB Earthquake. Mega Blastoise coves Moltres's Water-type vulnerability and Moltres can comfortably switch into Grass-type attacks aimed at Mega Blastoise. As far as Defog users go, Latios is an excellent choice, particularly variants carrying Earthquake, as they effectively lure and remove Heatran and deal nice damage to Tyranitar. Defensive, bulky Grass-types such as Mega Venusaur, Ferrothorn, and Gourgeist-XL are great partners as they can switch into Electric- and Water-type moves. In return, Moltres can check Fire-type threats such as Mega Charizard Y and Volcarona. Teammates that can handle fast physical attackers such as Terrakion, Garchomp, and Talonflame are wise choices; Landorus-T and Rotom-W are effective in this pivot role and can often bring Moltres in safely with U-turn and Volt Switch, respectively. Landorus-T can also set up Stealth Rock to wear down opposing Pokemon.</p>\n"
+    }
+   ],
+   "alias": "moltres",
+   "name": "Moltres",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "moltres"
+    },
+    {
+     "gen": "dp",
+     "alias": "moltres"
+    },
+    {
+     "gen": "gs",
+     "alias": "moltres"
+    },
+    {
+     "gen": "rb",
+     "alias": "moltres"
+    },
+    {
+     "gen": "rs",
+     "alias": "moltres"
+    },
+    {
+     "gen": "xy",
+     "alias": "moltres"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "agility",
+     "name": "Agility",
+     "description": "Boosts Speed by 2 stages.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "air_cutter",
+     "name": "Air Cutter",
+     "description": "High critical hit rate.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "air_slash",
+     "name": "Air Slash",
+     "description": "High critical hit rate.",
+     "pp": 20,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "ancient_power",
+     "name": "Ancient Power",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "defog",
+     "name": "Defog",
+     "description": "Lowers target's evasion by 1 stage. Removes various field effects.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "ember",
+     "name": "Ember",
+     "description": "10% chance to burn.",
+     "pp": 25,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "extrasensory",
+     "name": "Extrasensory",
+     "description": "10% chance to flinch.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_spin",
+     "name": "Fire Spin",
+     "description": "Prevents the opponent from attacking for 2-5 turns.",
+     "pp": 15,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flame_charge",
+     "name": "Flame Charge",
+     "description": "Boosts user's Speed by 1 stage.",
+     "pp": 20,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "fly",
+     "name": "Fly",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "heat_wave",
+     "name": "Heat Wave",
+     "description": "10% chance to burn.",
+     "pp": 10,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 70,
+     "alias": "hurricane",
+     "name": "Hurricane",
+     "description": "30% chance to confuse the target.",
+     "pp": 10,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "morning_sun",
+     "name": "Morning Sun",
+     "description": "Heals variably depending on the weather.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "ominous_wind",
+     "name": "Ominous Wind",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "overheat",
+     "name": "Overheat",
+     "description": "Lowers Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "pluck",
+     "name": "Pluck",
+     "description": "Uses foe's Berry.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "roost",
+     "name": "Roost",
+     "description": "Heals 50% HP. Temporarily removes the user's Flying-type.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 90,
+     "alias": "sky_attack",
+     "name": "Sky Attack",
+     "description": "Hits the turn after being used.",
+     "pp": 5,
+     "power": 140
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "sky_drop",
+     "name": "Sky Drop",
+     "description": "Hits the turn after being used. The target cannot move while in the air.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 90,
+     "alias": "steel_wing",
+     "name": "Steel Wing",
+     "description": "10% chance to raise the user's Defense by 1 stage.",
+     "pp": 25,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "tailwind",
+     "name": "Tailwind",
+     "description": "Doubles Speed for 3 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "twister",
+     "name": "Twister",
+     "description": "20% chance to flinch.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "u-turn",
+     "name": "U-turn",
+     "description": "Attacks, then switches.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "will-o-wisp",
+     "name": "Will-O-Wisp",
+     "description": "Burns the foe.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "wing_attack",
+     "name": "Wing Attack",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 60
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "moltres",
+     "name": "Moltres"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 100,
+     "height": 2.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Pressure",
+       "alias": "pressure",
+       "description": "Enemy attacks lose 1 extra PP. Increases wild encounter rate."
+      }
+     ],
+     "alias": "moltres",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fire",
+       "name": "Fire"
+      },
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 85,
+     "hp": 90,
+     "spatk": 125,
+     "suffix": "",
+     "pdef": 90,
+     "weight": 60.0,
+     "spe": 90,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1682 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "clear_smog",
+         "name": "Clear Smog"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sludge_bomb",
+         "name": "Sludge Bomb"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "grass_knot",
+         "name": "Grass Knot"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "foul_play",
+         "name": "Foul Play"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Boosting moves? What are those?",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Assault Vest",
+       "alias": "assault_vest",
+       "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 8,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>One of the main attractions of Amoonguss's movepool is Clear Smog, which can put Geomancy Xerneas and other setup sweepers back to square one. Sludge Bomb is the more spammable of the two, with which Amoonguss can hit most Fairy-types such as Xerneas and Fairy Arceus for solid damage. In order for Amoonguss to check bulky Water-types, the most prominent being Kyogre, Grass Knot is an absolute must in order to not only reduce the damage of Kyogre's Water Spout, but to hit most of the heavy Ubers metagame for respectable damage. Foul Play prevents Amoonguss from being total fodder to Mewtwo and Mega Gengar and can hit physical attackers on the switch. A good move that isn't listed is Hidden Power Fire, which can be used over Foul Play in order to fend off common Spikes setters such as Klefki and Forretress; however, this leaves Amoonguss walled by the likes of Ho-Oh, Dialga, and Heatran, which are hit by Foul Play for neutral damage.</p>\n<h4>Set Details</h4>\n<p>The listed EV spread lets Amoonguss have a good chance to avoid a 2HKO from a Choice Specs Kyogre's Water Spout even after Stealth Rock, in addition to giving Xerneas a really hard time if it doesn't have Psyshock. However, if you want a bit more power behind Amoonguss's attacks and the ability to break past Geomancy Xerneas's Substitute after the boost, a spread of 248 HP / 96 SpA / 164 SpD is viable; it allows Amoonguss to break the Substitute with Sludge Bomb even after a Geomancy boost and deal more damage overall with Sludge Bomb and Grass Knot. However, Xerneas does have difficulty breaking past Amoonguss even after a Substitute.</p>\n<h4>Usage Tips</h4>\n<p>Since Amoonguss has Regenerator, it doesn't have to worry too much about residual damage and entry hazards, so it can be difficult to wear down when pivoting. Pivoting against special attackers is the best option for Amoonguss since its uninvested physical bulk is lackluster and the threats Amoonguss can check are specially oriented. However, if Amoonguss comes in on a double switch into a physical attacker whose coverage moves are mostly ineffective against Amoonguss such as Excadrill or Scizor, Foul Play can usually either force them out or do a good amount of damage.</p>\n<h4>Team Options</h4>\n<p>Amoonguss's presence can attract entry hazard setters, so Defoggers such as Arceus and Giratina-O or Rapid Spinners such as Excadrill or Forretress can make good partners. Since Amoonguss can check both Geomancy Xerneas and Kyogre, sweepers or wallbreakers that are threatened by the two, such as Rayquaza and Yveltal, appreciate the support Amoonguss brings to the table. Amoonguss also needs support of its own, such as checks to Mewtwo, Ho-Oh, and Yveltal. Giratina-O and Ghost Arceus can check or counter Mewtwo; Fairy-types such as Xerneas or Fairy Arceus can counter Yveltal; and Landorus-T, Hippowdon, and Water Arceus can check Ho-Oh. Heatran is an extremely helpful partner to Amoonguss as not only does it form an excellent resistance core, Heatran can check Geomancy Xerneas variants with Subsitute. Amoonguss can also scare away Kyogre, which can handle Heatran with ease. Ho-Oh is also an awesome partner as it can check Geomancy Xerneas variants with Substitute and form a neat Regenerator core with Amoonguss. However, Amoonguss is very prone to compounding weaknesses in the team, so be careful when selecting team members.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spore",
+         "name": "Spore"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "clear_smog",
+         "name": "Clear Smog"
+        },
+        {
+         "gen": "xy",
+         "alias": "sludge_bomb",
+         "name": "Sludge Bomb"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "foul_play",
+         "name": "Foul Play"
+        },
+        {
+         "gen": "xy",
+         "alias": "stun_spore",
+         "name": "Stun Spore"
+        },
+        {
+         "gen": "xy",
+         "alias": "synthesis",
+         "name": "Synthesis"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Black Sludge",
+       "alias": "black_sludge",
+       "description": "Recovers 1/16 of max HP each turn for Poison-types. Damages all other types by 1/8 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 96,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 160,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Spore is an extremely helpful support move that can immobilize a Pokemon, making it useless for a good portion of the match. Giga Drain is used as it is a decently powerful Grass-type STAB attack that can also recover HP. Sludge Bomb is used in the third slot for its high Base Power, and also has a good chance to poison the target. Clear Smog is another option in the third slot to stop setup sweepers, though it's weaker and doesn't have the chance to poison. Stun Spore is nice for crippling faster Pokemon and can be especially helpful as the opponent tries to switch into a fast Fire- or Flying-type. Foul Play is also a nice option for damaging physical attackers, and does a ton of damage if they decide to boost their Attack. Synthesis is another option for a healing move; its low PP isn't as big of a problem for Amoonguss due to Regenerator being Amoonguss's main way of healing.</p>\n<h4>Set Details</h4>\n<p>The EV spread with a Bold nature allows Amoonguss to avoid a 2HKO from Reckless Life Orb Hitmonlee's High Jump Kick, even after Stealth Rock, with the rest thrown into Special Defense for more special bulk. A specially defensive spread of 252 HP / 84 Def / 172 SpD with a Calm nature can be used to take special hits better, notably only being 4HKOed by Heliolisk's Hidden Power Ice. Black Sludge provides nice passive recovery and can also deter Trick users such as Rotom-C from using Trick on Amoonguss. Regenerator heals on the switch, allowing Amoonguss to heal itself even without using a recovery move.</p>\n<h4>Usage Tips</h4>\n<p>It's important to switch often when using Amoonguss, as the free healing from Regenerator is great for preventing it from getting worn down. Use Spore sparingly; Spore can only put one Pokemon to sleep, so try to make sure it's used against your opponent's most threatening Pokemon. After it's put something to sleep, it may be wise to use Stun Spore on a predicted switch into your opponent's Amoonguss check post-sleep clause, as it will usually be a fast Fire- or Flying-type. Amoonguss should almost always be brought in on Electric-, Water-, and Grass-types due to its ability to counter most of them with impunity.</p>\n<h4>Team Options</h4>\n<p>Pokemon with Regenerator make excellent partners, as they can form a hard-to-break Regenerator core with Amoonguss. Assault Vest Slowking gets a special mention, as it can take on Fire-, Psychic-, and Ice-types with relative ease, while Amoonguss easily absorbs Water- and Grass-type moves for Slowking. Alomomola is another bulky Water-type with Regenerator that also makes for a great partner. Rhyperior can take on Fire- and Flying-types, while Amoonguss can take on Water- and Grass-type attacks, making it another helpful partner. Drapion is another Pokemon that makes for a great teammate, as it can set up Toxic Spikes and deals with Psychic-types easily. Pokemon that hate Electric-types such as Braviary and Fletchinder appreciate Amoonguss's support. Finally, Fire-types like Delphox and Emboar dislike Water-types, so they appreciate Amoonguss's support.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spore",
+         "name": "Spore"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "clear_smog",
+         "name": "Clear Smog"
+        },
+        {
+         "gen": "xy",
+         "alias": "sludge_bomb",
+         "name": "Sludge Bomb"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "foul_play",
+         "name": "Foul Play"
+        },
+        {
+         "gen": "xy",
+         "alias": "stun_spore",
+         "name": "Stun Spore"
+        },
+        {
+         "gen": "xy",
+         "alias": "synthesis",
+         "name": "Synthesis"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Black Sludge",
+       "alias": "black_sludge",
+       "description": "Recovers 1/16 of max HP each turn for Poison-types. Damages all other types by 1/8 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Spore is the most important move, as it has perfect accuracy and lets Amoonguss cripple most Pokemon, rendering them useless for a few turns. Giga Drain is a decent STAB attack, allowing Amoonguss to regain some HP while also preventing it from being total setup bait. Clear Smog is the preferred move for the third moveslot, allowing Amoonguss to stop most setup sweepers cold in their tracks. However, if that is not your cup of tea, Sludge Bomb can be used if you want the extra power. The last move is a bit of a toss-up. Stun Spore is the generally the best choice, as it paralyzes opponents and assists slower sweepers. Synthesis can be used for recovery, though it is not preferred due to the dominance of weather in the tier, and Amoonguss has Regenerator anyway. Finally, Foul Play can be used to deal with physical attackers, also hitting some counters such as Metagross hard.</p>\n<h4>Set Details</h4>\n<p>The given EVs are to maximize Amoonguss's ability to take physical attacks. Regenerator is the only ability that should be considered as it lets Amoonguss recover a third of its HP when it switches out and thus pivot more effectively. Black Sludge allows Amoonguss to survive more hits and grants it additional recovery; in conjunction with Regenerator, this makes Amoonguss very hard to take down.</p>\n<h4>Usage Tips</h4>\n<p>Amoonguss can easily switch into many Pokemon such as Mienshao, Virizion, and Sharpedo lacking Ice Beam, as well as physical moves it resists. Use Spore and Stun Spore a lot, but predict well if your opponent has any Pokemon immune to them. Do not stay in on super effective special attacks, as Amoonguss isn't invested in Special Defense, and they will hurt it a lot. Do not expect Amoonguss to entirely wall attackers; it should be used as an excellent defensive pivot. Switch out often, as Amoonguss benefits from doing so thanks to Regenerator.</p>\n<h4>Team Options</h4>\n<p>Vaporeon and Alomomola are great partners, the latter forming an effective Regenerator core with Amoonguss. They can take the Fire- and Ice-type attacks aimed at it, and in return, Amoonguss can take the Electric- and Grass-type moves directed at them. Sweepers that appreciate paralysis support from Amoonguss, such as Krookodile and Houndoom, make good partners. Entry hazard support from Pokemon such as Donphan and Smeargle is appreciated as Amoonguss forces quite a lot of switches. Cleric support is also very useful as Amoonguss has no other means of removing status. Umbreon and Florges make excellent partners as they can also pass Wishes to improve Amoonguss's longevity.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spore",
+         "name": "Spore"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "foul_play",
+         "name": "Foul Play"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_fire",
+         "name": "Hidden Power Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "sludge_bomb",
+         "name": "Sludge Bomb"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "clear_smog",
+         "name": "Clear Smog"
+        },
+        {
+         "gen": "xy",
+         "alias": "stun_spore",
+         "name": "Stun Spore"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Pivot",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Black Sludge",
+       "alias": "black_sludge",
+       "description": "Recovers 1/16 of max HP each turn for Poison-types. Damages all other types by 1/8 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Spore is the only 100% accurate sleep move in the game and is one of the main reasons to use Amoonguss. Giga Drain is boosted by STAB and heals Amoonguss, adding to its already great bulk and longevity. Foul Play prevents Amoonguss from being setup fodder for physical attackers. Hidden Power Fire is useful for hitting the Grass-types that are immune to Spore, particularly Ferrothorn. It also hits Scizor fairly hard. Alternatively, Sludge Bomb is Amoonguss's strongest reliable STAB move and has a 30% chance to poison, though its coverage is only useful for hitting Clefable super effectively. Hidden Power Ice can be used instead if Dragon-types are of particular concern. Stun Spore is great alongside Spore, as it allows Amoonguss to spread status even further. On the other hand, Clear Smog helps prevent it from being setup bait, though some Pokemon such as Talonflame, which can threaten Amoonguss without setting up, can still use it as setup bait. In addition, Steel-type sweepers such as Lucario and Scizor are not affected by the move, so they have free reign to set up on Amoonguss if it has already put something else on the opposing team to sleep. Synthesis can be used for more reliable recovery, but it is a bit redundant with Regenerator, Giga Drain, and Black Sludge recovery, so it is generally inferior to Amoonguss's other moves.</p>\n<h4>Set Details</h4>\n<p>EVs are put into HP and Defense to capitalize on Amoonguss's great resistances to common physical attacks. This allows it to switch in on and stop powerful physical sweepers such as Lucario by either putting them to sleep or paralyzing them. However, a specially defensive spread of 252 HP / 4 Def / 252 SpD with a Calm nature can be used if special attackers are more threatening to your team. Black Sludge is the preferred item, as it provides great passive healing in conjunction with Regenerator. Leftovers can be used over Black Sludge, but Black Sludge is more useful as it cripples Trick users and deters them from using Trick on Amoonguss at all.</p>\n<h4>Usage Tips</h4>\n<p>As it is a pivot, Amoonguss will be switching in very often throughout the match. It is very easy to switch in, thanks to its resistances, Regenerator, and its ability to wall common Pokemon.</p>\n<p>Spore is a very powerful tool and should not be used thoughtlessly. Amoonguss will most often only be able to put one opponent to sleep in the entire match because a sleeping opponent often does not have a chance to wake up, so take note of which Pokemon you want to put to sleep before mindlessly clicking Spore. The mere threat of Spore is also very useful. Predicting which Pokemon the opponent will use as sleep fodder and capitalizing on it not only gains momentum, but it allows you to possibly put a more dangerous Pokemon on the opponent's team to sleep later in the battle. However, Amoonguss can be helpless against certain Pokemon after it has already put something else to sleep. Successfully using Spore to its greatest potential requires prediction and clever planning.</p>\n<p>To prevent Amoonguss from being setup bait after Spore has been used, you can utilize double switches to deter the opposing team from setting up on it.</p>\n<h4>Team Options</h4>\n<p>Amoonguss isn't too support reliant as it is usually the one doing the supporting. It can be paired with other Regenerator users such as Slowbro to form a solid defensive core that can be very difficult to break through. Rotom-W and Heatran are good partners, as they have fantastic synergy with Amoonguss and beat Talonflame rather well. Amoonguss pairs nicely with slower sweepers if it opts for Stun Spore.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rage_powder",
+         "name": "Rage Powder"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "spore",
+         "name": "Spore"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "giga_drain",
+         "name": "Giga Drain"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Rage Powder",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Sitrus Berry",
+       "alias": "sitrus_berry",
+       "description": "Restores 1/4 of the max HP when at 1/2 HP or less. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 72,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 184,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Rage Powder is basically the only reason to use Amoonguss and is perhaps one of the most clutch moves ever created. It grants Amoonguss's partner significantly more maneuverability, can keep low-HP Pokemon on life support, and dramatically reduces the effectiveness of some of the opponent's Pokemon. Spore is excellent as it can put many major threats to sleep and allows Amoonguss to stop all common Trick Room setters outside of Trevenant and Overcoat Reuniclus. Giga Drain only deals acceptable damage when it's super effective, but is necessary for late-game situations and getting around Taunt. It can be tempting to run Sludge Bomb instead, as Amoonguss is ruined by Grass-types, but most Doubles Grass-types, such as Trevenant, Venusaur, and opposing Amoonguss, are only hit neutrally by Poison-type moves. Protect stalls for turns so Amoonguss's partner can switch and sidesteps Fake Out, which could otherwise stop Rage Powder.</p>\n<h4>Set Details</h4>\n<p>Mental Herb and Black Sludge are both passable items on Amoonguss. However, Taunt is not as common as it once was, as many Trick Room setters are now immune to it, so Mental Herb has also lost its usefulness somewhat. Black Sludge provides Amoonguss with reliable recovery, but Regenerator is usually sufficient in this regard. The best item tends to be Sitrus Berry, as it provides Amoonguss with a burst of vitality when it needs to use Rage Powder twice in a row, which is surprisingly often. Regenerator allows Amoonguss to replenish its health upon switching out and function as an effective pivot, and the given EV spread maximizes Amoonguss's special bulk, seeing as it usually redirects special attacks. The spread allows Amoonguss at full health to always survive a Timid Latios's Life Orb-boosted Psyshock, and Speed is minimized so it can work as well as possible against Trick Room, one of its main niches.</p>\n<h4>Usage Tips</h4>\n<p>One of Amoonguss's greatest perks is that it is almost always successful as a lead against heavy Trick Room: simply Spore the most threatening Pokemon that isn't immune to the move, be it setter or abuser. However, when it's not playing against Trick Room, Amoonguss should just focus on keeping its partner safe. Overall, using Amoonguss is fairly straightforward: use Spore to catch predicted switches or when your partner is Protecting, use Giga Drain on Water-types when your partner's not about to get Hydro Pumped, use Protect against Fake Out so that Rage Powder isn't blocked, and other than that, just spam Rage Powder. However, beware of becoming setup fodder for your opponent's Pokemon in the process\u2014especially for Fire-types.</p>\n<h4>Team Options</h4>\n<p>Amoonguss is setup fodder for Fire-types, so it needs a teammate that can kill their momentum. Garchomp, Zygarde, and Tyranitar are all reliable switch-ins to Heatran, Chandelure, and Mega Charizard Y, and in return, Amoonguss can redirect the Will-O-Wisps that they attract. Amoonguss works especially well with Rock-types such as Tyranitar and Terrakion as well as with Heatran. Amoonguss can redirect the Close Combats, Hydro Pumps, and Focus Blasts that plague these Pokemon as well as threaten certain Ground-types; meanwhile, its partner deals with the Fire-types that Amoonguss is unable to defeat. However, all of these combos must be wary of Muddy Water and Earthquake. Amoonguss also partners well with Trick Room setters, redirecting attacks that would otherwise stop them, and then has a blazing fast Spore to help clean up. However, this often requires having two Pokemon on the field with no offensive presence, which is a disaster, and Amoonguss cannot redirect Spore, a common check to Trick Room. Another option is to pair Amoonguss with Pokemon that use setup moves, such as Belly Drum Azumarill, so that they cannot be crippled during their turn of setup. However, they must be wary of spread moves among other things. In general, any specific pairing with Amoonguss will have its flaws because Amoonguss lacks offensive presence, but teams that want a bulky answer to Rotom-W, rain, and Trick Room could not ask for more.</p>\n"
+    }
+   ],
+   "alias": "amoonguss",
+   "name": "Amoonguss",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "amoonguss"
+    },
+    {
+     "gen": "xy",
+     "alias": "amoonguss"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "absorb",
+     "name": "Absorb",
+     "description": "Leeches 50% damage.",
+     "pp": 25,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "after_you",
+     "name": "After You",
+     "description": "The target will attack immediately after the user in the same turn.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "astonish",
+     "name": "Astonish",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "bide",
+     "name": "Bide",
+     "description": "Charges for 2-3 turns; returns double the damage received in those turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 0,
+     "alias": "clear_smog",
+     "name": "Clear Smog",
+     "description": "Eliminates the target's stat changes.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "defense_curl",
+     "name": "Defense Curl",
+     "description": "Boosts Defense by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "energy_ball",
+     "name": "Energy Ball",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "feint_attack",
+     "name": "Feint Attack",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "foul_play",
+     "name": "Foul Play",
+     "description": "Uses the target's Attack stat in damage calculation.",
+     "pp": 15,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "gastro_acid",
+     "name": "Gastro Acid",
+     "description": "Nullifies the foe's ability.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "giga_drain",
+     "name": "Giga Drain",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "growth",
+     "name": "Growth",
+     "description": "Boosts Attack and Special Attack by one stage. Boosts Attack and Special Attack by two stages in bright sunlight.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "ingrain",
+     "name": "Ingrain",
+     "description": "Heals the user 1/16 its max HP each turn. Prevents the user from switching.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "mega_drain",
+     "name": "Mega Drain",
+     "description": "Leeches 50% of the damage dealt.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "nature_power",
+     "name": "Nature Power",
+     "description": "Attack changes based on terrain.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 75,
+     "alias": "poison_powder",
+     "name": "Poison Powder",
+     "description": "Poisons the target.",
+     "pp": 35,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 0,
+     "alias": "rage_powder",
+     "name": "Rage Powder",
+     "description": "All moves target the user.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rollout",
+     "name": "Rollout",
+     "description": "Doubles in power with each hit. Repeats for 5 turns.",
+     "pp": 20,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "seed_bomb",
+     "name": "Seed Bomb",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge_bomb",
+     "name": "Sludge Bomb",
+     "description": "30% chance to poison.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "spore",
+     "name": "Spore",
+     "description": "Puts the target to sleep.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 75,
+     "alias": "stun_spore",
+     "name": "Stun Spore",
+     "description": "Paralyzes the target.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "sweet_scent",
+     "name": "Sweet Scent",
+     "description": "Lowers evasion by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "synthesis",
+     "name": "Synthesis",
+     "description": "Heals variably depending on the weather.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "venoshock",
+     "name": "Venoshock",
+     "description": "Hits poisoned targets with double Base Power.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "worry_seed",
+     "name": "Worry Seed",
+     "description": "Changes the foe's ability to Insomnia.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "foongus",
+     "name": "Foongus"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "amoonguss",
+       "name": "Amoonguss"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 85,
+     "height": 0.6,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Effect Spore",
+       "alias": "effect_spore",
+       "description": "Induces paralysis, poison, or sleep on contact."
+      },
+      {
+       "gen": "xy",
+       "name": "Regenerator",
+       "alias": "regenerator",
+       "description": "Wielder heals 1/3 of its maximum HP on switching out."
+      }
+     ],
+     "alias": "amoonguss",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "grass",
+       "name": "Grass"
+      },
+      {
+       "gen": "xy",
+       "alias": "poison",
+       "name": "Poison"
+      }
+     ],
+     "gkpower": 40,
+     "spdef": 80,
+     "hp": 114,
+     "spatk": 85,
+     "suffix": "",
+     "pdef": 70,
+     "weight": 10.5,
+     "spe": 30,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1544 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "glare",
+         "name": "Glare"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "lands_wrath",
+         "name": "Land's Wrath"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "aura_break",
+       "name": "Aura Break"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Bulky Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 248,
+       "hp": 112,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 148
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Glare is Zygarde's main niche and the move in the first slot, being able to paralyze Ground-types, slowing the opponent down so that Zygarde's ally can outspeed them and hit hard. Substitute aims to keep Zygarde on the field for as long as possible, making it functionally immune to status moves and allowing it to soak up attacks. Zygarde's good bulk and resistance to Fire-type attacks allows it to easily set up a Substitute and proceed to stay behind it for a few turns. Land's Wrath, Zygarde's signature move, is the next move on the set, as it is a powerful STAB attack and doesn't force Zygarde's ally to be a Flying-type or have Levitate to not be hit, making it good for teams with more Pokemon weak to Ground-type attacks and fewer switch-ins to Earthquake. Stone Edge is used over Rock Slide as it bypasses Wide Guard and also has much more power than Rock Slide. It is most useful for hitting Mega Charizard Y and Talonflame hard. Protect is a staple move in Doubles, as it can guard Zygarde from a potentially fatal attack while it's ally KOes the threat or stall out weather conditions and Trick Room/Tailwind turns. However, Substitute can be used here as Zygarde will find it easier to set up on a slower, paralyzed opponent.</p>\n<h4>Set Details</h4>\n<p>The investment in Speed lets Zygarde paralyze Breloom or set up a Substitute before being put to sleep with Spore. Zygarde should also be heavily invested in Attack to hit hard once opponents have been slowed down with Glare. The remaining EVs should be put in HP for overall bulk to give Zygarde an easier time paralyzing the opponent. If Substitute is used over Glare or Protect, an EV spread of 144 HP / 216 Atk / 148 Spe should be used, as this still outspeeds Jolly 252 Speed Breloom to set up a Substitute before being put to sleep with Spore, but is invested less in Attack to just guarantee an OHKO on Modest 176 / 0 Heatran, with the remaining EVs put into bulk. However, the Substitute set is outclassed by Garchomp, which can reach the exact same stats in defenses, Attack, and Speed while still having 8 leftover EVs. An Adamant nature is used on both spreads for maximum Attack. A Jolly nature can be used for greater Speed, but is not recommended because Zygarde doesn't outspeed anything else significant and it misses out on the OHKO on Heatran with Land's Wrath. Leftovers is the item used because it can gain a lot of HP back over time and greatly increase Zygarde's longevity, which aids it in paralyzing the opposing team or setting up Substitutes.</p>\n<h4>Usage Tips</h4>\n<p>As Zygarde's best stats are in bulk, it can switch into resisted attacks and even some neutral attacks and either paralyze the opponent or deal some damage. Once Zygarde is on the field, proceed to paralyze as much of the opposing team as possible, use Protect when necessary or to get a bit more health from Leftovers, or just hit a Heatran or Flying-type for good damage with the correct STAB attack. Zygarde can also act as an effective pivot and switch to an ally to let them get solid damage off on its checks such as Landorus. Zygarde is most effective mid-game, as it struggles to sweep late-game due to its relatively low base Speed and the set having no boosting moves. Zygarde can neutralize fast threats with Glare or deal damage when opposing Pokemon have been weakened a little for faster sweepers to clean up, because its bulk helps it stay for a long time.</p>\n<h4>Team Options</h4>\n<p>Pokemon that can deal with Dragon-, Ice-, and Fairy-types make good partners, so Zygarde can last for longer to paralyze more of the opposing team. Mega Mawile is a good option as it resists Ice- and Fairy-type attacks and is immune to Dragon-type attacks, and can hit them all for super effective damage. It isn't hit by Zygarde's Land's Wrath and also appreciates Heatran being removed by Zygarde. Other Pokemon that appreciate Heatran being taken care of are good partners; both Mega Charizard X and Y have their STAB attacks walled by Heatran, and Mega Charizard Y also resists Fairy-type attacks. Wide Guard users are also good partners as Zygarde is very vulnerable to Hyper Voice, which even bypasses Substitute. Aegislash resists all of Zygarde's weaknesses and also has great bulk to be able to use Wide Guard for many turns. Fake Out users make good partners as they can potentially give Zygarde a free turn to paralyze an opponent or set up a Substitute. Hitmontop is a notable choice as it has Intimidate to weaken physical attackers as well as Wide Guard. It also gets Feint to let Zygarde hit Heatran and Charizard that are using Protect as well as bypass Wide Guard and attack with Land's Wrath. Pokemon that appreciate the opponents being slowed down are good partners, as it is Zygarde's main niche. Aegislash can outspeed and deal heavy damage to Landorus and Garchomp once they have been slowed down by Zygarde. Pokemon that can take out Intimidate users which weaken Zygarde's physical attacks work as partners. Rotom-W easily takes care of Landorus-T and Talonflame beats Hitmontop and Scrafty with its Flying-type STAB attacks. Land's Wrath is one of the main reasons to use Zygarde over other Ground-types, so Pokemon that appreciate not being hit by Earthquake are good partners. Heatran is deserves a mention here as it can use Heat Wave and not have to worry about using Protect.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "aura_break",
+       "name": "Aura Break"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "DDRest",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Chesto Berry",
+       "alias": "chesto_berry",
+       "description": "Cures sleep. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 120,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 136
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Dragon Dance boosts Zygarde's Attack and Speed, which allows Zygarde to sweep its foe when set up. Rest completely heals Zygarde of any damage and status and is best used when Zygarde has taken a beating from attacks and status moves while boosting with Dragon Dance, undoing your opponent's efforts and threatening them with a fresh, boosted Zygarde. Earthquake is Zygarde's most reliable attack and main sweeping move. The last move of choice complements Earthquake well. Outrage hits very hard after a boost or two, but locks Zygarde into the move and confuses it afterward. Stone Edge hits Togekiss and picks off other Flying-types such as Thundurus and Mega Pinsir without needing to confuse Zygarde, but it lacks STAB and can fall short on KOing most other Pokemon that resist Ground.</p>\n<h4>Set Details</h4>\n<p>Maximum Attack investment with an Adamant nature maximizes Zygarde's sweeping potential. 136 Speed EVs allow Zygarde to outspeed Choice Scarf Terrakion at +2 Speed, likely the fastest Choice Scarf Pokemon one will see. This also allows Zygarde to outspeed Noivern and Greninja at +1 Speed and conveniently outspeeds unboosted Adamant Dragonite. The remaining EVs go into HP, which gives Zygarde enough bulk to survive 2 Fire Blasts from Mega Charizard Y. The combination of Chesto Berry and Rest acts as a Full Restore, allowing Zygarde to set up freely on status users such as Rotom-W, Chansey, and Gliscor, then healing itself completely when the time is right so that Zygarde can sweep its foes unhindered by health or status concerns.</p>\n<h4>Usage Tips</h4>\n<p>This Zygarde set aims to use Dragon Dance a couple of times while taking damage and/or status, then use Rest to refresh itself and sweep with a good amount of health and boosts. With its great bulk, it can set up on numerous Pokemon that have trouble 2HKOing it, so long as they do not have Ice-type moves; this includes such Pokemon as Excadrill, Mega Scizor, Rotom-W, Mega Venusaur, Ferrothorn, Gengar, Mega Charizard Y, Chansey, Gliscor, and Terrakion. Alternatively, Zygarde can start getting boosts against Pokemon it can force out, such as Excadrill, Heatran, and Tyranitar, though the risk of Ice Punch makes the last option risky. Zygarde can also take advantage of weaker Choice-locked attacks, such as Terrakion's Stone Edge, Keldeo's Secret Sword, and Garchomp's Earthquake. Dragon Dance Rest Zygarde works best against balanced teams, where it exploits their weak links to set up and uses its combination of bulk, Speed, and strong dual STAB moves to overwhelm its foes, which are often unprepared to deal with the threat. Zygarde should only face an opponent that it can handle for certain, as Resting too early without getting enough boosts may cut its sweep short, and Zygarde likely won't get a chance to do it again.</p>\n<h4>Team Options</h4>\n<p>Zygarde's main spamming move is Earthquake, making Flying-types and Levitate users notable annoyances. Stealth Rock can clip the wings of the former, with Clefable, Ferrothorn, Tyranitar, and Heatran being good users of the move. These Pokemon do not clash weaknesses with Zygarde, unlike most Ground-type Stealth Rock users such as Landorus-T and Hippowdon. Tyranitar can take on most Flying-types, while Ferrothorn and Heatran offer decent defensive synergy alongside Leech Seed and burn support, respectively. Kyurem-B, Thundurus, and Raikou are great anti-Flying-type measures, luring and hurting a good majority of Levitate users as well. Fairy-types can be a huge obstacle in Zygarde's path, most notably physically defensive variants of Clefable, Sylveon, and Togekiss; Steel-types such as Scizor, Excadrill, Magnezone, and Heatran can take out these Pokemon. Additionally, Scizor can use U-turn to bring Zygarde in safely or Pursuit trap Latios and Latias, Excadrill can weaken or take out the opponent's Ground-type checks, Magnezone can trap Skarmory and has a slow Volt Switch which also takes care of Flying-types, and Heatran can spread burns to ease Zygarde's setup. Gothitelle also makes a great teammate due to its ability to pick off Unaware users such as Clefable and Quagsire.</p>\n<p>Because this Zygarde aims to rack up multiple boosts and has the means to heal off any damage and status incurred, dual screens would heavily boost this set's effectiveness, with Klefki, Azelf, and Latios making great users. Klefki has Prankster Thunder Wave to slow down threats and has decent defensive synergy with Zygarde, Azelf can set up Stealth Rock or Taunt Defoggers, and Latios can use Memento to bring Zygarde in safely.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "extreme_speed",
+         "name": "Extreme Speed"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "aura_break",
+       "name": "Aura Break"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Dragon Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      },
+      {
+       "gen": "xy",
+       "name": "Lum Berry",
+       "alias": "lum_berry",
+       "description": "Cures status. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 4,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Dragon Dance boosts Zygarde's Attack and Speed, readying Zygarde to sweep its opponent. Earthquake provides solid damage with no drawbacks, making it Zygarde's most reliable attack and premier sweeping move. Outrage hits hard after a single boost, but locks Zygarde in and confuses it afterward; however, it is effective at cleaning up opponents late-game. Stone Edge hits Togekiss and picks off Flying-types such as Thundurus and Tornadus without resorting to Outrage. Extreme Speed can be used to outpace opposing priority users, most notably Talonflame and Mamoswine, though their inability to OHKO Zygarde anyway means Extreme Speed isn't too necessary.</p>\n<h4>Set Details</h4>\n<p>Maximum Attack investment with an Adamant nature provides Zygarde with greater sweeping potential after a single Dragon Dance, and maximum Speed investment ensures Zygarde Speed ties with neutral Kyurem-B, and also outspeeds neutral Mega Garchomp, Landorus-T, and Jolly Gyarados. Alternatively, Jolly with 164 Speed EVs outruns Mega Alakazam and Mega Aerodactyl at +1, though the lack of an Attack-boosting nature substantially drops Zygarde's power, not to mention the relative rarity of these threats. The remaining EVs can be placed in any other stat. Life Orb can be used to give Zygarde a significant power boost, considering its base Attack is not as good as other Dragons, but it cuts into Zygarde's bulk, an advantage it does have over other Dragon-types. Lum Berry allows Zygarde to set up on status users, such as Rotom-W, Chansey, and Gliscor, or snap Zygarde out of Outrage confusion. Yache Berry allows Zygarde to survive unSTABed Ice-type moves, allowing Zygarde to either set up on them or prevent itself from being revenge killed.</p>\n<h4>Usage Tips</h4>\n<p>Dragon Dance Zygarde's greatest advantage over Dragonite is its resistance to Stealth Rock, lessening the need for entry hazard removal from teammates. This set is very straightforward: boost once (twice if possible) and start attacking. Between the boosted Speed, high bulk, and a powerful STAB combination, Dragon Dance Zygarde can pose a serious threat to offensive teams. Zygarde should optimally be set to sweep after one Dragon Dance, cleaning up with a speedy and powerful Earthquake or Outrage. Ground resistant or immune Pokemon, or physically bulky Pokemon such as Hippowdon, should be removed before going for the sweep, so as to avoid being forced into using Outrage early. Hard-hitting offensive Pokemon such as Greninja, Thundurus, and Azumarill do a great job at wreaking havoc and softening up opposing teams, which can pave the way for Zygarde to clean things up. When running Extreme Speed, it allows Zygarde to perform the occasional revenge kill on weakened Pokemon such as Talonflame. Zygarde uses its good bulk and resistances to tank a hit and set up, or threatens foes with STAB Earthquake to gain free turns. If Life Orb is used, take care not to let Zygarde's health drop too low before setting up.</p>\n<h4>Team Options</h4>\n<p>Rotom-W is a great partner regardless of the coverage option; it takes on Togekiss for Zygarde that lack Stone Edge and can handle Talonflame and Mamoswine for Zygarde without Extreme Speed. Gothitelle makes an amazing teammate, as it traps Skarmory, Clefable, and Quagsire, all of which would otherwise be a royal pain for Zygarde to overcome on its own. While Stealth Rock benefits any offensive Pokemon, it is especially helpful for Zygarde, as it weakens a good majority of Ground-resistant Pokemon, which allows Zygarde to pick them off with its weaker move as opposed to using Outrage to KO them. Because Flying-type Pokemon and Levitate users can get in the way of a clean sweep, teammates that can handle these Pokemon are recommended. Kyurem-B, Thundurus, and Raikou are great anti-Flying-type measures, while luring and hurting a good majority of Levitate users as well. Zygarde finds it easier to set up on opponents weak to Ground-type moves; Talonflame lures in Rock-types or Steel-types such as Heatran and Tyranitar and U-turns away from them; even a Sylveon's dry Baton Pass can be used to the same effect on various Steel-types. Dual screens aren't necessary, but they ease Zygarde's job of setting up, while its natural bulk makes it even more challenging to take down behind them; Klefki, Azelf, or Latios can provide this support.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "glare",
+         "name": "Glare"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "aura_break",
+       "name": "Aura Break"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Parashuffler",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 200,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 56
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Glare is essentially a superior Thunder Wave, as it is just as accurate and can also paralyze Ground-types. Earthquake is Zygarde's most reliable STAB move and targets grounded Electric-types such as Raikou and Mega Manectric, which cannot be paralyzed. Dragon Tail phazes out foes, bringing out new opponents for Zygarde to paralyze. Substitute is used to take advantage of the free turns its paralyzed foes give, especially those that repeatedly switch in with the intent of shielding their teammates from the same fate, and it also guards against status such as burn and poison.</p>\n<h4>Set Details</h4>\n<p>Because Zygarde cannot boost its Defense with Coil anymore, Defense is maxed out to tank physical attacks. Zygarde's impressive physical bulk lets it serve as an emergency check to a huge variety of physical attackers, such as Mega Pinsir, Talonflame, Mega Tyranitar, Landorus-T, and Terrakion, as well as unboosted foes such as Garchomp, Gyarados, and even Mega Charizard X, which Zygarde can paralyze or phaze. 56 Speed EVs are run to hit Bisharp with Earthquake before it can hit Zygarde with Knock Off.</p>\n<h4>Usage Tips</h4>\n<p>This Zygarde set aims to spread paralysis on everything. From there, it can Earthquake grounded Electric-types, use Substitute against status users so they do not impede Zygarde's job and shorten its staying power, and use Dragon Tail to phaze out paralyzed opponents so Zygarde has new foes to Glare. If the opponent persists in repeatedly sending out their already paralyzed Pokemon, Zygarde may take advantage by using Dragon Tail or Substitute on the switch, or make use of their paralysis by setting up a free Substitute.</p>\n<h4>Team Options</h4>\n<p>Attackers that have trouble outspeeding opponents, such as Mega Heracross and Bisharp, greatly appreciate Zygarde's paralysis support, especially because paralysis affects Flying-types and cannot be Defogged away, unlike Sticky Web. This set's performance is greatly enhanced by entry hazards, as it forces a lot of switches; Klefki, Ferrothorn, and Skarmory can lay down Spikes while covering Zygarde's weaknesses, while Heatran and Tyranitar can provide Stealth Rock support, with more offensive variants even taking advantage of paralyzed foes. Rotom-W, Thundurus, and Gliscor are immune to both paralysis and Earthquake, making them big obstacles; Mega Venusaur, Sylveon, Clefable, and Kyurem-B can take on all three for the most part, although Kyurem-B does stack weaknesses, which is more prominent, as this Zygarde is a defensive variant.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "coil",
+         "name": "Coil"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_tail",
+         "name": "Dragon Tail"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "aura_break",
+       "name": "Aura Break"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "SubCoil",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 200,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 56
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Substitute blocks status and various weaker attacks, and also guards Zygarde against faster Pokemon. Coil is an enhanced Bulk Up, boosting Zygarde's Attack, Defense, and accuracy, which ensures a perfectly accurate Dragon Tail. This allows Zygarde to become exceptionally tanky. Earthquake is Zygarde's most reliable attack and offers good power. Dragon Tail prevents slower phazers from forcing out Zygarde's Substitute, while also hitting airborne Pokemon and forcing out unfavorable matchups or opposing stat boosters.</p>\n<h4>Set Details</h4>\n<p>56 Speed EVs allow Zygarde to outspeed Bisharp and hit it with Earthquake before Zygarde can be hit with Knock Off. The rest of the EVs are used to maximize Zygarde's special bulk. It has enough HP investment to create 101 HP Substitutes, which allows Zygarde's Substitute to tank two Seismic Tosses before breaking. Maximum Special Defense prevents weaker special attacks such as Mega Venusaur's Giga Drain and Vaporeon's Scald from breaking Zygarde's Substitute, while Coil makes up for its Defense. Zero Attack EVs ensure STAB Foul Play will not break the Substitute, so it would be unwise to invest in Attack. Leftovers is the essential item, allowing Zygarde to recover health lost from Substitute.</p>\n<h4>Usage Tips</h4>\n<p>SubCoil Zygarde has an great advantage against defensive teams, setting up easily on Pokemon such as Mega Venusaur, Mandibuzz, Tyranitar, Ferrothorn, bulky Mega Scizor, and Heatran. Zygarde can set up a Substitute against the many foes unable to break it, then boost away. Should any problematic Pokemon trouble Zygarde, it can Dragon Tail them away behind the safety of the Substitute, and might even drag out the opponent's setup fodder again; continually repeating this will easily wear down Zygarde's checks.</p>\n<h4>Team Options</h4>\n<p>Specially based Fairy-types, especially Unaware Clefable, Sylveon, and Togekiss, can pose a problem due to their immunity to Dragon Tail, so Pokemon that can threaten them make good partners; Scizor, Mega Charizard Y, and Mega Venusaur are good options. Draco Meteor and Ice Beam are two special attacks Zygarde fears greatly, so Pokemon that resist one or preferably both of these moves make great partners; Azumarill, Sylveon, and Scizor come to mind. Entry hazard users make helpful teammates, as they can maximize the effectiveness of Zygarde's Dragon Tail, and Pokemon such as Heatran and Skarmory can even cover Zygarde's weaknesses; however, it is worth mentioning that the hazards do not stay long, as Zygarde does not do a good job of preventing Rapid Spin or Defog, so they are not essential. If you do choose a hazard user, make sure to have a response against anti-hazards on your team, such as spinblockers or Defiant Pokemon; Bisharp makes a great teammate as it can deal with Fairy-types as well.</p>\n<p>Pokemon immune to Ground-type moves such as bulky Flying-types and Pokemon with Levitate can pose some issues for Zygarde, as they can force Zygarde to use its negative priority Dragon Tail, allowing them to respond accordingly by either healing or breaking Zygarde's Substitute. Thundurus and Greninja can threaten a good majority of available Flying-types as well as Levitate users. Alternatively, lures such as Hidden Power Grass Greninja and Hidden Power Ice Terrakion or Landorus-T can take out Pokemon such as Rotom-W, Gliscor, Landorus-T, Mandibuzz, and Skarmory. Teammates should pick up the slack against offensive teams that do not provide Zygarde an opportunity to set up. VoltTurn users such as Talonflame and Thundurus can easily harass offensive teams, but slower users such as Scizor and Rotom-W can instead try to bring Zygarde in safely. Pokemon that can spread paralysis can slow down offensive Pokemon so they too fall victim to Zygarde, thus making Klefki and Thundurus good partners - Klefki even provides Spikes for Zygarde's Dragon Tail.</p>\n"
+    }
+   ],
+   "alias": "zygarde",
+   "name": "Zygarde",
+   "genfamily": [
+    {
+     "gen": "xy",
+     "alias": "zygarde"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "bind",
+     "name": "Bind",
+     "description": "Prevents the opponent from attacking for 2-5 turns.",
+     "pp": 20,
+     "power": 15
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "bite",
+     "name": "Bite",
+     "description": "10% chance to flinch.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "camouflage",
+     "name": "Camouflage",
+     "description": "Changes user's type to Normal in link battles.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 0,
+     "alias": "coil",
+     "name": "Coil",
+     "description": "Boosts user's Attack, Defense, and accuracy by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "crunch",
+     "name": "Crunch",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "draco_meteor",
+     "name": "Draco Meteor",
+     "description": "Lowers user's Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_breath",
+     "name": "Dragon Breath",
+     "description": "30% chance to paralyze.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 0,
+     "alias": "dragon_dance",
+     "name": "Dragon Dance",
+     "description": "Boosts Attack and Speed by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_pulse",
+     "name": "Dragon Pulse",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "dragon_tail",
+     "name": "Dragon Tail",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "extreme_speed",
+     "name": "Extreme Speed",
+     "description": "The user always attacks first.",
+     "pp": 5,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "glare",
+     "name": "Glare",
+     "description": "Paralyzes the target.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "haze",
+     "name": "Haze",
+     "description": "Eliminates all stat changes.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "lands_wrath",
+     "name": "Land's Wrath",
+     "description": "Deals damage to one adjacent target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge_wave",
+     "name": "Sludge Wave",
+     "description": "10% chance to poison the target.",
+     "pp": 10,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "zygarde",
+     "name": "Zygarde"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 100,
+     "height": 5.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Aura Break",
+       "alias": "aura_break",
+       "description": "Reverses the effects of Dark Aura and Fairy Aura."
+      }
+     ],
+     "alias": "zygarde",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "BL",
+       "alias": "bl",
+       "name": "Borderline"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "dragon",
+       "name": "Dragon"
+      },
+      {
+       "gen": "xy",
+       "alias": "ground",
+       "name": "Ground"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 95,
+     "hp": 108,
+     "spatk": 81,
+     "suffix": "",
+     "pdef": 121,
+     "weight": 305.0,
+     "spe": 95,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

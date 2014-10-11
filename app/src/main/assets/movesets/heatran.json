@@ -1,0 +1,2133 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "heat_wave",
+         "name": "Heat Wave"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flash_cannon",
+         "name": "Flash Cannon"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_ice",
+         "name": "Hidden Power Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "flash_fire",
+       "name": "Flash Fire"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Shuca Berry",
+       "alias": "shuca_berry",
+       "description": "Reduces damage from a super effective Ground-type attack by 50%. Consumed after use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 56,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 200
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>With this set, Heatran's main goal is to continuously launch an onslaught of attacks at the opponent. Heat Wave is a spread STAB attack that can readily rip apart unprepared teams. Fire Blast can be used for its greater power, but has slightly less accuracy in comparison to Heat Wave and cannot hit both targets. In the second slot, Earth Power is used to hit Rock-types and Fire-types that resist Heatran's Fire-type STAB attack. Stone Edge can also be used to nail Fire-types such as Talonflame and Mega Charizard Y. Ancient Power is another option to hit airborne Fire-types, but it is less likely to OHKO Mega Charizard Y even with the Modest nature. Hidden Power Ice surprises Ground-type switch-ins such as Landorus-T and Garchomp and also hits Dragon-types hard. Flash Cannon is a secondary STAB attack that can also be used in the third slot to hit Dragon- and Rock-types, and it also hits Fairy-types super effectively. If Earth Power is needed, Stone Edge can also be used in the third slot.</p>\n<h4>Set Details</h4>\n<p>A Modest nature and 200 Speed EVs allow Heatran to outspeed neutral-natured maximum 252 Speed Adamant Bisharp and below, also covering threats such as Rotom-W and Cresselia. Timid can also be used with the same spread in order to outpace Jolly Breloom and below, at the cost of some power. 252 Special Attack EVs make Heatran as powerful as possible, and the rest of the EVs are put into HP for bulk. An alternate spread of 180 HP / 252 SpA / 76 Spe with a Modest nature can work as well for maximum power, some more bulk, and the ability to still outspeed Rotom-W and Cresselia, if it is not important for Heatran to outspeed invested base 70 Speed Pokemon. A Shuca Berry is used to guard against Earthquakes from the likes of Landorus-T and Garchomp, helping Heatran effectively lure them in for the surprise OHKO with Hidden Power Ice. It also guards Heatran from surprise Ground-type coverage moves such as Hidden Power Ground. A Sitrus Berry can be used for recovery. Charcoal could also work to boost the power of Heatran's Fire-type attacks. Finally, Life Orb can be used to boost the power of Heatran's attacks significantly at the cost of some health.</p>\n<h4>Usage Tips</h4>\n<p>What this set lacks in power or setup utility, it makes up for with coverage. With coverage, Heatran becomes incredibly difficult to wall, especially seeing as its attacks are backed by such a high Special Attack stat. Heatran can also try to feign a Substitute or Eruption set to lure in counters and KO them. Most of the time, Heatran should fire off Heat Wave or Fire Blast to deal steady damage. The Shuca Berry will guard Heatran against one Ground-type attack, so Heatran can lure in Ground-types, absorb their attack, and KO them with Hidden Power Ice. Do not reveal Heatran's coverage moves unless absolutely necessary, as they should be used to surprise the opponent and take down its typical walls. Do not be afraid to let Heatran sponge a few hits; it lasts a long time and can switch out and come back if necessary.</p>\n<h4>Team Options</h4>\n<p>Heatran greatly appreciates support from any Pokemon that can eliminate Pokemon it can't get past. Grass-types are great partners to tackle the Water-, Rock-, and Ground-types that Heatran can't muscle past. These include Shaymin-S, Amoonguss, and Breloom, the first of which can also take down Fighting-types, and the last two of which can support Heatran with Spore. This Heatran set eats up Steel-types, so anything walled by them appreciates the defensive opening created. Fairy-types in particular are great partners, especially Mega Gardevoir, which can help Heatran muscle past specially defensive Pokemon and also remove Fighting-types. Mega Charizard Y provides Drought to boost Heatran's Fire-type STAB attacks. Psychic-, Flying-, and Fairy-types are all useful as they remove Fighting-type threats. Defensively, Wide Guard is this set's best friend. Without Substitute and Eruption to deter Ground-types, this set is more susceptible to Earthquake, which Wide Guard protects against. Wide Guard also protects against Muddy Water, another attack that hits Heatran hard. Speed control support is also really helpful for this set, and Trick Room support can be paired with minimal Speed Heatran. Cresselia is great as it can set Trick Room, use Helping Hand, and set up dual screens. Tailwind is also beneficial. Partners such as Suicune, Talonflame, and Latias can provide this support. Fake Out support can stun Ground-types so Heatran can take them out with Hidden Power Ice. Intimidate support weakens opponents and makes Heatran \"bulkier\". Hitmontop is a great partner as it provides Wide Guard, Fake Out, and Intimidate support.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "overheat",
+         "name": "Overheat"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flash_cannon",
+         "name": "Flash Cannon"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "flamethrower",
+         "name": "Flamethrower"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_ice",
+         "name": "Hidden Power Ice"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "flash_fire",
+       "name": "Flash Fire"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Overheat is the main STAB option because of its high Base Power, since Choice Scarf Heatran needs as much power as possible. Fire Blast is a more consistent STAB, however, for its ability to clean up late-game. Flash Cannon is a secondary STAB that hits Fairy- and Rock-type Pokemon for super effective damage. Stone Edge allows Heatran to revenge kill key threats such as Volcarona, Talonflame, and Mega Charizard Y. Earth Power offers nice coverage in general and allows Heatran to nail opposing Fire-types like Heatran and Infernape. Flamethrower is an option for a weaker, yet more reliable STAB option. Fire Blast can be used here as well if you're not already using it in the first moveslot. Finally, Hidden Power Ice is an option for more coverage, allowing Heatran to hit Dragon-types for nice damage, although its main use is just to revenge kill Landorus-T and Gliscor.</p>\n<h4>Set Details</h4>\n<p>The EV spread is used to maximize power and Speed, allowing Heatran to outspeed Greninja. Modest is the nature of choice for this set, since it needs as much power as possible to clean up late-game. Choice Scarf Heatran is more suited to cleaning up late game, while also revenge killing a few threats. Missing out on outspeeding a few Pokemon such as Weavile and Talonflame can prove to be costly, which is why Timid shouldn't be completely neglected as an option, but the extra power is generally more useful than the extra Speed; in any case, Choice Scarf Heatran is best used as a late-game cleaner, meaning it prefers having extra power.</p>\n<h4>Usage Tips</h4>\n<p>This set is aimed more towards balanced teams, where it can make good use of its surprise factor to check normally faster threats while acting as a 'glue' in general. Try to keep Heatran around as a late-game cleaner, as that's where it's best used. Choice Scarf Heatran can also revenge kill threatening Pokemon such as Mega Pinsir, Scizor, and Excadrill. Choice Scarf Heatran is also quite rare, meaning it can easily catch the opponent off-guard.</p>\n<h4>Team Options</h4>\n<p>Rotom-W is probably the best partner for Heatran, as it is immune to Ground-type attacks and can fire back with its Water-type STAB. More offensive Water-types, such as Keldeo, can wallbreak and make it easier for Heatran to clean late-game. Grass-types such as Mega Venusaur, Ferrothorn, and Gourgeist-S are also great partners, since they can comfortably tank Water-type attacks. Flying-types such as Skarmory, Gliscor, and Landorus-T make good partners, as they are immune to Ground-type attacks and can tank a Fighting-type attack with relative ease. Fairy-types like Clefable and Sylveon also make good partners, as Heatran can wall the Fire-types they hate, while they can take Fighting-type attacks for Heatran in return.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "eruption",
+         "name": "Eruption"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "heat_wave",
+         "name": "Heat Wave"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "flash_fire",
+       "name": "Flash Fire"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "ErupTran",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Charcoal",
+       "alias": "charcoal",
+       "description": "Raises power of Fire-type moves by 10%."
+      },
+      {
+       "gen": "xy",
+       "name": "Shuca Berry",
+       "alias": "shuca_berry",
+       "description": "Reduces damage from a super effective Ground-type attack by 50%. Consumed after use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>With this set, Heatran takes advantage of its super powerful Eruption to deal heavy damage to its opponents. Eruption is extremely powerful; when Heatran is at full health, it hits 270 Base Power after STAB and the Charcoal boost, and it is also a spread move. Heat Wave is there as a backup STAB spread move, being more powerful than Eruption after Heatran's HP dips below 64%. Fire Blast can be used instead of Heat Wave as a great single-target option to hit Wide Guard opponents. Earth Power is for coverage against Fire- and Rock-types that resist Eruption. Protect is great for scouting and messing up offensive strategies. </p>\n<h4>Set Details</h4>\n<p>Heatran's Speed stat is minimized, as this set should be used with Trick Room support. However, it can be run with 31 Speed IVs so that it can maintain some leverage outside of Trick Room. Maximum Special Attack investment makes Heatran as powerful as possible, and full HP investment gives it solid mixed bulk. Charcoal is the best item here, as it boosts the power of Eruption while still letting Heatran use its other moves. A Shuca Berry can also be used to allow Heatran to sponge one Ground-type attack if Heatran does not have sufficient team support against opposing Ground-type attacks. A Sitrus Berry can be used to recover HP quickly and at the same time replenish Eruption's power, but on average Charcoal is better because its boost makes up for the power loss. Leftovers can also be used for this, but are slower at doing so than Sitrus Berry.</p>\n<h4>Usage Tips</h4>\n<p>Eruption is the main move to utilize on this set. It's so powerful when Heatran is at maximum health that it hits even resistant opponents harder than Earth Power does, so it should be what Heatran uses most of the time. After taking damage, Heatran becomes far less powerful, so it is important to keep it healthy so it can spam Eruption over the course of the match. Do not use Eruption and Heat Wave against an obvious Wide Guard user such as Hitmontop unless Heatran is supported by a Feint user that can remove the protection. Once Heatran loses more than 36% of its health, Heat Wave will become more powerful than Eruption and should be used instead.</p>\n<h4>Team Options</h4>\n<p>Trick Room setters are pretty much mandatory partners unless other forms of speed control are provided. Cresselia, Gourgeist-S, and Trevenant get their own mentions here. Cresselia is a great supporter for Heatran, as it can both set up Trick Room and support Heatran's spread moves with Helping Hand. Cresselia also has Skill Swap, which can be used to pass Heatran its Levitate and give it an immunity to Ground, at least until Heatran switches out. It is also immune to Ground-type attacks and can easily switch in to take them. Trevenant also has great synergy with Heatran, as it OHKOes Rotom-W and burns threatening Fighting- and Ground-types. It can even use Will-O-Wisp on Heatran to activate Flash Fire and boost the power of Eruption. Trevenant and other Grass-types also enjoy Heatran's ability to tank Fire-type attacks and wall Talonflame, and can even carry Sunny Day to power up Heatran's attacks. Tailwind can also be used to support Heatran; 24 Speed EVs are all Heatran needs to outspeed maximum Speed Thundurus at +2. Latios is a great partner for this, as it can also remove opposing Dragon-types that wall Heatran. Other forms of speed control that Heatran would enjoy include Thunder Wave support, which can be provided by Pokemon such as Thundurus, which also has Taunt and priority on its status moves. Hitmontop is also a great partner for Heatran, as it provides Intimidate, Helping Hand, and Fake Out support as well as Feint support to remove opposing Wide Guard. Water-types help beat Ground- and Rock-types as well as airborne Fire-types that wall Heatran. Examples include Jellicent, which can support Heatran with Trick Room, and Suicune, which has access to Tailwind. They also bait in Grass-types for Heatran to take down.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "lava_plume",
+         "name": "Lava Plume"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roar",
+         "name": "Roar"
+        },
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "flash_fire",
+       "name": "Flash Fire"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 4,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Lava Plume is Heatran's obligatory Fire-type STAB move, packing a decent punch even without Special Attack investment. The true appeal of the move, however, is in its 30% burn rate, which discourages most physically inclined Ground- and Fighting-types from switching into Heatran. Toxic allows Heatran to deal with bulky Pokemon effectively and has great synergy with Lava Plume, as the latter hits Steel-types super effectively. Stealth Rock is the ultimate support move and works particularly well on Heatran as it often finds itself forcing switches, giving it space to use the move. It can also defeat most Defog users one-on-one thanks to Toxic and Lava Plume. Roar allows Heatran to phaze dangerous boosting sweepers such as Swords Dance Rayquaza and is useful for racking up damage in tandem with Stealth Rock. Taunt shuts down Blissey, support Dialga, Giratina, and Deoxys-D, and it can hit Defog Arceus formes and Yveltal on the switch. If Taunt is chosen in the final slot, it's highly recommended that Heatran opt for the alternative EV spread mentioned in Set Details in order to outrun Pokemon with an uninvested base 90 Speed.</p>\n<p>A few other move options are available. Protect can be used to scout for potential Water-, Ground-, or Fighting-type coverage moves from the opponent, while also accumulating another round of poison or burn damage and Leftovers recovery. However, it has the nasty flaw of potentially giving the opponent a free switch if used excessively. Fire Blast can be used over Lava Plume for its ability to 2HKO Mega Gengar. Lastly, Stone Edge can be used with a Sassy nature as it 2HKOes Ho-Oh, but it offers no real use outside of that.</p>\n<h4>Set Details</h4>\n<p>Maximum investment in HP and Special Defensive is rather straightforward, as it allows Heatran to tank strong special moves such as Draco Meteor, Dark Pulse, and Thunder more effectively. An EV spread of 252 HP / 148 SpD / 108 Spe should be used with Taunt in order to outspeed and Taunt opposing Giratina, support Dialga, and Deoxys-D lacking Speed investment. Though Heatran will usually not be taking many physical moves bar U-turn and Dragon Claw, a physically defensive set is also an option to take attacks such as Psystrike and the odd Outrage more effectively.</p>\n<h4>Usage Tips</h4>\n<p>Simply put, Heatran should be switched in on one of its resistances or immunities and proceed to set up Stealth Rock. Its previously mentioned immunities to Toxic and Will-O-Wisp make this even easier, granting it the ability to come in on and scare out virtually any defensive Pokemon. Toxic and Lava Plume should be used when appropriate: use Toxic against bulky Pokemon such as Ho-Oh and support Arceus formes and Lava Plume when fishing for burns or against Pokemon with an immunity to Toxic. Use Roar to phaze out opponents that attempt to set up on Heatran or that have already set up, as well as on predicted switches, ideally racking up entry hazard damage in the process. Taunt followed by Toxic will dispose of most stall-oriented Pokemon and support Arceus formes, though Arceus will need to be Taunted on the switch.</p>\n<p>Be wary of double switches when sending out Heatran, as it can be left in a tight situation when confronted with an opponent like Kyogre, Mega Gengar, or Mega Blaziken. Also, make sure Heatran is not your only check to top Pokemon such as Xerneas and Ho-Oh, as they can often KO Heatran if they run the proper coverage move.</p>\n<h4>Team Options</h4>\n<p>In general, good teammates are Pokemon that can compensate for Heatran's Water-, Ground-, and Fighting-type weaknesses and can take advantage of what it can do, namely setting up Stealth Rock and inflicting dangerous Pokemon with Toxic. Groudon is a particularly helpful teammate thanks to its Drought ability, removing Heatran's Water-type weakness for a select number of turns and boosting the power of its Lava Plume. Groudon can also forgo Stealth Rock and run an offensive set if Heatran has the move, luring out threats such as Kyogre and Yveltal and hitting them hard. Palkia checks Kyogre and can hit most Ground-types super effectively, while Heatran can deal with the Fairy-types that plague Palkia. Gliscor and Landorus-T are full stops to nearly every Ground- and Fighting-type and can use U-turn to get Heatran in safely. Grass Arceus checks Kyogre and Ground-types well. Lugia and the Giratina formes can defeat most Ground- and Fighting-types bar Gliscor, though they share a nasty weakness to Yveltal with Heatran, as does Grass Arceus. Zekrom can check Yveltal and Water-types and can use Volt Switch to get Heatran in with minimal risk. Yveltal itself also makes a good teammate, able to deal with Ground-types and Mega-Evolved Mewtwo. Fairy-types are good partners, as they can deal with Fighting-types and Yveltal. As a final note, Heatran loves Wish support due to its lack of a reliable recovery move.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "lava_plume",
+         "name": "Lava Plume"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roar",
+         "name": "Roar"
+        },
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "flash_fire",
+       "name": "Flash Fire"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 220,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 40
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This is the standard Heatran that you'll see on most teams. Lava Plume is a solid, consistent STAB attack that comes with a 30% chance to burn. Protect allows Heatran to gains crucial Leftovers recovery, scout the opponent's moves, and rack up Toxic damage. Taunt is a very interesting option for Heatran, as it really helps against more defensive teams and stops Pokemon like Bulk Up Talonflame from setting up on Heatran if you choose to run Will-O-Wisp. It also cripples walls like Clefable, Mandibuzz, Chansey, and Blissey. Finally, Toxic is the best choice for the last moveslot for its ability to nail bulky Water-types such as Rotom-W, Manaphy, and Azumarill on the switch.</p>\n<p>Apart from these moves, Heatran has a few other options which are perfectly viable. Will-O-Wisp can be used to soften physical attacks aimed at Heatran and cripple common switch-ins like Terrakion and Garchomp. Roar is an option to rack up entry hazard damage; it also allows you to phaze certain threats like Bulk Up Talonflame. Finally, Stealth Rock can be used on Heatran if you can't find room anywhere else on your team, as Heatran has a good match-up against most Defoggers, such as Latios, Zapdos, and Mandibuzz.</p>\n<h4>Set Details</h4>\n<p>Leftovers is the item of choice, as it's great for healing off residual damage. 248 HP EVs are used to minimize entry hazard damage. The 40 Speed EVs can optionally be move elsewhere now that there is no need to outspeed Adamant Mega Mawile, thanks to the banning of Mawilite. The rest is put in Special Defense for additional special bulk. A Calm nature is used to further boost Heatran's Special Defense.</p>\n<h4>Usage Tips</h4>\n<p>This set is generally suited for defensive and balanced teams. Heatran can easily tank weak Water-type attacks from bulky Water-types, so even if you can't predict their switch-in, it might be best to Toxic them regardless (as with the combination of Protect and Roar, Heatran can easily gain back health via Leftovers). Be careful when using Protect, as it can often be used as setup fodder for sweepers like Garchomp and Terrakion. Heatran can phaze Dragon Dance users, but it shouldn't be your main check, as it still does take quite a lot from boosted Outrages and it's often hit for super effective damage by common coverage moves.</p>\n<h4>Team Options</h4>\n<p>Bulky Grass-types such as Mega Venusaur, Ferrothorn, Gourgiest-S, and Amoonguss are incredible partners for Heatran due to their great synergy and ability to deal with Ground- and Water-type attacks. Bulky Water-types are also very good partners, with Rotom-W, Quagsire, and Keldeo being optimal choices. Having a solid physical wall to take on Garchomp and Terrakion is generally a good option since they often force Heatran out. This makes Gliscor, Skarmory, Landorus-T, and Hippowdon all good teammates. Clefable is a great partner for Heatran, as it can easily take Fighting-type attacks and also provide Wish support, while Heatran easily takes on the Steel-types that annoy Clefable.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "flamethrower",
+         "name": "Flamethrower"
+        },
+        {
+         "gen": "xy",
+         "alias": "lava_plume",
+         "name": "Lava Plume"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        },
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "flash_fire",
+       "name": "Flash Fire"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "SubToxic",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 12,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 244
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Substitute is the main move of this set, as Heatran's great defensive typing allows it to force switches and easily set up a Substitute. With a Substitute up, Heatran can safely Toxic threats that switch in to take it out. Lava Plume is the preferred STAB for this set, as it's accurate, has a helpful 30% chance to burn the target, and can take out Steel-types that are immune to Toxic. Fire Blast can also be used for more power, though it isn't accurate and doesn't burn as often. Flamethrower is another STAB option for this set, as it's accurate and moderately powerful, though it's not as powerful as Fire Blast and doesn't have the burn chance Lava Plume does. Protect is used in the last slot to stall with Toxic damage as well as gain Leftovers recovery. Earth Power is another option instead of Protect, as it allows Heatran to take out Pokemon that can take Fire-type moves, such as Tyranitar and opposing Heatran.</p>\n<h4>Set Details</h4>\n<p>Leftovers are the item of choice, as it allows Heatran to heal off HP lost from using Substitute and residual damage. Flash Fire is a really helpful ability, as it allows Heatran to switch into Fire-type attacks with ease and receive a boost to its Fire-type attacks. The EV spread with a Timid nature allows Heatran to outspeed Adamant Excadrill while giving it some extra special bulk.</p>\n<h4>Usage Tips</h4>\n<p>The main strategy for this set is as follows: switch into a Pokemon that Heatran can take on easily with its great defensive typing, such as Clefable or Talonflame, set up a Substitute as your opponent switches out; and then use Toxic, Flamethrower, or Earth Power depending on what your opponent brings in. Toxic should be the move Heatran uses the most, as it's great for slowly wearing the opponent down for the rest of the match. If your opponent is immune to Toxic, Flamethrower or Earth Power should be used for good damage.</p>\n<h4>Team Options</h4>\n<p>Grass-types such as Mega Venusaur, Ferrothorn, and Gourgeist-S make good partners, as they can easily take the Water- and Ground-type attacks Heatran hates. They can also help wear the opponent down with Leech Seed, Spikes, Iron Barbs, and Will-O-Wisp, respectively. Bulky Flying-types such as Skarmory, Gliscor, and Landorus-T are great partners, as they are immune to Ground-type attacks and can easily take a Fighting-type attack. Water-types such as Keldeo, Rotom-W, and Azumarill can take on the Fire- and Rock-types that resist Heatran's main STAB. Fairy-types, such as Clefable and Sylveon, are also helpful, as they can tank Fighting-type attacks while Heatran can wall the Fire-types they hate. They can also provide Wish support to make up for Heatran's lack of reliable recovery.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "heat_wave",
+         "name": "Heat Wave"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "flash_fire",
+       "name": "Flash Fire"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Substitute",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 180,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 76
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set lets Heatran take advantage of its resistances and immunities in order to set up a Substitute safely and then launch its powerful attacks. With a Substitute up, Heatran becomes even harder to take down, and it can immediately impose tremendous offensive pressure with its powerful attacks. Heat Wave is a very consistent STAB spread move and is easily spammable once a Substitute is up. Earth Power provides much-needed coverage against Rock- and Fire-types, especially opposing Heatran. Protect is a great move on any Doubles Pokemon, and it is very good to use alongside Substitute, giving Heatran the ability to protect itself against being double targeted as well as scout for dangerous attacks when its Substitute is down.</p>\n<h4>Set Details</h4>\n<p>76 Speed Heatran outspeeds 0 Speed Rotom-W and Cresselia, and the remainder of its EVs are invested in HP and Special Attack. A Modest nature is used to maximize power and because Heatran doesn't need any more Speed or bulk than the spread already provides. Leftovers is the best item choice, as it works well in tandem with Protect to help Heatran steadily replenish its health and use Substitute more. Flash Fire should be used as the ability as it lets Heatran wall threats such as Talonflame and Mega Charizard Y.</p>\n<h4>Usage Tips</h4>\n<p>This set's goal is to fire off as many powerful attacks as possible, using Substitute in order to protect itself from dangerous switch-ins. Thus, it is advised to take advantage of Heatran's resistances and immunities to switch in against Pokemon that it can easily force out, such as Amoonguss or Scizor. It can use the free turn as the opponent switches to set up a Substitute or use Heat Wave to get some damage done. From there, Heatran can continue to use Heat Wave and Protect accordingly, with Earth Power for the occasional Rock- or Fire-type. The combination of Protect and Substitute often helps Heatran avoid taking damage for significant amounts of time, as it can often recover health lost to Substitute by just alternating between Protect and an attacking move. If a check or counter switches in when Heatran does not have a Substitute up, just switch it out and send it back in later, gradually wearing down said check. Once all of Heatran's checks are taken down or weakened, it can effectively clean up the opposing team, utilizing Protect and Substitute to shield itself from status and revenge killing attempts. Do not let Heatran stay in against a Ground-type, unless Heatran has a Substitute up, as most fairly powerful Ground-type attacks can easily OHKO Heatran. Because of this, it is also often a good idea to use Protect against Pokemon such as Latios and Genesect to scout for Hidden Power Ground and other surprise Ground-type coverage attacks. Due to Heatran's numerous resistances and ability to recover gradually with Leftovers, it has no trouble switching out and switching back in, and it should thus be saved for later if an opponent still has a potentially dangerous threat that Heatran still needs to counter.</p>\n<h4>Team Options</h4>\n<p>For partners, Heatran seeks Pokemon that can remove its checks and counters quickly so that it can begin to clean up the opposing team. Grass-types enjoy Heatran's ability to tackle Fire-types and Talonflame and can remove Water-, Rock-, and Ground-types in return. Shaymin-S, Amoonguss, and Venusaur are prime examples, all of which can take Water- and Fighting-type attacks for Heatran. Ludicolo can also help sponge Water-type attacks, but cannot take too many Fighting-type attacks. Follow Me / Rage Powder Pokemon can redirect attacks and give Heatran openings to set up. Togekiss gets a special mention for beating Fighting-types as well. Water-types beat Ground-types and can hit airborne Fire-types that wall Heatran. Rotom-W is great, as it can burn Fighting-types and pummel opposing Fire-types with Hydro Pump. It also keeps Landorus-T and other Earthquake users away. Thundurus is a great partner, as it can support Heatran with priority Taunt, Thunder Wave, and Tailwind, preventing the opponent's Pokemon from using Taunt and Wide Guard. Heatran is great at removing Steel-types, which can open up sweeps for offensive teammates such as Sylveon, Mega Gardevoir, and Scizor, making them great partners as well. Fairy-types can also return the favor by keeping Dragon-types away or removing them completely. Gardevoir and Latios form great offensive cores with Heatran, as they lure in Steel-types for Heatran to set up Substitute on. Latios also disposes of Garchomp and can set up a Tailwind for Heatran to function better. Hitmontop is also a possible option for offensive support. Its Intimidate, Wide Guard, and Fake Out support greatly help Heatran fulfill its role. It also has Feint, which hits through opposing Wide Guard, letting Heatran more reliably use Heat Wave. Icy Wind or Trick Room Cresselia is a great partner too. Icy Wind provides speed control for Heatran and also hits Ground-types fairly hard, while Trick Room support helps minimum Speed Heatran by helping it outpace most Ground-types and other faster threats. Also, Cresselia can pass Heatran its Levitate with Skill Swap, alleviating the latter's greatest weakness.</p>\n"
+    }
+   ],
+   "alias": "heatran",
+   "name": "Heatran",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "heatran"
+    },
+    {
+     "gen": "dp",
+     "alias": "heatran"
+    },
+    {
+     "gen": "xy",
+     "alias": "heatran"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "ancient_power",
+     "name": "Ancient Power",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "bug_bite",
+     "name": "Bug Bite",
+     "description": "Uses foe's Berry.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "crunch",
+     "name": "Crunch",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "dark_pulse",
+     "name": "Dark Pulse",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_pulse",
+     "name": "Dragon Pulse",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "eruption",
+     "name": "Eruption",
+     "description": "Does less damage as the user's HP decreases.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "explosion",
+     "name": "Explosion",
+     "description": "Faints the user.",
+     "pp": 5,
+     "power": 250
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 95,
+     "alias": "fire_fang",
+     "name": "Fire Fang",
+     "description": "10% chance to flinch. 10% chance to burn.",
+     "pp": 15,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_spin",
+     "name": "Fire Spin",
+     "description": "Prevents the opponent from attacking for 2-5 turns.",
+     "pp": 15,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flame_charge",
+     "name": "Flame Charge",
+     "description": "Boosts user's Speed by 1 stage.",
+     "pp": 20,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "flash_cannon",
+     "name": "Flash Cannon",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "heat_wave",
+     "name": "Heat Wave",
+     "description": "10% chance to burn.",
+     "pp": 10,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "iron_defense",
+     "name": "Iron Defense",
+     "description": "Boosts Defense by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "lava_plume",
+     "name": "Lava Plume",
+     "description": "30% chance to burn.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "leer",
+     "name": "Leer",
+     "description": "Lowers target's Defense by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 75,
+     "alias": "magma_storm",
+     "name": "Magma Storm",
+     "description": "Traps and damages over multiple turns.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 85,
+     "alias": "metal_sound",
+     "name": "Metal Sound",
+     "description": "Lower's Special Defense by 2 stages.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "nature_power",
+     "name": "Nature Power",
+     "description": "Attack changes based on terrain.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "overheat",
+     "name": "Overheat",
+     "description": "Lowers Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "rock_climb",
+     "name": "Rock Climb",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "scary_face",
+     "name": "Scary Face",
+     "description": "Lowers Speed by 2 stages.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "stealth_rock",
+     "name": "Stealth Rock",
+     "description": "Damages foe's switch-ins.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "taunt",
+     "name": "Taunt",
+     "description": "Forces the foe to use damaging moves for 2 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "torment",
+     "name": "Torment",
+     "description": "Prevents the target from using the same move twice in a row.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "uproar",
+     "name": "Uproar",
+     "description": "Repeats for 2-5 turns. No Pokemon can sleep during these turns.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "will-o-wisp",
+     "name": "Will-O-Wisp",
+     "description": "Burns the foe.",
+     "pp": 15,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "heatran",
+     "name": "Heatran"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 90,
+     "height": 1.7,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Flash Fire",
+       "alias": "flash_fire",
+       "description": "Grants immunity to Fire and increases Fire's power 50% when hit by a Fire move."
+      }
+     ],
+     "alias": "heatran",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fire",
+       "name": "Fire"
+      },
+      {
+       "gen": "xy",
+       "alias": "steel",
+       "name": "Steel"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 106,
+     "hp": 91,
+     "spatk": 130,
+     "suffix": "",
+     "pdef": 106,
+     "weight": 430.0,
+     "spe": 77,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2993 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire_punch",
+         "name": "Fire Punch"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "blaze",
+       "name": "Blaze"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Bulky Dragon Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Charizardite X",
+       "alias": "charizardite_x",
+       "description": "Mega-evolves Charizard into Mega Charizard X."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 144,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 112
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<ul>\n<li>Earthquake beats Heatran who would otherwise wall Charizard X.</li>\n<li>Fire Punch is a good option if Heatran is handled by teammates.</li>\n<li>Roost for longevity.</li>\n<li>Dragon Claw is your main STAB move that doesn't lock you into an attack that can be taken advantage of.</li>\n</ul>\n<h4>Set Details</h4>\n<ul>\n<li>EVs allow you to avoid being 2HKOed by Rotom-W's Hydro Pump.</li>\n<li>With 112 Spd you outspeed everything up to 88 Spd Naive Landorus-T.</li>\n<li>Max Attack with Adamant to maximize your offensive power.</li>\n<li>At +2 you can outspeed every relevant scarf user.</li>\n</ul>\n<h4>Usage Tips</h4>\n<ul>\n<li>Much like the pure offensive set, you pick your spots when looking to set up.</li>\n<li>With the bulk investment, Charizard can set up on Rotom-W, Greninja, Mega Manectric and more, being able to take any hit as you Dragon Dance and Roost off the damage.</li>\n<li>Late game sweeper once checks / counters are cleared and weakened.</li>\n</ul>\n<h4>Team Options</h4>\n<ul>\n<li>Defog user or Spinner to keep it healthy such as Mew, Latias, Latios, Starmie and Excadrill.</li>\n<li>Terrakion, Diggersby and Dragonite can break down the same threats that pose issues to Charizard X and opens up a sweep for either one.</li>\n<li>Gothitelle to trap Skarmory and Quagsire, who otherwise wall you.</li>\n<li>Clefable is a great teammates for its cleric capabilities that will cure Charizard of Poison and Paralysis.</li>\n</ul>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire_punch",
+         "name": "Fire Punch"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "blaze",
+       "name": "Blaze"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Bulky Will-O-Wisp",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Charizardite X",
+       "alias": "charizardite_x",
+       "description": "Mega-evolves Charizard into Mega Charizard X."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 148,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 112
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<ul>\n<li>Earthquake will beat Heatran and so otherwise is troublesome to this set.</li>\n<li>Fire Punch will take out things like Lucario before they are able to take you out with an attack.</li>\n<li>Dragon Claw is your main STAB option.</li>\n<li>Will-O-Wisp will burn common switch ins like Azumarill, Landorus-T, and Hippowdon.</li>\n<li>Roost for longevity.</li>\n</ul>\n<h4>Set Details</h4>\n<ul>\n<li>The 248 HP EVs gives you an odd HP number meaning you take a a little less from Stealth Rock to give you more chances to switch in while Stealth Rock is up.</li>\n<li>112 Spd will outspeed Adamant Gyarados to be able to burn it hits with an Earthquake.</li>\n<li>The remaining 148 EVs are placed into special defense to take Rotom-W's attacks a little better. These EVs can also be placed in Def depending on the team.</li>\n<li>Alternatively running 16 Spd EVs is enough to outpace Adamant Bisharp and gives you more bulk in the defense of you choice.</li>\n</ul>\n<h4>Usage Tips</h4>\n<ul>\n<li>This set plays more as a pivot switch rather than a sweeper.</li>\n<li>Being able to tank some hits, spread burns and break down the opposing team with Earthquake and Dragon Claw.</li>\n<li>Lures in its physically defensive counters and wears them down with status, while wearing them down with attacks for another pokemon to sweep.</li>\n<li>Sets up sweeps for other Dragon Dancer like Dragonite by removing certain walls</li>\n</ul>\n<h4>Team Options</h4>\n<ul>\n<li>Excadrill, and Forretress make good teammates as they are able to spin away the rocks.</li>\n<li>Defog users like Latios, Latias, Mew, are good teammates.</li>\n<li>Dragonite and Garchomp appreciate having physical walls weakened and burned.</li>\n<li>Landorus-T and Hippowdon are good teammates to cover for its weakness to Rocks and checking Terrakion.</li>\n<li>Rotom-W is a good teammate as it can beat bulky waters, or ground types. As well checking many of the Pokemon that Charizard cant beat on his own.</li>\n<li>Thundurus-I can paralyze Scarf users that give Charizard some problems such as Latios or Keldeo.</li>\n</ul>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_punch",
+         "name": "Fire Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "flare_blitz",
+         "name": "Flare Blitz"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "blaze",
+       "name": "Blaze"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Dragon Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Charizardite X",
+       "alias": "charizardite_x",
+       "description": "Mega-evolves Charizard into Mega Charizard X."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 208,
+       "hp": 40,
+       "spatk": 0,
+       "pdef": 32,
+       "spe": 228
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Dragon Dance boosts Mega Charizard X's Attack and Speed, allowing it to outspeed and threaten almost the entire metagame after one boost; it also lets Mega Charizard X bypass Attack drops from Intimidate. Flare Blitz is its strongest STAB attack, but considering how there is no room for recovery moves on the set, Fire Punch can be used to avoid recoil damage; however, the damage difference between Flare Blitz and Fire Punch is huge and will turn many OHKOs into 2HKOs. Dragon Claw is a reliable, decently powered STAB move that has great coverage with Mega Charizard X's Fire-type attack. In the last slot, Protect can be used to scout for attacks, stall field conditions, and ruin offensive strategies. Alternatively, Substitute can be used instead to capitalize on the type change from Charizard to Mega Charizard X, allowing it to set up on threats such as Electric-types, easing the sweep.</p>\n<h4>Set Details</h4>\n<p>An Adamant nature is preferred to boost the power of Mega Charizard X's attacks. A Jolly nature isn't necessary, as the given EVs allow it to outspeed even Deoxys-A at +1. However, a set with Swords Dance, maximum Speed, and a Timid nature works similarly to this one, but it starts with less power as opposed to less Speed; a Swords Dance set will also be much more vulnerable to revenge killing. Lastly, the current EV spread allows Mega Charizard X to survive a Jolly Landorus-T Earthquake.</p>\n<h4>Usage Tips</h4>\n<p>Mega Charizard X should focus on using its typing to set up Dragon Dance against threats aimed to attack Charizard's Fire / Flying typing, mainly Electric-types such as Rotom-W, Thundurus, and Mega Manectric. In addition, it can set up on Wide Guard or Protect users that are anticipating a strong Heat Wave from Mega Charizard Y. Because of this, Charizard should try to remain out of play until it gets the best chance to Mega Evolve and set up Dragon Dance, or it will be much more vulnerable and lose its surprise factor. Partners can also help Mega Charizard X set up with Follow Me, Rage Powder, or by applying offensive pressure. While Dragon Dance can be difficult to set up, once Mega Charizard X gets a boost or two, it can be incredibly difficult to stop.</p>\n<h4>Team Options</h4>\n<p>Togekiss, Jirachi, and Amoonguss are all viable users of Follow Me or Rage Powder and can drastically ease Mega Charizard X's setup; Togekiss and Jirachi can also offer it speed control with Thunder Wave and redirect Dragon-type attacks aimed at it very easily, while Amoonguss can help it set up Dragon Dance with Spore support as well. Landorus-T makes a great partner because it can handle opposing Ground- and Rock-types as well as Heatran, which walls Mega Charizard X. Bisharp makes a good partner because it can pick off threats that outspeed Mega Charizard X with Sucker Punch, and makes Pokemon with Intimidate think twice about switching in on Mega Charizard X. Wide Guard support from Pokemon such as Hitmontop and Aegislash is useful as well because Mega Charizard X is weak to Earthquake and Rock Slide, two very popular spread attacks in Doubles. Lastly, other partners that offer speed control, such as Thundurus and Suicune, make it less reliant on setting up to sweep.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_dance",
+         "name": "Dragon Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_punch",
+         "name": "Fire Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "flare_blitz",
+         "name": "Flare Blitz"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        },
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        },
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "blaze",
+       "name": "Blaze"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Dragon Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Charizardite X",
+       "alias": "charizardite_x",
+       "description": "Mega-evolves Charizard into Mega Charizard X."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<ul>\n<li>Dragon Dance turns him into a terrifying sweeper after one Dragon Dance.</li>\n<li>Flare Blitz will nuke just about every physically defensive Pokemon that will switch in. However, you should be wary of the recoil from hitting Skarmory and Ferrothorn. Flare blitz tends to be better for wallbreaking purposes rather than sweeping.</li>\n<li>Fire Punch is an option over Flare Blitz. It is weaker but you won't have a great need for Roost and it tends to be better for late game sweeping where you don't want to deal with massive Flare Blitz recoil that will cut your sweep short.</li>\n<li>Dragon Claw is your secondary STAB moves to hit anything that isn't a Steel or Fairy type without locking yourself into Outrage.</li>\n<li>Outrage is much more powerful option than Dragon Claw, however locking yourself into Outrage with Steel or Fairy types around you leave yourself open to being set up on.</li>\n<li>Roost is the preferred option for longevity and works really well in conjunction with Flare Blitz.</li>\n<li>Earthquake is useful to beat Heatran who otherwise walls you.</li>\n</ul>\n<h4>Set Details</h4>\n<ul>\n<li>EVs are meant to maximize sweeping effectiveness.</li>\n<li>Adamant gives you a little more power at the cost of losing some speed.</li>\n<li>Choosing Jolly over Adamant will outspeed Scarf Landorus-T at +1 but at the loss of some power.</li>\n</ul>\n<h4>Usage Tips</h4>\n<ul>\n<li>Late game sweeper once checks / counters are cleared and weakened.</li>\n<li>Can be used as a wallbreaker for other physical sweeper such as Terrakion and Lucario.</li>\n<li>Stealth Rock support is crucial for Charizard to succeed.</li>\n<li>Generally you should try to set up on something like Skarmory who can't really handle either Charizard X or Y and will likely switch out allowing you to set up a Dragon Dance.</li>\n<li>Will-O-Wisp user don't generally pose much of an issue as you can't be burnt and can be used as set up fodder if played correctly.</li>\n<li>Can setup on Scald users without fearing the burn.</li>\n<li>Getting Charizard in before SR is up is important. Predicting the Stealth Rock user to go for SR is one way of accomplishing this.</li>\n<li>Switching Charizard in on slow and more defensive mons such Jellicent</li>\n</ul>\n<h4>Team Options</h4>\n<ul>\n<li>Sticky Web support to slow down grounded scarf Pokemon such as Kyurem-Black and Garchomp.</li>\n<li>Defog user or Spinner to keep it healthy such as Mew, Latias, Latios, Starmie and Excadrill.</li>\n<li>Gothitelle can trap Quagsire, Slowbro, Hippowdon and Skarmory (if lacking a fire move).</li>\n<li>Terrakion, Diggersby and Dragonite can break down the same threats that pose issues to Charizard X and open up a sweep for either one.</li>\n<li>Dugtrio can trap and beat Heatran.</li>\n<li>Clefable is a great teammates for its cleric capabilities that will cure Charizard of Poison and Paralysis.</li>\n</ul>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fire_blast",
+         "name": "Fire Blast"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "solar_beam",
+         "name": "Solar Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_pulse",
+         "name": "Dragon Pulse"
+        },
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "blaze",
+       "name": "Blaze"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Drought Wallbreaker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Charizardite Y",
+       "alias": "charizardite_y",
+       "description": "Mega-evolves Charizard into Mega Charizard Y."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>In the sun, Fire Blast 2HKOes, if not totally incinerates, just about anything that doesn't resist or absorb it save for a small number of special walls. A neutral Fire Blast also hits much harder than Charizard-Y's other attacks hitting super effectively, so the other moves listed should only really be used situationally. If accuracy worries you, Flamethrower can be used for consistency, but the power loss is very noticeable.</p>\n<p>Solar Beam allows Charizard-Y to hit the Water- and Rock-types that resist Fire Blast, but it must be used while the sunlight is shining. Focus Blast gives Charizard-Y much needed coverage against Heatran and Tyranitar, both of which limit the use of Fire Blast and Solar Beam. Roost provides a great means of recovery, granting Charizard-Y longevity and going well in tandem with its high Special Defense. On the other hand, Dragon Pulse gives it coverage against Dragon-types, allowing Charizard-Y a chance to win against Dragonite, Charizard-X, Latios, and Goodra.</p>\n<p>Earthquake can be used over Focus Blast to beat Heatran more reliably than Focus Blast would. However, this does make dealing with Tyranitar a little tougher, as 4 Atk Charizard-Y only 3HKOes it with Earthquake.</p>\n<h4>Set Details</h4>\n<p>This set is a simple special attacker, so maximized Special Attack and Speed are required to make it as fast and powerful as possible. A Timid nature is preferred to avoid being outsped by several key threats, especially positive-natured threats in the base 87-100 Speed range such as Excadrill, Mega Garchomp, Landorus-T, Kyurem-B, and Charizard-X. Charizard-Y also gains so much power in the sunlight that it doesn't really need the extra strength offered by Modest, though it can be used if your team can handle the Pokemon previously mentioned. Although Charizard-Y should Mega evolve immediately anyways, Blaze should be used instead of Solar Power as this set's default ability to avoid taking damage in sunlight. </p>\n<h4>Usage Tips</h4>\n<p>The purpose of this set is essentially to destroy anything that it comes by. It can operate in nearly any part of the game, but shines especially well mid- to late-game, where it can wallbreak or clean up the opposing team as required. If possible, keep Charizard-Y alive until its most important targets have been eliminated, as it is an extremely valuable nuke that typically shouldn't faint so soon in the game.</p>\n<p>Fortunately, it's not too hard to maintain Charizard-Y thanks to its decent defensive typing and great special bulk. Because of these traits, it can switch into common attacks, such as Earthquake, Knock Off, Iron Head, Bullet Punch, Mach Punch, Scald, Lava Plume, Moonblast, and other miscellaneous weak special attacks with ease. Another small but notable detail is that it can stomach some strong special attacks at full health; for instance, Life Orb Latias's Draco Meteor can only do 73.1 \u2013 86.2%, allowing Charizard-Y to recover with Roost while stalling Latias out thanks to Draco Meteor's special attack drop. Unfortunately, the same cannot be said for strong physical attacks, so it is not advised to recklessly switch into these types of moves unless resisted.</p>\n<h4>Team Options</h4>\n<p>Charizard-Y has a nasty Stealth Rock weakness, which can be taken care of with Defog or Rapid Spin support. Latias, Latios, Excadrill, Starmie, and Mew are good teammates that can clear away entry hazards safely and quickly; the former four are also notable for their good offensive power and coverage. Charizard-Y also appreciates defensive support, as it ideally wants to switch in multiple times while avoiding Rock- and Electric-type attacks. Hippowdon and Chesnaught are bulky walls that can absorb Thunderbolts and Stone Edges while also providing entry hazard support. More offensive teammates that can take these attacks include Assault Vest Raikou, Excadrill, and Landorus-T. Pairing it with a Pursuit trapper such as Tyranitar or Bisharp will greatly benefit Charizard and help it succeed in breaking down the opposing team with sun-boosted Fire Blasts. This deals with the Lati twins, and in the case of Bisharp, puts more pressure on Chansey.</p>\n<p>Additionally, while this set breaks through a ton of defensive Pokemon, it notably has trouble dealing with Chansey and Blissey, both of which have more than enough Special Defense to switch into Fire Blast and heal off the damage repeatedly. Therefore, teammates that can beat them are absolutely required. Gothitelle is a fantastic partner for this, as it doesn't care much about incoming Toxics or Thunder Waves and can use Trick and Psyshock to completely dismantle the two pink blobs. More offensive alternatives for this role include Terrakion, Bisharp, Choice Band Tyranitar, Thundurus (with Knock Off and Superpower), Scizor, and Keldeo. Offensive support against opposing Latios and Latias (as well as other Dragon-types in general) is also appreciated; again, Tyranitar and Bisharp are good teammates, especially since they have access to Pursuit. The latter can also use its ability, Defiant, to punish both if they attempt to use Defog.</p>\n<p>One thing to note is that Charizard-Y is skilled at wallbreaking. Take advantage of this by pairing Charizard with other offensive Pokemon that can clean up late-game. Good candidates for this include Keldeo, Talonflame, Kyurem-B, and many others, depending on your team.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "heat_wave",
+         "name": "Heat Wave"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "solar_beam",
+         "name": "Solar Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "overheat",
+         "name": "Overheat"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "blaze",
+       "name": "Blaze"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Sun Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Charizardite Y",
+       "alias": "charizardite_y",
+       "description": "Mega-evolves Charizard into Mega Charizard Y."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Heat Wave is Mega Charizard Y's most reliable attack as it is a STAB spread move and is boosted under the sun to deal massive amount of combined damage. Solar Beam hits the Water- and Rock-type Pokemon that wall Heat Wave for super effective damage. The next move Mega Charizard Y should use depends on its team. It typically runs Focus Blast to hit threats that wall its coverage, such as Heatran and Tyranitar in the sand. However, Overheat is an option that hits even resistant Pokemon hard in the sun, turning Mega Charizard Y into a hit-and-run nuke. Lastly, Protect scouts for moves, ruins offensive strategies, blocks Fake Out, and stalls out opposing field conditions.</p>\n<h4>Set Comments</h4>\n<p>Mega Charizard Y has an important base 100 Speed tier, tying with many other threats in Doubles, including Mega Kangaskhan, Zapdos, and Mega Gardevoir, so it typically runs a Timid nature so it can stand a chance against those threats. However, if those threats are handled by its teammates, a Modest nature is viable as well for the greater power. Charizard Y has some coverage options that can fit easily into the third slot. It can run Ancient Power to beat opposing Mega Charizard Y, Hidden Power Ground to safely take out non-Shuca Berry Heatran as opposed to relying on Focus Blast's accuracy, and Dragon Pulse can be used to hit Pokemon such as Latios and Salamence hard without suffering the Special Attack drop of Overheat.</p>\n<h4>Usage Tips</h4>\n<p>Mega Charizard Y is a pretty simple Pokemon when it comes to how it is used. In most scenarios, it just spams Heat Wave and watches opponents crumble, using its coverage options against specific threats. If it uses Overheat, Mega Charizard Y plays a more hit-and-run game, so it needs to switch out and be pivoted in to be more effective. It is common for opponents to lead with checks to Mega Charizard Y, such as Terrakion, Choice Scarf Tyranitar, and Thundurus, so if Charizard leads, it needs a partner that can handle those threats. If the sun is used only for itself and not for supporting other sun sweepers, Charizard shouldn't Mega Evolve while it uses Protect, so it can maximize the amount of times it can spam its Fire-type attacks. When a weather war is apparent, it is wise to hold off Mega Evolving until the opposing setter is on the field, so Mega Charizard Y changes the weather last and gains maximum offensive momentum for the team.</p>\n<h4>Team Options</h4>\n<p>Chlorophyll Venusaur is a great partner for Mega Charizard Y, because it outspeeds almost all of the tier under the sun and can put to sleep or damage the opponents. It also covers Mega Charizard Y's Electric-type weakness and checks rain teams well. Other teammates that threaten rain teams include Ferrothorn and Ludicolo. Heatran enjoys using sun-boosted Heat Waves, and Mega Charizard-Y covers Heatran's Ground- and Fighting-type weaknesses and also weakens its Water-type weakness under the sun. Fighting-types such as Hitmontop and Scrafty can check the Rock-types, such as Choice Scarf Tyranitar and Terrakion, that scare Mega Charizard Y. Wide Guard users, such as Aegislash and Hitmontop, can handle Charizard's Rock Slide weakness. Hitmontop also offers Feint support, allowing Mega Charizard Y to spam its attacks even through Protect and Wide Guard. Speed control really helps because most of its checks rely on their higher Speed stats. Cresselia is a good option due to its bulk and access to Icy Wind. Latios also pairs well with Mega Charizard Y and can support it with Tailwind. Lastly, Mega Charizard Y enjoys partners with Helping Hand to further boost the devastating power of Heat Wave; good partners for this include Cresselia and Latias.</p>\n"
+    }
+   ],
+   "alias": "charizard",
+   "name": "Charizard",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "charizard"
+    },
+    {
+     "gen": "dp",
+     "alias": "charizard"
+    },
+    {
+     "gen": "gs",
+     "alias": "charizard"
+    },
+    {
+     "gen": "rb",
+     "alias": "charizard"
+    },
+    {
+     "gen": "rs",
+     "alias": "charizard"
+    },
+    {
+     "gen": "xy",
+     "alias": "charizard"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "acrobatics",
+     "name": "Acrobatics",
+     "description": "Doubles in power if user has no held item.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "air_cutter",
+     "name": "Air Cutter",
+     "description": "High critical hit rate.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "air_slash",
+     "name": "Air Slash",
+     "description": "High critical hit rate.",
+     "pp": 20,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "ancient_power",
+     "name": "Ancient Power",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "beat_up",
+     "name": "Beat Up",
+     "description": "All healthy Pokemon aid in damaging the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "belly_drum",
+     "name": "Belly Drum",
+     "description": "User loses 50% of max HP. Maximizes Attack.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "bite",
+     "name": "Bite",
+     "description": "10% chance to flinch.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "blast_burn",
+     "name": "Blast Burn",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "block",
+     "name": "Block",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "crunch",
+     "name": "Crunch",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "defense_curl",
+     "name": "Defense Curl",
+     "description": "Boosts Defense by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "defog",
+     "name": "Defog",
+     "description": "Lowers target's evasion by 1 stage. Removes various field effects.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_claw",
+     "name": "Dragon Claw",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 0,
+     "alias": "dragon_dance",
+     "name": "Dragon Dance",
+     "description": "Boosts Attack and Speed by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_pulse",
+     "name": "Dragon Pulse",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_rage",
+     "name": "Dragon Rage",
+     "description": "Always does 40 HP damage.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 75,
+     "alias": "dragon_rush",
+     "name": "Dragon Rush",
+     "description": "20% chance to flinch.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "dragon_tail",
+     "name": "Dragon Tail",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 50,
+     "alias": "dynamic_punch",
+     "name": "Dynamic Punch",
+     "description": "Confuses the foe.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "ember",
+     "name": "Ember",
+     "description": "10% chance to burn.",
+     "pp": 25,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "false_swipe",
+     "name": "False Swipe",
+     "description": "Always leaves the foe with at least 1 HP.",
+     "pp": 40,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 95,
+     "alias": "fire_fang",
+     "name": "Fire Fang",
+     "description": "10% chance to flinch. 10% chance to burn.",
+     "pp": 15,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "fire_pledge",
+     "name": "Fire Pledge",
+     "description": "Use with Grass Pledge and Water Pledge for additional effect.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "fire_punch",
+     "name": "Fire Punch",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_spin",
+     "name": "Fire Spin",
+     "description": "Prevents the opponent from attacking for 2-5 turns.",
+     "pp": 15,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flame_burst",
+     "name": "Flame Burst",
+     "description": "Damages Pokemon next to the target as well.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flame_charge",
+     "name": "Flame Charge",
+     "description": "Boosts user's Speed by 1 stage.",
+     "pp": 20,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flare_blitz",
+     "name": "Flare Blitz",
+     "description": "Has 1/3 recoil. 10% chance to burn.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "fly",
+     "name": "Fly",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "focus_punch",
+     "name": "Focus Punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "growl",
+     "name": "Growl",
+     "description": "Lowers target's Attack by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "heat_wave",
+     "name": "Heat Wave",
+     "description": "10% chance to burn.",
+     "pp": 10,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "hone_claws",
+     "name": "Hone Claws",
+     "description": "Boosts Attack and accuracy one stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "howl",
+     "name": "Howl",
+     "description": "Boosts Attack by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 50,
+     "alias": "inferno",
+     "name": "Inferno",
+     "description": "Burns the target.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 75,
+     "alias": "iron_tail",
+     "name": "Iron Tail",
+     "description": "30% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 75,
+     "alias": "mega_kick",
+     "name": "Mega Kick",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "mega_punch",
+     "name": "Mega Punch",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 95,
+     "alias": "metal_claw",
+     "name": "Metal Claw",
+     "description": "10% chance to boost Attack by 1 stage.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "ominous_wind",
+     "name": "Ominous Wind",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "overheat",
+     "name": "Overheat",
+     "description": "Lowers Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "quick_attack",
+     "name": "Quick Attack",
+     "description": "The user always attacks first.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "rage",
+     "name": "Rage",
+     "description": "Boosts Atk 1 stage if hit.",
+     "pp": 20,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "roost",
+     "name": "Roost",
+     "description": "Heals 50% HP. Temporarily removes the user's Flying-type.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "scary_face",
+     "name": "Scary Face",
+     "description": "Lowers Speed by 2 stages.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "scratch",
+     "name": "Scratch",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "seismic_toss",
+     "name": "Seismic Toss",
+     "description": "Does damage equal to the user's level.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_claw",
+     "name": "Shadow Claw",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "sky_drop",
+     "name": "Sky Drop",
+     "description": "Hits the turn after being used. The target cannot move while in the air.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "slash",
+     "name": "Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "smokescreen",
+     "name": "Smokescreen",
+     "description": "Lowers foe's accuracy by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 90,
+     "alias": "steel_wing",
+     "name": "Steel Wing",
+     "description": "10% chance to raise the user's Defense by 1 stage.",
+     "pp": 25,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "tailwind",
+     "name": "Tailwind",
+     "description": "Doubles Speed for 3 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_punch",
+     "name": "Thunder Punch",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "twister",
+     "name": "Twister",
+     "description": "20% chance to flinch.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "will-o-wisp",
+     "name": "Will-O-Wisp",
+     "description": "Burns the foe.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "wing_attack",
+     "name": "Wing Attack",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 60
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "charmander",
+     "name": "Charmander"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "charmeleon",
+       "name": "Charmeleon"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "charizard",
+         "name": "Charizard"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 84,
+     "height": 1.7,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Blaze",
+       "alias": "blaze",
+       "description": "Boosts power of Fire-type moves 50% when at 1/3 of max HP or less."
+      },
+      {
+       "gen": "xy",
+       "name": "Solar Power",
+       "alias": "solar_power",
+       "description": "Loses 10% HP in sun each turn. Special Attack increases by 50%."
+      }
+     ],
+     "alias": "charizard",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fire",
+       "name": "Fire"
+      },
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 85,
+     "hp": 78,
+     "spatk": 109,
+     "suffix": "",
+     "pdef": 78,
+     "weight": 90.5,
+     "spe": 100,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    },
+    {
+     "patk": 130,
+     "height": 1.7,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Tough Claws",
+       "alias": "tough_claws",
+       "description": "This Pokemon's contact attacks do 1.33x damage."
+      }
+     ],
+     "alias": "charizard-mega-x",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "dragon",
+       "name": "Dragon"
+      },
+      {
+       "gen": "xy",
+       "alias": "fire",
+       "name": "Fire"
+      }
+     ],
+     "gkpower": 100,
+     "spdef": 85,
+     "hp": 78,
+     "spatk": 130,
+     "suffix": "Mega-X",
+     "pdef": 111,
+     "weight": 110.5,
+     "spe": 100,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    },
+    {
+     "patk": 104,
+     "height": 1.7,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Drought",
+       "alias": "drought",
+       "description": "Summons sun."
+      }
+     ],
+     "alias": "charizard-mega-y",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fire",
+       "name": "Fire"
+      },
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      }
+     ],
+     "gkpower": 100,
+     "spdef": 115,
+     "hp": 78,
+     "spatk": 159,
+     "suffix": "Mega-Y",
+     "pdef": 78,
+     "weight": 110.5,
+     "spe": 100,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

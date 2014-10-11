@@ -1,0 +1,1962 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "bulk_up",
+         "name": "Bulk Up"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        },
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "gale_wings",
+       "name": "Gale Wings"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Bulk Up",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 8
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Bulk Up makes Talonflame really difficult to take down and gives it the power to sweep through teams. Brave Bird gets priority and hits hard after a few boosts, enabling Talonflame to bypass faster threats. Roost allows Talonflame to accumulate multiple boosts in front of Pokemon that can't significantly hurt it and also gets priority, allowing Talonflame to soften the blow from faster Pokemon that use Rock or Electric moves if the need arises. Will-O-Wisp pressures Talonflame's checks and counters by slowly wearing them down, while also limiting the offensive presence of some of those Pokemon, such as Tyranitar, Hippowdon, and Landorus-T. Taunt prevents the use of phazing moves, entry hazards, and status, granting Talonflame the ability to beat some of its most common checks, namely Hippowdon, Heatran, and Alomomola. This makes Talonflame a decent stallbreaker.</p>\n<p>Substitute helps Talonflame stall out the PP of Stone Edge users, such as Tyranitar and Landorus-T, and Rotom-W's Hydro Pump, allowing Talonflame to use them as set up bait, sometimes. Flare Blitz can be used for the last slot for a way to deal immediately with threatening Steel-types, such as Ferrothorn, Skarmory, Bisharp, Excadrill, and Thundurus, but leaves Talonflame very prone to its usual checks and counters, unlike the other options on the last slot.</p>\n<h4>Set Details</h4>\n<p>Special bulk is maximized to help Talonflame take hits on its weaker side, as Bulk Up patches up its physical side. 8 Speed EVs allow Talonflame to outrun Kyurem-B and hit it with Will-O-Wisp before it can destroy Talonflame with Fusion Bolt.</p>\n<h4>Usage Tips</h4>\n<p>If the opponent lacks Fire-types, send Talonflame in as early as possible to cripple its checks with Will-O-Wisp, making them easier to wear down throughout the course of the game. With Taunt, this set stops many of the universal Talonflame checks, such as Whirlwind Hippowdon and specially defensive Heatran, so use this to your advantage; send out Talonflame when it can threaten everything on the opposing team other than said checks, and as they come in, either grab a second Bulk Up boost as they realize their mistake and switch out, or Taunt them and then grab a second Bulk Up boost. Also, take advantage of Talonflame's fast Taunt to handicap Pokemon that rely a lot on non-attacking moves, such as Skarmory, Ferrothorn, and Hippowdon. Be aware of what attacks Talonflame can and can't survive, so you can decide whether you should stay in and boost more or switch out.</p>\n<h4>Team Options</h4>\n<p>Anti-Stealth Rock support is a must, even more so than on other sets, as Bulk Up Talonflame likes to switch in and out a lot. Talonflame switches frequently in part because of its ability to check multiple Pokemon and cripple some of its own checks with Will-O-Wisp, but also because its lack of immediate power makes it very wallable. Defog Mega Scizor and Skarmory are the most sturdy Pokemon for this job, though more offensive choices such as Latios, Latias, and Excadrill can work depending on the team. All of those Pokemon have at least decent defensive synergy with Talonflame, being able to check or wall some of the Pokemon that Talonflame struggles against, such as Rotom-W, Heatran, Tyranitar, Thundurus, and Landorus-T. Mega Venusaur can check most Water- and Electric-types that threaten Talonflame, in addition to handling certain physically defensive Pokemon that wall Talonflame, such as Hippowdon and Tyranitar. Choice Band Staraptor can wear down Talonflame's checks and counters so that it has an easier time sweeping late-game, making for a great partner; the same goes for Mega Pinsir.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flare_blitz",
+         "name": "Flare Blitz"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "aerial_ace",
+         "name": "Aerial Ace"
+        },
+        {
+         "gen": "xy",
+         "alias": "me_first",
+         "name": "Me First"
+        },
+        {
+         "gen": "xy",
+         "alias": "tailwind",
+         "name": "Tailwind"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "gale_wings",
+       "name": "Gale Wings"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Choice Band",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Band",
+       "alias": "choice_band",
+       "description": "Raises Attack by 50%, but locks the user into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 4,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Brave Bird is the move that Talonflame will generally be using most of the time due to its STAB boost and Gale Wings. Flare Blitz is mainly a backup move for when locking Talonflame into Brave Bird isn't optimal, and deals with Pokemon such as Scizor and Aegislash better than Brave Bird does. U-turn is useful on this set as it allows Talonflame to escape from a bad situation, and is Talonflame's best move for Tyranitar. The last moveslot is mainly filler, but there are a few options to consider. Tailwind serves the same purpose as on the standard set, and can help bluff a non-Choice set. However, Talonflame is basically forced to switch out on the following turn after using Tailwind, so it will soon be clear that Talonflame is Choice-locked. Before setting up Tailwind, Me First helps Talonflame against Pokemon such as Aerodactyl, stealing Rock Slide and OHKOing them. However, the move is a little situational. Aerial Ace can also be used in the fourth moveslot as a recoil-free way of dealing with weakened opponents, but is very weak and forces Talonflame to switch out after using it.</p>\n<h4>Set Details</h4>\n<p>The EVs are to outpace opposing Talonflame and maximize its firepower. An Adamant nature and Choice Band augment Talonflame's offensive capabilities, turning it into a nuke that can spam Brave Bird with little worry. A Jolly nature is worthless, as Talonflame is mostly going to spam Brave Bird.</p>\n<h4>Usage Tips</h4>\n<p>Brave Bird is most often the best move to use, though it should not be used recklessly. Write down the opposing team and refer to it whenever you are making decisions, as you will often find situations mid-game where Brave Bird is not the best move to use. Switch strategically to ensure that the Pokemon you are switching in takes as little damage as possible. An example includes luring a Rock Slide with Talonflame and switching into Garchomp to take the hit, allowing Talonflame to come in later and lock itself into the appropriate move. General decisions include using U-turn when Tyranitar is on the opponent's side of the field, using Flare Blitz when Aegislash or Scizor is a threat to your team, and using Talonflame's filler move when you deem it to be appropriate.</p>\n<h4>Team Options</h4>\n<p>Rotom-W and Rotom-H can deal with opposing Talonflame, and the latter can deal with Mega Charizard Y very well. Rotom-M, on the other hand, is a great Pokemon to deal with opposing Rotom-W and Tyranitar. Tyranitar can deal with Rotom-H, Talonflame, and Mega Charizard Y well, though it must be wary of Talonflame's U-turn and Mega Charizard Y's Solar Beam. Fake Out users such as Mega Kangaskhan can prevent Rock Slides and enable Talonflame to U-turn out safely and bring in a Pokemon with a better match-up against the opponent's Pokemon. Fake Out users can also give Talonflame a turn to set up with Tailwind or utilize another move. The combination of Scizor and Talonflame is effective, as Scizor can deal with the Rock-types that wall Talonflame and Talonflame can deal with Aegislash, which can cause problems for Scizor that lack Thief. However, Scizor is walled by Rotom-W and Rotom-H, and must be wary of the former's Will-O-Wisp and the latter's Overheat. Garchomp also makes an excellent partner, as it can defeat Rotom-H, though it must be wary of Will-O-Wisp. Amoonguss is capable of dealing with Rotom-W and Tyranitar as well as supporting Talonflame with Spore and Rage Powder. However, it must be wary of Crunch and Rock Slide from Tyranitar. Lastly, Mold Breaker Haxorus can 2HKO 252 HP / 44 Def Rotom-W and always OHKO Rotom-H with Earthquake.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flare_blitz",
+         "name": "Flare Blitz"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "tailwind",
+         "name": "Tailwind"
+        },
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "gale_wings",
+       "name": "Gale Wings"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Gale Wings Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 80,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 176
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Brave Bird is a high-powered priority STAB attack that hits a large portion of the metagame for decent damage. Flare Blitz is a secondary STAB attack that hits the Steel- and Electric-type Pokemon which resist Brave Bird. Priority Tailwind can be used to grant Talonflame's team a chance to sweep when it cannot. Will-O-Wisp is an easy way to cripple threatening physical attackers that can sponge Talonflame's attacks, such as Mega Kangaskhan and Tyranitar; however, keep in mind that their STAB attacks will still do devastating damage to it, even while they're burned. Protect is commonplace in Doubles, protecting Talonflame from Fake Out and allowing it to ruin offensive strategies, scout, and stall harmful field conditions.</p>\n<h4>Set Details</h4>\n<p>An Adamant nature is preferred over Jolly because Talonflame needs all the power it can get with its subpar Attack stat. It is already faster than most threats it would want to Flare Blitz against, anyway. The only perks for Jolly and 252 Speed EVs are outspeeding Choice Scarf Tyranitar and beating other Adamant Talonflame. The current EV spread maximizes Talonflame's Attack and allows it to outspeed Thundurus-T, a fast threat that it would need to use Flare Blitz against; however, it can't afford to lose the Attack power of an Adamant nature to go Jolly and outspeed Thundurus. The rest of the EVs go into HP for marginally boosting its longevity. Life Orb is the most reliable item for Talonflame because it boosts its damage output while allowing it to switch moves, as opposed to a Choice Band; the recoil does add up quickly, though.</p>\n<h4>Usage Tips</h4>\n<p>Talonflame fits well on offensive teams due to the pressure it puts on a large portion of the metagame. However, it cannot deal out many KOs on its own, so it needs to work with a teammate that can sufficiently weaken the opponent. For example, any Latios that wants to switch in to take out a partner Terrakion cannot because Rock Slide puts it in Brave Bird's KO range. Whenever it cannot KO, Talonflame needs to stall with Protect and Will-O-Wisp until its partner deals enough damage, or else the opponent will easily KO Talonflame back. For this reason, it cannot switch out often, as switching it in safely with its lack of bulk is near impossible due to Doubles's fast-paced nature.</p>\n<p>Most of the time, Talonflame will be using Brave Bird because of the coverage, priority, and power it offers. Flare Blitz should only be used when Brave Bird is not very effective, particularly against Steel- and Electric-types. When dealing with physical attackers that are out of KO range with Will-O-Wisp, keep in mind that even when burned, many attackers can still damage Talonflame severely. It is common for Talonflame to use Tailwind when offensive pressure is too great against its team, sacrificing itself so new switch-ins can outpace the opponent and regain momentum. Because its main STAB attack is priority, Talonflame has to watch out for Quick Guard users, such as Keldeo and Terrakion, that can mess up its offensive strategies.</p>\n<h4>Team Options</h4>\n<p>Teammates with spread attacks, such as Terrakion, Tyranitar, and Landorus-T, make great partners because they deal chip damage to both opposing Pokemon, putting them in range for Talonflame to KO. Grass-types such as Venusaur and Ferrothorn make good partners to Talonflame because they can eliminate the bulky Water- and Rock-types that threaten it, such as Rotom-W and Tyranitar. It also appreciates partners that can get rid of Heatran, such as Rotom-W and Conkeldurr. Hitmontop offers valuable Feint support, which allows Talonflame to hit through Protect and Quick Guard, which greatly hinder its performance. Preventing Intimidate users from crippling Talonflame is also a good idea; while it already threatens Hitmontop and Scrafty with Brave Bird, partners such as Mamoswine and Rotom-W can deal with Landorus-T, and Gyarados can be handled by Mega Manectric and Thundurus. Having Bisharp by Talonflame's side also works, as it makes the opponent think twice about bringing in a Pokemon with Intimidate.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flare_blitz",
+         "name": "Flare Blitz"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "quick_guard",
+         "name": "Quick Guard"
+        },
+        {
+         "gen": "xy",
+         "alias": "tailwind",
+         "name": "Tailwind"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        },
+        {
+         "gen": "xy",
+         "alias": "quick_guard",
+         "name": "Quick Guard"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "gale_wings",
+       "name": "Gale Wings"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Offensive Support",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      },
+      {
+       "gen": "xy",
+       "name": "Sky Plate",
+       "alias": "sky_plate",
+       "description": "Raises power of Flying-type moves by 20%. Pokemon with Multitype become Flying-type."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 84,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 172
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Gale Wings is incredibly useful, as it grants Talonflame priority Tailwind and the most powerful priority move in the game in the form of Brave Bird. Brave Bird is Talonflame's main attack due to the priority it gains from Gale Wings, ripping through Pokemon such as Amoonguss. Talonflame's secondary STAB move, Flare Blitz, complements Brave Bird fairly well; the two moves form a potent combination resisted only by the Rock-type and a few other dual typings. Tailwind is a priority move that boosts the Speed of the entire team for a few turns. Protect is a staple in Doubles for its ability to scout the opponent's moves and protect the user from damage, especially important considering the ability to double target. Quick Guard can be used in the place of Tailwind or Protect as the utility it provides is incredibly handy on Talonflame. Quick Guard blocks Fake Out from the likes of Mega Kangaskhan, can give your teammate a free turn to move, and has been buffed in that it no longer fails when used in succession.</p>\n<h4>Set Details</h4>\n<p>The given EVs enable Talonflame to hit with as much power as possible as well as outpace max Speed Mega Kangaskhan. As a result, Talonflame can block Mega Kangaskhan's Fake Out with Quick Guard and utilize Brave Bird to nullify Sucker Punch. Talonflame can run max Speed to outpace every Fake Out user in the metagame excluding max Speed Raichu, which Speed ties with it, and max Speed Weavile, which outpaces it anyway. This also enables Talonflame to outpace most opposing Talonflame, which can be a valuable asset. However, maximum Speed investment is unadvised as Raichu and Weavile are too uncommon, and Talonflame can mess with opposing Talonflame with Quick Guard. The item of choice depends on what you want Talonflame to do: it can hold a Sky Plate for a little more survivability at the cost of power, or a Life Orb for the extra power, enabling a guaranteed 2HKO on 244 HP Bold Coba Berry Ludicolo with Brave Bird at the cost of survivability. An Adamant nature is run as there is no reason to run a Jolly nature, as Talonflame will use Brave Bird, Tailwind, Quick Guard and Protect most of the time.</p>\n<h4>Usage Tips</h4>\n<p>Bring Talonflame in early-game to support the team with Tailwind and Quick Guard. Make your move accordingly based around the lead match-up, using Quick Guard turn one when against a lead Kangaskhan, setting up Tailwind when you feel it is needed, such as when facing a particularly fast team, and using Brave Bird or Flare Blitz to deal with opposing threats such as Ludicolo and Scizor. As you can imagine, mirror match-ups consist of many mind games, so make sure to play conservatively in these situations, predicting your opponent's move and using your 45 seconds well. Misprediction might get Talonflame KOed, for example, by Garchomp's Rock Slide when it uses Brave Bird and the opponent uses Quick Guard.</p>\n<h4>Team Options</h4>\n<p>Steel-types such as Scizor and Aegislash have good synergy with Talonflame and can deal with the Rock-types that resist Talonflame's attacks. Rotom-W and Rotom-H can deal with opposing Talonflame as well as deal Mega Charizard Y, and the latter can take advantage of the sun that Mega Charizard Y summons. Rock-types such as Tyranitar and Aerodactyl can also deal with opposing Talonflame, and the former can also deal with Rotom-H. Amoonguss walls Rotom-W and threatens it with a STAB Giga Drain. Mega Charizard Y can summon sun, boosting the power of Talonflame's Flare Blitz and compensating its slight lack of power when it holds a Sky Plate. Talonflame and Garchomp create a terrifying offensive core with excellent offensive synergy; Talonflame covers Fairy-types and Ferrothorn while Garchomp covers Talonflame and Rotom-H.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flare_blitz",
+         "name": "Flare Blitz"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        },
+        {
+         "gen": "xy",
+         "alias": "sleep_talk",
+         "name": "Sleep Talk"
+        },
+        {
+         "gen": "xy",
+         "alias": "tailwind",
+         "name": "Tailwind"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "gale_wings",
+       "name": "Gale Wings"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Revenge Killer",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Band",
+       "alias": "choice_band",
+       "description": "Raises Attack by 50%, but locks the user into one move."
+      },
+      {
+       "gen": "xy",
+       "name": "Sharp Beak",
+       "alias": "sharp_beak",
+       "description": "Raises power of Flying-type moves 10%."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Brave Bird gets priority and is Talonflame's most useful asset, OHKOing many offensive Pokemon and also allowing Talonflame to clean up weakened teams. Flare Blitz takes care of the Steel-types that resist Brave Bird, as well as some Electric-types, such as Thundurus and Zapdos. U-turn does respectable damage to some of Talonflame's best switch-ins, such as Tyranitar and Rotom-W, and gives switch initiative. Tailwind is a nice option for the last slot with Choice Band, as it gets priority and can let teams revenge kill Pokemon that Brave Bird alone can not, such as Mega Tyranitar, Mega Aerodactyl, and Mega Manectric. Sleep Talk is useful to absorb sleep from the likes of Breloom and Amoonguss. The best part about this is that, unlike other Pokemon that might carry Sleep Talk, no move Talonflame picks with it will cause it to fare poorly against these Pokemon. If Sharp Beak is the item of choice, then Roost is a superior option, as it allows Talonflame to take advantage of its typing to find more switch-in opportunities and stick around for longer by healing damage taken from resisted attacks, such as Scizor's U-turn or Clefable's Moonblast.</p>\n<p>There are some other situational moves that can be used on the last slot. Will-O-Wisp provides permanent chip damage to Talonflame's switch-ins and neuters its physically based checks, such as Tyranitar and Landorus-T, making them easier to wear down, but being locked into a status move has severe drawbacks, and the best choice against a predicted check is often just to use U-turn as it comes in. Lastly, Me First allows Talonflame to OHKO Garchomp and Kyurem-B that have just KOed something with a Dragon-type attack.</p>\n<h4>Set Details</h4>\n<p>Maximum Speed is used to Speed tie opposing Talonflame and OHKO Mega Pinsir before it manages to hit Talonflame with +2 Quick Attack, and also lets Talonflame outspeed positive-natured base 110s, such as Latios and Latias, so that you can safely hit them with U-turn. Choice Band is the superior item choice as Talonflame will mostly be using either Brave Bird or U-turn, but Sharp Beak gives more flexibility and allows Talonflame to use Roost. A Jolly nature with an EV spread of 120 HP / 252 Atk / 136 Spe can be used, enabling Talonflame to outspeed and OHKO Thundurus with Flare Blitz and giving it a bit more bulk.</p>\n<h4>Usage Tips</h4>\n<p>Talonflame is first and foremost a revenge killer and should be played as such. The moment the battle starts, you should identify which Pokemon Talonflame can revenge kill; if those Pokemon are not too threatening to your team team, Talonflame can be played more recklessly. Otherwise, it should be kept safe at all costs, unless its use is absolutely necessary. In some situations, Talonflame can also end games with Brave Bird, so if one sees a team that can be swept by Talonflame with minimal preparations, it is wise to keep Talonflame healthy until those preparations have been made. Also, U-turn is the best move to spam early-game, as most of Talonflame's checks and counters can get worn down pretty easily by U-turn and Stealth Rock.</p>\n<h4>Team Options</h4>\n<p>A way to deal with Stealth Rock is the number one concern when using Talonflame. Excadrill, Latios, and Latias are the best Pokemon at this job, as all have decent synergy with Talonflame, resisting one or more of its weaknesses and beating some of its checks and counters (Mold Breaker Excadrill beats Rotom-W, Heatran, and Tyranitar; Latios and Latias beat Rotom-W, Landorus-T, and Thundurus), so they are some of the best teammates to have. Next, a good check to Rotom-W and physical walls / pivots in general is needed, as those are the most common answers to Talonflame. Mega Venusaur and Kyurem-B can handle all of those, so they are both great partners. Rotom-W and Scizor have great synergy with Talonflame and can form a VoltTurn core that facilitates getting Talonflame into battle for free. Stealth Rock support is nice to have, as it enables Talonflame to OHKO certain targets. For example, with Choice Band and Stealth Rock up, Brave Bird can OHKO Latias and Landorus, and 2HKO Mandibuzz and max HP Zapdos. Pokemon such as Landorus-T, Garchomp, and Terrakion are all great partners and some of the best offensive Stealth Rock setters. Finally, Choice Band Staraptor and Mega Pinsir work great alongside Talonflame, as they all have similar checks and counters, hopefully allowing them to overwhelm their checks and sweep.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "gale_wings",
+       "name": "Gale Wings"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Stallbreaker",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 8
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Brave Bird is one of Talonflame's most powerful attacking moves and it even has priority. Taunt prevents the use of healing, status, boosting, and phazing moves as well as the use of entry hazards. It also allows Talonflame to beat Heatran that lack a Rock-type move. Roost helps Talonflame stay healthy and outlast dangerous Pokemon that lack a coverage move for it such as Mega Charizard Y. Roost's priority usually enables Talonflame to heal before being attacked, allowing Talonflame to get in a Will-O-Wisp or Taunt before it needs to start healing. Having access to reliable recovery is one of Talonflame's advantages over stallbreaker Victini and Chandelure. Will-O-Wisp pressures many of Talonflame's checks and counters by slowly wearing them down and by restricting their offensive capabilities. The combination of Will-O-Wisp and Taunt gives Talonflame more versatility than running Bulk Up with either Taunt or Will-O-Wisp. Taunt gives it the ability to stallbreak similarly to the Bulk Up + Taunt set while still having the ability lure and cripple like the Bulk Up + Will-O-Wisp set.</p>\n<h4>Set Details</h4>\n<p>248 HP and 252 Special Defense EVs bolster Talonflame's special bulk and enable it to switch into Stealth Rock three times from full health. The 8 Speed EVs allow Talonflame to outspeed max Speed neutral-natured Kyurem-B so Talonflame can check it with Will-O-Wisp. A spread of 104 HP / 180 Atk / 16 Def / 208 Spe with an Impish nature and a Sharp Beak guarantees the OHKO on Mega Medicham and lets Talonflame check +2 Mega Pinsir.</p>\n<h4>Usage Tips</h4>\n<p>This Talonflame set excels at dismantling stall teams lacking Mega Charizard X and Suicune. Talonflame can freely switch in on passive Pokemon such as Magic Guard Calm Mind Clefable, Amoonguss after a Pokemon has been put to sleep, Chansey lacking a status move, and Skarmory. Do not let Talonflame get inflicted by a status, as it makes stallbreaking far more difficult. Be careful with Roost as its priority can make Talonflame vulnerable to Ground-type moves when used. It can also be used advantageously by removing Talonflame's Electric-type weakness for a turn. In addition, make sure to conserve PP against stall teams by using Taunt only when needed, while against more offensive teams, bluffing only either Will-O-Wisp or Taunt can assist in luring in Talonflame's checks. Talonflame can check many Pokemon that are powerful against balanced and stall teams such as Mega Heracross and Mega Medicham.</p>\n<h4>Team Options</h4>\n<p>Entry hazard removal from Excadrill, Latias, and Latios is greatly appreciated as they can check various threats for Talonflame and have good defensive synergy. Latias's Healing Wish also can give Talonflame a second chance at stallbreaking if a stray Toxic hits it. Keep in mind when teambuilding that if you pick Latias or Latios as your Defogger, like Talonflame either one is easily checked by Tyranitar. Pokemon that resist Electric- and Water-type attacks such as Amoonguss, Mega Venusaur, Ferrothorn, and Raikou are good teammates. Even though Talonflame can stall out some of Heatran's specially defensive sets, it is highly recommended that you run a Heatran check such as Keldeo, Terrakion, or Garchomp alongside it. Stealth Rock support is extremely helpful due to the amount of switches Talonflame forces, so Pokemon such as Hippowdon make good teammates.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flare_blitz",
+         "name": "Flare Blitz"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "gale_wings",
+       "name": "Gale Wings"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Swords Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Sharp Beak",
+       "alias": "sharp_beak",
+       "description": "Raises power of Flying-type moves 10%."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 120,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 136
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>With Swords Dance and priority Brave Bird, Talonflame can take the role of a sweeper. Brave Bird is fairly powerful after a boost and OHKOes most offensive Pokemon. Flare Blitz takes care of Steel-types, while Roost gives some use to Talonflame in the early and mid-game, as it can throw a couple of attacks, recover off the passive damage and recoil, and set up later to attempt a sweep. Roost also allows Talonflame to deal with the Pokemon it checks, such as Scizor, Clefable, Mega Venusaur, and Volcarona, for an extended period of time.</p>\n<p>U-turn can be used on the last slot, as Talonflame fits nicely onto VoltTurn chains, and U-turn wears down certain checks and counters, such as Rotom-W and Tyranitar. Taunt is another option, as it shuts down Hippowdon and defensive Heatran, allowing Talonflame to boost enough to get past them and sweep.</p>\n<h4>Set Details</h4>\n<p>136 Speed EVs and a Jolly nature are crucial for Talonflame to outrun Thundurus, which can otherwise easily prevent a sweep. The remaining EVs are distributed to optomize Talonflame's attacking capabilities and give it a bit of bulk to help set up. Sharp Beak is the best item option to power up Brave Bird, as after a boost, Flare Blitz has enough power to KO its targets, and with Life Orb Talonflame will get KOed by recoil really fast. However, a Life Orb gives Talonflame a chance to achieve some crucial OHKOes with Brave Bird, including a 43.8% chance to OHKO Thundurus, a 25% chance to OHKO Choice Scarf Excadrill or Sand Rush Excadrill in sand after Stealth Rock, a 50% chance to OHKO Choice Scarf Rotom-W after Stealth Rock, and a 75% chance to OHKO specially defensive Hippowdon after one layer of Spikes. Life Orb also gives Talonflame more immediate power, which is useful for revenge killing purposes. However, move recoil plus Life Orb weakens Talonflame extremely quickly, so it's generally not recommended. If Raikou proves particularly problematic, an EV spread of 88 HP / 252 Atk / 168 Spe with a Jolly nature can be run to outspeed it. If greater revenge killing ability is preferred over the ability to outspeed Thundurus, then an Adamant nature with EVs of 252 Atk / 4 Def / 252 Spe can be run in order to tie with other Talonflame and outspeed Mega Pinsir and hit it with Brave Bird before it uses Quick Attack.</p>\n<h4>Usage Tips</h4>\n<p>This set can be very flexible in terms of playstyle. It can take the role of an all-out attacker, revenge killer, pivot, hole puncher, or late-game cleaner; choose what it is most appropriate for after seeing your opponent's team. As long as there are hard counters to Talonflame, it's better to double switch out or heal with Roost. Also, if you want to clean up with Talonflame, make sure you have enough health to do so, as many teams rely on recoil damage to check Talonflame if their checks and counters are weakened.</p>\n<h4>Team Options</h4>\n<p>As usual, Excadrill, Latios, and Latias are the best partners to Talonflame, as they are effective at getting rid of Stealth Rock, have good offensive presence, and cover Talonflame's weaknesses. Strong physical wallbreakers that weaken the physically bulky Pokemon that Talonflame can't OHKO, such as Hippowdon and Landorus-T, work well with Talonflame. Such Pokemon include Swords Dance Garchomp, Choice Band Terrakion, and Mega Heracross, with Garchomp also being able to set up Stealth Rock, further assisting Talonflame. Rotom-W can deal with most physical walls and tanks that check Talonflame, in addition to bringing Talonflame in unharmed with Volt Switch, making for a very effective teammate. Staraptor forms a very effective offensive core with Talonflame, as both Pokemon have similar checks and counters, so either of them can weaken the opposing team's checks so that the other one can clean up later. If Staraptor holds Choice Band, Staraptor is usually the one who weakens the opposing team and Talonflame the one who sweeps, while if Staraptor holds Choice Scarf the opposite happens. Mega Pinsir wears down Talonflame's checks and counters in a similar fashion, so it's another good teammate.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "natural_gift",
+         "name": "Natural Gift"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flare_blitz",
+         "name": "Flare Blitz"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "gale_wings",
+       "name": "Gale Wings"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Swords Dance + Natural Gift",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Liechi Berry",
+       "alias": "liechi_berry",
+       "description": "Raises Attack by one stage when at 25% HP or less. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Salac Berry",
+       "alias": "salac_berry",
+       "description": "Raises Speed by one stage when at 25% HP or less. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 88,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 168
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Natural Gift allows Talonflame to beat its usual counters with the appropriate Berry, which can open up the way for a sweep. Swords Dance is used to bolster the power of Talonflame's attacks, allowing it to OHKO Tyranitar and Quagsire with Natural Gift and to bring Heatran and Rotom-W into the KO range of Brave Bird. Brave Bird provides a powerful STAB priority weapon </p>\n<h4>Set Details</h4>\n<p>A Jolly nature with the given EV spread is used to outspeed Timid Thundurus and KO it with Flare Blitz if it switches into a Brave Bird, taking advantage of the fact that this particular Talonflame set is not Choice-locked. The EV spread also enables Talonflame to outpace Choice Scarf Tyranitar and maximum Speed Raikou, preventing them from revenge killing. Depending on which Berry is used, Talonflame can beat a few of its checks with Natural Gift; Liechi Berry hits Rotom-W, Tyranitar, and Quagsire with a 100 Base Power Grass-type move, while Salac Berry hits Tyranitar (harder) and Heatran with a 100 Base Power Fighting-type move.</p>\n<h4>Usage Tips</h4>\n<p>Talonflame won't be as strong as its standard Choice Band set; this set is more to lure in and remove or weaken Talonflame's standard checks and sweep once they are removed. The surprise factor of this set allows it to bluff the standard Choice Band or Swords Dance set if played well. Set up Swords Dance on Pokemon such as Ferrothorn, Skarmory, and Scizor that Talonflame can force out. Entry hazards should be removed to bring Talonflame in unscathed since it might be forced to consume the Berry if it reaches low HP; this is something to watch out for if using Brave Bird before Natural Gift has been used. Be sure that Rotom-W is weakened to around 75% before you use Natural Gift, as otherwise it can survive even a +2 hit and KO back. Try to avoid Knock Off, because removing Talonflame's Berry effectively wastes a moveslot and an item, not to mention that this Talonflame doesn't have any form of recovery to heal off the damage. Finally, be cautious of spamming Brave Bird before Talonflame is ready to sweep, as the opponent might notice a difference in damage between this and Sharp Beak or Choice Band Talonflame, and then expect the lure.</p>\n<h4>Team Options</h4>\n<p>Slow U-turn and Volt Switch users are good teammates, as they allow Talonflame to come in without taking prior damage; examples of those include Mega Scizor, Gliscor, Raikou, and Rotom-W. Defoggers and spinners such as Mandibuzz, Excadrill, and Latios make good partners, as losing 50% of its HP upon switching in is very detrimental to Talonflame. Other physical setup sweepers that benefit from Rotom-W and company removed, such as Azumarill, Mega Scizor, Mega Charizard X, and Dragonite, are also great teammates to exploit the holes left behind by Talonflame. Stealth Rock setters such as Hippowdon and Tyranitar are also appreciated, mostly to wear down Heatran and Rotom-W and bring them into the KO range of +2 Natural Gift. Mega Pinsir works well with Liechi Berry Talonflame, as the two weaken and potentially KO each other's checks with their respective coverage moves. Latios is a great partner for Salac Berry Talonflame, as Talonflame can remove Tyranitar and Heatran which trouble Latios, while Latios can handle Rotom-W and Quagsire relatively well.</p>\n"
+    }
+   ],
+   "alias": "talonflame",
+   "name": "Talonflame",
+   "genfamily": [
+    {
+     "gen": "xy",
+     "alias": "talonflame"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "acrobatics",
+     "name": "Acrobatics",
+     "description": "Doubles in power if user has no held item.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "agility",
+     "name": "Agility",
+     "description": "Boosts Speed by 2 stages.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "brave_bird",
+     "name": "Brave Bird",
+     "description": "Has 1/3 recoil damage.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "bulk_up",
+     "name": "Bulk Up",
+     "description": "Boosts Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "ember",
+     "name": "Ember",
+     "description": "10% chance to burn.",
+     "pp": 25,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flail",
+     "name": "Flail",
+     "description": "Does more damage as HP decreases.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flame_charge",
+     "name": "Flame Charge",
+     "description": "Boosts user's Speed by 1 stage.",
+     "pp": 20,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flare_blitz",
+     "name": "Flare Blitz",
+     "description": "Has 1/3 recoil. 10% chance to burn.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "fly",
+     "name": "Fly",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "growl",
+     "name": "Growl",
+     "description": "Lowers target's Attack by 1 stage.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "hone_claws",
+     "name": "Hone Claws",
+     "description": "Boosts Attack and accuracy one stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "me_first",
+     "name": "Me First",
+     "description": "Uses the foe's attack at 1.5x power. Must be faster to work.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "overheat",
+     "name": "Overheat",
+     "description": "Lowers Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "peck",
+     "name": "Peck",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 35
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "quick_attack",
+     "name": "Quick Attack",
+     "description": "The user always attacks first.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "quick_guard",
+     "name": "Quick Guard",
+     "description": "Protects user and allies from priority attacks.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "razor_wind",
+     "name": "Razor Wind",
+     "description": "Charges up the first turn; attacks on the second turn. Has a high critical hit rate.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "roost",
+     "name": "Roost",
+     "description": "Heals 50% HP. Temporarily removes the user's Flying-type.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "snatch",
+     "name": "Snatch",
+     "description": "If certain moves are used, the user of Snatch uses the moves instead.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 90,
+     "alias": "steel_wing",
+     "name": "Steel Wing",
+     "description": "10% chance to raise the user's Defense by 1 stage.",
+     "pp": 25,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "tailwind",
+     "name": "Tailwind",
+     "description": "Doubles Speed for 3 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "taunt",
+     "name": "Taunt",
+     "description": "Forces the foe to use damaging moves for 2 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "thief",
+     "name": "Thief",
+     "description": "Steals target's item.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "u-turn",
+     "name": "U-turn",
+     "description": "Attacks, then switches.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "will-o-wisp",
+     "name": "Will-O-Wisp",
+     "description": "Burns the foe.",
+     "pp": 15,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "fletchling",
+     "name": "Fletchling"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "fletchinder",
+       "name": "Fletchinder"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "talonflame",
+         "name": "Talonflame"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 81,
+     "height": 1.2,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Flame Body",
+       "alias": "flame_body",
+       "description": "Enemies' contact moves have a 30% chance to burn them. Halves the amount of steps required to hatch Eggs."
+      },
+      {
+       "gen": "xy",
+       "name": "Gale Wings",
+       "alias": "gale_wings",
+       "description": "This Pokemon's Flying-type moves have their priority increased by 1."
+      }
+     ],
+     "alias": "talonflame",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fire",
+       "name": "Fire"
+      },
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      }
+     ],
+     "gkpower": 40,
+     "spdef": 69,
+     "hp": 78,
+     "spatk": 74,
+     "suffix": "",
+     "pdef": 71,
+     "weight": 24.5,
+     "spe": 126,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

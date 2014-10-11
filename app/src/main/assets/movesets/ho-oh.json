@@ -1,0 +1,1972 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sacred_fire",
+         "name": "Sacred Fire"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sleep_talk",
+         "name": "Sleep Talk"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Choice Band",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Band",
+       "alias": "choice_band",
+       "description": "Raises Attack by 50%, but locks the user into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 8
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Choice Band Ho-Oh hits extremely hard with Brave Bird, which is guaranteed to OHKO Palkia, 0 HP Kyogre, and many other threats. The absence of Life Orb also means that Ho-Oh will suffer less residual damage. With the Defog buff and Regenerator, this set is pretty much the pinnacle of hit-and-run tactics. If you thought Brave Bird was strong, a sun-boosted Sacred Fire is absolutely ridiculous, being able to OHKO 4 HP Arceus with only Stealth Rock up; it also OHKOes maximum HP Arceus if it manages to burn! Even the most defensive Groudon variants are guaranteed to fall in two hits, regardless of whether or not Sacred Fire lands a burn.</p>\n<p>Earthquake is a solid and powerful coverage move and hits Ho-Oh's best checks and counters very hard. A burned Rock Arceus will find itself in a very sticky spot if it switches in on Earthquake, as the move hits a maximum of about 81% damage. Lastly, Sleep Talk is a good move to have against Darkrai. Ho-Oh's attacks are very powerful and have few drawbacks, so the element of randomness that Sleep Talk introduces isn't as bad as it seems.</p>\n<h4>Set Details</h4>\n<p>Maximum Attack investment is self-explanatory, as along with the Choice Band and high-powered STAB moves, it pumps up Ho-Oh's attacking power to extreme levels. With 252 EVs invested in HP, Ho-Oh can tank hits quite well, although the lack of Roost hurts.</p>\n<p>There are two alternative EV spreads that this set can use. A faster spread of 4 HP / 252 Atk / 252 Spe with a Jolly nature is viable in order to ensure that Ho-Oh has the best chances of outspeeding Pokemon such as neutral-natured Choice Specs Kyogre, Yveltal, and Xerneas. The other alternative spread is 248 HP / 252 Def / 8 Spe with an Adamant nature. It retains a lot of the qualities that physically defensive Ho-Oh has, but it trades off Roost for higher attacking power.</p>\n<h4>Usage Tips</h4>\n<p>It cannot be understated as to how important it is to play the entry hazards game well. Ho-Oh loves having Stealth Rock up on the opponent's side of the field in order to punish possible mispredictions, while also having Stealth Rock off its side of the field for obvious reasons. Another big reason to keep Stealth Rock away from Ho-Oh is that this set doesn't have a recovery move and must rely on Regenerator to gain health back. Therefore, it is equally important for this set to utilize Regenerator for maximum recovery: pivot switching in on resisted hits is a big part of how Choice Band Ho-Oh should be played.</p>\n<p>Prediction is incredibly important for Ho-Oh; although its attacks are strong and unresisted together, it is good to have a plan as to what to do when initiating combat. There are a few roads you can go here, the first being spamming Sacred Fire with Ho-Oh to spread burns. After the opponent's switch-ins are burnt, Ho-Oh can pressure them harder with its coverage moves. However, if you want to take advantage of an obvious Kyogre switch-in to sponge a Sacred Fire, then by all means do it. If you suspect that Rock Arceus is your opponent's Arceus forme, then throw out Earthquake early in situations where it's safe to do so.</p>\n<h4>Team Options</h4>\n<p>Always use Defog support with Ho-Oh. Aside from the common support Arceus, Defog Giratina-O can work on a team with Choice Band Ho-Oh since you are aiming to smash the opposition faster than with other sets, making Giratina-O's inability to Defog consistently throughout the game less of a problem. Thunder Wave support from teammates such as Groudon, Lugia, and Kyogre can also be a big help. Being faster than the opponent gives Ho-Oh more time to dish out hits without worrying about the possibility of Brave Bird's recoil bringing it down.</p>\n<p>Drought support from Groudon is nice, and most other Ground-types are also good teammates. Landorus-T, for example, functions similarly to Groudon. Swords Dance Ground Arceus can be a good partner if you have a Defog user that is not another Arceus forme. Since Ho-Oh pressures Giratina, Bronzong, and Landorus-T, which are common counters to Ground Arceus, it will get better opportunities to sweep. Palkia, Water Arceus, Grass Arceus, or another check to Kyogre is mandatory as well, but luckily, Kyogre's checks tend to synergize well with Ho-Oh.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sacred_fire",
+         "name": "Sacred Fire"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "recover",
+         "name": "Recover"
+        },
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "whirlwind",
+         "name": "Whirlwind"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 8
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Brave Bird is mandatory on this set, as it hits decently hard without investment, and having such attacking power for a defensively inclined Pokemon differentiates Ho-Oh from Giratina and Lugia. Sacred Fire is especially useful on this set for its side effect. Spreading burns on physical attackers makes them easier to wall, and the residual damage can help with stalling out threats that cannot recover health. A recovery move is obviously a must for a defensive set. Roost is better than Recover here since outstalling a slower Groudon is much easier with this set, and a predicted Earthquake from a burnt Groudon on Ho-Oh's faster Roost will not deal too much damage. Finally, Toxic can cripple many common switch-ins such as Rock and Water Arceus, while Whirlwind phazes out setup sweepers such as Extreme Killer Arceus and Geomancy Xerneas.</p>\n<h4>Set Details</h4>\n<p>Maximum Defense EVs and an Impish nature make Ho-Oh surprisingly durable on the physical side, allowing it to take on threats such as Extreme Killer Arceus, Mewtwo, Foul Play Yveltal, and Lucario without Stone Edge, as long as Stealth Rock is not up. With maximum HP investment, Ho-Oh can tank special attacks just fine thanks to its naturally high Special Defense; however, if you wish to better utilize its gargantuan special bulk, shifting the EVs in Defense to Special Defense is feasible.</p>\n<h4>Usage Tips</h4>\n<p>Keep Stealth Rock off its side of the field in order to help Ho-Oh function optimally. Don't be afraid to do more \"reckless\" switches into support Arceus formes that Ho-Oh should be able to wall. While offensive sets take 80-94% from a -1 Arceus's Stone Edge, this variant of Ho-Oh fares far better against it and can switch out to regain a good portion of the damage taken through Regenerator. Because of this, the need to scout is somewhat lower.</p>\n<p>Do note that even with full defensive investment, Ho-Oh still has trouble taking on some common physical attackers, regardless of whether or not Stealth Rock is up. Zekrom, Groudon, and Mega Mewtwo X (which often carries a Rock-type move) are examples of physical attackers that can bust through Ho-Oh's defenses quite easily. As a mixed defensive tank, Ho-Oh should take advantage of the fact that it can check both physical and special threats. Extreme Killer Arceus, Blaziken, and sometimes even opposing Ho-Oh are physical attackers that this Ho-Oh can switch into.</p>\n<p>Although this set has a lot of defensive investment, Ho-Oh's Special Defense is higher, so take on special attackers as you see fit. With Whirlwind, Ho-Oh functions as a great Xerneas counter, should Stealth Rock not be up. It is also notable that Ho-Oh can take on Mega Mewtwo Y under the right circumstances, as Psystrike cannot OHKO it.</p>\n<h4>Team Options</h4>\n<p>Defog support is a must when using Ho-Oh, and this set is no exception. Fairy, Water, Rock, Grass, and Ghost Arceus can provide some synergy with Ho-Oh while also helping it with hazard removal. Giratina-O is not recommended as a Defog user to pair with this Ho-Oh due to this set's more defensively inclined nature. This is because Giratina-O, which has no recovery, is likely to be outlasted by the opposing Stealth Rock user. Mega Scizor can work as a Defog user to pair with this Ho-Oh; although it's quite slow and more prone to Taunt, it can handily check Groudon and semi-check Zekrom, while Ho-Oh can check opposing Ho-Oh in return.</p>\n<p>It's always wise to pair Ho-Oh with a Ground-type in order to help deal with Zekrom. Landorus-T and Groudon spring to mind as they can both provide Stealth Rock support. Swords Dance Ground Arceus appreciates Ho-Oh's ability to absorb burns from the likes of Giratina, but keep in mind that there is a big opportunity cost in not using a Defog Arceus with Ho-Oh.</p>\n<p>Ho-Oh needs to be paired with a Pokemon that can handle Kyogre, which is usually Palkia. However, if you want to hit two birds with one stone, Water Arceus is viable as a deterrent for both Water-type moves and a Defog user. Grass Arceus is similar except it boasts a strong STAB to hit Kyogre and Groudon with; however, it comes at the cost of being vulnerable to Mega Gengar. Both of these Arceus formes can also check Rock Arceus extremely well.</p>\n<p>Once again, Kyogre is a solid option for pressuring Rock Arceus. Choice Scarf, Choice Specs, and specially defensive variants all fit well with Ho-Oh. Keep in mind that your team will have two Pokemon weak to Electric-type moves, so a Ground-type is nearly mandatory.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "brave_bird",
+         "name": "Brave Bird"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sacred_fire",
+         "name": "Sacred Fire"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "recover",
+         "name": "Recover"
+        },
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "regenerator",
+       "name": "Regenerator"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Tank",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 8
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Brave Bird is a strong STAB move that 2HKOes practically any Pokemon that doesn't resist it, including maximum HP Arceus formes. It also 2HKOes any Kyogre variant thanks to the Life Orb boost. The recoil from Life Orb and Brave Bird can be quite upsetting at times, but don't forget that in conjunction with Regenerator and the recovery move of your choice, the lost HP can be gained back quite easily. Its secondary STAB move, Sacred Fire, is extremely potent; switch-ins such as Rock Arceus that resist it risk being burned. The burn rate discourages just about all physical attackers from switching into Ho-Oh, as it can render them useless for the rest of the game: Zekrom, which resists both of Ho-Oh's STAB moves, is a good example. Under harsh sunlight, Sacred Fire is boosted by 50%, making it Ho-Oh's strongest attack, and it has a good chance of 2HKOing even the most defensive variants of Groudon. It cannot be understated that Sacred Fire's power in combination with its side effect is what makes Ho-Oh such a difficult Pokemon to switch into.</p>\n<p>A recovery move is mandatory. Giving a Pokemon that has Regenerator, a base 154 Special Defense, a base 130 Attack, and two nearly unresisted STAB moves Roost is almost taking the term bulky attacker too far; with it, Ho-Oh's longevity easily outmatches just about everything else in the game as long as Stealth Rock is off the field. The choice between Roost and Recover is a preference issue. Roost helps Ho-Oh against some would-be super effective hits, especially with paralysis support, while Recover is nice against Earthquake users that try to predict when it will land. However, with Recover, Pokemon such as a burned Groudon can easily get back to smashing Ho-Oh with Stone Edge after you reveal the move.</p>\n<p>Substitute eases prediction, and it's rather easy for Ho-Oh to recover the lost health. In conjunction with a Toxic lure for Ho-Oh's biggest counter, Rock Arceus, this move puts a lot of pressure on said counter by forcing it to rack up Toxic damage. As Ho-Oh's attacks are very powerful, a free Substitute means that your opponent will almost always have to sacrifice a Pokemon just to break it. One of the biggest assets of Substitute is that Ho-Oh can take advantage of the free turns that can come with potential paralysis support. Against paralyzed threats such as Xerneas and Palkia (in sun), Ho-Oh can spam Substitute and Roost until they are fully paralyzed, giving it an unbroken Substitute. If Substitute isn't your thing, Earthquake is very viable as it 2HKOes Tyranitar, Zekrom, and Rock Arceus and OHKOes Heatran. However, giving up on Substitute means Ho-Oh will have a tougher time protecting itself from revenge killers and status.</p>\n<p>Ho-Oh has two options that can go in the last moveslot to attempt to patch up its mediocre Speed. The first one, Flame Charge, deals damage and provides a boost to Ho-Oh's Speed that remains until it switches out. The other option, Tailwind, doubles Ho-Oh's Speed as well as those of its teammates. However, Tailwind only lasts for three turns, so the boost is temporary. The opportunity cost of losing Substitute or Earthquake is large, but if your team needs the specific advantages that either of these two moves bring, then by all means, use them. Also, remember to invest in Speed accordingly: Flame Charge sets generally need maximum Speed investment in order to outspeed Mega Mewtwo Y after one boost, while Tailwind sets like having 176 Speed EVs to outspeed Choice Scarf Terrakion while Tailwind is in play.</p>\n<h4>Set Details</h4>\n<p>This set appreciates the high damage output that comes with Life Orb, but Leftovers is usable to increase Ho-Oh's tanking ability and mitigate recoil damage. However, the power loss is quite large; for example, defensive Kyogre can only be 3HKOed, and defensive Giratina is only 4HKOed.</p>\n<p>An Adamant nature with maximum Attack investment is rather self-explanatory for a bulky attacker like Ho-Oh, and it is usually the best option to maximize its damage output. However, settling for a specialized number catered to a specific team's needs is of course viable as well. 252 HP EVs gives Ho-Oh great bulk, allowing it to cushion most neutral special attacks comfortably.</p>\n<h4>Usage Tips</h4>\n<p>For optimal performance, Ho-Oh will need Stealth Rock off its own side of this field in order to reliably switch in and take maximum advantage of Regenerator. It is therefore important to play your Defog user or Rapid Spinner in such a way that it outlasts the opponent's Stealth Rock setter. Keep in mind that Arceus formes, the most common Defog users, are vulnerable to Toxic, so keep them away from Stealth Rock users that carry the move. When you have the chance to get Ho-Oh in, take it. Dishing out hits and regenerating Ho-Oh's health puts a lot of pressure on opponents, especially if they don't carry a dedicated check to it.</p>\n<p>As Ho-Oh has a very exploitable weakness, it is important to properly scout for surprise Rock-type moves. Mixed Xerneas can use Rock Slide, Giratina-O can carry Stone Edge, and Aegislash can have Head Smash in its arsenal. Even some Arceus formes carry Stone Edge just to ruin Ho-Oh's day. Understanding how metagame-defining Ho-Oh is and accepting that players can prepare and use moves just for it should always be accounted for.</p>\n<p>Do not make the mistake of using this set as your only way to stop a boosted Xerneas. It's hard to rely on Defog at all times, and Ho-Oh cannot OHKO Xerneas. In general, use Ho-Oh as the powerful wallbreaker it is, but don't rely on it as a check to too many Pokemon. Try to build your team in a way that you can use Ho-Oh's qualities to their maximum potential, but make sure that it isn't overly reliant on Ho-Oh's performance.</p>\n<h4>Team Options</h4>\n<p>Defog support is on the brink of mandatory when using Ho-Oh. Rapid Spin works too, but the spinners themselves are underpowered by Ubers standards, though using a spinner can work with some smart teambuilding. The most reliable Defog users are Arceus formes due to their high Speed, good bulk, and access to Recover. Water Arceus has pretty good synergy with Ho-Oh, taking on Kyogre, Groudon, and Rock Arceus quite well. Grass Arceus is in the same boat, but is weaker to the omnipresent Gengar and has a hard time fitting Stone Edge on its Defog set, meaning that it gives opposing Ho-Oh a lot of free turns; this can limit your teambuilding options a lot. Fairy Arceus is another notable Defog user; just like most Arceus formes, it can cripple the Stealth Rock users that also happen to check Ho-Oh, such as Landorus-T and Groudon. Some less common Defog users are viable as well. Lugia can act as an extra wall and check a lot of Pokemon, while Scizor helps out tremendously when it comes to making your team solid against Geomancy Xerneas.</p>\n<p>Groudon is another terrific teammate, as it takes on Zekrom pretty well and can set up Stealth Rock, which Ho-Oh appreciates. Entry hazards heap up the pressure on opposing Pokemon that try to switch into Ho-Oh. The sun support provided by Groudon is invaluable; despite only lasting five turns, it is sufficient, considering that Ho-Oh has an easy time coming in against some Pokemon that threaten Groudon in the sun, such as Palkia, Grass Arceus, and Kyurem-W. Landorus-T is a good partner as well. While Groudon can phaze, use Thunder Wave, and strike with Fire-type moves, Landorus-T better checks Mega Blaziken.</p>\n<p>Palkia deserves a mention as a good teammate as well. It has great synergy with Ho-Oh, as it checks all Kyogre variants, and the combined force of the two threats pressures defensive teams. Lastly, Ho-Oh fits quite well together with Kyogre; Ho-Oh can help by checking Grass Arceus while Kyogre can pressure Rock Arceus.</p>\n<p>Any Pokemon with Thunder Wave is a good partner for Ho-Oh, as it can possibly get free Substitutes or outspeed Pokemon it normally doesn't. Groudon, Lugia, Kyogre, Klefki, Thundurus, and Dialga are some examples of common Thunder Wave users, but a lot of other Ubers such as Palkia can learn the move too, so cater the support to your team's needs.</p>\n"
+    }
+   ],
+   "alias": "ho-oh",
+   "name": "Ho-Oh",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "ho-oh"
+    },
+    {
+     "gen": "dp",
+     "alias": "ho-oh"
+    },
+    {
+     "gen": "gs",
+     "alias": "ho-oh"
+    },
+    {
+     "gen": "rs",
+     "alias": "ho-oh"
+    },
+    {
+     "gen": "xy",
+     "alias": "ho-oh"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "air_cutter",
+     "name": "Air Cutter",
+     "description": "High critical hit rate.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "ancient_power",
+     "name": "Ancient Power",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "brave_bird",
+     "name": "Brave Bird",
+     "description": "Has 1/3 recoil damage.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "calm_mind",
+     "name": "Calm Mind",
+     "description": "Boosts Special Attack and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 90,
+     "alias": "charge_beam",
+     "name": "Charge Beam",
+     "description": "70% chance to boost Special Attack by 1 stage.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "defog",
+     "name": "Defog",
+     "description": "Lowers target's evasion by 1 stage. Removes various field effects.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "dream_eater",
+     "name": "Dream Eater",
+     "description": "Leeches 50% of the damage dealt. Only works if target is asleep.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "extrasensory",
+     "name": "Extrasensory",
+     "description": "10% chance to flinch.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "fire_blast",
+     "name": "Fire Blast",
+     "description": "10% chance to burn.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flame_charge",
+     "name": "Flame Charge",
+     "description": "Boosts user's Speed by 1 stage.",
+     "pp": 20,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "flamethrower",
+     "name": "Flamethrower",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "fly",
+     "name": "Fly",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "future_sight",
+     "name": "Future Sight",
+     "description": "Deals damage at the end of the turn after three turns.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "giga_drain",
+     "name": "Giga Drain",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "gust",
+     "name": "Gust",
+     "description": "Hits Pokemon using Fly for twice Base Power.",
+     "pp": 35,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "heat_wave",
+     "name": "Heat Wave",
+     "description": "10% chance to burn.",
+     "pp": 10,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "hyper_voice",
+     "name": "Hyper Voice",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "incinerate",
+     "name": "Incinerate",
+     "description": "Removes the target's Berry.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "nightmare",
+     "name": "Nightmare",
+     "description": "Does 1/4 of the target's max HP per turn to a sleeping target.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "ominous_wind",
+     "name": "Ominous Wind",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 90,
+     "alias": "overheat",
+     "name": "Overheat",
+     "description": "Lowers Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "pluck",
+     "name": "Pluck",
+     "description": "Uses foe's Berry.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "punishment",
+     "name": "Punishment",
+     "description": "Does more damage to foes with stat boosts.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "recover",
+     "name": "Recover",
+     "description": "Heals 50% of user's max HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "reflect",
+     "name": "Reflect",
+     "description": "Lowers damage from physical attacks for 5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "roost",
+     "name": "Roost",
+     "description": "Heals 50% HP. Temporarily removes the user's Flying-type.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 95,
+     "alias": "sacred_fire",
+     "name": "Sacred Fire",
+     "description": "50% chance to burn. Thaws the user.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 0,
+     "alias": "shock_wave",
+     "name": "Shock Wave",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "signal_beam",
+     "name": "Signal Beam",
+     "description": "10% chance to confuse.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 90,
+     "alias": "sky_attack",
+     "name": "Sky Attack",
+     "description": "Hits the turn after being used.",
+     "pp": 5,
+     "power": 140
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "sky_drop",
+     "name": "Sky Drop",
+     "description": "Hits the turn after being used. The target cannot move while in the air.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 90,
+     "alias": "steel_wing",
+     "name": "Steel Wing",
+     "description": "10% chance to raise the user's Defense by 1 stage.",
+     "pp": 25,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "tailwind",
+     "name": "Tailwind",
+     "description": "Doubles Speed for 3 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 70,
+     "alias": "thunder",
+     "name": "Thunder",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunderbolt",
+     "name": "Thunderbolt",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "twister",
+     "name": "Twister",
+     "description": "20% chance to flinch.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "weather_ball",
+     "name": "Weather Ball",
+     "description": "Doubles in power and changes type if there is weather.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "whirlwind",
+     "name": "Whirlwind",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "will-o-wisp",
+     "name": "Will-O-Wisp",
+     "description": "Burns the foe.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 90,
+     "alias": "zen_headbutt",
+     "name": "Zen Headbutt",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "ho-oh",
+     "name": "Ho-Oh"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 130,
+     "height": 3.8,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Pressure",
+       "alias": "pressure",
+       "description": "Enemy attacks lose 1 extra PP. Increases wild encounter rate."
+      },
+      {
+       "gen": "xy",
+       "name": "Regenerator",
+       "alias": "regenerator",
+       "description": "Wielder heals 1/3 of its maximum HP on switching out."
+      }
+     ],
+     "alias": "ho-oh",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fire",
+       "name": "Fire"
+      },
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      }
+     ],
+     "gkpower": 100,
+     "spdef": 154,
+     "hp": 106,
+     "spatk": 110,
+     "suffix": "",
+     "pdef": 90,
+     "weight": 199.0,
+     "spe": 90,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

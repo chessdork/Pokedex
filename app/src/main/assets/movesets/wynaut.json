@@ -1,0 +1,419 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "encore",
+         "name": "Encore"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "counter",
+         "name": "Counter"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "mirror_coat",
+         "name": "Mirror Coat"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "destiny_bond",
+         "name": "Destiny Bond"
+        },
+        {
+         "gen": "xy",
+         "alias": "safeguard",
+         "name": "Safeguard"
+        },
+        {
+         "gen": "xy",
+         "alias": "tickle",
+         "name": "Tickle"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "shadow_tag",
+       "name": "Shadow Tag"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "LC",
+       "alias": "lc",
+       "name": "Little Cup"
+      }
+     ],
+     "name": "Standard",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Berry Juice",
+       "alias": "berry_juice",
+       "description": "Restores 20 HP when at 50% HP or less. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 132,
+       "patk": 0,
+       "hp": 236,
+       "spatk": 0,
+       "pdef": 132,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Encore is used to lock opposing Pokemon into non-attacking moves such as Stealth Rock, Defog, or even setup moves such as Shell Smash and Swords Dance, giving a teammate the ability to get a free switch-in. Encore can also lock a foe into a attacking move, and Wynaut can then hit it hard back with either Counter or Mirror Coat. Counter and Mirror Coat are used to counter physical and special attacks respectively, dealing twice the damage Wynaut took back. Encore, Counter, and Mirror Coat are all mandatory moves for Wynaut. For the last slot, Wynaut has three options: Safeguard, Tickle, and Destiny Bond. Safeguard allows Wynaut to avoid Toxic, Thunder Wave, and Sleep-based moves such as Sleep Powder, and Spore, which otherwise would greatly hinder Wynaut. Tickle can be used in conjunction with Pursuit users or Diglett to trap a opponent and OHKO it with ease. Destiny Bond is a useful last ditch effort to take out another Pokemon.</p>\n<h4>Set Details</h4>\n<p>The following EV spread maximizes Wynaut's HP, totaling 49 with Berry Juice. This means that Wynaut is technically capable of dealing 96 damage to opponents before fainting. A Bold nature is chosen to absorb Fighting-types attacks more effectively. However, the Defense and Special Defense EVs can be customized to deal with specific threats. Wynaut also has the ability to Speed creep on many walls, depending on what threats you want to remove. 92 Speed EVs give it 10 Speed, allowing it to outspeed slower walls.</p>\n<h4>Usage Tips</h4>\n<p>Use Encore on non-attacking moves such as Stealth Rock or setup moves such as Shell Smash, then switch out for free momentum. This also gives a teammate the ability to get a free turn to use a set up move on. Keep in mind that Spritzee isn't affected by Encore, so Spritzee can therefore use Wynaut as setup bait.</p>\n<h4>Team Options</h4>\n<p>Wynaut is a good choice if you have a frail setup team, and can reliably get rid of Choice Scarf users that lack a super effective move. Setup sweepers love the free turns Wynaut gives them by encoring a moves like Stealth Rock and Defog. Diglett or Pursuit users are very useful with Tickle, meaning the opponent is stuck using a move such as Stealth Rock and can easily end up having -6 Defense after being trapped by Wynaut. Volt Switch and U-turn users are fantastic partners as they can often give Wynaut a free switch in.</p>\n"
+    }
+   ],
+   "alias": "wynaut",
+   "name": "Wynaut",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "wynaut"
+    },
+    {
+     "gen": "dp",
+     "alias": "wynaut"
+    },
+    {
+     "gen": "rs",
+     "alias": "wynaut"
+    },
+    {
+     "gen": "xy",
+     "alias": "wynaut"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "charm",
+     "name": "Charm",
+     "description": "Lowers foe's Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "destiny_bond",
+     "name": "Destiny Bond",
+     "description": "If the user faints, the foe faints.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "encore",
+     "name": "Encore",
+     "description": "Causes the target to repeat the last move for 2-5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "mirror_coat",
+     "name": "Mirror Coat",
+     "description": "If hit by a special attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "splash",
+     "name": "Splash",
+     "description": "No effect whatsoever.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tickle",
+     "name": "Tickle",
+     "description": "Lowers Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "wynaut",
+     "name": "Wynaut"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "wobbuffet",
+       "name": "Wobbuffet"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 23,
+     "height": 0.6,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Shadow Tag",
+       "alias": "shadow_tag",
+       "description": "Traps opponents. Does not affect Pokemon with Shadow Tag."
+      },
+      {
+       "gen": "xy",
+       "name": "Telepathy",
+       "alias": "telepathy",
+       "description": "Does not take damage from allies' attacks."
+      }
+     ],
+     "alias": "wynaut",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "LC",
+       "alias": "lc",
+       "name": "Little Cup"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "psychic",
+       "name": "Psychic"
+      }
+     ],
+     "gkpower": 40,
+     "spdef": 48,
+     "hp": 95,
+     "spatk": 23,
+     "suffix": "",
+     "pdef": 48,
+     "weight": 14.0,
+     "spe": 23,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

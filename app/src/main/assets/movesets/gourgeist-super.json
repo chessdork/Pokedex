@@ -1,0 +1,386 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "leech_seed",
+         "name": "Leech Seed"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "seed_bomb",
+         "name": "Seed Bomb"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "frisk",
+       "name": "Frisk"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Protect allows Gourgeist to recover HP via Leftovers and Leech Seed, rack up burn and Leech Seed damage, and scout for moves. Leech Seed lets Gourgeist both recover health and do some residual damage to opponents who are immune to Will-O-Wisp. Will-O-Wisp is primarily used to burn physical attackers, making them nearly useless for the rest of the match unless the opposing team has a cleric, while also having the added effect of doing residual damage. Seed Bomb is for a STAB attack, letting Gourgeist hit Ground-, Rock- and Water-type Pokemon that it walls hard and also allows it to 2HKO Hitmonlee, letting Gourgeist spinblock it fairly effectively.</p>\n<h4>Set Details</h4>\n<p>The given EVs and Impish nature maximize Gourgeist's physical bulk. The residual healing provided by Leftovers is much more useful then what any other item could offer, and Frisk allows Gourgeist to scout the item of the current opposing Pokemon, which eases mind games, making Pokemon that rely on unpredictability far less dangerous.</p>\n<h4>Usage Tips</h4>\n<p>Gourgeist's bulk allows it to take many physical hits and respond with status or Seed Bomb. Switch it into physical Ground-, Fighting-, Water-, Grass-, and Normal-type sweepers who really can't do much against it, and start spreading burns and Leech Seed to wear them and possible switch-ins down. Leech Seed is Gourgeist's only source of recovery aside from Leftovers, so use it whenever possible to keep it healthy. Protect can also help Gourgeist gain additional healing from Leftovers and Leech Seed by stalling for a turn, but don't use it too often as some sweepers might use it as a set up opportunity and put Gourgeist in a tight spot.</p>\n<h4>Team Options</h4>\n<p>As a physical wall with no reliable recovery, Gourgeist appreciates Wish support. Alomomola and Aromatisse can provide this while switching into Fire- and Ice-type attacks and Dark-type attacks, respectively. In return, Gourgeist can switch into Grass- and Electric-type attacks for Alomomola and takes physical Steel- and Poison-type attacks for Aromatisse. Teammates that can cover for Gourgeist's weaknesses, such as Rhyperior for its Flying-type weakness and Drapion for its Dark- and Ghost-type weaknesses, are also recommended. Gourgeist, like many defensive Pokemon, hates Toxic Spikes as the passive damage can add up pretty easily and also negates Leftovers recovery. Drapion can remove them by merely switching in and can set up Toxic Spikes of its own, which helps Gourgeist with its stalling tactics. Do note that Toxic Spikes can work against you, as it prevents some physical threats from being burned by Gourgeist. Lastly, entry hazard support is always welcome because Leech Seed can force switches and wears opponents down even more. Registeel, in addition to Rhyperior, can set up Stealth Rock and has good synergy with Gourgeist.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "leech_seed",
+         "name": "Leech Seed"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "pain_split",
+         "name": "Pain Split"
+        },
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "seed_bomb",
+         "name": "Seed Bomb"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "frisk",
+       "name": "Frisk"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Will-O-Wisp neuters physically offensive threats, and combined with its excellent physical bulk, Gourgeist-XL will be able to tank all but the most powerful of physical hits. Leech Seed's passive damage and recovery is valuable for keeping Gourgeist-XL alive whilst simultaneously whittling away at the opponent's HP. Pain Split can see use for potentially garnering a greater amount of HP when Gourgeist-XL is running low on health and is its closest thing to reliable recovery. Protect lets Gourgeist-XL stall out the opponent for burn damage, as well as Leech Seed and Leftovers recovery, while scouting out super effective moves coming its way. Finally, Seed Bomb is Gourgeist-XL's STAB move that it will use to try and dish out some damage when necessary.</p>\n<h4>Set Details</h4>\n<p>Maximum investment in HP and Defense optimizes Gourgeist-XL's ability to tank hits on the physical side. An Impish nature further enhances the aforementioned physical bulk, and Leftovers provides greatly appreciated passive recovery.</p>\n<h4>Usage Tips</h4>\n<p>Gourgeist-XL's typing lets it find an easy switch-in opportunity on a predicted use of Rapid Spin. Gourgeist-XL should be kept away from powerful special attacking threats, as they will easily prove overwhelming for it. Use of Will-O-Wisp and/or Leech Seed should be prioritized, since these utility moves are what let Gourgeist-XL cause the most disruption to its opponent.</p>\n<h4>Team Options</h4>\n<p>Pokemon such as Umbreon and Florges that sport great special bulk and resist some of the types that Gourgeist-XL is weak to make for good teammates. They also stand out due to the Wish and cleric support that they can provide. Gourgeist-XL has no reliable recovery, so Wish support is helpful for letting it stick around, not to mention that Gourgeist-XL's longevity is severely hampered by Toxic.</p>\n"
+    }
+   ],
+   "alias": "gourgeist-super",
+   "name": "Gourgeist-Super",
+   "genfamily": [
+    {
+     "gen": "xy",
+     "alias": "gourgeist-super"
+    }
+   ],
+   "moves": [],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "pumpkaboo-super",
+     "name": "Pumpkaboo-Super"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "gourgeist-super",
+       "name": "Gourgeist-Super"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 100,
+     "height": 0.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Frisk",
+       "alias": "frisk",
+       "description": "Reveals the foe's items."
+      },
+      {
+       "gen": "xy",
+       "name": "Insomnia",
+       "alias": "insomnia",
+       "description": "Prevents sleep."
+      },
+      {
+       "gen": "xy",
+       "name": "Pickup",
+       "alias": "pickup",
+       "description": "If the wielder has no held item, it gets the last item consumed at the end of the turn. Adds a chance of finding an item after each battle."
+      }
+     ],
+     "alias": "gourgeist-super",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "NU",
+       "alias": "nu",
+       "name": "Neverused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "ghost",
+       "name": "Ghost"
+      },
+      {
+       "gen": "xy",
+       "alias": "grass",
+       "name": "Grass"
+      }
+     ],
+     "gkpower": 20,
+     "spdef": 75,
+     "hp": 85,
+     "spatk": 58,
+     "suffix": "",
+     "pdef": 122,
+     "weight": 0.0,
+     "spe": 54,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

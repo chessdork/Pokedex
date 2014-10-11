@@ -1,0 +1,2167 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "explosion",
+         "name": "Explosion"
+        },
+        {
+         "gen": "xy",
+         "alias": "superpower",
+         "name": "Superpower"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Choice Band",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Band",
+       "alias": "choice_band",
+       "description": "Raises Attack by 50%, but locks the user into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 200,
+       "spatk": 0,
+       "pdef": 52,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Earthquake and Stone Edge give Landorus-T solid neutral coverage, the former being a powerful STAB move and the latter being able to smash many of the Pokemon that are immune to Ground-type moves. U-turn is an excellent scouting move that allows you to maintain offensive pressure, and is a safe move to spam if you don't know what's going to switch in. Superpower allows Landorus-T to hit Ferrothorn and guarantees an OHKO on full health Extreme Killer Arceus after Stealth Rock damage (and any other Arceus forme that is hit for super effective damage by Superpower). Explosion is an incredibly powerful nuke, OHKOing Arceus at full health 62% of the time and OHKOing Gliscor switch-ins. However, as Landorus-T is KOed in the process, be very cautious against opposing Ghost-, Steel-, and Rock-type Pokemon. Knock Off is an excellent move that allows Landorus-T to cripple some of its common switch-ins by removing their items, but the move becomes significantly weaker after the first use.</p>\n<h4>Set Details</h4>\n<p>The EV spread maximizes Landorus-T's Attack and bulk, while at the same time ensuring that it will never be OHKOed by a +1 Extreme Killer Arceus's Life Orb-boosted Extreme Speed after it takes damage from Stealth Rock.</p>\n<h4>Usage Tips</h4>\n<p>Be extremely careful when using Choice Band Landorus-T due to the drawbacks of its attacks: look at your opponent's team before choosing your move. Two of its moves have immunities, and you want to minimize the amount of free turns you give your opponent. Don't use this set as your team's sole check to Extreme Killer Arceus, as if Landorus-T is even a little bit weakened, Extreme Killer Arceus can rip right through it, leaving you in a bad spot. Also keep a close eye on its health throughout the match if you intend to use it to take on physical attackers.</p>\n<h4>Team Options</h4>\n<p>A teammate such as Kyurem-W or Yveltal that can remove physically defensive walls is really appreciated. Darkrai is also a good option, as it can deal damage to physical walls and provide general team support with Dark Void and Taunt. A cleric is really useful, as if Landorus-T is burnt, it is essentially ruined. As this set does not carry Stealth Rock, have another Pokemon with the move that has weaknesses that differ from those of Landorus-T. Furthermore, as Landorus-T will often be locked into a move that will give your opponent free turns, it is pivotal for your team to have a good defensive backbone. Water Arceus and specially defensive Kyogre are good teammates as they can take many of the special attacks aimed at Landorus-T, while Landorus-T is immune to the Electric-type moves that give them trouble. Blissey and Xerneas are teammates that work well with this Landorus-T, as they offer cleric support should Landorus-T get burned and contribute to a specially defensive backbone. Having Xerneas as a cleric gives your team immunities to Zekrom's STAB moves.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        },
+        {
+         "gen": "xy",
+         "alias": "superpower",
+         "name": "Superpower"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 156,
+       "hp": 140,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 212
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Earthquake is Landorus-T's strongest attacking option, nailing opposing Pokemon for good damage. Stone Edge compliments Earthquake very well, hitting opposing Flying-types that are immune to Landorus-T's STAB move of choice, forming the well-known EdgeQuake combo. U-turn gives Landorus-T a fast method of both finishing off weakened foes and switching out to favorable match-ups, particularly when faced with unexpected switch-ins. The last move of choice, once again, relies upon which check you wish Landorus-T to combat. Knock Off nails Gourgeist for high damage and hinders potential switch-ins. Hidden Power Ice provides coverage against opponents that resist the EdgeQuake combo, such as Breloom, as well as coverage against Gliscor and Garchomp. Superpower hits checks Ferrothorn and Mega Gyarados a bit harder than other moves, as well as hitting common Air Balloon users such as Heatran and Excadrill. It is especially important for Mega Gyarados, as OHKOing Mega Gyarados with a Dragon Dance boost under its belt can mean the difference between a win and a loss. Explosion is an option in the fourth move slot, as it is considerably stronger than a super effective Stone Edge or neutral Earthquake, so it can get some surprise kills. It also retains momentum quite well, something all Choice Scarf users struggle with. However, using Explosion forfeits a coverage move, and using it when you need Landorus-T for later is a bad idea.</p>\n<h4>Set Details</h4>\n<p>While base 91 Speed by itself is middling, attaching a Choice Scarf to Landorus-T enables it to play the role of a fearsome revenge killer as well as a powerful cleaner. 212 EVs in Speed allow it to outpace Mega Manectric, an important target. 140 EVs in HP help Landorus-T take hits upon switching in. The rest of the EVs are placed into Attack in order to maximize Landorus-T's damage output. A Naughty nature should be used for sets that include Hidden Power Ice, and an Adamant one for any set with a different coverage move.</p>\n<h4>Usage Tips</h4>\n<p>Thanks to Intimidate, this set has a fairly easy time switching into most neutral physical attacks, and gets free switches into Electric- and Ground-type attacks, granting it the ability to strike quickly and often. Furthermore, Landorus-T's typing and access to Intimidate grant it the ability to combat some of the most common priority attacks in the game, such as Talonflame's Brave Bird, Lucario's Extreme Speed, and Scizor's Bullet Punch, allowing Landorus-T to differentiate itself from other users of Choice Scarf, which normally struggle against priority users. As with most good Choice Scarf users, Landorus-T plays an effective role as a revenge killer, but thanks to its massive Attack stat and Intimidate, which often forces switches, it is just as well-versed mid-game as it is late-game. The ability to predict switch-ins is vital, as the correct selection of Stone Edge or a another coverage move could quickly spell the end of a check, opening a clean-up opportunity with Earthquake later in the match. A fast U-turn should never be neglected either; backed with Landorus-T's massive Attack, U-turn can quickly knock out weakened foes and allow for a quick switch-in, generating offensive momentum. However, when U-Turn knocks out a foe, it gives the opponent switch advantage. While it might be tempting to abuse a fast and powerful Earthquake or a strong Stone Edge, keep in mind that Choice Scarf locks Landorus-T into one move; Earthquake's predictability and Stone Edge's accuracy issues can be exploited by smart players, so using this set to the best of its ability requires smart decision-making and paying careful attention to the opposing team.</p>\n<h4>Team Options</h4>\n<p>As this set lacks any form of recovery, the removal of Stealth Rock is a great asset for Landorus-T, allowing it to switch in multiple times without the fear of repeated entry hazard damage. Rapid Spin users such as Starmie and Mega Blastoise pair well with Landorus-T, resisting Water- and Ice-type attacks while drawing in Electric- and Ground-type ones. You can opt to use a Defog user, such as Scizor, Latias, or Latios, but keep in mind that the Choice Scarf set also appreciates entry hazards of its own due to the switches that this set can cause. Wish support from Sylveon or Chansey is also welcome, giving opportunities to switch in as the match progresses.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "explosion",
+         "name": "Explosion"
+        },
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        },
+        {
+         "gen": "xy",
+         "alias": "superpower",
+         "name": "Superpower"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 44,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 212
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Earthquake is the mandatory STAB move that deals damage to both opponents. However, it hurts Landorus-T's partner as well, so care must be taken to mitigate this. U-turn is great for coming in to Intimidate the opponents then getting out of the battle quickly. Stone Edge can be used to deal more damage to a single target, whereas Rock Slide is a spread move with a nice flinch rate but the side effect of being stopped by Wide Guard. Superpower is a coverage move that allows Landorus-T to hit major threats such as Mega Kangaskhan and Ferrothorn. Explosion should be used in a pinch to sacrifice Landorus-T, and lets it deal major damage to all opponents at the start of the turn, and also provides momentum. Knock Off cripples the opponent by removing their item and also hits Ghost-types super effectively.</p>\n<h4>Set Details</h4>\n<p>Choice Scarf allows Landorus-T to outspeed and OHKO faster Pokemon, rather than be threatened by them. The Speed EVs allow Landorus-T to outspeed Shaymin-S, Gengar, and Timid Manectric. Intimidate cripples the opponents and allows Landorus-T and its partner to survive more physical hits. An Adamant nature is used for maximum power. A Jolly nature should not be used, as the Speed increase does not allow Landorus-T to outspeed anything significant.</p>\n<h4>Usage Tips</h4>\n<p>Most of the time, Landorus-T will be using a hit-and-run strategy with U-turn and to Intimidate the opponents multiple times, reducing their Attack stats to disrupt the opponent's strategy. Landorus-T is a good lead unless the opponent has a Bisharp, as U-turn allows Landorus-T to Intimidate the opponents, deal chip damage, and then switch into the actual best lead all while moving before anything without priority. It is also smart to U-turn out if you predict that the opponent will switch in an Intimidate user, as opposing Intimidate hampers Landorus-T greatly. Landorus-T can function as a powerful late-game cleaner, but many Pokemon in Doubles are immune to Earthquake so be wary of using it during early-game. Landorus-T acts as a great revenge killer to faster threats such as Charizard, Kangaskhan, Terrakion, Latios, Gengar, Shaymin-S, and Thundurus. When you are in a pinch, spamming Rock Slide for that lucky flinch is a viable strategy. Use Explosion to lure and deal a lot of damage to Landorus-T's checks such as Rotom-W and Keldeo, but do not use Explosion early-game; wait until Landorus-T can't do much with its other attacks.</p>\n<h4>Team Options</h4>\n<p>Flying-types and Levitate users such as Rotom-W, Shaymin-S, and Mega Pinsir make for good teammates as they are immune to Landorus-T's Earthquake. Ghost-type partners are also useful, as they are immune to Explosion. Aegislash receives a special mention as it has great type synergy with Landorus-T, resisting Ice-type attacks for it, while Landorus-T handles the Ground-type attacks aimed at Aegislash in return. Additionally, Aegislash is one of the two viable Pokemon with access to Wide Guard to protect itself from Earthquake and Landorus-T from Icy Wind, with the other being Hitmontop. Hitmontop also has Intimidate to completely nullify the opponent's physical attackers. However, having two Intimidate users makes you weaker to Defiant users. Partners with Feint pair well with Landorus-T because they stop Wide Guard users from blocking Landorus-T's spread attacks. Mega Pinsir is a good example because it has the advantage of being immune to Landorus-T's Earthquake. Bulky Water-types such as Azumarill, Suicune, and Rotom-W cover both of Landorus-T's weaknesses. Azumarill can easily KO Intimidate users, such as other Landorus-T, Hitmontop, and Scrafty, which check Landorus-T. Suicune can take many hits while supporting Landorus-T with Tailwind, Icy Wind, or Snarl. Rotom-W deserves a special mention, as it resists Landorus-T's weaknesses and is also immune to Landorus-T's Earthquake. Many Pokemon appreciate Landorus-T's removal of Steel-types: Fairy-types such as Mega Gardevoir and Sylveon, Steel-types such as Scizor and Mega Mawile, Grass-types such as Amoonguss and Venusaur, and Dragon-types such as Kyurem-B and Salamence all like having Landorus-T as a partner.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_polish",
+         "name": "Rock Polish"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Double Dance",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Earth Plate",
+       "alias": "earth_plate",
+       "description": "Raises power of Ground-type moves by 20%. Pokemon with Multitype become Ground-type."
+      },
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 48,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 208
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>With access to two great boosting moves in Rock Polish and Swords Dance, Landorus-T can run an effective set that utilizes both moves, allowing it to deal with a variety of opposing playstyles. Rock Polish doubles Landorus-T's Speed, enabling it to outpace practically every Pokemon in the tier. This is useful against fast offensive teams that could normally outspeed Landorus-T and KO it. Swords Dance, on the other hand, doubles its already massive Attack, making it an effective wallbreaker that can deal with even the bulkiest of checks. Earthquake and Stone Edge provide excellent coverage by themselves, allowing neutral hits on most Pokemon outside of Breloom and Chesnaught. A boosted STAB Earthquake will put a dent in nearly anything, however, and most things that resist or are immune to Earthquake are dispatched handily by Stone Edge. Knock Off can be used instead of Swords Dance, as sometimes, Landorus-T doesn't need a Swords Dance boost to sweep the opposing team, and Knock Off covers key threats such as Gourgeist, Latias, and Latios, that aren't OHKOed by the EdgeQuake combination.</p>\n<h4>Set Details</h4>\n<p>The primary role of this set is to sweep, so it's mandatory to switch in on something that ensures a boosting opportunity. The choice of which boosting move to use entirely depends on the structure of the opposing team. Use Rock Polish if the opposing team is more offensive, preying on their lack of investment in Defense and upending their normal Speed advantage. Use Swords Dance if the opposing team is more defensive or stall-based, punching massive holes in bulky threats that would normally take Landorus-T's attacks with ease. While scoring a Rock Polish and a Swords Dance at the same time is tempting, Landorus-T often cannot afford the time it takes to set up both. Focusing on one move or the other is often more beneficial than risking taking a massive hit from a check or being phazed out. This set is built for late-game use, gaining an advantage as the last Pokemon standing where it cannot be phazed out by walls like Skarmory and Hippowdon.</p>\n<h4>Team Options</h4>\n<p>Entry hazard support could mean the difference between an OHKO and a 2HKO for this set, so teammates that can set them up reliably are a plus; Ferrothorn and Skarmory are great choices for this role. While double dance Landorus-T seems like a juggernaut, there are certain threats that can switch in and hinder its sweep even after a Rock Polish or Swords Dance boost. Gliscor, Skarmory, Chesnaught, Hippowdon and opposing Landorus and Landorus-T can come in fairly easily and either deal heavy damage or force Landorus-T out. Greninja makes an excellent offensive partner, utilizing its Protean ability to defeat almost all of these physical threats with ease due to their low Special Defense and weaknesses to Water- and Ice-type attacks. Offensive lures are also great pairings with this set, creating offensive synergy while also dealing with specific checks that hinder a sweep. Ice Punch Lucario and Technician Breloom are good examples of lures that draw in particular threats and dispatch of them before they can react.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Offensive Earth Plate",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Earth Plate",
+       "alias": "earth_plate",
+       "description": "Raises power of Ground-type moves by 20%. Pokemon with Multitype become Ground-type."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Stealth Rock is a standard support move for the team. Earthquake hits incredibly hard with full Attack investment and Earth Plate when compared to more defensive Landorus-T variants. Stone Edge is there to hit Pokemon that Earthquake cannot. Even given the offensive nature of this set, there are some Pokemon that it cannot break through, and that is where Toxic comes in. Toxic puts pressure on a lot of them, as the move rapidly reduces its target's health. U-turn is also a great option that allows Landorus-T to keep momentum on offensive teams, which this set should be used on.</p>\n<h4>Set Details</h4>\n<p>The EV spread is straightforward: full investment in Attack and Speed allows Landorus-T to hit hard and fast. Earth Plate is preferred on this set to boost the power of Earthquake and avoid the nasty recoil of Life Orb. An Adamant nature is preferred since it gives Landorus-T just a bit more power, but a Jolly nature can also be used as it guarantees that Landorus-T will outspeed all unboosted base 90s, such as Kyogre, Zekrom, Dialga, and Ho-Oh. Most of these threats run an Adamant or Modest nature, but if they do run a Speed-boosting nature, they will outspeed Adamant Landorus-T.</p>\n<h4>Usage Tips</h4>\n<p>This Landorus-T set should be played more offensively than the others, so don't be afraid to attack or scout with U-turn if the situation allows for it. This set is capable of putting pressure on Mega Scizor as a Defog user, as it does approximately 50% to max HP variants. Know its limits though, as it will fail to break through Defog users such as Giratina, Giratina-O, and support Arceus formes without using Toxic. Even then, be aware that they can put pressure on Landorus-T before it can do the same to them. This Landorus-T hates burns more than anything, so if it is faced with a Pokemon that it cannot outspeed and OHKO, and is likely to burn it, switch out. It is also important to keep in mind that this variant of Landorus-T does not have nearly the same amount of bulk as the other sets, so be wary of mindlessly switching it into physical attackers.</p>\n<h4>Team Options</h4>\n<p>Given the offensive nature of this set, it is best suited on offensive oriented teams. Since this set has a lot of trouble with physical walls, Pokemon that can take them out are recommended. Mega Gengar and, albeit more niche, Gothitelle can come in on support Arceus formes and beat them, making Landorus-T's job significantly easier. Furthermore, Palkia and Xerneas make great partners as they can beat both Giratina formes and physical walls in general. Since this Landorus-T hates status, a one-time status absorber is nice to have as well, examples being Xerneas, Ho-Oh, and even some Sleep Talk users. A Pokemon such as Sylveon, Bronzong, Blissey, Aegislash, or Arceus that can switch into special attacks aimed at Landorus-T is good to have as well.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Offensive Pivot",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Rocky Helmet",
+       "alias": "rocky_helmet",
+       "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 4
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Landorus-T has access to Stealth Rock, enabling it to set up a key entry hazard for teams in need of support throughout the entire match. Earthquake is Landorus-T's primary STAB option and hits opposing Pokemon hard, even without investment. U-turn gives Landorus-T the ability to work as an effective pivot, scouting potential switch-ins and creating momentum for its teammates. The last move directly correlates to specific checks that need disposing of. Stone Edge allows Landorus-T to be a decent Talonflame and Mega Pinsir check, while hitting Defog users like Zapdos and Mandibuzz hard and threatening common switch-ins such as Charizard and Kyurem-B. Rock Slide is an effective alternative to Stone Edge if you want the improved accuracy, but hits for noticeably less damage than Stone Edge against certain threats. For example, Rock Slide cannot 2HKO physically defensive Togekiss, while Stone Edge comfortably 2HKOes without Stealth Rock. Knock Off is an excellent support move, removing items such as Skarmory's Leftovers, Chansey's Eviolite, and Choice Scarf from some opposing checks, while potentially 2HKOing other would-be checks such as Trevenant, Bronzong, and Gourgeist-S. Hidden Power Ice may seem like an odd choice given Landorus-T's massive Attack stat, but its good base 105 Special Attack allows Hidden Power Ice to hit Gliscor, opposing Landorus and Landorus-T, Garchomp, and Dragonite hard. Stone Edge isn't the only Rock-type move Landorus-T can put to good use. Smack Down pressures common Defog users such as Zapdos and Skarmory by making them vulnerable to Earthquake. It also pressures common switch-ins such as Rotom-W. Rock Slide with 64 Attack EVs can also be used, as it retains the OHKO on Mega Pinsir and is generally more powerful than Smack Down. Both moves are more accurate than Stone Edge, but much less powerful.</p>\n<h4>Set Details</h4>\n<p>When acting as an offensive pivot, Landorus-T needs all the bulk it can receive from EV investment while retaining the capacity to combat certain threats in the metagame. Full investment in HP and Defense with an Impish nature works in conjunction with Intimidate to ensure that Landorus-T has enough bulk to switch into strong physical attackers. 4 EVs in Speed allow Landorus-T to outrun Jolly Azumarill. 96 Speed EVs are an option for outpacing Mega Tyranitar. If one opts for Hidden Power Ice, a Lax nature can be used, allowing Landorus-T to retain physical bulk and Special Attack in exchange for a small Special Defense drop. Leftovers gives Landorus-T its only form of health recovery, something it lacks outside of Wish support. Rocky Helmet is a viable alternative to Leftovers, tacking on extra damage to physical attackers, especially Talonflame, and punishing U-Turn users. It can also bluff a Choice Scarf with it.</p>\n<h4>Usage Tips</h4>\n<p>As the title suggests, this set gives Landorus-T the ability to be one of the best offensive pivots in the metagame, utilizing its key immunities and resistances in conjunction with Intimidate to switch in on opposing Pokemon and force the opponent to switch to a Landorus-T check, as they risk taking heavy damage or giving Landorus-T an easy opportunity to set up Stealth Rock. As a result of this, Landorus-T creates a domino effect, enabling teammates to switch in right after and eliminate opposing Pokemon that Landorus-T can't handle by itself. U-turn plays a vital role in this, dealing additional damage while giving teammates a free opportunity to switch in with potentially little consequence. The offensive pivot set can be used in all stages of battle effectively, but it finds its greatest use in the early and middle portions of the game, where it can find opportunities to set up Stealth Rock as often as possible and create momentum for its teammates. Once Stealth Rock is up, Landorus-T should focus on utilizing its powerful STAB Earthquake to punch holes in opposing teams or U-turning to scout switch-ins and provide setup opportunities for teammates. Keep an eye out for Landorus-T checks as the game progresses, using Landorus-T's coverage move of choice when an expected check or counter switches in. Removing checks early on could mean all the difference for Landorus-T later on in the match.</p>\n<h4>Team Options</h4>\n<p>Rotom-W is the perfect partner in crime for this set, resisting both of Landorus-T's weaknesses and using Volt Switch to create an effective VoltTurn core. Rotom-W is also equipped to dispatch most of Landorus-T's checks as well, including opposing Ground / Flying Pokemon and physical walls such as Skarmory and Hippowdon. Similarly, bulky Water-type Pokemon such as Vaporeon and Mega Blastoise can switch in on resisted attacks and provide support for Landorus-T and the rest of the team. Wish users such as Vaporeon, Sylveon, and Chansey are very helpful for Landorus-T, granting it another form of recovery as the match progresses. This set forces many switches throughout the duration of a match and chips away at opposing Pokemon with U-turn, so entry hazards support is always a boon. While Landorus-T can set up Stealth Rock on its own, Spikes support from Pokemon such as Ferrothorn and Skarmory can greatly help out with racking up damage throughout the match.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        },
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "intimidate",
+       "name": "Intimidate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Physical Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Yache Berry",
+       "alias": "yache_berry",
+       "description": "Reduces damage from a super effective Ice-type attack by 50%. Consumed after use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 236,
+       "hp": 184,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 88
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Earthquake is a strong STAB spread move that can deal major damage to both opponents on the field. Stone Edge is a concentrated Rock-type coverage move that can OHKO Thundurus that do not invest in bulk. Rock Slide is a good spread move that has EdgeQuake coverage with Earthquake and can also achieve a timely flinch on the opponents. U-turn allows Landorus-T to escape from the field if there is a bad matchup. Knock Off is a good Dark-type coverage move and removes the opponent's item. Protect is useful to scout moves, stall out field conditions, and survive a turn when it is predicted that the opponents will attack Landorus-T.</p>\n<h4>Set Details</h4>\n<p>Leftovers grants Landorus-T greater longevity so that it can Intimidate opponents more often over the course of the match. Yache Berry is used to take down Electric-types such as Mega Manectric that rely on Hidden Power Ice to attack Ground-types. Sitrus Berry is a last option to allow Landorus-T to survive more hits but is generally outclassed by Leftovers in this role. Intimidate helps neutralize physical attackers on the opponent's field, give your teammates greater leeway, and reduce damage taken.</p>\n<p>88 Speed EVs allow Landorus-T to outspeed and OHKO 252 Speed Bisharp. 184 HP EVs allow Landorus-T to survive Adamant +1 Life Orb Bisharp's Sucker Punch, Modest Mega Charizard Y's Heat Wave, neutral natured Thundurus's Hidden Power Ice, -1 Mega Kanghaskhan's Fake Out and Double Edge, and Adamant -1 Conkeldurr's Ice Punch and Mach Punch. The remaining EVs are put into Attack to deal as much damage as possible. Adamant Landorus-T can OHKO Bisharp and Thundurus with the appropriate move, while Jolly Landorus-T cannot.</p>\n<h4>Usage Tips</h4>\n<p>As Landorus-T functions as a great check to physical attackers thanks to its ability Intimidate, take all opportunities to switch in on physically offensive opponents. However, during early-game, opposing Intimidate users will be switching in to check Landorus-T's attacks as well, so usually U-turn should be used until these threats have been eliminated. Landorus-T can function well both defensively and offensively thanks to its high Attack, so it can be used to put a lot of offensive pressure on opponents with powerful spread Earthquakes and Rock Slides. Against a threatening opponent with Water- or Ice-type coverage, Landorus-T should switch out into a teammate with a more favorable matchup so that Landorus-T can be preserved.</p>\n<h4>Team Options</h4>\n<p>Flying-types or Levitate users such as Togekiss, Cresselia, Rotom-W, Shaymin-S, and Thundurus should be used to avoid the dangerous Earthquakes that Landorus-T uses. Cresselia deserves a special mention for having a great support movepool, with Helping Hand to support Landorus-T, Trick Room to counter opponents' Trick Room, and Icy Wind for speed control. Jirachi can use Follow Me to deter Water- and Ice-type moves from striking Landorus-T, though it is weak to Landorus-T's Earthquake. Bulky Water-types such as Azumarill, Suicune, and Rotom-W cover Landorus-T's weaknesses. Azumarill is great at KOing Intimidate users such as other Landorus-T, Hitmontop, and Scrafty that check Landorus-T. Suicune can take many hits while supporting Landorus-T with Tailwind, Icy Wind, or Snarl. Rotom-W deserves a special mention, as it resists Landorus-T's weaknesses and is also immune to Landorus-T's Earthquake. Many Pokemon appreciate Landorus-T's removal of Steel-types, such as Fairy-types such as Mega Gardevoir and Sylveon, Steel-types such as Scizor and Mega Mawile, Grass-types such as Amoonguss and Venusaur, and Dragon-types such as Kyurem-B and Salamence.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        },
+        {
+         "gen": "xy",
+         "alias": "u-turn",
+         "name": "U-turn"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Physically Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 4,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Earthquake is a standard STAB move for Landorus-T, and it hits relatively hard even without investment due to Landorus-T's high Attack stat. Stealth Rock is a mandatory support move for all teams and Landorus-T is one of the better users of the move, finding many chances to set the hazard up due to its physical bulk. Stone Edge is there to hit what Earthquake cannot, so that Pokemon with Levitate or the Flying typing don't completely wall this set. However, if Stone Edge isn't doing super effective damage, it won't be hitting very hard due to the lack of STAB and Attack investment. Toxic is an excellent move for Landorus-T, allowing it to put pressure on Pokemon that otherwise like to switch in on it, such as Hippowdon, Groudon, Lugia, support Arceus formes, and opposing Landorus-T. Toxic also prevents support Arceus formes from being able to stay in and constantly Defog away your entry hazards, and in general prevents walls from staying in and recovering their health. U-turn is another great option to consider as the move provides your team with momentum and is useful considering all the switches Landorus-T tends to cause, meaning that it can U-turn out into an appropriate counter or check.</p>\n<h4>Set Details</h4>\n<p>The EV spread is pretty straightforward, with maxed out HP and Defense so that Landorus-T can do what it does best, which is check many physical attackers. As Landorus-T has no other form of recovery, Leftovers is a must if you are using it as a defensive pivot. The remaining 4 EVs can go into Attack to make its offensive moves hit a bit harder.</p>\n<h4>Usage Tips</h4>\n<p>The best way to capitalize on this set's bulk is to bring Landorus-T in on physical attackers or walls that can't do much to it, allowing it to set up Stealth Rock, attack, or U-turn out. Landorus-T is especially good for teams that have trouble with prominent physical attackers, but be wary of those that are capable of running mixed sets. Some examples of mixed attackers include Swords Dance Ground Arceus and Mega Mewtwo X carrying Ice Beam, and Life Orb Zekrom, all of which do a lot to if not flat out OHKO Landorus-T. Despite being physically defensive, Landorus-T cannot beat a full health Extreme Killer Arceus, as Landorus-T cannot phaze it out. Furthermore, due to its good bulk, Extreme Killer can set up again. It is recommended to have another Pokemon present on your team that can deal with Extreme Killer Arceus, such as support Arceus with Will-O-Wisp, physically defensive Yveltal or Ho-Oh, or Lugia (which can also tank special attacks).</p>\n<h4>Team Options</h4>\n<p>Since Landorus-T won't be tanking many special attacks, a Pokemon such as Blissey or Grass Arceus that can switch into special attackers is highly recommended. A cleric is also very useful as Landorus-T doesn't have any way to heal itself. Having a Fairy-type cleric such as Sylveon or Xerneas gives your team immunities to Zekrom's STAB moves. Specially defensive Kyogre makes a great partner, as it can tank most special attacks and status ailments aimed at Landorus-T, and can phaze as well. Water Arceus resists Ice- and Water-type attacks and has good type synergy with Landorus-T in terms of Electric-type moves. Palkia is also a good partner, as it can take Water-type attacks aimed at Landorus-T and can beat the physical walls that Landorus-T has trouble with.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earthquake",
+         "name": "Earthquake"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_polish",
+         "name": "Rock Polish"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "explosion",
+         "name": "Explosion"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_ice",
+         "name": "Hidden Power Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "swords_dance",
+         "name": "Swords Dance"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Setup Sweeper",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 140,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 116
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Earthquake is the standard STAB move and Stone Edge allows Landorus-T to hit Flying-types; in general, the two moves have great synergy together. Rock Polish is what makes this set work, boosting Landorus-T's Speed and allowing it to make use of its great Attack stat. The last move can be a bit of a toss up: Swords Dance is an excellent move that boosts Landorus-T's Attack stat even further, but may be hard to set up alongside Rock Polish. Explosion is an another amazing option, doing up to 90% to max HP Arceus formes. Furthermore, Explosion prevents a potential Rapid Spin or Defog due to there being no target for the move to hit. Hidden Power Ice should only be used if you want this set to significantly damage Gliscor and opposing Landorus-T, which otherwise wall this set.</p>\n<h4>Set Details</h4>\n<p>Landorus-T's Attack stat is maxed out so that it can do as much damage as it can, while the Speed EVs allow it to outspeed all base 100 Speed Choice Scarf users and below after a Rock Polish boost. The rest of the EVs are placed into HP to give Landorus-T some additional bulk. If you are using Hidden Power Ice as the final move, a Naughty nature can be used so that the move's power isn't decreased. Life Orb is the prime choice for this set as it provides a big boost to Landorus-T's attacking moves, giving it a large chance to OHKO common Uber Pokemon if Stealth Rock is up. Another item that can be considered on this set is Lum Berry. Lum Berry grants Landorus-T more setup opportunities against Pokemon that would otherwise status it. One final item that can be considered if Swords Dance is used is Leftovers. While seemingly odd, Leftovers allow even this variant of Landorus-T to act as a semi-defensive pivot and set up against opposing Landorus-T and walls lacking Toxic or Will-O-Wisp. It is important to note that the power drop that comes with using Leftovers or Lum Berry is quite significant, and Landorus-T will lose a number of OHKOs.</p>\n<h4>Usage Tips</h4>\n<p>This set is generally highly outclassed by Groudon, and unless you have a very specific reason for using Landorus-T (i.e., you need a Ground immunity on your team, or for some reason Groudon's Drought interferes with your team structure) always consider Groudon for this role before Landorus-T. Groudon has better overall bulk to take on priority and a slightly higher Attack stat. When using this set, it is not necessary to set up with both Rock Polish and Swords Dance, and you should take a close look at your opponent's team before deciding on which boost to attain. Set up Rock Polish against hyper offense teams, and use Swords Dance against bulky/stall teams. However, Landorus-T will need both boosts to get past balanced teams. On another note, don't set up if an opponent's Pokemon can force out Landorus-T without taking much damage in the process. Notable examples include Giratina-O, Gliscor, and opposing Landorus-T (unless Landorus-T carries Hidden Power Ice, in which case Gliscor an Landorus-T are significantly easier to deal with). Naturally, don't try to set up in front of a Pokemon that can OHKO Landorus-T either. Your best bet is to set up on a Pokemon that can't hurt Landorus-T much or on a predicted switch. This set is best used as a late-game sweeper, when all its checks and counters are gone. When you attempt to sweep with Landorus-T, ensure that Stealth Rock is up, as it turns many 2HKOs into OHKOs.</p>\n<h4>Team Options</h4>\n<p>Having a teammate that can remove physically defensive Pokemon is a must for Landorus-T, as it cannot sweep until they have been removed. Palkia, Mewtwo, and Kyurem-W are all excellent options that can decimate any Pokemon that walls Landorus-T. Mega Gengar can be used to trap support Arceus formes, and in general, trap any Pokemon that might stop Landorus-T's sweep. Dual screens support from the likes of Klefki or Deoxys is useful, as it allows Landorus-T to set up much easier. Wobbuffet can also help Landorus-T set up through the use of Encore and Safeguard. If you choose to run Hidden Power Ice on this set, Zekrom is an excellent partner as Landorus-T can lure common Ground-types in and attempt to knock them out, paving the way for Zekrom. Lastly, since this Landorus-T doesn't carry Stealth Rock, have another Pokemon present on your team that does, possible examples being Deoxys-S and Deoxys-A on hyper offense teams.</p>\n"
+    }
+   ],
+   "alias": "landorus-therian",
+   "name": "Landorus-Therian",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "landorus-therian"
+    },
+    {
+     "gen": "xy",
+     "alias": "landorus-therian"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "block",
+     "name": "Block",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "bulk_up",
+     "name": "Bulk Up",
+     "description": "Boosts Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "calm_mind",
+     "name": "Calm Mind",
+     "description": "Boosts Special Attack and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "explosion",
+     "name": "Explosion",
+     "description": "Faints the user.",
+     "pp": 5,
+     "power": 250
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "extrasensory",
+     "name": "Extrasensory",
+     "description": "10% chance to flinch.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 30,
+     "alias": "fissure",
+     "name": "Fissure",
+     "description": "Will OHKO the target.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "fly",
+     "name": "Fly",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "gravity",
+     "name": "Gravity",
+     "description": "For 5 turns, prevents flying or jumping; also disables Ground immunities.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 90,
+     "alias": "hammer_arm",
+     "name": "Hammer Arm",
+     "description": "Lowers user's Speed by 1 stage.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "imprison",
+     "name": "Imprison",
+     "description": "No foe can use any of the user's moves.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 75,
+     "alias": "iron_tail",
+     "name": "Iron Tail",
+     "description": "30% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "knock_off",
+     "name": "Knock Off",
+     "description": "Power is boosted 1.5x if user is holding a removable item. Removes the target's item.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 95,
+     "alias": "mud_shot",
+     "name": "Mud Shot",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "punishment",
+     "name": "Punishment",
+     "description": "Does more damage to foes with stat boosts.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "rock_polish",
+     "name": "Rock Polish",
+     "description": "Boosts Speed by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_throw",
+     "name": "Rock Throw",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "role_play",
+     "name": "Role Play",
+     "description": "Copies the foe's ability and overwrites the user's ability.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "sandstorm",
+     "name": "Sandstorm",
+     "description": "Summons a sandstorm for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge_bomb",
+     "name": "Sludge Bomb",
+     "description": "30% chance to poison.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge_wave",
+     "name": "Sludge Wave",
+     "description": "10% chance to poison the target.",
+     "pp": 10,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "smack_down",
+     "name": "Smack Down",
+     "description": "Can hit if target is using Fly, Bounce, or Sky Drop. Ends target's airborne moves and its benefits from Flying type or Levitate.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "stealth_rock",
+     "name": "Stealth Rock",
+     "description": "Damages foe's switch-ins.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "superpower",
+     "name": "Superpower",
+     "description": "Lowers the user's Attack and Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "u-turn",
+     "name": "U-turn",
+     "description": "Attacks, then switches.",
+     "pp": 20,
+     "power": 70
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "landorus",
+     "name": "Landorus"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "landorus-therian",
+       "name": "Landorus-Therian"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 145,
+     "height": 1.3,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Intimidate",
+       "alias": "intimidate",
+       "description": "Lowers the foe's Attack by 1 stage. Decreases wild encounter rate."
+      }
+     ],
+     "alias": "landorus-therian",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "flying",
+       "name": "Flying"
+      },
+      {
+       "gen": "xy",
+       "alias": "ground",
+       "name": "Ground"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 80,
+     "hp": 89,
+     "spatk": 105,
+     "suffix": "",
+     "pdef": 90,
+     "weight": 68.0,
+     "spe": 91,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

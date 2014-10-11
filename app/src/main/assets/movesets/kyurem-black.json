@@ -1,0 +1,2006 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fusion_bolt",
+         "name": "Fusion Bolt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "teravolt",
+       "name": "Teravolt"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Choice Band",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Band",
+       "alias": "choice_band",
+       "description": "Raises Attack by 50%, but locks the user into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 24,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 232
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Dragon Claw is the safer option over Outrage, as it lets Kyurem-B pick its target and will hit very hard when coming off of Kyurem-B's fully invested base 170 Attack. It hits hard enough to 2HKO most Intimidate users, even at -1. When it is safe to use it, Outrage has the raw power to smash through even some of the more bulky Pokemon that populate the metagame, such as Rotom-W and Mega Venusaur. Fusion Bolt is a strong choice for coverage and lets Kyurem-B dent Pokemon that resist its STAB attacks, such as Heatran, which it can 2HKO. There are also some Pokemon like Politoed and Mega Charizard Y that Outrage can easily OHKO. Despite the lack of Special Attack investment, Ice Beam is really useful just for OHKOing Landorus-T. If the Ice-type coverage is not needed, Rock Slide is an excellent choice for its ability to deal good spread damage.</p>\n<h4>Set Details</h4>\n<p>The Choice Band coupled with the EV spread and nature ensures that Kyurem-B will be hitting as hard as possible and helps it overcome the possible effect of Intimidate, to an extent. The Speed ensures that Kyurem-B will outspeed Adamant Landorus-T as well as neutral natured Mega Garchomp. The final few EVs are put into HP to provide a little bit of extra bulk.</p>\n<h4>Usage Tips</h4>\n<p>You shouldn't be too hasty to use Outrage, as you cannot choose the target it will hit, so it causes unnecessary coinflip scenarios. Outrage should only be used when you need the extra power or you can afford to hit either target. Intimidate and burns are much more threatening to this set, so it is important to attempt to clear out Pokemon that carry moves like Will-O-Wisp before being too reckless. Kyurem-B needs to avoid Fairy-type Pokemon as it is difficult to take them down, especially when locked into a Dragon-type move.</p>\n<h4>Team Options</h4>\n<p>Togekiss can support Kyurem-B with moves such as Follow Me to redirect attacks as well as Thunder Wave and Tailwind to help alleviate Kyurem-B's middling Speed. Jirachi is similar to Togekiss except its typing helps it handle oncoming Fairy-type attacks better, but it is not immune to Dragon-type attacks. Choice Scarf Gardevoir can clear out common Intimidate users such as Hitmontop as well as frailer Dragon-types like Latios and Garchomp. Partners like Mega Charizard Y that can handle Steel-type Pokemon that Kyurem-B struggles with are beneficial as it helps pave the way for Kyurem-B \nas it attempts to punch holes. Scizor and Aegislash are powerful options as both are Pokemon that can handle the Fairy-types that threaten Kyurem-B; they also deal with Terrakion well.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fusion_bolt",
+         "name": "Fusion Bolt"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        },
+        {
+         "gen": "xy",
+         "alias": "iron_head",
+         "name": "Iron Head"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 32,
+       "pdef": 0,
+       "spe": 224
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Outrage is pretty much the only move this Kyurem-B will use in many battles. Its sheer power is often needed to take out threats. Dragon Claw is a safer option in the early- and mid-game, especially when Outrage can't be risked. Fusion Bolt hits certain Pokemon like Keldeo and Mega Gyarados for good damage without resorting to Outrage. Ice Beam is filler in the last slot to OHKO Landorus-T. Iron Head is an option to 2HKO Clefable, which is otherwise a perfect counter to this set.</p>\n<h4>Set Details</h4>\n<p>The EVs maximize Kyurem-B's physical attacking capabilities and allow it to outrun Adamant Choice Scarf Landorus-T with the rest dumped into Special Attack to pump up Ice Beam a little bit. If Iron Head is chosen, shift those EVs into HP for a bit of bulk. A Naughty nature is best for this set to deal out actual large damage. Naive is a viable option to outrun Jolly Choice Scarf Landorus-T and Excadrill, but most importantly, +1 Adamant Mega Charizard X. Their Defense-reducing alternatives (Lonely and Hasty, respectively) can be run if a better switch-in to common Electric- and Water-types is desired, but tanking priority attacks is of more concern to this set due to its heightened Speed.</p>\n<h4>Usage Tips</h4>\n<p>This Kyurem-B differs drastically from others in that it isn't really so much of a wallbreaker, but a revenge killer with some surprise factor to it that lets it smack a lot of faster Pokemon that try to revenge kill it with Outrage. Outrage is pretty much the only move that this set will use in most cases; the power is just too necessary to secure kills. Be wary of using it around Fairy-types, naturally, and try and hide the fact that it's a Choice Scarf variant, as this can allow for numerous surprise KOs. One way to hide Kyurem-B's Choice Scarf is to use it to revenge kill something naturally slower than it. This way, the opponent might send out a Pokemon to revenge kill Kyurem-B that winds up getting outsped. The other moves on the set are generally rather unimpressive as far as power is concerned, so they should only be used in situations where you are sure that they cannot be taken advantage of.</p>\n<h4>Team Options</h4>\n<p>As far as teammates go, taking care of Fairy-types, most notably Clefable and Azumarill, is a must, or the Outrage spam this Kyurem-B pursues will end in disaster. Steel-types, such as Bisharp and Scizor (especially bulky Swords Dance Mega variants), are most proficient at this role. Entry hazards and powerful attackers, such as Choice Band Azumarill and Mega Pinsir, can also aid in wearing them down to the point where they are not longer threats. Opposing bulky Steel-types, such as Skarmory, Ferrothorn, and Mega Scizor, can also prove debilitating. Attackers like Keldeo and Latios can keep pressure on them. Keeping opposing entry hazards off the field is also a must; Excadrill and Latios are your best bets for this role.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        },
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        },
+        {
+         "gen": "xy",
+         "alias": "fusion_bolt",
+         "name": "Fusion Bolt"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "teravolt",
+       "name": "Teravolt"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Mixed Offense",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 0.9,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Expert Belt",
+       "alias": "expert_belt",
+       "description": "Super effective attacks are 20% stronger."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 240,
+       "hp": 0,
+       "spatk": 44,
+       "pdef": 0,
+       "spe": 224
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Dragon Claw is Kyurem-B's main physical STAB move. It has the power to take down almost every Dragon-type Pokemon in the metagame in a single hit. Outrage can also be used in this slot instead, and has the potential to be very effective thanks to the increase in power. However, Outrage is unreliable because Kyurem-B cannot chose its target, which is a significant drawback. In addition to this, Kyurem-B will also be locked into Outrage, and unable to switch moves. Ice Beam is a great secondary STAB attack which effectively handles Landorus-T as well as the odd Grass-type Pokemon such as Mega Venusaur. Fusion Bolt is a powerful coverage move that can net OHKOs on Pokemon such as Politoed and Mega Charizard Y. It also provides good damage against Pokemon that resist Ice- and Dragon-type moves. Earth Power is a solid choice to hit Rotom formes and Heatran. Protect is important as it helps Kyurem-B avoid taking damage when possible. It also helps scout out surprise sets and dish out some damage with Kyurem-B's partner as it uses Protect.</p>\n<h4>Set Details</h4>\n<p>The Speed investment provided allows Kyurem-B to outspeed maximum Speed Adamant Landorus-T, which it can subsequently OHKO with Ice Beam. The investment provided gives Kyurem-B the strength to OHKO 252 HP Heatran with Earth Power and provides a little bit more of a kick for any other special attacks it may be using. Life Orb is generally the more useful item, but use of an Expert Belt can bluff other items and keeps it free from recoil damage. A Lonely nature is best because it will help Kyurem-B wall typically special attacking Electric-, Water-, and Grass-types even more effectively.</p>\n<h4>Usage Tips</h4>\n<p>The use of speed control in the form of moves such as Icy Wind or Thunder Wave is greatly appreciated  it helps make up for Kyurem-B's just average Speed stat. Kyurem-B should be used to switch into resisted hits to put it into a situation where it can apply a lot of pressure to the opponent's team and force further switches. Thanks to its great power and coverage, Kyurem-B can be used to plow through more defensively orientated teams as well as some faster, frailer teams.</p>\n<h4>Team Options</h4>\n<p>Choice Scarf Gardevoir partners well with Kyurem-B, as it has the ability to take down common Intimidate users as well as Dragon-types such as Garchomp and Latios with Moonblast. Quick Guard support helps check Scizor for Kyurem-B; good users include Hitmontop and Terrakion. Tailwind support from Togekiss is beneficial, as it somewhat mitigates Kyurem-B's Speed issues. Togekiss can also use Follow Me to redirect oncoming attacks, particularly Dragon-type attacks, aimed at Kyurem-B. Pokemon like Scizor that can handle opposing Fairy-types are useful, as Kyurem-B is often unable to do very much to them.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dragon_claw",
+         "name": "Dragon Claw"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fusion_bolt",
+         "name": "Fusion Bolt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "iron_head",
+         "name": "Iron Head"
+        },
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Physically Based Mixed Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 0.9,
+       "spe": 1.0
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 56,
+       "pdef": 0,
+       "spe": 200
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Dragon Claw is a reliable option for Kyurem-B to spam, possessing a large amount of power with the STAB boost and indiscriminately allowing it to deal damage to many threats. It importantly 2HKOes Chansey after Stealth Rock damage. Fusion Bolt has solid power and coverage that destroys the likes of Mandibuzz, Skarmory, Suicune, Mega Gyarados, and others. Ice Beam mainly hits Ground-types, especially Gliscor, Landorus-T, and Hippowdon, and does a good chunk to Ferrothorn. Iron Head is generally preferred in the last slot to make Kyurem-B the best wallbreaker possible, 2HKOing Clefable. Outrage meanwhile 2HKOes Chansey and provides a general nuke, though Dragon Claw gets the 2HKO on Chansey after Stealth Rock damage most of the time anyway. Earth Power has the niche of smashing Rotom-W as well as various Fire- and Steel-type Pokemon, most notably Heatran. Roost is another option in the last slot to keep Kyurem-B healthy, but it comes at the cost of threat coverage. However, both Rotom-W and Heatran are already 2HKOed, so it's not that useful of an option. Hidden Power Fire is yet another option in the last slot to OHKO Ferrothorn if desired.</p>\n<h4>Set Details</h4>\n<p>The Speed EVs allow Kyurem-B to outrun Adamant Excadrill, and full Attack investment boosts physical power, the main focus of this set. The remaining EVs are dumped into Special Attack to strengthen Ice Beam. The choice between Lonely and Naughty for the nature is entirely based on a preference for Kyurem-B to tank special or physical attacks better. Haban Berry is a good alternative in the item slot if you want to have a fighting chance against Latios, Latias, Garchomp, and other faster Dragon-types. Chople Berry also works to take Fighting-type attacks from the likes of Keldeo and Terrakion. The major downside of both items is that they don't boost Kyurem-B's power like Life Orb does, which should always be the main priority of this set.</p>\n<h4>Usage Tips</h4>\n<p>Basically, you'll want to get this set in on any move it resists and start firing off Dragon Claws and Fusion Bolts, the most powerful and reliable attacking options on this set. If an opposing switch-in is obvious, you might want to predict it, depending on the scenario, to take it out and prevent the foe from Life Orb stalling Kyurem-B with no repercussions. Use Kyurem-B's coverage moves as necessary. Outrage is the move to use against Blissey and Chansey, as well as in scenarios where you don't really care what faints, but want something gone. It's really that powerful against everything that's not a physically defensive Steel-type or Fairy-type.</p>\n<p>Preserve Kyurem-B if there's any wall in particular you want to get rid of, as it can do the job most of the time. This might sound like an obvious point, but many players will sack Kyurem-B&mdash;their wallbreaker&mdash;prematurely before it has completed its goals. Kyurem-B can also clean if you remove its checks. If the opponent only has a couple blocks that prevent Kyurem-B from going on a rampage, aim to remove those and Kyurem-B will not disappoint late-game with its coverage and power.</p>\n<h4>Team Options</h4>\n<p>Virtually anything that's a sweeper will enjoy this Kyurem-B's presence, as it is one of the best wallbreakers and hole punchers in the game. Think Lucario, Mega Tyranitar, Garchomp, etc. Special sweepers will appreciate the removal of Chansey, too, which this set can surprise with an Outrage. Growth Mega Venusaur in particular makes for an excellent partner, capitalizing on the removal of Chansey and other special walls whilst tanking Fighting-type attacks aimed at Kyurem-B with ease. Kyurem-B doesn't need much support on its own, but it definitely does require a Defog user, as entry hazards in conjunction with Life Orb damage will wear it down quickly. Mandibuzz, Latias, Latios, and Mega Scizor can fill this role handily; which one you choose depends on your team's specific needs. Alternatively, you can use Rapid Spin Excadrill.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fusion_bolt",
+         "name": "Fusion Bolt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "outrage",
+         "name": "Outrage"
+        },
+        {
+         "gen": "xy",
+         "alias": "roost",
+         "name": "Roost"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Specially Based Mixed Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 0.9,
+       "spe": 1.0
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 56,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 200
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Ice Beam is a devastating STAB weapon that brings many physically bulky Pokemon to their knees, especially bulky Grass- and Ground-types, achieving feats such as 2HKOing Ferrothorn. Fusion Bolt smashes apart Water-types and most Fairy-types, including Sylveon, Togekiss, Azumarill, and Mega Gardevoir. Earth Power finishes out Kyurem-B's coverage by dealing with various Fire-, Electric-, and Steel-types, most significantly Heatran and Rotom-W. Roost keeps Kyurem-B healthy, mitigating Life Orb and possible entry hazard damage, in addition to allowing it to utilize its decent hit-taking capabilities more reliably. Meanwhile, Outrage lets Kyurem-B break through Chansey, enhancing its destructive capabilities against stall teams greatly at the cost of longevity.</p>\n<p>Hidden Power Fire can be run in the last slot if desired to OHKO Mega Scizor and Ferrothorn. Focus Blast has the same power against Ferrothorn and murders Tyranitar, a major pain for Kyurem-B in general.</p>\n<h4>Set Details</h4>\n<p>The EVs provide enough Speed to outrun Adamant Excadrill and maximize Special Attack as it is the focus of this set, with the remaining EVs dumped into Attack for a powered-up Fusion Bolt or Outrage. Choice of power-boosting nature comes down to whether tanking special or physical attacks better is more important. An Expert Belt can be run to bluff some sort of Choice variant, which is a logical conclusion if Kyurem-B lacks a Life Orb or Leftovers, and allow Kyurem-B to surprise Pokemon that come in to resist an attack that Kyurem-B is \"locked into.\" Then, it can surprise the foe by switching attacks, likely taking the foe out. Unfortunately, this makes it both slightly weaker against targets hit super effectively and rather weak against neutral targets, so Expert Belt is typically inferior to Life Orb. A Haban Berry to take on Dragon-type foes or Chople Berry for Fighting-type ones can work, but the loss of power hurts more than needing to switch out against such Pokemon.</p>\n<h4>Usage Tips</h4>\n<p>The best way to get this Kyurem-B set in is by switching into resisted attacks. Switch it in whenever you find an opportunity and just throw out attacks and something will get hurt. Many opponents will attempt to scout Kyurem-B's moveset by switching around and luring various attacks. The best course of action is to predict opposing switch-ins and punish them with the appropriate attack, catching the opponent off-guard and giving you an advantage. Use Roost when Kyurem-B starts to get low on health. This makes it easier for Kyurem-B to switch in later and take on revenge killers aiming to finish it off with priority attacks.</p>\n<h4>Team Options</h4>\n<p>Pretty much anything that appreciates a weakened team will love this Kyurem-B, which boasts excellent special coverage and power, as a teammate. Terrakion in particular enjoys its support, as Kyurem-B can remove virtually all of Terrakion's counters, including Jellicent, Hippowdon, Gliscor, and Landorus-T. Defog support is necessary, even with Roost, as entry hazards really put a damper on Kyurem-B's hit-taking ability and thus ease of switching in. Latios makes a stellar teammate for this purpose, as it can use Defog and aids in tearing apart teams with its powerful Draco Meteors. Alternatively, Rapid Spin Excadrill can be used as a hazard remover.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "teravolt",
+       "name": "Teravolt"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Substitute",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 28,
+       "patk": 0,
+       "hp": 228,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Kyurem-B can take advantage of its resistances to Electric- and Water-type moves by setting up a Substitute on common Pokemon such as Rotom-W, which makes it much harder to handle. Ice Beam is the Ice-type STAB attack of choice, being Kyurem-B's strongest STAB option bar the unreliable Blizzard. Earth Power is useful to help Kyurem-B handle Pokemon that Ice Beam can't hit, such as Rotom-W, Heatran, and Bisharp. Protect is a defining move in Doubles, stalling out field effects and buying Kyurem-B's partner time to attack. It is doubly important when coupled with Substitute, as it can help Kyurem-B survive even more hits than usual to help break through Pokemon that can often handle Kyurem-B well, such as Terrakion.</p>\n<h4>Set Details</h4>\n<p>Leftovers are used to heal Kyurem-B over time and ensure that it can create as many Substitutes as possible. The EV spread ensures that Leftovers heals the highest amount of HP possible. Kyurem-B's Special Attack stat is maximzed to let it hit as hard as possible, and the remaining EVs are put into Special Defense to help it against the specially based threats that it typically sets up against. A spread using 224 Speed EVs (at the cost of sacrificing some HP) to get the jump on Landorus-T can be used, but it is not generally advised as it makes it harder to set up and maintain a Substitute.</p>\n<h4>Usage Tips</h4>\n<p>To effectively use Substitute Kyurem-B, switch it into Pokemon that can't really do anything to it, such as Cresselia or Grass-, Electric-, and Water-types not named Keldeo, and then use Substitute. Aside from surprise coverage or critical hits, these Pokemon will typically be unable to break the Substitute and Kyurem-B can use the free turns created to its advantage. Through the use of Protect, Kyurem-B can avoid predicted double targeting and maintain its Substitute for even longer amounts of time.</p>\n<h4>Team Options</h4>\n<p>Substitute Kyurem-B is an excellent choice for rain teams as it can help out Pokemon such as Kingdra and Ludicolo by clearing out rain checks such as Mega Venusaur, Rotom-W, and Amoonguss. Kingdra has notable synergy with Kyurem-B as it can check Dragon-type Pokemon that Kyurem-B fears with Draco Meteor. Kyurem-B has good defensive synergy with Pokemon like Heatran and Landorus-T, as it easily switches in on the Water-type attacks that are often used against them. Aegislash easily switches in on Rock- and Fighting-type Pokemon that Kyurem-B often has trouble with whilst also providing Wide Guard support which can help maintain a Substitute when facing moves such as Rock Slide and Earthquake. Fire-type Pokemon such as Heatran and Charizard can help Kyurem-B handle Steel-type Pokemon that don't fear Earth Power, such as Ferrothorn and Scizor. Bulky Water-type Pokemon can be an issue, so Kyurem-B really benefits from an Electric-type partner such as Rotom-W or Thundurus.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "fusion_bolt",
+         "name": "Fusion Bolt"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "earth_power",
+         "name": "Earth Power"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Substitute Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 0.9,
+       "spe": 1.0
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 56,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 200
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Substitute shields Kyurem-B from status, Leech Seed (this screws over Mega Venusaur and Gourgeist), priority, and revenge killers, easing prediction immensely and making it overall more difficult for the foe to deal with Kyurem-B. Ice Beam is the strong STAB attack on this set, dishing out heavy damage to all but resisting and specially bulky foes whilst eliminating common defensive Ground-, Grass-, and Flying-type foes, even felling Mega Venusaur because Teravolt ignores Thick Fat. Fusion Bolt dispatches Water-types, such as Gyarados, Azumarill, and Manaphy, and does the most damage of any move to Sylveon and Assault Vest Conkeldurr. Earth Power rounds out the coverage by nailing Heatran, Rotom-W, Jirachi, and Bisharp, among various other Fire- and Steel-type foes.</p>\n<p>A physically based set with Dragon Claw over Earth Power and Attack investment is an option if Chansey and Conkeldurr are of particular concern.</p>\n<h4>Set Details</h4>\n<p>The HP EVs ensure Kyurem-B has an HP number that grants 101 HP Substitutes, which ensures that its Substitutes are not broken by Seismic Tosses from Chansey, while not causing it to take more damage from Stealth Rock. From there, it has enough Speed to outrun Adamant Excadrill with the remaining EVs maxing out its special attacking capabilities. If Mega Garchomp is of particular concern, then 232 EVs can be invested in Speed at the expense of Special Attack to outrun it. You can run a Mild nature if you'd prefer Kyurem-B to take special hits from the likes of Manaphy a bit better, or a Rash nature if attacks from Pokemon like Gyarados are of particular concern.</p>\n<h4>Usage Tips</h4>\n<p>Getting Kyurem-B in is pretty easy; it has a number of nice resistances, including Electric, Water, and Grass, and generally has pretty good bulk. Once you get an opportunity to switch Kyurem-B in, set up a Substitute and proceed to fire off attacks as appropriate. Kyurem-B is one of the scariest attackers in the game, period. Behind a Substitute, it's just that much more difficult to deal with. You want to err on the side of caution against possible status or Leech Seed users, as getting hit with either is extremely crippling to Kyurem-B, so definitely use Substitute in those scenarios. However, don't waste them; if the opponent can simply break your Substitute after you set it up, then you've just wasted a quarter of Kyurem-B's health for nothing. It can be worth it to scout, though.</p>\n<p>This Kyurem-B set doesn't really have the brute force to break through stall teams, struggling with common stalwarts of such teams, including Chansey and Clefable. Instead, it should focus on setting up Substitutes on forced switches when playing against offensive and balanced teams, seeking to hit their less bulky members hard with its excellent coverage.</p>\n<h4>Team Options</h4>\n<p>Defog support is a must because entry hazards limit Kyurem-B's longevity immensely. Because of this, Latios makes an excellent partner, forming a devastating offensive duo with Kyurem-B that can ravage opposing teams. Rapid Spin Excadrill also makes for a solid choice. Running an offensive Steel-type, such as Bisharp or Scizor, helps against pesky Clefable and Sylveon. As these partner Pokemon carry powerful physical attacks, they can also threaten Blissey and Chansey, meaning they can eliminate virtually all counters to this Kyurem-B. Finally, Pokemon prone to being walled by common defensive Pokemon, such as Terrakion and Keldeo, will love the wallbreaking support Kyurem-B provides. With their counters eliminated, it is often easy for these Pokemon to overwhelm opposing teams.</p>\n"
+    }
+   ],
+   "alias": "kyurem-black",
+   "name": "Kyurem-Black",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "kyurem-black"
+    },
+    {
+     "gen": "xy",
+     "alias": "kyurem-black"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "ancient_power",
+     "name": "Ancient Power",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 70,
+     "alias": "blizzard",
+     "name": "Blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "draco_meteor",
+     "name": "Draco Meteor",
+     "description": "Lowers user's Special Attack by 2 stages.",
+     "pp": 5,
+     "power": 130
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_breath",
+     "name": "Dragon Breath",
+     "description": "30% chance to paralyze.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_claw",
+     "name": "Dragon Claw",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_pulse",
+     "name": "Dragon Pulse",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "dragon_rage",
+     "name": "Dragon Rage",
+     "description": "Always does 40 HP damage.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 90,
+     "alias": "dragon_tail",
+     "name": "Dragon Tail",
+     "description": "Forces the target to switch to a random Pokemon.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earth_power",
+     "name": "Earth Power",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "endeavor",
+     "name": "Endeavor",
+     "description": "Lowers the target's HP to the user's HP.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "flash_cannon",
+     "name": "Flash Cannon",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 95,
+     "alias": "fly",
+     "name": "Fly",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "glaciate",
+     "name": "Glaciate",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "hone_claws",
+     "name": "Hone Claws",
+     "description": "Boosts Attack and accuracy one stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "hyper_voice",
+     "name": "Hyper Voice",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "imprison",
+     "name": "Imprison",
+     "description": "No foe can use any of the user's moves.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "reflect",
+     "name": "Reflect",
+     "description": "Lowers damage from physical attacks for 5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "roost",
+     "name": "Roost",
+     "description": "Heals 50% HP. Temporarily removes the user's Flying-type.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "scary_face",
+     "name": "Scary Face",
+     "description": "Lowers Speed by 2 stages.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_claw",
+     "name": "Shadow Claw",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "signal_beam",
+     "name": "Signal Beam",
+     "description": "10% chance to confuse.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "slash",
+     "name": "Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 90,
+     "alias": "steel_wing",
+     "name": "Steel Wing",
+     "description": "10% chance to raise the user's Defense by 1 stage.",
+     "pp": 25,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 90,
+     "alias": "zen_headbutt",
+     "name": "Zen Headbutt",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "kyurem",
+     "name": "Kyurem"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "kyurem-black",
+       "name": "Kyurem-Black"
+      },
+      "evos": []
+     },
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "kyurem-white",
+       "name": "Kyurem-White"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 170,
+     "height": 3.3,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Teravolt",
+       "alias": "teravolt",
+       "description": "Abilities that hinder attacks are nullified."
+      }
+     ],
+     "alias": "kyurem-black",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "dragon",
+       "name": "Dragon"
+      },
+      {
+       "gen": "xy",
+       "alias": "ice",
+       "name": "Ice"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 90,
+     "hp": 125,
+     "spatk": 120,
+     "suffix": "",
+     "pdef": 100,
+     "weight": 325.0,
+     "spe": 95,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

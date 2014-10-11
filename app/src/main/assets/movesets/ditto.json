@@ -1,0 +1,444 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "transform",
+         "name": "Transform"
+        }
+       ],
+       "slot": 1
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "imposter",
+       "name": "Imposter"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<ul>\n<li>Amazing Movepool</li>\n<li>Such 4 moveslot syndrome</li>\n<li>Umm transform</li>\n</ul>\n<h4>Set Details</h4>\n<ul>\n<li>Choice Scarf is the only item that allows it to effectively check set up sweepers and Mega Pokemon.</li>\n<li>248 EVs in HP makes Ditto hit a Stealth Rock number, which means Ditto will be hurt slightly less by some forms of residual damage. Maximum investment in Defense decreases damage that Ditto takes from a Struggle war with another Ditto. A Relaxed nature is used to obtain the lowest Speed for the possible, albeit rare, Struggle war with opposing ditto. 0 Speed IVs can be used to fare better in these wars and give you Hidden Power Ice but [can someone check mechanics to see if this is true] it would mean losing out on being able to speed tie versus opposing choice scarf users.</li>\n</ul>\n<h4>Usage Tips</h4>\n<ul>\n<li>Revenge kill or bring in with baton pass/volt switch/u-turn</li>\n<li>Can be used to scout movesets</li>\n<li>Against stall use to remove or set entry hazards</li>\n</ul>\n<h4>Team Options</h4>\n<ul>\n<li>More of a glue to a team, doesn't pair with any pokemon particularly well.</li>\n</ul>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "transform",
+         "name": "Transform"
+        }
+       ],
+       "slot": 1
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Imposter",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>There's little to address when talking about Ditto's moves; Transform is its only legal one. It is used on this set because it is impossible for a Pokemon to have no moves. Its only real use is preventing Ditto from using Struggle immediately if Imposter fails.</p>\n<h4>Set Details</h4>\n<p>A Choice Scarf is the only viable item on Ditto, as it ensures that Ditto can outspeed the setup sweepers which it transforms into. No other item can possibly replace the utility provided by a Choice Scarf. The HP stat should be invested into when using a Ditto as much as possible, as HP is the only stat that transfers over upon Imposter activation. 248 EVs in HP makes Ditto hit a Stealth Rock number, which means Ditto will be hurt slightly less by some forms of residual damage. Maximum investment in Defense decreases damage that Ditto takes from a Struggle war with another Ditto. A Relaxed nature is used to obtain the lowest Speed for the possible, albeit rare, Struggle war mentioned previously. Ditto also uses minimum Speed IVs for this reason and to give itself a Hidden Power type of Ice to revenge kill threats such as Thundurus and Landorus.</p>\n<h4>Usage Tips</h4>\n<p>As a revenge killer, Ditto is best brought out in response to a Pokemon fainting or from a teammate's successful U-turn, Volt Switch, or Baton Pass. It is best only to attempt to revenge kill with Ditto, because if it switches in as a Pokemon sets up, it won't get the stat boosts and is likely to lose the matchup. If one is using Ditto to revenge kill a Pokemon that has not revealed any status moves, it is worth considering if the opponent also has a Choice Scarf. If both Pokemon possess a Choice Scarf, the turn order is based on a coin flip and one might wind up losing their Ditto. Alternatively, you can also use Ditto to scout and check the movesets of opponents so that you know what to expect later in the game. This is particularly useful for Pokemon such as Jirachi, which can run a large variety of movesets. Ditto can also be used to copy an opposing Mega Pokemon that threatens itself and attempt to sweep the opponent, such as Mega Pinsir or Mega Garchomp. Good use of this ability can let you overwhelm your opponent with both a copied Mega Pokemon as well as your own. Ditto is a Pokemon that generally struggles against stall; in spite of this, if against a stall team, one can make use of Ditto to steal or eliminate the opponent's entry hazards.</p>\n<h4>Team Options</h4>\n<p>Even though Ditto is generally a Pokemon that glues together a team rather than being built around, there are a few distinct Pokemon that it works well with. Primarily, due to Ditto's susceptibility to entry hazards, a Pokemon with Defog or Rapid Spin can be an excellent teammate. Forretress is a Pokemon which can spin away entry hazards, and in return, Ditto deters any Pokemon from using Forretress as setup fodder. Similarly, any grounded Poison-type is also useful for Toxic Spikes absorption. Examples of this include Tentacruel and Dragalge. For more offensive options, Scizor and Ditto can partner up to form a potent scouting and revenge killing core. Noivern is also capable of fulfilling this role due to its ability, Frisk, which allows it to scout opposing sets more effectively than Scizor.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "transform",
+         "name": "Transform"
+        }
+       ],
+       "slot": 1
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "imposter",
+       "name": "Imposter"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "UU",
+       "alias": "uu",
+       "name": "Underused"
+      }
+     ],
+     "name": "Imposter",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Transform is Ditto's only legal move, and you won't be using it unless you are against an opposing Ditto anyway.</p>\n<h4>Set Details</h4>\n<p>Choice Scarf is the best item for Ditto, since unless the opponent itself has Choice Scarf, Ditto will always outspeed the opponent. 248 EVs in HP allow Ditto to take less damage from Stealth Rock, while maximum investment in Defense allows it to take less damage if in a Struggle war with another Ditto. 0 Speed IVs gives Ditto Hidden Power Ice and allows Ditto to be outsped in the rare case of a Struggle war.</p>\n<h4>Usage Tips</h4>\n<p>It is best to switch Ditto in after a successful U-turn or Volt Switch. Ditto cannot switch in while an opponent is boosting because it then will not get the boosts it needs. Ditto is also a terrible switch-in to opposing Scarfers because there is only a 50/50 chance of it going first and not fainting due to its pathetic 48 HP stat. Ditto can scout Pokemon with large movepools like Jirachi if necessary, or scout against leads if you want to use it more defensively.</p>\n<h4>Teammates</h4>\n<p>Ditto isn't a Pokemon to build a team around, but that doesn't mean it doesn't have Pokemon it would like to have as teammates. Rapid Spin or Defog support is highly appreciated because of Ditto's abysmal HP stat, and the fact that it is harmed by all entry hazards, except Sticky Web. Users of U-turn or Volt Switch are also greatly appreciated as an offensive teammate, allowing for both Ditto and the U-turn or Volt Switch user to scout a team.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "transform",
+         "name": "Transform"
+        }
+       ],
+       "slot": 1
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "imposter",
+       "name": "Imposter"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Imposter",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 8,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Transform is the only move Ditto learns, but this move is useless since its ability will automatically transform Ditto into the opposing Pokemon.</p>\n<h4>Set Details</h4>\n<p>It's best to run Ditto with a spread of 248 HP / 252 Def / 8 SDef; this is to ensure that in the unlikely case that Ditto is either against another Ditto or a Substitute, it can sustain itself for a bit. The HP EVs also maximize Ditto's HP while putting it at an odd number, allowing it one extra switch in against entry hazards if Ditto is left unscathed from other damage. Choice Scarf is important for Ditto's success as it allows Ditto to outspeed almost any Pokemon and lets it revenge kill sweepers easily. A Relaxed nature is needed in the event that Ditto cannot transform because of a Substitute or it encounters another untransformed Ditto. The boost in Defense help improves survivability slightly if Ditto can't transform, and the decrease in Speed will allow it to win a stall war against other Ditto. Ditto can also run various IV spreads to maximize its damage for Hidden Powers. Hidden Power Fire is great for taking out Durant, Escavalier and even Doublade. Hidden Power Water is great because it has wide coverage against Rhyperior, Dugtrio, and Gligar as well. Additionally, Hidden Power Grass can also be used to take out foes like Gastrodon that only have one weakness. </p>\n<h4>Usage Tips</h4>\n<p>It's best to use Ditto as a revenge killer and to let it take advantage of Pokemon that have set up. It can also become a counter sweeper if it copies a set up sweeper. It's also a given that players need to be careful when switching in Ditto. If Ditto were to switch into a Tyrantrum and get attacked by the opposing Tyrantrum's Dragon-type STAB move, Ditto would faint easily. However, if the Ditto player has a Magmortar against a Jellicent, Ditto can come in, become Jellicent, and take any Water-type move from Jellicent if it runs Water Absorb. Another example is having a Flying-type switch to Ditto against a Stone Edge, and resisting it if the opposing Pokemon is resistant to Rock-type moves, like Cobalion. When transformed, Choice Scarf Ditto is limited to one move with lowered PP; once Ditto uses all these PP, Ditto will be forced to use Struggle and take heavy recoil damage, while the opposing Pokemon will have access to a full moveset. Having said that, switching out is key when low on PP. The most important rule when using Ditto is to never send it out on a Substitute, unless you're using it as death fodder. Ditto can also be useful when it transforms into a Pokemon with a support move, allowing it to act as an entry hazard setter, Heal Bell cleric, spinner, or Defogger, depending on the opposing Pokemon.</p>\n<h4>Team Options</h4>\n<p>Almost anyone can be a team member to Ditto, preferably heavily offensive teammates that can pressure opponent enough so that they won't set up a Substitute. Pokemon such as Exploud and Meloetta do not care about Substitutes at all. Moves like Boomburst and Hyper Voice make the opponent want to switch out as even if they use a Substitute, they're still going to get damaged. Having bulky Poison-type teammates such as Amoonguss and Skuntank works well as they can get rid of Toxic Spikes and allow Ditto to switch out if it's in danger of getting poisoned. Additional teammates such as Mega Banette or other Prankster users can help stop Substitute, but may stop set ups which benefit Ditto.</p>\n"
+    }
+   ],
+   "alias": "ditto",
+   "name": "Ditto",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "ditto"
+    },
+    {
+     "gen": "dp",
+     "alias": "ditto"
+    },
+    {
+     "gen": "gs",
+     "alias": "ditto"
+    },
+    {
+     "gen": "rb",
+     "alias": "ditto"
+    },
+    {
+     "gen": "rs",
+     "alias": "ditto"
+    },
+    {
+     "gen": "xy",
+     "alias": "ditto"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "transform",
+     "name": "Transform",
+     "description": "Transforms into the foe.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "ditto",
+     "name": "Ditto"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 48,
+     "height": 0.3,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Imposter",
+       "alias": "imposter",
+       "description": "The wielder transforms into the opponent when it switches in."
+      },
+      {
+       "gen": "xy",
+       "name": "Limber",
+       "alias": "limber",
+       "description": "Blocks paralysis."
+      }
+     ],
+     "alias": "ditto",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "NU",
+       "alias": "nu",
+       "name": "Neverused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "normal",
+       "name": "Normal"
+      }
+     ],
+     "gkpower": 20,
+     "spdef": 48,
+     "hp": 48,
+     "spatk": 48,
+     "suffix": "",
+     "pdef": 48,
+     "weight": 4.0,
+     "spe": 48,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

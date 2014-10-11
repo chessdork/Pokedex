@@ -1,0 +1,400 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sticky_web",
+         "name": "Sticky Web"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "stealth_rock",
+         "name": "Stealth Rock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "dark_void",
+         "name": "Dark Void"
+        },
+        {
+         "gen": "xy",
+         "alias": "spore",
+         "name": "Spore"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "magic_coat",
+         "name": "Magic Coat"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "own_tempo",
+       "name": "Own Tempo"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Sticky Web",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Focus Sash",
+       "alias": "focus_sash",
+       "description": "The holder always survives one attack. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 40,
+       "patk": 0,
+       "hp": 96,
+       "spatk": 0,
+       "pdef": 120,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Sticky Web is a valuable support move, lowering the Speed of all grounded opponents by one stage to allow for slower attackers to shine. Stealth Rock is an important entry hazard for offensive Pokemon to secure KOs and get general chip damage on opposing Pokemon. To facilitate setting them up, Spore is run to put an opposing Pokemon to sleep, crippling it for what often turns out to be the remainder of the match and making setup effortless. Dark Void is a viable alternative to put Grass-types, such as Mega Venusaur and Ferrothorn, and Overcoat users, such as Mandibuzz, to sleep, but it has a chance to miss that makes it much less reliable in virtually every other scenario. Magic Coat is used to bounce back opposing entry hazards and Taunt.</p>\n<h4>Set Details</h4>\n<p>The EVs prioritize Speed so that Smeargle can outrun as many opponents as possible. From there, they serve to balance its defenses. A Focus Sash is necessary because even with the defensive investment, pretty much every attack is going to KO Smeargle in one hit, so it needs the guaranteed survival to get much of anything useful done.</p>\n<h4>Usage Tips</h4>\n<p>Smeargle is best utilized in the lead position to ensure an unbroken Focus Sash. The first move should be to put the foe to sleep and then to set up Sticky Web, followed by Stealth Rock. Magic Coat should be used to stop opposing entry hazard setup and Taunt as necessary.</p>\n<p>Beware of setting up Sticky Web against teams with Bisharp. The Speed reduction is not of much consequence for it, and Defiant will gain it a +2 Attack boost, making it extremely difficult to handle.</p>\n<h4>Team Options</h4>\n<p>Pokemon such as Swords Dance Diggersby, Crawdaunt, and Mega Medicham love slower opponents so they can fire off their ridiculously high-powered attacks freely, thus enjoying Smeargle's support. Carrying a Bisharp can also be beneficial, as it turns Deoxys-D and Deoxys-S reflecting Sticky Web with Magic Coat into a beneficial scenario because of Defiant. Moreover, it discourages Defog and can take advantage of it, as a +2 Bisharp is extremely threatening. Pokemon such as Greninja and mixed Thundurus that put pressure on opposing Defog users also make good teammates to help prevent Smeargle's hard work from being undone.</p>\n"
+    }
+   ],
+   "alias": "smeargle",
+   "name": "Smeargle",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "smeargle"
+    },
+    {
+     "gen": "dp",
+     "alias": "smeargle"
+    },
+    {
+     "gen": "gs",
+     "alias": "smeargle"
+    },
+    {
+     "gen": "rs",
+     "alias": "smeargle"
+    },
+    {
+     "gen": "xy",
+     "alias": "smeargle"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "false_swipe",
+     "name": "False Swipe",
+     "description": "Always leaves the foe with at least 1 HP.",
+     "pp": 40,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mean_look",
+     "name": "Mean Look",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "odor_sleuth",
+     "name": "Odor Sleuth",
+     "description": "Blocks evasion modifiers. Allows Fighting- and Normal-type moves to hit Ghosts.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sketch",
+     "name": "Sketch",
+     "description": "Permanently copies the last move used by the target.",
+     "pp": 1,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "spore",
+     "name": "Spore",
+     "description": "Puts the target to sleep.",
+     "pp": 15,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "smeargle",
+     "name": "Smeargle"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 20,
+     "height": 1.2,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Moody",
+       "alias": "moody",
+       "description": "A random stat is lowered by 1 stage and another is boosted by 2 stages every turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Own Tempo",
+       "alias": "own_tempo",
+       "description": "Cannot be confused."
+      },
+      {
+       "gen": "xy",
+       "name": "Technician",
+       "alias": "technician",
+       "description": "Increases power of moves with 60 base power or less by 50%."
+      }
+     ],
+     "alias": "smeargle",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "BL",
+       "alias": "bl",
+       "name": "Borderline"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "normal",
+       "name": "Normal"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 45,
+     "hp": 55,
+     "spatk": 20,
+     "suffix": "",
+     "pdef": 35,
+     "weight": 58.0,
+     "spe": 75,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

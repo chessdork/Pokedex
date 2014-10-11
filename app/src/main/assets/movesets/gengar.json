@@ -1,0 +1,2689 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "destiny_bond",
+         "name": "Destiny Bond"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sludge_wave",
+         "name": "Sludge Wave"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "It's A Trap! (Offensive Mega Gengar)",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Gengarite",
+       "alias": "gengarite",
+       "description": "Mega-evolves Gengar."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 4,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>With the combination of Taunt, Destiny Bond, and two attacking moves, Mega Gengar achieves optimal versatility in the number of threats it can remove. Taunt cripples defensive Pokemon, leaving them unable to heal, inflict crippling status, use support moves, or phaze Mega Gengar without Dragon Tail. Combined with Destiny Bond, it also helps Mega Gengar sacrifice itself to eliminate numerous Pokemon that it otherwise could not, as bulky attackers often threaten it more than it can threaten them. Its attacking moves allow it to annihilate many Pokemon that they hit super effectively and overpower defensive Pokemon that cannot threaten it. Sludge Wave is its most powerful STAB move and engulfs Fairy- and Grass-types. It can be used interchangeably with Sludge Bomb, which is slightly weaker but more likely to poison, which can occasionally be advantageous. Focus Blast is powerful and has good coverage alongside Poison, obliterating many Steel-, Rock-, Normal-, and Dark-types despite its unreliable accuracy.</p>\n<p>Mega Gengar also has many other options for attacking moves, which can be adapted to the needs of a team. Shadow Ball can also be used in place of either attacking move for STAB with good neutral coverage. However, Shadow Ball lacks important targets as defensive Psychic-types typically lose against Taunt and Sludge Wave, whereas offensive Psychic-types often threaten to outspeed and OHKO, and Ghost-types are able to switch out of Shadow Tag freely. It is also no more powerful than Focus Blast if both hit neutrally. Hidden Power Fire can be used to incinerate Scizor, which otherwise threatens Mega Gengar with Bullet Punch and Pursuit. It can also damage other Steel-types, especially in sun, although it is powerless in rain. Thunder can be used for coverage against Water- and Flying-types, but has poor accuracy in the absence of rain. Energy Ball can be used to KO weakened Ground-, Rock-, and Water-types. Hidden Power Rock 2HKOes Ho-Oh, allowing it to be destroyed on a predicted switch in as Gengar Mega Evolves or after switching into Stealth Rock. It has little utility otherwise, however. Icy Wind allows Gengar to anti-lead Deoxys-S and OHKO Landorus-T, Rayquaza, Gliscor, and Garchomp, but it is weaker than a STAB move against almost all other Pokemon.</p>\n<h4>Set Details</h4>\n<p>The EVs and nature capitalize on Mega Gengar's best stats, allowing it to outspeed the vast majority of the unboosted metagame and be as destructive as possible. Due to its highly specialized stats, alternative spreads are barely viable.</p>\n<h4>Usage Tips</h4>\n<p>Gengar must Mega Evolve relatively unharmed before it can trap an opposing Pokemon, which can be a challenge due to its abysmal bulk. It can, however, use its immunities to Normal-, Fighting-, and Ground-type moves (prior to Mega Evolution) as well as Toxic to switch in unharmed, while its four resistances can also allow it to switch in quite safely. It should be switched into Pokemon it can force out in order to allow it to Mega Evolve unharmed.</p>\n<p>It can be important to investigate the set of a potential target for Gengar, especially against more versatile threats such as Kyogre and Xerneas. Mega Gengar is usually too frail to afford mistakes and can only handle Choice Scarf users locked into resisted or weak moves. Once it has trapped an opposing Pokemon, it should proceed to eliminate the threat in the most reliable manner possible; walls and support Pokemon should typically be Taunted and then worn down with attacks, as they pose little threat, whereas against offensive Pokemon, Destiny Bond, sometimes alongside Taunt, will often be needed. Of course, whenever it can OHKO with one of its attacks, it should.</p>\n<h4>Team Options</h4>\n<p>As Mega Gengar excels at removing various Pokemon, especially defensive ones, its best teammates are sweepers which can exploit the weakness created in an opposing team. Powerful setup sweepers such as Xerneas, Arceus, and Electric Arceus, as well as powerful Choice Scarf users such as Kyogre and Zekrom can overwhelm teams once their checks have been removed. Teammates such as Xerneas and Arceus also help to protect Mega Gengar from an opposing Scizor's Pursuit, as an opponent might rely on Scizor to check them. It should be noted however that as Mega Gengar cannot trap Ghost-types; sweepers checked by Aegislash, Ghost Arceus, or Giratina formes will require additional support in order to sweep successfully. Teammates with Volt Switch or U-turn, such as Zekrom and Scizor, can help Mega Gengar switch in safely, which it often struggles to do otherwise.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "perish_song",
+         "name": "Perish Song"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "disable",
+         "name": "Disable"
+        },
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Perish Trap",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Gengarite",
+       "alias": "gengarite",
+       "description": "Mega-evolves Gengar."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 224,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 32
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Perish Song is the main move of this set, as it allows Mega Gengar to put its trapped targets on a three-turn timer. Protect is an important move that stalls for Perish Song turns while also performing its normal duties, such as punishing double targeting and allowing for a safe Mega Evolution. Disable, when used in tandem with Protect, allows Gengar to stop an incoming super effective move from being used, such as Bisharp's Knock Off, allowing Mega Gengar to stay alive even longer. Will-O-Wisp can be used in the third spot, however, in order to allow Gengar to function better against physical attackers. Shadow Ball is used in the last spot for an attacking move that can finish off weakened threats reliably due to Mega Gengar's large Speed and Special Attack stats.</p>\n<h4>Set Details</h4>\n<p>HP and defensive investment is used to let Mega Gengar survive Adamant Landorus-T's Earthquake, while the Speed EVs allow Mega Gengar to outspeed Garchomp. Gengarite is necessary for this set, as Shadow Tag allows Mega Gengar to trap threats and slowly take them down with Perish Song. With Mega Gengar's high Speed, Substitute can be used to stall for Trick Room turns as well. It can also allow Gengar to avoid status and take a hit safely. It does, however, cut into Gengar's health and tends to be outclassed by Disable and Will-O-Wisp.</p>\n<h4>Usage Tips</h4>\n<p>This set isn't meant to be offensive and is instead used to stall Perish Song turns in order to KO the opponent's Pokemon. As such, Protect and Disable should be used most often after Perish Song is used. Once there is one turn left of Perish Song, it is best to switch Mega Gengar and its partner out in order to avoid fainting to the same. Teams utilizing Perish Trap should generally be using Encore + Disable to prevent the opponent from doing anything. Mega Gengar can also use Protect to scout for a super effective move and then Disable it the next turn. Try to set up Perish Song on a predicted Protect or when a move is being used on your teammate. Ghost-types are unaffected by Shadow Tag and, as such, shouldn't be set up on with Perish Song. They are, however, weak to Shadow Ball, meaning Mega Gengar can do a lot of damage to them should they decide to stay in. Mega Gengar's partner usually faces heavy pressure to keep Mega Gengar alive, so it should try to add its own offensive pressure or use support moves such as Sleep Powder.</p>\n<h4>Team Options</h4>\n<p>Encore users such as Liepard are helpful, as they can lock the opponent into a move Disabled by Mega Gengar. Pokemon that apply a lot of offensive pressure such as Substitute Kyurem-B and Choice Specs Sylveon, make good partners, as they can force the opponent to attack them instead of Mega Gengar. Follow Me and Rage Powder support can also allow Mega Gengar to stall for Perish Song turns more easily, with good users of the move being Togekiss and Amoonguss. Amoonguss can also put Pokemon to sleep, making Mega Gengar's job even easier, and Regenerator allows it to perform this role multiple times, too. Quick Guard and Wide Guard are very helpful moves for protecting against priority and spread moves, with Hitmontop and Terrakion being good users.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "perish_song",
+         "name": "Perish Song"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "disable",
+         "name": "Disable"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Perish Trapper",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Gengarite",
+       "alias": "gengarite",
+       "description": "Mega-evolves Gengar."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 84,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 176
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Mega Gengar can also opt for a less offensive set that excels at removing Defog users for teams that rely significantly on entry hazards and can also remove Choice Band and Choice Specs Pokemon more effectively, while maintaining the ability to eliminate some defensive Pokemon. Perish Song combined with Shadow Tag allows Mega Gengar to force an opposing Pokemon to faint by trapping it on the field until the final Perish Song turn, at which point Mega Gengar can switch out to safety, while the opposing Pokemon is forced to remain on the field. In order to do so, however, Mega Gengar must survive several turns successfully.</p>\n<p>Protect is effective in preventing damage every other turn, as well as allowing Mega Gengar to Mega Evolve safely. Combined with Disable, it can prevent an opponent from using one of its moves against Gengar. As many support Pokemon and walls only have one attacking move, or only one attacking move which can hurt Mega Gengar significantly thanks to its resistances and immunities, this can prevent damage quite effectively. It also forces Choice-locked Pokemon to Struggle, as they are only able to use one move. Substitute can be used instead to mitigate the damage Mega Gengar takes, as well as preventing opposing Pokemon crippling it with status. Disable is more effective against Choice-locked Pokemon and support Pokemon, while Substitute is more effective against Pokemon with multiple moves which can hurt Mega Gengar. Taunt in the final moveslot prevents phazing with any move other than Dragon Tail, which otherwise neuters the set by allowing Pokemon to escape Mega Gengar and Perish Song. Hypnosis can also be used to help to prevent damage, but it has unreliable accuracy, lasts for an unpredictable number of sleep turns, and is difficult to fit.</p>\n<h4>Set Details</h4>\n<p>The Speed investment allows Mega Gengar to outspeed Arceus, as other threats it could outspeed with more investment are too threatening to handle with this set. The remaining EVs maximize Mega Gengar's special bulk, as it has no attacking moves and most attacks in the tier are specially based. 248 HP EVs give Gengar an odd HP number, allowing it to use Substitute four times.</p>\n<h4>Usage Tips</h4>\n<p>In order to use the Shadow Tag ability, Gengar must Mega Evolve first. With Protect, it can do so unhampered against any Pokemon. Once it traps a Pokemon, it should first incapacitate it as much as possible before using Perish Song and stalling it out with Protect. Against walls that rarely carry any attacking moves that hurt Gengar, such as Lugia, Chansey and RestTalk Xerneas, Taunt should be used first to prevent phazing or crippling status, as well as support moves such as Aromatherapy. Against Pokemon which only have one attacking move, such as most support Arceus and RestTalk Xerneas, Taunt should be followed up by Protect and Disable, preventing their attacking move with Disable and other moves with Taunt. Against Choice Specs or Band Choiced Pokemon, Disable can be used as soon as they are locked into a move, forcing them to Struggle. Once an opposing Pokemon has been neutered effectively, Perish Song should be used and its turns stalled with Protect, as well as Taunt where necessary. On the final Perish Song turn, Mega Gengar should be switched out to a Pokemon that is least likely to be harmed by the opposing Pokemon, as it would faint alongside the opposing Pokemon otherwise.</p>\n<p>The main niche of this set is to remove Defog users without sacrificing Mega Gengar in the process for teams that rely heavily on their entry hazards, such as Sticky Web teams and teams with Spikes or Toxic Spikes users. It must be noted that in the absence of Sticky Web to reduce the Speed of opposing Arceus, Gengar must have Mega Evolved in order to outspeed and Taunt them before they Defog.</p>\n<h4>Team Options</h4>\n<p>As the main advantage of Perish trapper Gengar is the ability to eliminate most Defog users without sacrificing itself, it should be paired with users of powerful entry hazards in addition to Stealth Rock. Smeargle and Shuckle have access to Sticky Web, giving teammates a devastating Speed advantage against grounded opponents. The Deoxys formes, Klefki, and Ferrothorn are effective Spikes users, while Scolipede and Forretress are effective users of both Spikes and Toxic Spikes.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sludge_bomb",
+         "name": "Sludge Bomb"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Special Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Gengarite",
+       "alias": "gengarite",
+       "description": "Mega-evolves Gengar."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Shadow Ball is the main move of this set, hitting Pokemon such as Latios and Chandelure extremely hard and also having a good chance to 2HKO standard Cresselia. It has great neutral coverage too, which is why it's chosen over Sludge Bomb even with its lower Base Power. Sludge Bomb is a secondary STAB move that has good neutral coverage with Shadow Ball, and it also allows Gengar to deal with Fairy-types. Substitute is an option, however, for Gengar to avoid status, take an attack that would otherwise KO, and even stall for burn damage. Will-O-Wisp neuters powerful physical threats such as Mega Kangaskhan and Terrakion, making them much less of a problem for the team. Protect is used in the last slot for scouting, punishing double targeting, and protecting Mega Gengar from moves such as Earthquake from teammates. It's also helpful in aiding a safe Mega Evolution. Taunt, while not on the main set, provides great utility and allows it to do even better against Trick Room. Unfortunately, there isn't much room on the set for it, though it's still a very good move.</p>\n<h4>Set Details</h4>\n<p>The EVs with a Timid nature make Mega Gengar as fast and as strong as possible, allowing it to outspeed the likes of Shaymin-S. Gengarite gives Gengar Shadow Tag to trap its opponents, making it very important.</p>\n<h4>Usage Tips</h4>\n<p>Will-O-Wisp tends to be a good option against Pokemon such as Mega Kangaskhan, as Mega Gengar can trap Pokemon with Shadow Tag and make them deadweight. Mega Gengar tends to be a great Trick Room counter, as most setters of Trick Room are Psychic- and Ghost-types. Do note, however, that if Trick Room is set up, Mega Gengar is put at a serious disadvantage. It's important when using Gengar to know when to Mega Evolve. If you need the Earthquake immunity, don't Mega Evolve; if not, you should most likely Mega Evolve. When using Mega Gengar, switch in teammates according to what it has trapped. For example, if Amoonguss and Scizor have been trapped, switch Volcarona in to take them out. Mega Gengar should also have its set customized accordingly to counter threats that your team has trouble with, since it can easily remove these Pokemon through trapping. Some Pokemon it can deal with easily include Mega Kangaskhan, Terrakion, and Hitmontop, as well as almost all Trick Room setters. Mega Gengar also has an easy time setting up Substitutes on these Pokemon, though Terrakion needs to be burned first so that it can't break them. Mega Gengar can steal momentum from defensive Pokemon such as Amoonguss and Aromatisse with ease, assuming it doesn't get Spored on the switch.</p>\n<h4>Team Options</h4>\n<p>Setup sweepers and weather abusers, such as Gyarados and Swords Dance Excadrill, appreciate Mega Gengar's ability to trap and remove their counters. It also traps Pokemon which are unable to touch its partner, allowing them to set up with ease. Fighting-types also make amazing partners to Gengar, as Mega Gengar can trap and KO the Ghost-, Psychic-, and Fairy-types they hate. Pokemon such as Conkeldurr, Terrakion, and Hitmontop can also deal with Dark-types, notably Tyranitar and Bisharp, which trouble Gengar. Hitmontop also has Wide Guard and Quick Guard to protect Mega Gengar from incoming attacks, most notably Earthquake and Sucker Punch. Scrafty can also provide similar Quick Guard support and switch into Psychic- and Dark-type attacks aimed at Gengar. Fake Out support is especially helpful with a frail Pokemon such as Gengar, as it means it won't have to fear a second attacker. Good users of the move include Hitmontop, Scrafty, and Ludicolo. Follow Me and Rage Powder support from the likes of Togekiss, Jirachi, and Amoonguss fall in a similar boat as Fake Out, ensuring  Gengar won't have to fear incoming attacks. Finally, Pokemon such as Darkrai can form a powerful offensive core with Mega Gengar that's capable of cleaning up quite easily late-game.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "pain_split",
+         "name": "Pain Split"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "SubSplit",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Gengar has a wide support movepool and a good set of attacking moves, making it the perfect user of Substitute and Pain Split. While it has poor bulk, Gengar still manages to get a free Substitute on many occasions thanks to its good defensive typing and ability to force switches. Pain Split increases Gengar's longevity drastically, as Gengar's low base HP means it will recover lots of HP by using Pain Split on bulkier Pokemon. This makes Gengar a nuisance for stall teams, as it has an immunity to status conditions thanks to Substitute, and its typing gives it the ability to come in on commonly seen Pokemon in stall teams, such as Chansey, Mega Venusaur, Gliscor without Knock Off, and Clefable. Shadow Ball is Gengar's main STAB attack, as its neutral coverage is fantastic and deals solid damage to most Pokemon. Focus Blast rounds the set off nicely as it has perfect neutral coverage along with Shadow Ball. It also gives Gengar a way of severely hurting common switch-ins, including Pursuit users such as Tyranitar and Bisharp and more defensively oriented Pokemon such as Heatran.</p>\n<h4>Set Details</h4>\n<p>When running Pain Split, Gengar can afford to have a Life Orb equipped. To take minimal recoil from Life Orb, 29 HP IVs are required. Life Orb increases Gengar's damage output a lot, making it very hard to switch into. A simple EV spread of maximum Speed and Special Attack with a Timid nature is run to make Gengar's attacks deal as much damage as possible, while using its great Speed stat to its full extent. Running an alternate EV spread of 28 HP / 148 SpA / 80 SpD / 252 Spe is also an option to prevent defensive Mega Venusaur and Clefable from breaking Gengar's Substitutes with their Giga Drains and Moonblasts, respectively.</p>\n<h4>Usage Tips</h4>\n<p>Gengar is a force to be reckoned with, and can be very hard to deal with, especially for balance and stall teams. It often comes in on and gets free Substitutes against many staple Pokemon on stall teams. Entry hazards support is strongly advised for Gengar to have an easier time shuffling and slowly breaking down cores. Against Pokemon that Gengar cannot really touch or that are weakened more effectively by the use of Pain Split, using Substitute until Gengar's HP is low so Pain Split drains more HP is a viable strategy which can be used for great results against bulkier teams.</p>\n<p>Against more offensive teams, Life Orb Gengar can prove to be a problem, as Gengar's unpredictability makes it hard to prepare for. While the utility set isn't much of a threat to offense, this set surely is, as it scores many unexpected 2HKOs with its increased damage output. Utilizing Gengar's great defensive typing and bringing it in on predicted Fighting-, Ground-, or Normal-type moves is the best way to use it against offensive teams. Many offensive threats, such as Keldeo, Terrakion, Landorus-T, and Garchomp, are often Choice-locked, meaning Gengar can set up a free Substitute and proceed to do damage to the opposing team.</p>\n<h4>Team Options</h4>\n<p>Gengar is an amazing pick for offensive teams, as it works wonders against more defensively oriented teams. Wallbreakers such as Keldeo, Landorus, Mega Gardevoir, and Mega Medicham that can take advantage of the switches Gengar forces against stall make good teammates, as the opponent's switch patterns often become predictable. Water- and Fighting-types such as Azumarill and Mega Heracross that appreciate having the likes of Mega Venusaur, Clefable, and Gliscor taken out make great teammates, as their jobs at breaking down the opposing team becomes much easier with Gengar breaking down their counters. Defensive, bulky Steel-types such as Ferrothorn and Scizor make good teammates due to their typing, as they both can come in on strong priority attacks that threaten Gengar.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "will-o-wisp",
+         "name": "Will-O-Wisp"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "disable",
+         "name": "Disable"
+        },
+        {
+         "gen": "xy",
+         "alias": "sludge_wave",
+         "name": "Sludge Wave"
+        },
+        {
+         "gen": "xy",
+         "alias": "taunt",
+         "name": "Taunt"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Utility Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Black Sludge",
+       "alias": "black_sludge",
+       "description": "Recovers 1/16 of max HP each turn for Poison-types. Damages all other types by 1/8 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 80,
+       "patk": 0,
+       "hp": 28,
+       "spatk": 148,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Substitute allows Gengar to play around its poor bulk; by using its typing's defensive attributes to force the opponent to attack, Gengar can get a free Substitute on Pokemon such as Chansey, Clefable, Gliscor, Venusaur, Ferrothorn, and Amoonguss. Substitute also works really well with Disable; even against Pokemon that can take Gengar out with multiple attacks, it blocks status moves as well as Sucker Punch, giving Gengar a free turn to dish out damage. Shadow Ball is Gengar's STAB move of choice, as its neutral coverage is unrivaled and it does pretty solid damage to most Pokemon, letting Gengar keep up the offensive pressure. Will-O-Wisp is a fantastic move in general, and on Gengar it is very valuable for pressuring defensive Pokemon, as well as severely crippling typical checks and counters, especially Pursuit, Shadow Sneak, and Sucker Punch users. Will-O-Wisp is almost always a great way to take advantage of a free turn, and it improves Gengar's utility against offensive teams.</p>\n<p>Taunt's ability to stop the opponent from phazing out Gengar's Substitutes, healing, setting up entry hazards, or using Defog turns it into a powerful stallbreaker; it also disrupts and cripples Pokemon that Gengar can't really damage when behind a Substitute, such as Chansey, Sylveon, specially defensive Hippowdon, specially defensive Heatran, and other extra resilient special walls, allowing a teammate to switch in easily or even Gengar to beat them outright. Sludge Wave provides reasonably good coverage with Shadow Ball and also lets Gengar act as a potent Fairy-type slayer. Disable prevents the opposing Pokemon from using the move they last used for three turns, allowing Gengar to prey upon opposing Pokemon that rely on one move to do significant damage to it, as well as completely shutting down slower Choice attackers. Dropping Will-O-Wisp decreases Gengar's effectiveness against offensive teams, but Taunt and Disable in tandem are a nightmare to stall-based teams, preventing the opponent from healing or clearing entry hazards while also completely shutting down mono-attacking sets that many stall Pokemon use.</p>\n<p>An alternative option in the last slot is Focus Blast, which provides perfect neutral coverage alongside Shadow Ball and lets Gengar patch up a weakness to Dark-types that attempt to beat it with Sucker Punch or Pursuit, or by virtue of their typing in general. Though Tyranitar and Bisharp are crippled by Will-O-Wisp, deterring them from switching in, it does not prevent Gengar from getting KOed in the process. If your team values Gengar to the point where sacrificing it is unacceptable, Focus Blast should be used.</p>\n<h4>Set Details</h4>\n<p>Black Sludge goes excellently with a set that ought to be creating a fair amount of free turns, and it is necessary for Substitute to be as effective as possible. An EV spread of 28 HP / 148 SpA / 80 SpD / 252 Spe with a Timid nature lets Gengar's Substitutes survive a minimum Special Attack Mega Venusaur's Giga Drain or Clefable's Moonblast, allowing Gengar to deal with these common threats much more easily. If this is not a massive concern, a simple spread with maximum Speed and Special Attack investment improves offensive capability while still being very effective against defense.</p>\n<h4>Usage Tips</h4>\n<p>Gengar's unpredictability means that a number of moves such as Will-O-Wisp and Taunt will often be a surprise. This lets Gengar act as a solid Taunt lead, as even Magic Coat users will falter. If you see opposing Smeargle, leading with Gengar is recommended. Against stall teams, Gengar is quite effective as it easily makes free Substitutes on stall staples such as Chansey, Hippowdon, Clefable, and Gliscor. This success is exponentially greater with entry hazards, as it often forces the opponent to switch around. Against stall teams, aggressive Stealth Rock use and getting Gengar into the fray is recommended.</p>\n<p>Against more offensive teams, Gengar isn't as great; however, its Speed can still be useful, so Ghost-weak Pokemon slower than Gengar can be easily checked, and Gengar's fast Will-O-Wisp can also be used to shut down slower attackers if necessary. Subsitute + Disable preys well upon opponents that have little to hit Gengar with outside of one coverage move, so scouting for sets with teammates or excessive Substitute use may be helpful. Disable prevents slower Choice attackers from doing anything at all, and again, scouting for these is valuable as it can buy Gengar free turns. Ferrothorn is easy prey for the Substitute + Disable set as it relies on just one attacking move to beat Gengar.</p>\n<h4>Team Options</h4>\n<p>When not using Focus Blast, a strong Fighting- or Fairy-type partner to beat Dark-types that make life a pain for Gengar is appreciated. Azumarill, Terrakion, and Keldeo are good choices for this in general. Gengar switches in to its immunities the best, so powerful attackers such as Life Orb Terrakion that put sufficient pressure on the opponent to use Fighting-, Normal-, or Ground-type moves despite Gengar's presence go well with it. Due to the fact that Gengar can effectively render opponents unable to damage it with Disable or Taunt and Substitute, it often forces the opponent to switch. As such, entry hazard stacking racks up damage very efficiently. Entry hazard setters such as Ferrothorn, Terrakion, Garchomp, or Landorus make great teammates as they can also indirectly punch holes in an opposing team. As damage from entry hazards accumulates, opponents may attempt to remove them. Opponents cannot Rapid Spin on Gengar to remove entry hazards thanks to its Ghost typing, but they may be able to use Defog if Gengar lacks Taunt. Bisharp is a solid partner to Gengar in this regard, as it can deter opponents from using Defog thanks to Defiant. This set is very good at stallbreaking when using Taunt, so insert it on teams that may struggle against this team archetype. The few viable stall Pokemon that can actually defeat Gengar such as specially defensive Heatran and Knock Off Gliscor, need to be dealt with by teammates. Hidden Power Ice Terrakion is a very good Gliscor lure, and Pokemon that can reliably deal with Heatran, such as Mega Charizard X, are also good teammates.</p>\n"
+    }
+   ],
+   "alias": "gengar",
+   "name": "Gengar",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "gengar"
+    },
+    {
+     "gen": "dp",
+     "alias": "gengar"
+    },
+    {
+     "gen": "gs",
+     "alias": "gengar"
+    },
+    {
+     "gen": "rb",
+     "alias": "gengar"
+    },
+    {
+     "gen": "rs",
+     "alias": "gengar"
+    },
+    {
+     "gen": "xy",
+     "alias": "gengar"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "astonish",
+     "name": "Astonish",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "body_slam",
+     "name": "Body Slam",
+     "description": "30% chance to paralyze.",
+     "pp": 15,
+     "power": 85
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 0,
+     "alias": "clear_smog",
+     "name": "Clear Smog",
+     "description": "Eliminates the target's stat changes.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "confuse_ray",
+     "name": "Confuse Ray",
+     "description": "Confuses the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "curse",
+     "name": "Curse",
+     "description": "Does 1/4 of max HP damage per turn at the cost of half the user's max HP if the user is a Ghost. Boosts Attack and Defense and lowers Speed by 1 stage otherwise.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "dark_pulse",
+     "name": "Dark Pulse",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "dazzling_gleam",
+     "name": "Dazzling Gleam",
+     "description": "Deals damage to all adjacent foes.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "destiny_bond",
+     "name": "Destiny Bond",
+     "description": "If the user faints, the foe faints.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "disable",
+     "name": "Disable",
+     "description": "Prevents the last move used from being used again for 2-5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "double-edge",
+     "name": "Double-Edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "drain_punch",
+     "name": "Drain Punch",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "dream_eater",
+     "name": "Dream Eater",
+     "description": "Leeches 50% of the damage dealt. Only works if target is asleep.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 50,
+     "alias": "dynamic_punch",
+     "name": "Dynamic Punch",
+     "description": "Confuses the foe.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "embargo",
+     "name": "Embargo",
+     "description": "Item use is prevented for five turns.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "energy_ball",
+     "name": "Energy Ball",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "explosion",
+     "name": "Explosion",
+     "description": "Faints the user.",
+     "pp": 5,
+     "power": 250
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "fire_punch",
+     "name": "Fire Punch",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "focus_punch",
+     "name": "Focus Punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "foul_play",
+     "name": "Foul Play",
+     "description": "Uses the target's Attack stat in damage calculation.",
+     "pp": 15,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "giga_drain",
+     "name": "Giga Drain",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "grudge",
+     "name": "Grudge",
+     "description": "If the user faints, the foe's attack loses all of its PP.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "haze",
+     "name": "Haze",
+     "description": "Eliminates all stat changes.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "headbutt",
+     "name": "Headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hex",
+     "name": "Hex",
+     "description": "Base Power doubles if target has a status ailment.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 60,
+     "alias": "hypnosis",
+     "name": "Hypnosis",
+     "description": "Puts the foe to sleep.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_punch",
+     "name": "Ice Punch",
+     "description": "10% chance to freeze the target.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "infestation",
+     "name": "Infestation",
+     "description": "Traps and damages target for 4-5 turns.",
+     "pp": 20,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "knock_off",
+     "name": "Knock Off",
+     "description": "Power is boosted 1.5x if user is holding a removable item. Removes the target's item.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "lick",
+     "name": "Lick",
+     "description": "30% chance to paralyze the target.",
+     "pp": 30,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mean_look",
+     "name": "Mean Look",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 75,
+     "alias": "mega_kick",
+     "name": "Mega Kick",
+     "description": "No additional effect.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "mega_punch",
+     "name": "Mega Punch",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "metronome",
+     "name": "Metronome",
+     "description": "Picks a random move.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "mimic",
+     "name": "Mimic",
+     "description": "Copies the last move used by the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "night_shade",
+     "name": "Night Shade",
+     "description": "Does damage equal to the user's level.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "nightmare",
+     "name": "Nightmare",
+     "description": "Does 1/4 of the target's max HP per turn to a sleeping target.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "ominous_wind",
+     "name": "Ominous Wind",
+     "description": "10% chance to boost all stats by 1 stage.",
+     "pp": 5,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "pain_split",
+     "name": "Pain Split",
+     "description": "Averages both Pokemon's HP.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "perish_song",
+     "name": "Perish Song",
+     "description": "All active Pokemon faint after 3 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "poison_jab",
+     "name": "Poison Jab",
+     "description": "30% chance to poison.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 80,
+     "alias": "psywave",
+     "name": "Psywave",
+     "description": "Does random damage equal to .5x-1.5x the user's level.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "reflect_type",
+     "name": "Reflect Type",
+     "description": "User becomes the same type as the target.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "role_play",
+     "name": "Role Play",
+     "description": "Copies the foe's ability and overwrites the user's ability.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "scary_face",
+     "name": "Scary Face",
+     "description": "Lowers Speed by 2 stages.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "seismic_toss",
+     "name": "Seismic Toss",
+     "description": "Does damage equal to the user's level.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "self-destruct",
+     "name": "Self-Destruct",
+     "description": "Faints the user.",
+     "pp": 5,
+     "power": 200
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_claw",
+     "name": "Shadow Claw",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "shadow_punch",
+     "name": "Shadow Punch",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "skill_swap",
+     "name": "Skill Swap",
+     "description": "The user and the target trade abilities.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge_bomb",
+     "name": "Sludge Bomb",
+     "description": "30% chance to poison.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "sludge_wave",
+     "name": "Sludge Wave",
+     "description": "10% chance to poison the target.",
+     "pp": 10,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 70,
+     "alias": "smog",
+     "name": "Smog",
+     "description": "40% chance to poison.",
+     "pp": 20,
+     "power": 30
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 0,
+     "alias": "snatch",
+     "name": "Snatch",
+     "description": "If certain moves are used, the user of Snatch uses the moves instead.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "spite",
+     "name": "Spite",
+     "description": "Lowers the PP of the move used last by 1-5.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "sucker_punch",
+     "name": "Sucker Punch",
+     "description": "The user always moves first. Will only work if the foe attacked.",
+     "pp": 5,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "taunt",
+     "name": "Taunt",
+     "description": "Forces the foe to use damaging moves for 2 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "telekinesis",
+     "name": "Telekinesis",
+     "description": "Lasts 3 turns and makes all moves hit the target.  Makes target immune to Ground-type moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "thief",
+     "name": "Thief",
+     "description": "Steals target's item.",
+     "pp": 25,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 70,
+     "alias": "thunder",
+     "name": "Thunder",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_punch",
+     "name": "Thunder Punch",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunderbolt",
+     "name": "Thunderbolt",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "torment",
+     "name": "Torment",
+     "description": "Prevents the target from using the same move twice in a row.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "trick",
+     "name": "Trick",
+     "description": "Switches items with the foe.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "trick_room",
+     "name": "Trick Room",
+     "description": "Slower Pokemon move first for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "uproar",
+     "name": "Uproar",
+     "description": "Repeats for 2-5 turns. No Pokemon can sleep during these turns.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "venoshock",
+     "name": "Venoshock",
+     "description": "Hits poisoned targets with double Base Power.",
+     "pp": 10,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 85,
+     "alias": "will-o-wisp",
+     "name": "Will-O-Wisp",
+     "description": "Burns the foe.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "wonder_room",
+     "name": "Wonder Room",
+     "description": "Swaps Defense and Special Defense of all Pokemon.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "gastly",
+     "name": "Gastly"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "haunter",
+       "name": "Haunter"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "gengar",
+         "name": "Gengar"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 65,
+     "height": 1.5,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Levitate",
+       "alias": "levitate",
+       "description": "This Pokemon is immune to Ground-type moves."
+      }
+     ],
+     "alias": "gengar",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "ghost",
+       "name": "Ghost"
+      },
+      {
+       "gen": "xy",
+       "alias": "poison",
+       "name": "Poison"
+      }
+     ],
+     "gkpower": 60,
+     "spdef": 75,
+     "hp": 60,
+     "spatk": 130,
+     "suffix": "",
+     "pdef": 60,
+     "weight": 40.5,
+     "spe": 110,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    },
+    {
+     "patk": 65,
+     "height": 1.4,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Shadow Tag",
+       "alias": "shadow_tag",
+       "description": "Traps opponents. Does not affect Pokemon with Shadow Tag."
+      }
+     ],
+     "alias": "gengar-mega",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "ghost",
+       "name": "Ghost"
+      },
+      {
+       "gen": "xy",
+       "alias": "poison",
+       "name": "Poison"
+      }
+     ],
+     "gkpower": 60,
+     "spdef": 95,
+     "hp": 60,
+     "spatk": 170,
+     "suffix": "Mega",
+     "pdef": 80,
+     "weight": 40.5,
+     "spe": 130,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

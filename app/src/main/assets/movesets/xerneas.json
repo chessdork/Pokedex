@@ -1,0 +1,1646 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "close_combat",
+         "name": "Close Combat"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_fire",
+         "name": "Hidden Power Fire"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder",
+         "name": "Thunder"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "aromatherapy",
+         "name": "Aromatherapy"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_fire",
+         "name": "Hidden Power Fire"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "All-Out Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 0.9,
+       "spe": 1.0
+      },
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 4,
+       "hp": 0,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set focuses on spamming Moonblast, which is frighteningly powerful due to the boosts from STAB and Fairy Aura. The rest of the moves are there solely for the purpose of removing Pokemon that can absorb Moonblast. Close Combat deals massive damage to Steel-types, and 2HKOes Chansey and Blissey. It is accurate and is also able to secure a 2HKO on Klefki. Hidden Power Fire lets Xerneas OHKO Scizor and Ferrothorn while 2HKOing Aegislash and Bronzong under sun. Thunder is inaccurate, but hits most Steel-types neutrally, OHKOes Ho-Oh if Stealth Rock is up, and OHKOes offensive Kyogre after it has switched into Stealth Rock twice. Rock Slide, unlike Thunder, OHKOes Ho-Oh even if Stealth Rock isn't up, but it doesn't do anything notable outside of that. Focus Blast deals massive damage to Steel-types, namely Heatran and Steel Arceus.  Aromatherapy is also an option on this set, and though it doesn't deal damage, Xerneas can use it to relieve a desperate team of crippling status conditions. As another bonus, Xerneas's offensive presence helps it score free turns to use Aromatherapy, something no other cleric can boast.  Xerneas can run specific moves to help beat down certain walls that it may come up against. Night Slash is a decent move because it is Xerneas's strongest move against Aegislash. Night Slash is the only move that Xerneas can use to reliably waltz around Aegislash, but it is vulnerable to King's Shield and only 3HKOes Aegislash at best. Grass Knot OHKOes support Rock and Water Arceus while hitting Kyogre hard.</p>\n<h4>Set Details</h4>\n<p>Life Orb provides a large boost to all of Xerneas's moves, but its recoil might make it undesirable on certain teams. Pixie Plate and Expert Belt are both viable alternatives to Life Orb, and they both allow Xerneas to bluff other sets, while Life Orb cannot. The boosts the two items provide, however, are smaller and less consistent than Life Orb. If Expert Belt is run, a spread of 140 Atk / 184 SpA / 184 Spe is recommended, as it allows Xerneas to 2HKO Chansey with Close Combat 100% of the time and outspeed base 90s.</p>\n<p>Xerneas can shift EVs from Speed into Attack to hit harder with its physical attacks. A spread of 70 Atk / 252 SpA / 184 Spe gives up Xerneas's ability to Speed tie with Yveltal and Genesect in exchange for a slightly more powerful Close Combat and Rock Slide. When boosted by Expert Belt, Rock Slide has a decent chance to OHKO offensive Ho-Oh, and when boosted by Life Orb, bears a higher chance to OHKO 252 HP Ho-Oh.</p>\n<p>Xerneas generally prefers a nature that boosts its Special Attack, as the power boost lets it do interesting things like 2HKO support Arceus. If Xerneas goes mixed, it generally runs a Mild nature, which reduces its Defense, as the Special Defense stat helps it better absorb a Dark Pulse or Oblivion Wing from Yveltal. However, a Rash nature can be run if an unhindered Defense stat is required by its team. A Special Attack-boosting nature is recommended on Xerneas to give Moonblast maximum power, but a Speed-boosting nature, such as Naive or Hasty, is also viable as it allows Xerneas to Speed tie with opposing Yveltal in exchange for a bit of power.</p>\n<h4>Usage Tips</h4>\n<p>Xerneas's main goal is not to sweep, but to break walls for its team by spamming strong Moonblasts. As such, it should not try to sweep unless the Pokemon on the other team are all slower than Xerneas. A teammate should try to capitalize from the holes Xerneas creates in the opposing team in order to sweep.</p>\n<p>Xerneas's bulk is reduced by its nature, so it should be very careful when switching in as to conserve its HP. However, at the same time, Xerneas should be switched in as often as possible to wear down enemy walls such as Aegislash. Xerneas should not be afraid to reveal that it has Night Slash or Hidden Power Fire, as the move can 3HKO Aegislash, but if Xerneas is holding an Expert Belt or a Pixie Plate, hiding the moves might be worth it. Due to its item, it can bluff a Choice Scarf set very well, and as such can help it secure additional KOs. For example, pretending that Xerneas is locked into Moonblast can be very useful for luring Ho-Oh out and OHKOing it with Rock Slide. The main idea of this set is to wreck walls and weaken Pokemon that can take a Moonblast in order to spam it later on. Therefore, if the opposing team has few Pokemon that can tank Moonblast, Moonblast should be spammed as often as possible.</p>\n<h4>Team Options</h4>\n<p>If the Xerneas user can correctly predict when Aegislash will switch in, then Xerneas can defeat it. However, because such prediction is difficult, Pokemon that can wear down Xerneas's counters for it are appreciated. Scizor is one of the best partners for Xerneas, as it is capable of trapping and killing Aegislash with the combination of Swords Dance and Pursuit. It can prevent Xerneas from losing momentum, and can act as a sweeper that takes advantage of the holes Xerneas busts in opposing teams. Mega Gengar can function similarly to Scizor, trapping Lugia and defeating it with Taunt and Shadow Ball. Life Orb Yveltal is like Mega Gengar in that it can easily defeat Xerneas's counters, but it cannot trap them. However, Yveltal gets U-turn, which can be used to grant Xerneas opportunities to switch in. In general, Pokemon that can provide offensive pressure are useful because they can keep Pokemon that wall Xerneas at bay. They can also provide momentum and help get Xerneas into play. Pokemon that can set up Stealth Rock are beneficial for Xerneas too, as Stealth Rock will damage Pokemon when Xerneas forces switches. Furthermore, Stealth Rock allows Xerneas to OHKO Ho-Oh with Thunder, and breaks Multiscale, preventing Lugia from absorbing Moonblast comfortably.</p>\n<p>The fact that most of Xerneas's counters are rather weak and have difficulty stopping other sweepers is particularly noteworthy. Combine this with Xerneas's ability to defeat walls on the opposing team, and it seems almost mandatory that Xerneas should be paired with a sweeper. Tailwind Zekrom is perhaps the best sweeper that can be partnered with Life Orb Xerneas, as it can defeat Lugia, Ho-Oh, and just about anything that walls Xerneas. Additionally, Zekrom can set up a Tailwind and use Volt Switch on most of Xerneas's counters, greatly aiding Xerneas in tormenting the other team. Tailwind provides Xerneas a boost to its Speed, making it an even more frightening threat, and Volt Switch provides momentum for the team.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "calm_mind",
+         "name": "Calm Mind"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder",
+         "name": "Thunder"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_fire",
+         "name": "Hidden Power Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Calm Mind",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 44,
+       "spatk": 240,
+       "pdef": 0,
+       "spe": 224
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Xerneas can choose to set up and sweep with Calm Mind instead of Geomancy. Although the boost Calm Mind provides is less immediate and does not affect Xerneas's Speed, the move is still is a viable option as it can be used multiple times in a match and does not restrict Xerneas's item choice. Moonblast is Xerneas's strongest STAB move and hits ridiculously hard after a boost. A boosted Thunder OHKOes Ho-Oh after Stealth Rock and hits most Steel-types, namely Bronzong, Aegislash, and Heatran, for neutral damage. Psyshock is also viable as it hits Poison-types, especially Amoonguss, very hard and can also OHKO Ho-Oh after Stealth Rock. Xerneas can use Substitute on this set much better than it can on the Geomancy set since Leftovers gives Xerneas passive recovery and the ability to make an extra Substitute. Substitute provides Xerneas with protection from Thundurus-I and Chansey's status moves and allows it to play mind games with Aegislash. Aegislash cannot use Toxic on Xerneas due to Substitute, so it will be forced to use Gyro Ball. In response, Xerneas can either use Substitute as Aegislash uses King's Shield or predict a second Gyro Ball and OHKO with Thunder. Focus Blast hits Steel-types super effectively and lets Xerneas smash huge holes in enemy Heatran and Ferrothorn, whereas Hidden Power Fire OHKOes Ferrothorn and 2HKOes Aegislash in the sun after a Calm Mind boost.</p>\n<h4>Set Details</h4>\n<p>Leftovers increases Xerneas's longevity and helps it make an extra Substitute, but other items such as Life Orb can be used too. Life Orb boosts the power of Xerneas's attacks, and after a Calm Mind, Life Orb Xerneas is about as powerful its Geomancy counterpart. The EV spread invests enough in HP for Xerneas to make Substitutes that can tank a Seismic Toss from Chansey and allows Xerneas to survive a boosted Extreme Speed from Silk Scarf Extreme Killer Arceus. The EVs in Speed are enough for it to outspeed all neutral-natured Rayquaza, Kyurem-W, and Kyurem-B, and the rest of the EVs are dumped into Special Attack to give Xerneas more power. If the team Xerneas is on can handle Chansey, then a Life Orb and a spread that maximizes Special Attack and Speed can be used. A Bold nature and a spread that maximizes HP and Defense is also viable to make Xerneas a bulky sweeper. Thanks to all the investment in its bulk, Xerneas is only 4HKOed by Aegislash's Gyro Ball. If such a spread is used, then Rest can be run in tandem with a Chesto Berry or Sleep Talk to restore Xerneas's HP. This Xerneas runs a Modest nature for the extra power, but if it is desired, a Timid nature can be used so that Xerneas will always outspeed Rayquaza, Kyurem-W, and Kyurem-B. Additionally, it will allow Xerneas to Speed tie with max Speed Yveltal and Xerneas, but it is generally inferior to a Modest nature due to the decrease in Xerneas's power and the boost it gives to an opposing Aegislash or Bronzong's Gyro Ball.</p>\n<h4>Usage Tips</h4>\n<p>Unlike with Geomancy, Xerneas can set up with Calm Mind after it has been forced out. However, Calm Mind does not increase Xerneas's Speed, so it should utilize the boost in order to power through a counter. Xerneas is not deemed useless if it is forced out in the process, so it should not be scared of enemy phazers. While Calm Mind lets Xerneas power through checks, it should be not used immediately. Xerneas should try to lure out and hit its counters as hard as it can and set up with Calm Mind to land the final blow. It should start sweeping only when it's sure it can beat its counters with a Calm Mind boost. It's best for Xerneas to set up a Calm Mind on a Pokemon that it can force out or has trouble breaking its Substitute. Alternatively, Calm Mind Xerneas can feign a defensive set, which it will appear to be running when Leftovers are shown, and then lure in Pokemon it can set up on.</p>\n<p>Because this Xerneas cannot boost its Speed, it has issues with revenge killers and Mega Gengar, so one should try to lure them out and kill them quickly. A Xerneas with Leftovers will excel at taking out Mega Gengar, as it can pretend to be a helpless defensive Xerneas and then proceed to smite it with a Psyshock. A Substitute can also help in combating revenge killers, as it will allow Xerneas to take a hit, retaliate, and then switch out.</p>\n<h4>Team Options</h4>\n<p>Good partners for Calm Mind Xerneas are similar to those for Geomancy Xerneas. However, unlike Geomancy Xerneas, Calm Mind Xerneas wants a Pursuit trapper for Gengar and defensive pivots that can take hits from revenge killers. Calm Mind Xerneas also appreciates the support of Life Orb Yveltal or Zekrom to break its counters. Mega Gengar and Scizor running Swords Dance and Pursuit also work well, as they can trap and KO Xerneas's counters. Stealth Rock is also greatly appreciated, as it breaks Lugia's Multiscale and allows Xerneas to KO Ho-Oh with an unboosted Thunder or a boosted Psyshock.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "megahorn",
+         "name": "Megahorn"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "close_combat",
+         "name": "Close Combat"
+        },
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        },
+        {
+         "gen": "xy",
+         "alias": "sleep_talk",
+         "name": "Sleep Talk"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Choice Scarf",
+     "natures": [
+      {
+       "spdef": 0.9,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Choice Scarf",
+       "alias": "choice_scarf",
+       "description": "Hold item which raises Speed by 50%, but locks holder into one move."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 76,
+       "hp": 0,
+       "spatk": 248,
+       "pdef": 0,
+       "spe": 184
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>A Choice Scarf boosts Xerneas's Speed to amazing levels, allowing Xerneas to revenge kill a great number of threatening sweepers in the tier. Moonblast is a strong STAB move that will leave a dent in any Pokemon that tries to switch in and prevents Mega Mewtwo X from sweeping. In fact, Xerneas can sweep late-game with Moonblast if the opposing team is sufficiently weakened. Megahorn OHKOes Mega Mewtwo Y and Focus Blast deals heavy damage to Steel-types that resist Moonblast, namely Heatran and Ferrothorn. Close Combat deals less damage to most Steel-types, but it 2HKOes Blissey. Rock Slide allows Xerneas to lure in and deal very heavy damage to Ho-Oh, which otherwise walls Xerneas. With Sleep Talk, Xerneas is one of the best Darkrai checks in the game, as it can absorb Dark Void and have a near 100% chance of OHKOing the fiend the next turn if it stays in.</p>\n<h4>Set Details</h4>\n<p>With a Choice Scarf, Xerneas can practically outspeed the entire unboosted Ubers metagame, giving it a great revenge killing utility and late-game sweeping potential. The current EV spread maximizes Xerneas's Special Attack and invests enough in Attack to guarantee an OHKO on Mega Mewtwo Y after Stealth Rock. The rest of the EVs are invested in Speed to make Xerneas as fast as possible. A spread that maximizes Special Attack and Speed is viable if Xerneas is focused on sweeping late-game with Moonblast, but only if the team already has a check to Mega Mewtwo Y. The greater Speed also helps against opposing Choice Scarf Xerneas and Yveltal. The EVs invested in Attack can be shifted from Special Attack instead of Speed, but doing so may make it harder for Xerneas to sweep, as it might fail to KO certain Pokemon. A Rash nature is used over Mild because decreasing Xerneas's defense will lead to an OHKO from a boosted Extreme Killer Arceus's Extreme Speed or a Life Orb Ho-Oh's Brave Bird. Meanwhile, decreasing Xerneas's Special Defense does not turn any 2HKOs into OHKOs. A Mild nature is not unviable though, as when Xerneas switches into Yveltal to check it, the nature will decrease the damage taken from Oblivion Wing. Xerneas can utilize a nature that increases its Speed, but this is unadvised, as it will weaken Moonblast and hurt Xerneas's ability to clean late-game.</p>\n<h4>Usage Tips</h4>\n<p>Xerneas should generally be switched in as the opposing Pokemon is setting up rather than when they are attacking. For example, Xerneas should try to switch into Mega Mewtwo X when it uses Bulk Up instead of when it uses Zen Headbutt. This preserves Xerneas's longevity, allows it check certain Pokemon continuously throughout a match, and gives it the ability to sweep late-game. If switching Xerneas in on a non-attacking move is impossible, it is recommended to sacrifice a Pokemon to get Xerneas in safely.</p>\n<p>Xerneas can absorb Darkrai's Dark Void and proceed to checkmate it with Sleep Talk, but doing this is not recommended when Xerneas is the only check to a Pokemon on the opposing team. When Xerneas is asleep, it will not be able to function as a reliable revenge killer, and so caution is advised if Xerneas is running Sleep Talk. In this situation, if it is impossible to prevent Xerneas from being put to sleep, it is best to try to stall out Xerneas's sleep turns so it can be more effective later on.</p>\n<p>Xerneas will generally be able to revenge kill at least one Pokemon before the opponent realizes it's holding a Choice Scarf. Afterwards, the opponent will generally switch to a counter in order to scout out the move Xerneas is locked into. To prevent Xerneas from becoming useless after its set is revealed, don't try to play it safe. Instead, attempt to predict the Pokemon that will come in. For example, if the opponent has a Ho-Oh in the wings and knows that Xerneas holds a Choice Scarf, then when Xerneas is out, it should use Rock Slide to whack the incoming Ho-Oh for solid damage.</p>\n<h4>Team Options</h4>\n<p>This Xerneas is a revenge killer, so it doesn't really need much support. However, partners to deal with the Pokemon that can tank Xerneas's hits can help reduce the need for prediction. Mega Gengar and Swords Dance Scizor with Pursuit excel in this role, as they can trap and KO certain Pokemon, such as Lugia, allowing Xerneas to revenge kill threats more reliably. Xerneas enjoys entry hazard support, especially Stealth Rock, which allows Xerneas to OHKO Ho-Oh with Rock Slide. Furthermore, Stealth Rock punishes opponents that switch out fearing they will be revenge killed, allowing Xerneas to better sweep through the opposing team.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "aromatherapy",
+         "name": "Aromatherapy"
+        },
+        {
+         "gen": "xy",
+         "alias": "roar",
+         "name": "Roar"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sleep_talk",
+         "name": "Sleep Talk"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 8,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Xerneas's unique typing and high HP stat let it run a bulky set capable of walling Dragon-types very well. Roar allows Xerneas to phaze out Pokemon that try to set up on it, whereas Aromatherapy allows Xerneas to cure the status conditions of the entire team. Xerneas's only form of recovery is Rest, but its bulk means that it is often able to survive the two turns of sleep. Sleep Talk prevents Xerneas from being completely helpless when asleep, and Moonblast can OHKO the Dragon-types that Xerneas checks. Due to Fairy Aura  Moonblast hits decently hard even without Special Attack investment, and can OHKO Zekrom and Rayquaza while 2HKOing Assault Vest Palkia. It is important to keep in mind that Xerneas will wake up if Sleep Talk selects Aromatherapy, making the sleep turns from Rest less of a nuisance.</p>\n<h4>Set Details</h4>\n<p>The given EV spread is designed to boost Xerneas's longevity as well as provide more healing from Leftovers, and 248 HP EVs are run instead of 252 HP EVs in order to lessen the damage it takes from Stealth Rock. A Calm nature and maximum investment in Special Defense let Xerneas check Palkia well. For reference, Hydro Pump from Lustrous Orb Palkia fails to 2HKO Xerneas while it can OHKO in return with Moonblast. Maximum investment in Defense instead of Special Defense is also an option, as it will allow Xerneas to check Zekrom nicely as well as avoid a 2HKO from Ho-Oh's Life Orb-boosted Brave Bird.</p>\n<h4>Usage Tips</h4>\n<p>This Xerneas's worst enemy is Mega Gengar, so be very cautious when playing against it. Xerneas can potentially beat Gengar by damaging it with Moonblast as it switches in, fleeing, smashing it on the switch again, and then KOing Mega Gengar after tanking a Sludge Wave.</p>\n<p>Due to Fairy Aura, Moonblast is strong even without investment, so you shouldn't be afraid to attack with Xerneas if it's needed. However, Xerneas shouldn't be played recklessly, and shouldn't be forced to stomach extremely powerful special attacks if other Pokemon can tank them better. While Rest heals Xerneas completely, it leaves Xerneas vulnerable for a few turns, so it should only be used when Xerneas is in a pinch. In a similar fashion, Aromatherapy and Roar should not be used recklessly with the idea that Xerneas can just heal itself later with Rest. For example, if you predict that a Gengar is coming in on Xerneas, use Moonblast instead of Aromatherapy. This is because Gengar isn't too much of a threat to Xerneas before it Mega Evolves, but later on, Mega Gengar will likely prevent Xerneas from doing much.</p>\n<p>Unlike with other sets, this Xerneas variant is quite slow and uncharacteristically bulky, and as a result, it can use Aromatherapy in front of most Pokemon that check its other sets. For example, Aegislash's Gyro Ball fails to land a 3HKO, meaning that Xerneas can safely use Aromatherapy before quickly switching out.</p>\n<h4>Team Options</h4>\n<p>Xerneas is supposed to check Pokemon for the team, so it doesn't need much team support. It appreciates Pokemon that can trap Gengar with Pursuit, such as Mega Scizor, Choice Band Scizor, and Tyranitar. However, Tyranitar takes heavy damage from Focus Blast. In return, Xerneas can use Aromatherapy to relieve burns that Tyranitar and Scizor might receive. Most importantly, Xerneas should not be used like an inferior Sylveon or Clefable, as it has more power, more physical bulk, and access to Roar. However, Xerneas cannot support its team with Wish, Sylveon has more special bulk than Xerneas, and Clefable has Unaware and Knock Off to harass certain setup sweepers.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "geomancy",
+         "name": "Geomancy"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunder",
+         "name": "Thunder"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "focus_blast",
+         "name": "Focus Blast"
+        },
+        {
+         "gen": "xy",
+         "alias": "hidden_power_fire",
+         "name": "Hidden Power Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Geomancy",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Power Herb",
+       "alias": "power_herb",
+       "description": "Removes the charge up turn from all moves. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 104,
+       "spatk": 252,
+       "pdef": 32,
+       "spe": 120
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>When used in conjunction with Power Herb, Geomancy allows Xerneas to raise its Special Attack and Speed to frightening levels in a single turn, making Xerneas a very potent sweeper. Moonblast is Xerneas's strongest and most reliable STAB move, and after a Geomancy, it essentially OHKOes anything that does not resist it unless the target has a ridiculous amount of special bulk. Substitute not only shields Xerneas from status, allowing it to better combat Chansey and Thundurus, but it also eases its ability to set up with Geomancy. Using Substitute forces the opponent to attack or phaze Xerneas out, and so they generally have to switch out or attack twice, giving Xerneas an opportunity to set up with Geomancy even after its Power Herb has been consumed. The rest of the moves provide coverage on Pokemon that a boosted Moonblast fails to OHKO. Thunder OHKOes Ho-Oh and Lugia after Stealth Rock, deals solid damage to specially defensive Kyogre, and whacks Steel-types that resist Moonblast, such as Heatran, Scizor, Bronzong, and Aegislash. Focus Blast rounds out coverage by massacring Steel-types that aren't Aegislash, Mega Scizor, or Bronzong. Hidden Power Fire hits Aegislash super effectively and reliably OHKOes Scizor and Ferrothorn, but does not do much else. Do note that although Hidden Power Fire hits Aegislash hard after a Geomancy, it cannot reliably land a 2HKO unless it is boosted by sun.</p>\n<p>Xerneas has one unlisted move that it can use on this set: Psyshock. Psyshock OHKOes Poison-types, namely Amoonguss and Poison Arceus, while providing Xerneas a way to 2HKO Calm Chansey. It also OHKOes Ho-Oh after it has taken Stealth Rock damage. However, using Psyshock is not always recommended, as it will significantly impair Xerneas's coverage.</p>\n<h4>Set Details</h4>\n<p>The current EV spread maximizes Xerneas's Special Attack and allows it to outspeed Mewtwo after its used Geomancy if Sticky Web is up. EVs are then placed into Defense to ensure opposing Genesect receive a Special Attack boost. The rest of the EVs are placed in HP to make Xerneas more bulky in general. Reallocating the HP EVs into Defense is an option to make Xermeas more physically bulky, primarily so it will take less damage from priority moves such as Arceus's Extreme Speed and Scizor's Bullet Punch. These EVs will also help Xerneas tank attacks including Gyro Ball and Iron Head from Steel-types that try to counter it such as Bronzong. However, this investment in Defense doesn't change any notable OHKOes into 2HKOes. If it is desired, the EVs in Defense can be reallocated to HP for better mixed bulk and to make it easier for Xerneas to better tank special hits. Fully investing in Speed and Special Attack is also a viable option, as it gives Xerneas some utility and allows it to outspeed things before it uses Geomancy. However, after a boost, the extra Speed is mostly superfluous, and it does nothing aside from allowing Xerneas to outrun a few Choice Scarf users such as Shaymin-S and Darkrai, which are beaten anyway due to Geomancy's Special Defense boost. Geomancy Xerneas runs a Modest nature so that its attacks are as strong as possible, allowing it to sweep teams more easily. If you fear an opposing Xerneas setting up Geomancy alongside yours, a Timid nature is usable so that Xerneas is at least guaranteed to Speed tie with it. However, there is not much else doing this accomplishes, and the loss of power is noticeable, as Xerneas now fails to do things like OHKO Lugia with a boosted Moonblast after Stealth Rock.</p>\n<h4>Usage Tips</h4>\n<p>While Geomancy is an excellent setup move at Xerneas's disposal, it requires Power Herb to be used, meaning that Xerneas can only set up with Geomancy once per game, unlike other sweepers that can set up multiple times throughout a match. As such, Xerneas should not use Geomancy until its checks have been weakened to the point that they can be brought down by Geomancy-boosted attacks. Using Geomancy too early in a match will be ineffective, as Xerneas will find itself unable to bypass certain walls. If needed, it can lure in its own counters, such as Choice Band Scizor, and hit them hard with coverage moves such as Focus Blast so that they can be KOed by a Geomancy-boosted attack later on.</p>\n<p>While Geomancy Xerneas is first and foremost a sweeper that can serve as an excellent win condition for a team, it should be noted that it has further utility. Being a Fairy-type, it has a very nice defensive typing, so it is capable of switching into a Zekrom's Outrage or a Giratina-O's Draco Meteor and threaten to KO with Moonblast. Although Power Herb is only used to make Geomancy viable, and is generally a bad item as it does not boost Xerneas's damage output, it's very useful for allowing Xerneas to bluff another set. As no text is shown until after Xerneas has used Geomancy, it can bluff a Choice Scarf very well, which can potentially let it snag an extra KO.</p>\n<h4>Team Options</h4>\n<p>Xerneas's primary focus is sweeping the opposing team, so partners that can weaken its counters or trap and kill them are appreciated. The most notable of these partners is Mega Gengar, which can trap and use Focus Blast to KO most Steel-types that resist Moonblast. It can also weaken Aegislash that lack Shadow Sneak and defeat Lugia through a combination of Taunt and STAB Shadow Ball. Chansey is also defeated by Mega Gengar, as it cannot hurt or escape from Mega Gengar and will be defeated by Focus Blast and Taunt. Yveltal is similar to Mega Gengar in that it can wear down all of Xerneas's counters, but it does not have the ability to trap them with Shadow Tag. Unlike Gengar, Yveltal can defeat Amoonguss and support Arceus formes, though. It should be noted that Stealth Rock support is very useful to Xerneas in general, as it not only helps wear down Xerneas's counters, but it drops most of them into OHKO range of Xerneas's attacks. For example, Stealth Rock will remove Lugia's Multiscale and a large chunk of its health, allowing Xerneas to OHKO it with a boosted Moonblast. This is also true for Ho-Oh, as after losing 50% of its HP to Stealth Rock, it can be KOed by Psyshock or Thunder.</p>\n<p>If Xerneas's sweep is halted, the Pokemon that stops it is most likely only good for tanking hits, which makes it, ironically, setup bait for another sweeper. For this reason, additional sweepers, primarily Tailwind Zekrom, are great partners for Xerneas, as they can pick up from where it left off and proceed to sweep the opposing team. Zekrom is a particularly good partner for Xerneas, as Xerneas can easily set up on any Amoonguss, Bronzong, or Aegislash weakened by Zekrom's assault, and it can also help break walls such as Ho-Oh and Amoonguss. As another plus, all of Zekrom's counters\u2014Hippowdon, Groudon, and Ground Arceus\u2014can't do much to Xerneas, which means the deer can potentially set up a Geomancy on them after they have taken considerable damage from Zekrom.</p>\n"
+    }
+   ],
+   "alias": "xerneas",
+   "name": "Xerneas",
+   "genfamily": [
+    {
+     "gen": "xy",
+     "alias": "xerneas"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "aromatherapy",
+     "name": "Aromatherapy",
+     "description": "Cures status on the user's team.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "aurora_beam",
+     "name": "Aurora Beam",
+     "description": "10% chance to lower Attack by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "calm_mind",
+     "name": "Calm Mind",
+     "description": "Boosts Special Attack and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "close_combat",
+     "name": "Close Combat",
+     "description": "Lowers user's Defense and Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "dazzling_gleam",
+     "name": "Dazzling Gleam",
+     "description": "Deals damage to all adjacent foes.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "echoed_voice",
+     "name": "Echoed Voice",
+     "description": "Power increases when used consecutively.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "flash_cannon",
+     "name": "Flash Cannon",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 0,
+     "alias": "geomancy",
+     "name": "Geomancy",
+     "description": "The user charges turn one, then sharply raises Special Attack, Special Defense, and Speed the next turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "gravity",
+     "name": "Gravity",
+     "description": "For 5 turns, prevents flying or jumping; also disables Ground immunities.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "hail",
+     "name": "Hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "heal_pulse",
+     "name": "Heal Pulse",
+     "description": "Heals the target by 50% its max HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "horn_leech",
+     "name": "Horn Leech",
+     "description": "Leeches 50% of the damage dealt.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 0,
+     "alias": "ingrain",
+     "name": "Ingrain",
+     "description": "Heals the user 1/16 its max HP each turn. Prevents the user from switching.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 85,
+     "alias": "megahorn",
+     "name": "Megahorn",
+     "description": "No additional effect.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 0,
+     "alias": "misty_terrain",
+     "name": "Misty Terrain",
+     "description": "For five turns, Grounded Pokemon cannot have major status problems or confusion inflicted on them by other Pokemon. Their Dragon-type moves are weakened by 50%.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "moonblast",
+     "name": "Moonblast",
+     "description": "Deals damage to one adjacent target with a 30% chance to lower its Special Attack by 1 stage.",
+     "pp": 15,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "nature_power",
+     "name": "Nature Power",
+     "description": "Attack changes based on terrain.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "night_slash",
+     "name": "Night Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "outrage",
+     "name": "Outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psyshock",
+     "name": "Psyshock",
+     "description": "Damage is based on the target's Defense stat.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "reflect",
+     "name": "Reflect",
+     "description": "Lowers damage from physical attacks for 5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "roar",
+     "name": "Roar",
+     "description": "Forces a switch to a random Pokemon.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "take_down",
+     "name": "Take Down",
+     "description": "Has 1/4 recoil.",
+     "pp": 20,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 70,
+     "alias": "thunder",
+     "name": "Thunder",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 110
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunderbolt",
+     "name": "Thunderbolt",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "xerneas",
+     "name": "Xerneas"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 131,
+     "height": 3.0,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Fairy Aura",
+       "alias": "fairy_aura",
+       "description": "Increases the power of all Fairy-type moves in battle to 1.3x."
+      }
+     ],
+     "alias": "xerneas",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fairy",
+       "name": "Fairy"
+      }
+     ],
+     "gkpower": 120,
+     "spdef": 98,
+     "hp": 126,
+     "spatk": 131,
+     "suffix": "",
+     "pdef": 95,
+     "weight": 215.0,
+     "spe": 99,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

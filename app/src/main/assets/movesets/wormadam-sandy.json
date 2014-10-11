@@ -1,0 +1,195 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [],
+   "alias": "wormadam-sandy",
+   "name": "Wormadam-Sandy",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "wormadam-sandy"
+    },
+    {
+     "gen": "dp",
+     "alias": "wormadam-sandy"
+    },
+    {
+     "gen": "xy",
+     "alias": "wormadam-sandy"
+    }
+   ],
+   "moves": [],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "wormadam-sandy",
+     "name": "Wormadam-Sandy"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 79,
+     "height": 0.5,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Anticipation",
+       "alias": "anticipation",
+       "description": "Alerts the Pokemon of certain dangerous moves."
+      },
+      {
+       "gen": "xy",
+       "name": "Overcoat",
+       "alias": "overcoat",
+       "description": "Grants immunity to damage from weather effects and powder moves."
+      }
+     ],
+     "alias": "wormadam-sandy",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "NU",
+       "alias": "nu",
+       "name": "Neverused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "bug",
+       "name": "Bug"
+      },
+      {
+       "gen": "xy",
+       "alias": "ground",
+       "name": "Ground"
+      }
+     ],
+     "gkpower": 20,
+     "spdef": 85,
+     "hp": 60,
+     "spatk": 59,
+     "suffix": "",
+     "pdef": 105,
+     "weight": 6.5,
+     "spe": 36,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

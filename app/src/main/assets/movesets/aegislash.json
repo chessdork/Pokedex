@@ -1,0 +1,1756 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "kings_shield",
+         "name": "King's Shield"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flash_cannon",
+         "name": "Flash Cannon"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sacred_sword",
+         "name": "Sacred Sword"
+        },
+        {
+         "gen": "xy",
+         "alias": "shadow_sneak",
+         "name": "Shadow Sneak"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Mixed Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Weakness Policy",
+       "alias": "weakness_policy",
+       "description": "Attack and Special Attack sharply increase when hit super effectively. Single use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 4,
+       "hp": 252,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>King's Shield is a must on all sets to allow Aegislash to capitalize on both its offensive and defensive stats. The move also allows Aegislash to halve an opponent's Attack when it is hit by a contact move. Shadow Ball and Flash Cannon are this set's main attacking moves. Shadow Sneak allows Aegislash to finish off faster weakened opponents, though the move is risky as it changes Aegislash into Blade forme at the start of the turn. Aegislash can run Sacred Sword instead, allowing it to attain perfect coverage in tandem with its Ghost-type moves.</p>\n<h4>Set Details</h4>\n<p>A Quiet nature and 0 Speed IVs ensure that Aegislash will usually move last, allowing it to tank an attack in Shield forme. Maximum investment in HP and Special Attack allows Aegislash to take many of the common super effective hits in the format and hit back hard with a boosted move. For example, Aegislash can survive a Sucker Punch from both Mega Mawile and Mega Kangaskhan as well as a Crunch or Dark Pulse from Tyranitar. After Weakness Policy is activated, Aegislash can utilize a +2 Flash Cannon or Shadow Ball to take down many of the most common Pokemon in the format and finish off weakened threats with Shadow Sneak. On the other hand, Lum Berry can be run to shield Aegislash from a status move, giving it slightly more room for error with King's Shield.</p>\n<h4>Usage Tips</h4>\n<p>Aegislash is effective in all stages of the game due to its huge bulk and high offensive stats. This being said, Aegislash should not be brought in prematurely, as although it is bulky, it cannot shrug off multiple super effective or boosted hits. Once certain threats have been taken care of, Aegislash can run rampant through the opposing team. As a result, you will often find that Aegislash is most useful late in the game. However, if you think that the opposing team cannot deal with Aegislash, it can function as a devastating lead, severely denting opposing Pokemon and allowing the rest of your team to clean up later.</p>\n<h4>Team Options</h4>\n<p>Aegislash needs Fire- and Ground-types to be taken down before it can function successfully. Because of this, Rotom-W, Tyranitar, and Garchomp are very good partners, as they all have good bulk and can take down the Pokemon that threaten it. Fighting-types such as Scrafty, Mienshao, and Conkeldurr are also good partners that can take on Dark-types.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flash_cannon",
+         "name": "Flash Cannon"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "sacred_sword",
+         "name": "Sacred Sword"
+        },
+        {
+         "gen": "xy",
+         "alias": "shadow_sneak",
+         "name": "Shadow Sneak"
+        },
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "kings_shield",
+         "name": "King's Shield"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Offensive Pivot",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Weakness Policy",
+       "alias": "weakness_policy",
+       "description": "Attack and Special Attack sharply increase when hit super effectively. Single use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 4,
+       "hp": 252,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Shadow Ball and Flash Cannon are Aegislash's primary attacks because they have good neutral coverage against almost the entire metagame, decent Base Power, and reliable accuracy. Substitute can be used in the third slot to take advantage of the switches Aegislash causes, allowing it to spam its great and powerful coverage moves with little to fear. In addition, Substitute compensates for King's Shield's inability to block status moves. Shadow Sneak allows Aegislash to pick off threats with low HP without having to take an attack beforehand. After a Weakness Policy boost, Shadow Sneak can pick off an even larger set of weakened threats, keeping offensive momentum on Aegislash's side. However, Sacred Sword is a good option instead of Shadow Sneak because it hits Bisharp, which hard-counters this set otherwise, for great damage. It also hits threats such as Mega Kangaskhan and Assault Vest Scrafty harder. Lastly, King's Shield is a must for this set because it reverts Aegislash back to its Shield forme, which allows Aegislash to take super effective hits safely, activating Weakness Policy. It also protects Aegislash from offensive strategies, stalls field conditions, and scouts for super effective coverage.</p>\n<h4>Set Details</h4>\n<p>Offensive Aegislash has two items that it can utilize well in Doubles: Leftovers and Weakness Policy. The first useable combination for Aegislash is Leftovers with Substitute, which drastically increases its longevity, allowing it to fire off many more decently powered attacks. However, Weakness Policy takes advantage of Shield forme Aegislash's outstanding bulk; it can tank a super effective hit it lures and deal massive damage back with a +2 attack. Weakness Policy works best with Shadow Sneak or Sacred Sword in the third moveslot, so Aegislash is able to cover many threats while attacking. The Weakness Policy set also really appreciates Trick Room, so Aegislash can outspeed and demolish many threats; Quiet Nature and 0 Speed IVs is used for this reason.</p>\n<h4>Usage Tips</h4>\n<p>If Aegislash is using Weakness Policy, it should focus on finding the right super effective attack to take in its Shield forme. Aegislash can survive almost any super effective attack in Doubles, but optimally, it should try to take a non-STAB super effective attack, such as a stray Knock Off or Earthquake used as coverage, so it still has enough bulk to maintain a long sweep. After a boost, Aegislash should spam its STAB attacks, KOing many threats with its neutral coverage. It is still wise to rotate between attacking and King's Shield so it can take more attacks. If a partner has set up Trick Room, Aegislash can have a field day outspeeding and smacking anything it wants. Shadow Sneak allows it to function very well even outside of Trick Room, taking out Pokemon that might have survived one of its STAB attacks. If Aegislash is using Leftovers, then it should focus on switching in on the many attackers it walls, setting up Substitute if advantageous, and spamming its STAB attacks. Rotating between Substitute and King's Shield goes a long way towards improving Aegislash's longevity, allowing it to stall out many field conditions and racking up Leftovers recovery.</p>\n<h4>Team Options</h4>\n<p>Offensive Aegislash requires more specific team support than the Wide Guard set. Trick Room support is highly encouraged, especially if it is using Weakness Policy; good partners to set it up are Aromatisse, Chandelure, and Slowking, which check Aegislash's Dark-, Fire-, and Ground-type weaknesses, respectively. Landorus-T, Suicune, Politoed, and Gyarados are all good partners to threaten the common Earthquake and Heat Wave users that run over Aegislash. Dark-types such as Assault Vest Scrafty and Tyranitar pair well with it and cover its Ghost- and Dark-type weaknesses. If Aegislash isn't using Sacred Sword, Mach Punch partners such as Conkeldurr and Breloom are recommended to handle Bisharp reliably. Helping Hand support allows Aegislash to deal significant damage, which can be crucial if Aegislash doesn't have a boost or needs to snipe a healthier threat with Shadow Sneak. Lastly, Follow Me / Rage Powder support lets Aegislash safely fire off attacks or set up Substitute with greater ease.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "kings_shield",
+         "name": "King's Shield"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flash_cannon",
+         "name": "Flash Cannon"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Special Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Weakness Policy",
+       "alias": "weakness_policy",
+       "description": "Attack and Special Attack sharply increase when hit super effectively. Single use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This is Aegislash's most common set, and for good reason, as it isn't completely dependent on using King's Shield every other turn. When behind a Substitute, Aegislash can attack on multiple turns in succession, and by correctly using King's Shield, it can maintain Substitute due to its great natural bulk. The attacking moves on this set are Aegislash's two main special STAB options. Running a fully special set might be advisable due to the omnipresence of Will-O-Wisp and Intimidate to check many of this generation's biggest threats, thereby limiting their impact on Aegislash.</p>\n<h4>Set Details</h4>\n<p>Maximum investment in HP allows Aegislash in Shield forme to take just about any move other than a STAB super effective hit, while the Special Attack EVs grant it more power. A Quiet nature boosts the strength of Aegislash's special moves and lowers its Speed, allowing it to attack after the opponent and tank hits in Shield forme. Leftovers improves Aegislash's longevity and can potentially allow it to get more than four Substitutes or stop it being 2HKOed. However, Aegislash can also run Weakness Policy to pick up extra KOs at +2.</p>\n<h4>Usage Tips</h4>\n<p>This set plays best towards the end of the match, as once Aegislash's checks and counters are removed, it can win matches by itself thanks to its great natural bulk. An ideal point to set up a Substitute is when facing Pokemon whose only means to hit Aegislash is with Sucker Punch, as this means it can get up a free Substitute unhindered. When Aegislash is behind a Substitute, King's Shield should still be used to weaken physical attackers and maintain the Substitute when appropriate, though it cannot be used twice in a row.</p>\n<h4>Team Options</h4>\n<p>Aegislash's main weaknesses to Fire- and Ground-type attacks are well covered by Garchomp and Rotom-W. Garchomp is better at clearing the field for Aegislash to come in later, as using Earthquake is counterproductive due to Aegislash's Steel typing. However, Rock Slide is very useful when it comes to removing Charizard from the field. Rotom-W supports Aegislash by weakening physical attackers with Will-O-Wisp and taking on many of its checks and counters with Hydro Pump and Thunderbolt. Dual screens support makes this set very hard to take down, as few attacks can break Aegislash's Substitute when it is in Shield forme. Dual screens also help to turn attacks from OHKOs and 2HKOs into 2HKOs or 3HKOs, respectively. Mega Kangaskhan has good offensive synergy with Aegislash, and can use Fake Out to help it set up a Substitute with greater ease.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "kings_shield",
+         "name": "King's Shield"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "gyro_ball",
+         "name": "Gyro Ball"
+        },
+        {
+         "gen": "xy",
+         "alias": "iron_head",
+         "name": "Iron Head"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "pursuit",
+         "name": "Pursuit"
+        },
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        },
+        {
+         "gen": "xy",
+         "alias": "shadow_sneak",
+         "name": "Shadow Sneak"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "stance_change",
+       "name": "Stance Change"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "name": "Specially Defensive",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 252,
+       "patk": 4,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>King's Shield allows Aegislash to scout, get more Leftovers recovery, and most importantly, change back to its Shield forme. It also allows it to lower the physicalAttack of anything that hits it with a contact move, most importantly during an opponent using Outrage. Toxic allows Aegislash to beat walls such as support Arceus and Lugia and synergizes well with King's Shield. It also lets Aegislash beat Substitute Ho-Oh if it hits it on the switch. Head Smash also beats Ho-Oh on the switch and does a lot of damage to Yveltal and Shaymin-S but means Aegislash loses the ability to Toxic any wall. Gyro Ball easily OHKOes a boosted Xerneas and can do chip damage to many faster Pokemon switching in, such as Darkrai. Iron Head is much more reliable but can never OHKO Xerneas even after Stealth Rock, though it always 3HKOes defensive Xerneas, which is barely 4HKOd by Gyro Ball. Shadow Ball hits some frailer Pokemon hard, but is too weak uninvested to do any major damage to bulkier Pokemon, failing even to take out a Substitute from Ho-Oh. Do note, however, that it does a lot of damage to Mewtwo, specifically Bulk Up Mega Mewtwo X, which Aegislash can live any hit from when near full health. It also 3HKOes Groudon and 2HKOs Landorus-T and Hippowdon, meaning they must be careful while switching in. Pursuit allows Aegislash to damage Mega Gengar as it switches, as it can not trap or OHKO Aegislash most of the time, even with Shadow Ball. Shadow Sneak can be used over Shadow Ball to revenge kill very weakened sweepers like Arceus-Ghost, but will not do any major damage otherwise. It does limit leads like Deoxys-A to a single layer of entry hazards, however.</p>\n<h4>Set Details</h4>\n<p>Leftovers synergizes well with King's Shield and is Aegislash's only form of recovery. The EVs and Sassy nature give Aegislash maximum special bulk without compromising either attacking stat; they should be used even without Shadow Ball to increase the power of Gyro Ball and lower its chances of being hit in Blade forme. Running max HP and Speed with a Jolly nature and Head Smash destroys any Ho-Oh with under 100 EVs, acting as an amazing lure, but this causes a lot of recoil and significantly reduces bulk, as well as forcing Aegislash to run Iron Head over Gyro Ball and Shadow Sneak over Shadow Ball.</p>\n<h4>Usage Tips</h4>\n<p>Stance Change gives a well-played Aegislash great bulk and power, but defensive Aegislash should not be taking unnecessary hits in either form due to lack of recovery. Aegislash is not going to wall everything and should not be the only defensive Pokemon on your team, so do not keep it in against something that can overpower it, such as Kyogre. If you can look at the opponent's team and see Aegislash is useless, then feel free to let it faint, but using King's Shield and dropping the opponent's Attack the turn before fainting can give a teammate a chance to set up as they are the opponent is forced to switch. Aegislash's STABs are weak without investment, so stick to spreading Toxic until it has to attack, because you don't want Aegislash to be stuck in Blade forme; outside of Pokemon like Gengar or Xerneas, it will mostly be doing only chip damage. Switching when in Blade forme allows Aegislash to come back in Shield forme. Attacking then switching allows Aegislash to get chip damage, then switch out without needing to use King's Shield. Play conservatively and avoid a burn, especially if you see a Xerneas, until you can scout what it's using and play around it. If it is running Substitute, you must be very careful about using King's Shield, because then Xerneas, while weakened and in range of revenge killing, will beat Aegislash 1-on-1.</p>\n<h4>Team Options</h4>\n<p>Defensive Ho-Oh resists Fire, is immune to Ground, and has good Special Defense to take hits from Yveltal, and Aegislash can take Rock-type moves for Ho-Oh, but neither can handle Kyogre. Landorus-T is immune to Earthquake, beats many common Fire-types, and can also set up Stealth Rock. A defensive Yveltal can beat Excadrill and Arceus-Ghost. Arceus-Rock beats Ho-Oh but also loses to Yveltal that have Focus Blast. Palkia can beat Kyogre, and Aegislash can take Dragon-type attacks for Palkia. Do not build around Aegislash, though; it is a utility Pokemon before anything else and should only be added to a team that needs it.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "wide_guard",
+         "name": "Wide Guard"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "shadow_ball",
+         "name": "Shadow Ball"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "flash_cannon",
+         "name": "Flash Cannon"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "kings_shield",
+         "name": "King's Shield"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Wide Guard Tank",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Lum Berry",
+       "alias": "lum_berry",
+       "description": "Cures status. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Sitrus Berry",
+       "alias": "sitrus_berry",
+       "description": "Restores 1/4 of the max HP when at 1/2 HP or less. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Wide Guard is an excellent support move in Doubles because spread attacks are extremely common. Aegislash is weak to some common spread attacks itself, such as Heat Wave and Earthquake, so both Aegislash and its partner can easily take advantage of its utility. In addition, Aegislash's STAB attacks have great coverage together. Shadow Ball and Flash Cannon both have decent Base Power and reliable accuracy, threatening almost the entire metagame with consistent damage. It's also notable that almost every Trick Room setter is weak to one of Aegislash's STAB attacks, making it a great lead against Trick Room teams. Lastly, King's Shield protects it from enemy attacks and reverts Blade forme Aegislash back into Shield forme allowing it to utilize both formes' offensive and defensive capabilities; the potential Attack drop with King's Shield is an added bonus that allows Aegislash to check most physical attackers. The only downside of using King's Shield instead of Protect is the vulnerability to status attacks.</p>\n<h4>Set Details</h4>\n<p>Aegislash's Speed is minimized with a Quiet nature and 0 Speed IVs to ensure that it tanks both of its opponent's attacks in Shield forme before switching to Blade forme. It also allows Aegislash to reliably check Trick Room teams. Sitrus Berry grants it decent longevity because it utilizes Aegislash's great bulk to turn many 2HKOs into 3HKOs. However, a Lum Berry also works well, patching up King's Shield's vulnerability to status attacks.</p>\n<h4>Usage Tips</h4>\n<p>This set is used best as a pivot, utilizing Aegislash's great typing and bulk in Shield forme to switch into many common threats in Doubles. It is common for Aegislash to lead against Trick Room teams due to its specific offensive coverage against the Ghost- and Fairy-types that commonly set it up. If Trick Room does get set up, Aegislash has a field day outspeeding and denting many Pokemon in the metagame. Wide Guard should be used when the opponent has an obvious Earthquake, Heat Wave, etc. to protect both itself and its partner from attacks, allowing Aegislash's partner to attack an enemy Pokemon or set up with little to fear. If Wide Guard support isn't necessary, then Aegislash should focus on firing off strong STAB attacks to deal key damage to its opponents. Aegislash should typically rotate between an attack and King's Shield so it never has to take an attack in its frail Blade forme. King's Shield also acts as makeshift Attack control, checking any physical sweeper with attacks that make contact. However, it is common for threats to set up boosting moves or Substitute on predicted King's Shields, so overusage can undermine Aegislash's defensive capabilities.</p>\n<h4>Team Options</h4>\n<p>First and foremost, anything that appreciates Wide Guard support makes a great partner for this set. This includes Mega Pinsir (which is weak to Heat Wave), Heatran (which is weak to Earthquake), Mega Charizard Y (which is weak to Rock Slide), and much more. Synergy wise, Terrakion beats the Dark- and Fire-types that threaten Aegislash, while it covers Terrakion's Fairy-, Fighting-, and Steel-type weaknesses in return. While Aegislash does block Heat Wave and Earthquake, it has no way to beat their users offensively. So, partners that beat users of these moves, such as Water-types, pair well with it. Because Aegislash functions well in Trick Room, partners such as Aromatisse, Chandelure, and Jellicent can help set it up.</p>\n"
+    }
+   ],
+   "alias": "aegislash",
+   "name": "Aegislash",
+   "genfamily": [
+    {
+     "gen": "xy",
+     "alias": "aegislash"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 0,
+     "alias": "aerial_ace",
+     "name": "Aerial Ace",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "autotomize",
+     "name": "Autotomize",
+     "description": "Boosts user's Speed by 2 stages. Reduces user's weight.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 95,
+     "alias": "cut",
+     "name": "Cut",
+     "description": "No additional effect.",
+     "pp": 30,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 0,
+     "alias": "destiny_bond",
+     "name": "Destiny Bond",
+     "description": "If the user faints, the foe faints.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "false_swipe",
+     "name": "False Swipe",
+     "description": "Always leaves the foe with at least 1 HP.",
+     "pp": 40,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "flash_cannon",
+     "name": "Flash Cannon",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "gyro_ball",
+     "name": "Gyro Ball",
+     "description": "Does damage based on the foe's Speed and the user's Speed.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "head_smash",
+     "name": "Head Smash",
+     "description": "Has 1/2 recoil.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "iron_defense",
+     "name": "Iron Defense",
+     "description": "Boosts Defense by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "iron_head",
+     "name": "Iron Head",
+     "description": "30% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 0,
+     "alias": "kings_shield",
+     "name": "King's Shield",
+     "description": "Protects the user from attacks. Contactors get their Attack lowered by 2 stages. Priority +4",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 85,
+     "alias": "metal_sound",
+     "name": "Metal Sound",
+     "description": "Lower's Special Defense by 2 stages.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "night_slash",
+     "name": "Night Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "power_trick",
+     "name": "Power Trick",
+     "description": "Swaps user's Attack and Defense stats.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "pursuit",
+     "name": "Pursuit",
+     "description": "Doubles in power if the target switches, and hits them before they can escape.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "reflect",
+     "name": "Reflect",
+     "description": "Lowers damage from physical attacks for 5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "retaliate",
+     "name": "Retaliate",
+     "description": "Power doubles if the user's teammate fainted the previous turn.",
+     "pp": 5,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "sacred_sword",
+     "name": "Sacred Sword",
+     "description": "Ignores the target's stat changes.",
+     "pp": 15,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_claw",
+     "name": "Shadow Claw",
+     "description": "Has a high critical hit rate.",
+     "pp": 15,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_sneak",
+     "name": "Shadow Sneak",
+     "description": "The user always attacks first.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "slash",
+     "name": "Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swords_dance",
+     "name": "Swords Dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "tackle",
+     "name": "Tackle",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "wide_guard",
+     "name": "Wide Guard",
+     "description": "Protects user and allies from multi-target attacks.",
+     "pp": 10,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "honedge",
+     "name": "Honedge"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "doublade",
+       "name": "Doublade"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "aegislash",
+         "name": "Aegislash"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 50,
+     "height": 1.7,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Stance Change",
+       "alias": "stance_change",
+       "description": "Only affects Aegislash. If this Pokemon uses a Physical or Special move, it changes to Blade forme. If this Pokemon uses King's Shield, it changes to Shield forme."
+      }
+     ],
+     "alias": "aegislash",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Uber",
+       "alias": "uber",
+       "name": "Uber"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "ghost",
+       "name": "Ghost"
+      },
+      {
+       "gen": "xy",
+       "alias": "steel",
+       "name": "Steel"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 150,
+     "hp": 60,
+     "spatk": 50,
+     "suffix": "",
+     "pdef": 150,
+     "weight": 52.0,
+     "spe": 60,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    },
+    {
+     "patk": 150,
+     "height": 1.7,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Stance Change",
+       "alias": "stance_change",
+       "description": "Only affects Aegislash. If this Pokemon uses a Physical or Special move, it changes to Blade forme. If this Pokemon uses King's Shield, it changes to Shield forme."
+      }
+     ],
+     "alias": "aegislash-blade",
+     "tags": [],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "ghost",
+       "name": "Ghost"
+      },
+      {
+       "gen": "xy",
+       "alias": "steel",
+       "name": "Steel"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 50,
+     "hp": 60,
+     "spatk": 150,
+     "suffix": "Blade",
+     "pdef": 50,
+     "weight": 52.0,
+     "spe": 60,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        }
+       ],
+       "modifier": 0.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        }
+       ],
+       "modifier": 0.25
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

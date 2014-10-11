@@ -1,0 +1,1999 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "drain_punch",
+         "name": "Drain Punch"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "mach_punch",
+         "name": "Mach Punch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_punch",
+         "name": "Ice Punch"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "guts",
+       "name": "Guts"
+      },
+      {
+       "gen": "xy",
+       "alias": "iron_fist",
+       "name": "Iron Fist"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Assault Vest",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Assault Vest",
+       "alias": "assault_vest",
+       "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 144,
+       "patk": 152,
+       "hp": 108,
+       "spatk": 0,
+       "pdef": 104,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Drain Punch is Conkeldurr's main STAB attack on this set. It recovers 50% of the damage dealt, but it often doesn't do enough damage to regain much HP, due to its relatively low Base Power. However, it still hits common threats like Tyranitar, Bisharp, Mega Kangaskhan, and Heatran for super effective damage. Mach Punch is useful for revenge killing weakened opponents while still doing a fair bit of damage to other Pokemon. Knock Off provides solid coverage against Ghost- and Psychic-types, hits very hard when the opponent has an item, and also removes said item. Ice Punch also provides strong coverage against bulky Ground- and Flying-types, most notably Landorus-T, as well as Dragon-types like Garchomp and Salamence.</p>\n<h4>Set Details</h4>\n<p>Assault Vest boosts Conkeldurr's Special Defense to good levels, allowing it to take special hits for longer while recovering health with Drain Punch. The EV spread allows Conkeldurr to survive a Psyshock from a Life Orb Latios, as well as two Heat Waves from 252 Timid Mega Charizard Y with Drought active, while keeping as many EVs as possible left over for more attacking power. An Adamant nature gives Conkeldurr as much power as possible. If Conkeldurr is being used in tandem with Trick Room, use 0 Speed IVs and a Brave nature. Iron Fist boosts the power of all of Conkeldurr's attacks, except for Knock Off. Guts is also viable as it turns burns and other status conditions into an advantage to power up all of Conkeldurr's attacks, Knock Off included. It also allows Conkeldurr to become a potential status absorber that can freely switch into Thunder Wave or Will-O-Wisp and gain an Attack boost.</p>\n<h4>Usage Tips</h4>\n<p>This set can be used in and out of Trick Room, and functions well in both, but the Trick Room support is very useful, as Trick Room lets Conkeldurr's low base Speed become an advantage. It can also easily take hits from both physical and special attackers and do a lot of damage back with an Iron Fist-boosted Drain Punch or Ice Punch, letting it stay in on Pokemon like Ludicolo and deal more damage to them. Mach Punch should be used right before Conkeldurr is about to be knocked out or as chip damage to finish off weakened opponents. However, if you suspect the opponent has a Quick Guard user, do not use Mach Punch, as this will waste your turn and leave Conkeldurr vulnerable. Because Assault Vest does not allow the use of Protect on this set, Conkeldurr must be played carefully, as there is no way to protect it from incoming attacks.</p>\n<h4>Team Options</h4>\n<p>Trick Room users, such as Cresselia and Jellicent, are naturally good partners for Conkeldurr, as they can set up Trick Room with ease due to their bulk and let Conkeldurr take advantage of its low base Speed. They also appreciate Conkeldurr removing Dark- and Ghost-types like Tyranitar and Chandelure with Drain Punch and Knock Off, respectively. Cresselia in particular is a good Trick Room user for Conkeldurr, as it can provide useful Helping Hand support to boost Conkeldurr's attacks, set up Reflect to soften physical attacks, and use Psyshock to deal with Conkeldurr's checks, such as Amoonguss. Intimidate users, like Salamence, Gyarados, and Landorus-T, are good partners too, as they can weaken opposing physical attackers, which can deal a lot of damage to Conkeldurr. A notable partner here is Mega Manectric. Once it has Mega Evolved, it has the ability Intimidate, but it also provides a good switch-in to Talonflame, a huge threat to Conkeldurr. Steel-types can take Fairy-, Psychic-, and Flying-attacks aimed at Conkeldurr too, with Jirachi being especially good at this, as it can redirect them completely with Follow Me and absorb the hits with ease while also hitting Fairy-types for super effective damage. Heatran is another good partner as it completely walls Talonflame as well. Electric-types are also good partners, as they can beat the Flying-types that cause such problems to Conkeldurr. Rotom-W is a solid option, as it resists Talonflame's STAB Flare Blitz and Brave Bird.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "drain_punch",
+         "name": "Drain Punch"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "mach_punch",
+         "name": "Mach Punch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_punch",
+         "name": "Ice Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "poison_jab",
+         "name": "Poison Jab"
+        },
+        {
+         "gen": "xy",
+         "alias": "stone_edge",
+         "name": "Stone Edge"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "guts",
+       "name": "Guts"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Assault Vest",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Assault Vest",
+       "alias": "assault_vest",
+       "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 236,
+       "patk": 252,
+       "hp": 0,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 20
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Drain Punch is Conkeldurr's main STAB move, providing 50% of the damage dealt as recovery. Mach Punch gives Conkeldurr priority and can be used to pick off weakened opponents. Ice Punch gives Conkeldurr excellent coverage against bulky Ground- and Flying-types such as Gliscor and Landorus-T, as well as Dragon-types such as Latios and Latias. Knock Off cripples any Pokemon, as none appreciate losing their item. It also allows you to take on Stall Breaker Mew with ease. Stone Edge allows Conkeldurr to take out its common checks such as Pinsir, Talonflame, and Charizard on the switch. Poison Jab is a great move on Conkeldurr, allowing it to deal massive damage to Fairy-types, most notably Azumarill and Clefable, which are both 2HKOed after a bit of prior damage.</p>\n<h4>Set Details</h4>\n<p>Conkeldurr is a tank, taking hits while hitting back like a truck. Assault Vest is the item of choice as it raises Conkeldurr's Special Defense greatly, allowing it to take attacks from powerful special attackers such as Mega Charizard Y and Thundurus. An Adamant nature and maximum Attack investment allows Conkeldurr to hit hard with its great coverage. 20 Speed EVs allows it to outpace opposing Conkeldurr and Hippowdon, allowing Conkeldurr to potentially beat Hippowdon one-on-one if Guts is activated. The rest of the EVs are put in Special Defense to maximize bulk, allowing Conkeldurr to take hits from the aforementioned specially offensive threats. Guts allows Conkeldurr to freely switch into common status moves such as Thunder Wave and Will-O-Wisp from Pokemon such as Thundurus and Rotom-W, giving Conkeldurr a free Attack boost, and with Assault Vest, Conkeldurr is easily able to take them on.</p>\n<h4>Usage Tips</h4>\n<p>Thanks to Assault Vest, switching into special attackers without strong super effective STAB moves is of little concern for Conkeldurr. Keep in mind that Conkeldurr's only form of recovery is Drain Punch, which is not always reliable, so Conkeldurr should be kept healthy if it is needed to check special threats. Conkeldurr isn't really a Pokemon that you can base a team around, but it can fit on many offensive or balanced teams. It can easily switch into status moves from common Pokemon such as Heatran, Thundurus, and Rotom-W while recovering any damage done with Drain Punch. Don't be afraid to make a prediction and fire off the appropriate coverage move to hit a switch-in hard. Conkeldurr is a Pokemon that forces a lot of switches, so firing off repeated Drain Punches can allow your opponent to freely switch in threats that can outspeed and take out Conkeldurr such as Latios.</p>\n<h4>Team Options</h4>\n<p>Conkeldurr appreciates teammates that can come in on strong Flying- and Fairy-type attacks aimed at it. Rotom-W is an excellent partner, as it can take attacks from Talonflame and Mega Pinsir, has Pain Split to recover back the damage, and is also a great switch-in to Azumarill, which otherwise threatens Conkeldurr. Landorus-T is also a nice choice as it comes in on Flying-type moves, shrugs off the damage, and is able to set up Stealth Rock or pivot out with U-turn, which also allows Conkeldurr to easily switch into common Landorus-T counters such as Rotom-W. Latias is another notable choice as it comes in on Mega Venusaur and Choice Specs Keldeo, which threaten Conkeldurr, and is able to knock them out. Latias also provides Defog support as well as a switch-in to Landorus, which can threaten Conkeldurr with Psychic. Be wary of Knock Off variants though. Partners such as Bisharp and Tyranitar that can trap and take on strong Psychic-types are also excellent partners, paving the way for Conkeldurr to do major damage. Heatran provides Conkeldurr with Stealth Rock support and also shrugs off hits from Clefable, Sylveon, and Mega Venusaur, barring Earthquake. Clefable and Kyurem-B are also nice teammates as they are able to take on Greninja and Mega Venusaur, while the former can also set up Stealth Rock.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "mach_punch",
+         "name": "Mach Punch"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "drain_punch",
+         "name": "Drain Punch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "detect",
+         "name": "Detect"
+        },
+        {
+         "gen": "xy",
+         "alias": "wide_guard",
+         "name": "Wide Guard"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "guts",
+       "name": "Guts"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Standard",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 0.9,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      },
+      {
+       "gen": "xy",
+       "name": "Persim Berry",
+       "alias": "persim_berry",
+       "description": "Cures confusion. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 252,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set is almost identical from last season, except Rock Slide is used for coverage instead of Ice Punch. With Rock Slide, Conkeldurr can now take out Mega Charizard Y and Talonflame, if it can tank a hit from them. Mach Punch is used as a strong priority STAB move. Drain Punch is another strong STAB move that allows Conkeldurr to heal itself. Detect can be used to stall a turn out, a standard move in VGC. If you do not wish to go for Detect, you can also opt for Wide Guard in order to block the ever-so-common spread moves.</p>\n<h4>Set Details</h4>\n<p>Conkeldurr has two options for the item slot this season. A Persim Berry will deal with any Swagger users that might be running amok, while Leftovers is a solid item for recovery each turn. The chosen ability is Guts because Will-O-Wisp now has a higher accuracy and is more commonly seen. Because of this, opponents will think twice before using it on Conkeldurr. This EV spread is used to maximize damage output while increasing overall bulk. Therefore, full investment in Attack and HP is chosen, with the last 4 points going into Special Defense. Lastly, Adamant is the nature of choice as it increases Attack.</p>\n<h4>Usage Tips</h4>\n<p>Conkeldurr is relatively straightforward in how it is to be played. First, make sure counters such as Talonflame are out of the way. After that, Conkeldurr should be free to go in thanks to its bulk and ability to regain health with Drain Punch. With Mach Punch, Conkeldurr is able to clean up or even completely take out Pokemon before they get the chance to attack. The only thing to really be wary of is Conkeldurr being double targeted.</p>\n<h4>Team Options</h4>\n<p>This standard set has a few team options that stand out. Scizor is a fantastic teammate for Conkeldurr because when two immensely strong priority moves are put together, the rate at which damage is coming out will be high. Another good teammate for Conkeldurr is Bisharp, as Conkeldurr doesn't have a way to deal with Intimidate. In addition to that, Bisharp has a nice STAB priority move in Sucker Punch. Lastly, Conkeldurr benefits from Rage Powder support given by Amoonguss. One Rage Powder can give Conkeldurr the chance to take out Talonflame.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "drain_punch",
+         "name": "Drain Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "hammer_arm",
+         "name": "Hammer Arm"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "mach_punch",
+         "name": "Mach Punch"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_punch",
+         "name": "Ice Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "knock_off",
+         "name": "Knock Off"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "detect",
+         "name": "Detect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "guts",
+       "name": "Guts"
+      },
+      {
+       "gen": "xy",
+       "alias": "iron_fist",
+       "name": "Iron Fist"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Trick Room Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 80,
+       "patk": 252,
+       "hp": 96,
+       "spatk": 0,
+       "pdef": 80,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>On this set, Hammer Arm is a better option than Drain Punch, as it is a stronger STAB attack and lowers Conkeldurr's Speed by one stage, making Conkeldurr even faster in Trick Room. However, Drain Punch is still an option if you would rather have longevity over raw power. Mach Punch is useful for revenge killing weakened Pokemon and outspeeds other priority users under Trick Room, like Talonflame, allowing Conkeldurr to pick them off. However, Talonflame can only be picked off if it is at low health, and will usually beat Conkeldurr one-on-one. Ice Punch provides good coverage against bulky Ground- and Flying-types, like Landorus-T and Mega Pinsir, as well as Dragon-types like Latios. Knock Off is also a viable option as it provides coverage against Ghost- and Psychic-types, which are immune to and resist Conkeldurr's STAB moves, respectively. Knock Off also removes key items from opposing Pokemon. Detect is used here over Protect on the off chance that the opponent has Imprison, as Detect has a far lower distribution. However, it has the same effect as Protect, shielding Conkeldurr from attacks, scouting for moves, and stalling out field conditions, and will serve just as effectively.</p>\n<h4>Set Details</h4>\n<p>Life Orb is the item choice here, as it boosts Conkeldurr's power, making the most of the limited turns of Trick Room Conkeldurr has. The EV spread lets Conkeldurr survive Zen Headbutt from a 252 Adamant Metagross after taking one round of Life Orb recoil, with the rest of the EVs invested in Special Defense for bulk. A Brave nature gives Conkeldurr as much power as possible while making Conkeldurr as slow as possible, as it should be operating under Trick Room. 0 Speed IVs also makes Conkeldurr very slow, allowing it to outspeed as many Pokemon as possible while Trick Room is active. Iron Fist boosts the power of all of Conkeldurr's attacks except for Knock Off, and is useful to give Conkeldurr more power. Guts is also viable as it turns burns and other status conditions into an advantage to power up all of Conkeldurr's attacks, Knock Off included.</p>\n<h4>Usage Tips</h4>\n<p>This set was made to be effective in Trick Room, so the support is necessary. You should aim to have Conkeldurr in by the turn that Trick Room is set, as that way, you don't waste any turns trying to switch it in. Hammer Arm should be the go-to move when under Trick Room, as it does a lot of damage with a Life Orb and Iron Fist boost. It also lowers Conkeldurr's Speed by one stage each time it is used, and so it is recommended that you use it at least once so Conkeldurr can outspeed even slower Pokemon under Trick Room. Being under Trick Room means Conkeldurr can stay in on Pokemon it wouldn't normally be able to, like Latios, and deal lots of damage with the correct attack. Mach Punch should be used to finish off opponents at low health and against opposing priority users, as they will ignore Trick Room. On the other hand, if you suspect that the opponent has a Quick Guard user, do not use Mach Punch, as this will waste your turn and leave Conkeldurr vulnerable.</p>\n<h4>Team Options</h4>\n<p>Trick Room users, such as Cresselia and Jellicent, are a must for Conkeldurr here. They also appreciate Conkeldurr removing Dark- and Ghost-types like Tyranitar and Chandelure, with Drain Punch and Knock Off, respectively. Cresselia in particular is a good Trick Room user for Conkeldurr, as it can provide useful Helping Hand support to boost Conkeldurr's attacks, set up Reflect to soften Physical attacks, and use Psyshock to deal with a few of Conkeldurr's checks too, like Amoonguss. Intimidate users, like Mawile, are good partners, as they can help Conkeldurr take physical attacks better. Mega Mawile has a low base Speed as well, letting it abuse Trick Room alongside Conkeldurr. Steel-types can take Fairy-, Psychic-, and Flying-type attacks aimed at Conkeldurr, with Jirachi being especially good at this, as it can redirect them completely with Follow Me, absorb the hit with ease, and use Iron Head to hit Fairy-type Pokemon that threaten Conkeldurr. Heatran is another good partner as it completely walls Talonflame. Electric-types are also good partners, as they can beat the Flying-types that cause such problems to Conkeldurr. Mega Ampharos is a very good choice here, as it resists both of Talonflame's STAB attacks while being able to OHKO it with a Thunderbolt. It also has a low base Speed, so it can use Trick Room like Conkeldurr. Amoonguss also gets a mention as a good partner, as even though it has poor defensive synergy (both are weak to Flying-type attacks), it can put many of Conkeldurr's checks to sleep with Spore under Trick Room.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "mach_punch",
+         "name": "Mach Punch"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "drain_punch",
+         "name": "Drain Punch"
+        },
+        {
+         "gen": "xy",
+         "alias": "hammer_arm",
+         "name": "Hammer Arm"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "rock_slide",
+         "name": "Rock Slide"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "detect",
+         "name": "Detect"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison_jab",
+         "name": "Poison Jab"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "iron_fist",
+       "name": "Iron Fist"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "VGC14",
+       "alias": "vgc14",
+       "name": "VGC14"
+      }
+     ],
+     "name": "Trick Room Attacker",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 1.1,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Assault Vest",
+       "alias": "assault_vest",
+       "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves."
+      },
+      {
+       "gen": "xy",
+       "name": "Life Orb",
+       "alias": "life_orb",
+       "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 252,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>This set is based around Conkeldurr having extremely low Speed. Mach Punch is still needed as STAB priority. Drain Punch is still an option but Hammer Arm fits better in a Trick Room set because it has a higher Base Power, is still boosted by Iron Fist, and lowers Speed even more. Drain Punch is still a good choice because it is a reliable form of recovery. Rock Slide is used for coverage against Pokemon like Mega Charizard Y and other Flying-types. The last slot has two viable options. Poison Jab can help take care of Fairy-types while Detect is still a good move to stall turns out, which is useful when Trick Room needs to be set up.</p>\n<h4>Set Details</h4>\n<p>There are two great item choices for this set. Life Orb increases damage output while Assault Vest can add survivability on the special side. Iron Fist is the chosen ability in order to boost Mach Punch as well as Drain Punch. However, this does make burns more of a worry. The EVs give Conkeldurr maximized Attack as well as added bulk. A Brave nature boosts Attack while lowering Speed, which is ideal for a Trick Room. 0 IVs in Speed will lower Speed even more.</p>\n<h4>Usage Tips</h4>\n<p>Conkeldurr is a great revenge killer thanks to Mach Punch, so take advantage of that. Because its low Speed makes it move first, Conkeldurr becomes a fearsome sweeper, so make sure that when Trick Room is up, Conkeldurr will keep on attacking. The turn you set up Trick Room, make sure Conkeldurr uses Detect, granted you choose to run it. Make sure that Conkeldurr's counters are out of the way before bringing it in.</p>\n<h4>Team Options</h4>\n<p>Due to the fact that Trick Room is a huge part of this set, Conkeldurr's list of team options increases. Slowking is great as it can take care of Talonflame and set up Trick Room. Escavalier is another good Trick Room sweeper. Bisharp can keep Psychic-types at bay and has a STAB priority move. Amoonguss brings Rage Powder support and also benefits from the effects of Trick Room. Lastly, Aromatisse is a tanky Fairy-type that brings Trick Room and can support with Heal Pulse.</p>\n"
+    }
+   ],
+   "alias": "conkeldurr",
+   "name": "Conkeldurr",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "conkeldurr"
+    },
+    {
+     "gen": "xy",
+     "alias": "conkeldurr"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "bide",
+     "name": "Bide",
+     "description": "Charges for 2-3 turns; returns double the damage received in those turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "block",
+     "name": "Block",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "brick_break",
+     "name": "Brick Break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "bulk_up",
+     "name": "Bulk Up",
+     "description": "Boosts Attack and Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "bulldoze",
+     "name": "Bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "chip_away",
+     "name": "Chip Away",
+     "description": "Ignores the target's stat changes.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 85,
+     "alias": "comet_punch",
+     "name": "Comet Punch",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 15,
+     "power": 18
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "counter",
+     "name": "Counter",
+     "description": "If hit by a physical attack, returns double the damage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 80,
+     "alias": "cross_chop",
+     "name": "Cross Chop",
+     "description": "High critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 0,
+     "alias": "detect",
+     "name": "Detect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "dig",
+     "name": "Dig",
+     "description": "User is made invulnerable for one turn, then hits the next turn.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "drain_punch",
+     "name": "Drain Punch",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 50,
+     "alias": "dynamic_punch",
+     "name": "Dynamic Punch",
+     "description": "Confuses the foe.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "earthquake",
+     "name": "Earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "fire_punch",
+     "name": "Fire Punch",
+     "description": "10% chance to burn.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "fling",
+     "name": "Fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 70,
+     "alias": "focus_blast",
+     "name": "Focus Blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "focus_energy",
+     "name": "Focus Energy",
+     "description": "Boosts critical hit rate by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "focus_punch",
+     "name": "Focus Punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "force_palm",
+     "name": "Force Palm",
+     "description": "30% chance to paralyze.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "foresight",
+     "name": "Foresight",
+     "description": "Blocks evasion modifiers. Allows Fighting- and Normal-type moves to hit Ghost-types.",
+     "pp": 40,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 90,
+     "alias": "hammer_arm",
+     "name": "Hammer Arm",
+     "description": "Lowers user's Speed by 1 stage.",
+     "pp": 10,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "helping_hand",
+     "name": "Helping Hand",
+     "description": "Increases power of ally's moves by 50%.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_punch",
+     "name": "Ice Punch",
+     "description": "10% chance to freeze the target.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "knock_off",
+     "name": "Knock Off",
+     "description": "Power is boosted 1.5x if user is holding a removable item. Removes the target's item.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "leer",
+     "name": "Leer",
+     "description": "Lowers target's Defense by 1 stage.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "low_kick",
+     "name": "Low Kick",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "low_sweep",
+     "name": "Low Sweep",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "mach_punch",
+     "name": "Mach Punch",
+     "description": "The user always attacks first.",
+     "pp": 30,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "payback",
+     "name": "Payback",
+     "description": "Base Power doubles if the foe has taken its turn.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "poison_jab",
+     "name": "Poison Jab",
+     "description": "30% chance to poison.",
+     "pp": 20,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "pound",
+     "name": "Pound",
+     "description": "No additional effect.",
+     "pp": 35,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "power-up_punch",
+     "name": "Power-Up Punch",
+     "description": "Hitting a target raises the Attack stat.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "retaliate",
+     "name": "Retaliate",
+     "description": "Power doubles if the user's teammate fainted the previous turn.",
+     "pp": 5,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "reversal",
+     "name": "Reversal",
+     "description": "Does more damage as HP decreases.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_slide",
+     "name": "Rock Slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "rock_smash",
+     "name": "Rock Smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 90,
+     "alias": "rock_throw",
+     "name": "Rock Throw",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 95,
+     "alias": "rock_tomb",
+     "name": "Rock Tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "scary_face",
+     "name": "Scary Face",
+     "description": "Lowers Speed by 2 stages.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "smack_down",
+     "name": "Smack Down",
+     "description": "Can hit if target is using Fly, Bounce, or Sky Drop. Ends target's airborne moves and its benefits from Flying type or Levitate.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "smelling_salts",
+     "name": "Smelling Salts",
+     "description": "Has 120 power on a paralyzed target, but cures it of paralysis.",
+     "pp": 10,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 80,
+     "alias": "stone_edge",
+     "name": "Stone Edge",
+     "description": "Has a high critical hit rate.",
+     "pp": 5,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "strength",
+     "name": "Strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "superpower",
+     "name": "Superpower",
+     "description": "Lowers the user's Attack and Defense by 1 stage.",
+     "pp": 5,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "taunt",
+     "name": "Taunt",
+     "description": "Forces the foe to use damaging moves for 2 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_punch",
+     "name": "Thunder Punch",
+     "description": "10% chance to paralyze.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "wake-up_slap",
+     "name": "Wake-Up Slap",
+     "description": "Double Base Power if used on a sleeping foe.",
+     "pp": 10,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 0,
+     "alias": "wide_guard",
+     "name": "Wide Guard",
+     "description": "Protects user and allies from multi-target attacks.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "work_up",
+     "name": "Work Up",
+     "description": "Boosts user's Attack and Special Attack by 1 stage.",
+     "pp": 30,
+     "power": 0
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "timburr",
+     "name": "Timburr"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "gen": "xy",
+       "alias": "gurdurr",
+       "name": "Gurdurr"
+      },
+      "evos": [
+       {
+        "preevo": {
+         "gen": "xy",
+         "alias": "conkeldurr",
+         "name": "Conkeldurr"
+        },
+        "evos": []
+       }
+      ]
+     }
+    ]
+   },
+   "alts": [
+    {
+     "patk": 140,
+     "height": 1.4,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Guts",
+       "alias": "guts",
+       "description": "Attack is increased 50% when afflicted by a non-volatile status."
+      },
+      {
+       "gen": "xy",
+       "name": "Iron Fist",
+       "alias": "iron_fist",
+       "description": "Increases the power of punching moves by 20%."
+      },
+      {
+       "gen": "xy",
+       "name": "Sheer Force",
+       "alias": "sheer_force",
+       "description": "Increases power of moves with secondary effects by 30%, but removes the effects."
+      }
+     ],
+     "alias": "conkeldurr",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "fighting",
+       "name": "Fighting"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 65,
+     "hp": 105,
+     "spatk": 55,
+     "suffix": "",
+     "pdef": 95,
+     "weight": 87.0,
+     "spe": 45,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

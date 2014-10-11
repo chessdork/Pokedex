@@ -1,0 +1,2153 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "gen": "xy",
+   "movesets": [
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_ground",
+         "name": "Hidden Power Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        },
+        {
+         "gen": "xy",
+         "alias": "icy_wind",
+         "name": "Icy Wind"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        },
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Bulky Offensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.1,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Chesto Berry",
+       "alias": "chesto_berry",
+       "description": "Cures sleep. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Expert Belt",
+       "alias": "expert_belt",
+       "description": "Super effective attacks are 20% stronger."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 252,
+       "pdef": 0,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<ul>\n<li>STAB Psyshock deals significant damage to common Fighting-type threats such as Hitmontop and Conkeldurr. Moonblast is a great alternate option, as you can hit threats such as Scrafty and Sableye significantly with Cresselia OHKOing Scrafty with Expert Belt.</li>\n<li>Hidden Power Ground Cresselia is the best check to Heatran, as it is 4x super-effective and Cresselia's bulky defenses allow her to survive against numerous hits from Heatran.</li>\n<li>Ice Beam takes care of huge threats such as Landorus-T and Garchomp, but Icy Wind is also viable if you want to have speed control.</li>\n<li>Protect for incoming super-effective attacks, such as Knock Off, Crunch, Shadow Ball, and Big Bite. Rest can also be utilized for the durability of Cresselia.</li>\n</ul>\n<h4>Set Details</h4>\n<ul>\n<li>Max HP Cresselia increases her survivablity and her ability to wreak havoc against the opponent.</li>\n<li>Expert Belt gives Cresselia's attack a nice little boost, but you can use a ChestoRest combo if you want to keep her on the field longer.</li>\n<li>Modest Nature and Max Special Attack to maximize the special attacking power on Cresselia. Icy Wind is also a great spread move that can lock down on Landorus-T and Dragons running around.</li>\n<li>Trick Room can be viable as it can turn Cresselia into a bulky sweeper, as well as assist your partner in gaining the speed advantage if it is slower than the opposing team.</li>\n</ul>\n<h4>Usage Tips</h4>\n<ul>\n<li>The best way to use Bulky Offensive Cresselia is on a offensively oriented team looking for a little bulk and damage support.</li>\n<li>This set can have an unexpected surprise factor, as most Pokemon switch into her with the idea that Cresselia will only set up.</li>\n<li>Wide movepool allows Cresselia deal significant damage to numerous threats in the metagame.</li>\n<li>Cresselia can also be switched multiple times thanks to her excellent defensive stats.</li>\n<li>Hidden Power Ground is specifically for Heatran and against other 4X super effective Pokemon. STAB Psyshock is more reliable as it hits with just about the same power and is more useful to spam constantly.</li>\n</ul>\n<h4>Team Options</h4>\n<ul>\n<li>Life Orb Terrakion is amazing paired alongside Cresselia, as Terrakion can take care of threats of threats to Cresselia such as Bisharp, Tyranitar and Scrafty.</li>\n<li>Dark-type killers are great for helping keep Cresselia alive such as Scrafty, Mega-Gardevoir, Sylveon, and Keldeo.</li>\n<li>Intimidate users paired with Cresselia's Icy Wind can lower both Attack stat and Speed stat, which can be pretty useful in the long run.</li>\n<li>Steel-types wall this Bulky Offensive Set so Mega-Charizard Y, Heatran, and Landorus-T are great partners.</li>\n<li>Earthquake users such as Landorus-T and Garchomp can be free to attack with Cresselia's Levitate.</li>\n</ul>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonlight",
+         "name": "Moonlight"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "hidden_power_fire",
+         "name": "Hidden Power Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "ice_beam",
+         "name": "Ice Beam"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "reflect",
+         "name": "Reflect"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Defensive",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 4,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 252,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Despite wishing that it just had a little bit more to work with, Cresselia can utilize an effective defensive set with its unique movepool. Moonlight is used as the primary healing move and as such will be used a lot of the time. It is important to note that Moonlight has its shortcomings; it heals less health in sand and rain and has limited PP. Because of this, it should not be used excessively. Psychic is the main STAB move and allows Cresselia to chip down opponents and hit Fighting-types super effectively. Despite its slight nerf, Hidden Power Fire can also work well in this slot. Not only does it dispose of defensive Ferrothorn, but it also gives Cresselia a way to get past Scizor. Ice Beam rounds off the coverage and is a superb move for hitting physically based Dragon-types, Pokemon that Cresselia will often need to wall. Cresselia's final moveslot is dedicated to a status move best fit to the team. Toxic allows Cresselia to spread residual damage and slowly defeat Pokemon, whereas Thunder Wave is best fit for teams that have enough offensive firepower to finish off slower threats. However, Thunder Wave is inferior to Toxic when the team has enough defense to stall Pokemon out. Reflect is an option over either of the moves and enhances Cresselia's ability to take physical hits, allowing it to escape Pursuit more easily and can be used to support teammates.</p>\n<h4>Set Details</h4>\n<p>The EVs are maximized in Defense so that Cresselia can wall powerful physical attackers such as Garchomp, Terrakion, and Landorus-T. A Bold nature is chosen for the same reason, and the rest of the EVs are placed into Cresselia's Special Defense. Leftovers is a standard item for a wall such as Cresselia, providing a means of residual recovery or negating weather damage. In order to perform its role as a physical wall properly, straying from this item choice is not recommended. If one chooses to run Hidden Power Fire, an IV spread of 0 Atk / 30 SpA / 30 Spe achieves the required Hidden Power type while minimizing Foul Play and confusion damage.</p>\n<h4>Usage Tips</h4>\n<p>This Cresselia set aims to fulfill the role of a mixed wall with a primary focus on Defense. Because of this, Cresselia is best brought in to check physical attackers or Pokemon that it can efficiently stop. It is best to keep Cresselia as healthy as possible and mainly bring it in on Pokemon that are incapable of bypassing its ridiculous defensive limits. Cresselia can be used at essentially any time in the match, depending on what opponents opt to bring out themselves. However, it is a good idea to scout opposing sets to see what Cresselia can and can't handle. For example, because it is particularly vulnerable to being poisoned, Cresselia is best leaving more defensively inclined Pokemon (which can potentially run Toxic) for teammates to deal with. Because Cresselia can also force many switches, setting up hazards before using it to stall out Pokemon is a good idea so that you can take advantage of the entry hazard damage.</p>\n<h4>Team Options</h4>\n<p>If it hasn't been made clear already, Cresselia loathes Toxic. This makes Pokemon equipped with Heal Bell or Aromatherapy particularly good partners. Chansey can carry either of these moves and also makes an excellent defensive partner, being immune to Cresselia's Ghost-type weakness and taking special hits more capably. Cresselia reciprocates this support by having a resistance to Fighting-type moves. Other Pokemon commonly seen on stall teams are also great teammates for their ability to set hazards and wall the Pokemon that Cresselia cannot. Heatran is a great teammate for Cresselia because it can take care of Volcarona and Scizor, the tier's premier Bug-types. Drought support boosts Moonlight's effect while also getting rid of opposing weather. More specifically, Mega Charizard Y makes a good partner, as it sets up Drought and can take advantage of Thunder Wave support. Another excellent teammate on sun teams is Dugtrio, which can dispose of two great threats to both sun and Cresselia: Heatran and Tyranitar.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "reflect",
+         "name": "Reflect"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "light_screen",
+         "name": "Light Screen"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "lunar_dance",
+         "name": "Lunar Dance"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Dual Screens",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.1
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Light Clay",
+       "alias": "light_clay",
+       "description": "Reflect and Light Screen last 8 turns."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 4,
+       "spe": 252
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Light Screen and Reflect halve damage from special and physical attacks respectively, and are great support for setup sweepers. Lunar Dance is used so Cresselia can fully recover a weakened teammate after doing its job. Thunder Wave is used to cripple the opponent. Psyshock can be used if you want a damaging move instead of Thunder Wave.</p>\n<h4>Set Details</h4>\n<p>252 Speed EVs and a Timid nature are used to let Cresselia set up screens more easily by outspeeding a good amount of the metagame. The remaining EVs are used for mixed bulk, as Cresselia needs to be able to take some hits while setting up screens. Light Clay is used so Reflect and Light Screen have a duration of eight turns instead of five turns.</p>\n<h4>Usage Tips</h4>\n<p>This set is very straightforward to use. Set up both screens and use Thunder Wave on the opponent, or just use Lunar Dance if Cresselia is weakened to fully recover a weakened teammate. Be aware of that this set can be setup bait, especially against sweepers with Substitute that can escape Thunder Wave.</p>\n<h4>Team Options</h4>\n<p>The dual screens set works especially well on offensive teams with many setup sweepers. Use teammates that appreciate dual screen support, namely setup sweepers and Baton Pass users such as Slurpuff, Omastar, Barbarcle, Combusken, and Gorebyss. Other dual screens users are also appreciated to lessen the pressure on Cresselia to keep setting them up; Meowstic-M and Uxie are both good options.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "lunar_dance",
+         "name": "Lunar Dance"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "reflect",
+         "name": "Reflect"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "light_screen",
+         "name": "Light Screen"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "OU",
+       "alias": "ou",
+       "name": "Overused"
+      }
+     ],
+     "name": "Dual Screens",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Light Clay",
+       "alias": "light_clay",
+       "description": "Reflect and Light Screen last 8 turns."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 12,
+       "patk": 0,
+       "hp": 248,
+       "spatk": 0,
+       "pdef": 112,
+       "spe": 136
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Thanks to Cresselia's enormous bulk, setting up Reflect and Light Screen multiple times throughout a match is a simple task. Reflect and Light Screen are used with the intent of supporting teammates and, more specifically, allowing frail offensive Pokemon to set up with extra protection from incoming attacks. Lunar Dance is the key move that separates Cresselia from other dual screen users, allowing Cresselia to give Pokemon a second chance to sweep. It also allows Cresselia to make use of itself after it has done its main job and avoid being dead weight on the team. It is notable that Lunar Dance also cures status ailments and can revive Pokemon that would otherwise fall from entry hazard damage upon returning to the field. Thunder Wave is used to support teammates by crippling Pokemon that attempt to break through Cresselia and can be used if Cresselia is slower than the Pokemon it is trying to set up dual screens on.</p>\n<h4>Set Details</h4>\n<p>Light Clay is a straightforward item choice, extending the length of Cresselia's Reflect and Light Screen in order to maximize the time a teammate can set up. With Reflect activated, the given EVs allow Cresselia to survive two Crunches from Choice Band Tyranitar after Stealth Rock. The EV spread also lets Cresselia outspeed Adamant Bisharp and Modest Politoed with maximum Speed investment, thus giving Cresselia more opportunities to set up dual screens. By having 248 EVs in HP, Cresselia hits a Stealth Rock number and thus loses less health from residual damage.</p>\n<h4>Usage Tips</h4>\n<p>Cresselia is brought in before a sweeper to set up dual screens when it is convenient in order to prepare the field conditions. Reflect and Light Screen in conjunction allow formerly paper-thin sweepers to gain precious turns to accumulate boosts, and Cresselia needs to set these up before said sweepers can jump into the fray. It is often recommended to use Reflect before Light Screen, as most switch-ins to Cresselia tend to be physically oriented. After it has set up screens, spreading status through Thunder Wave is an excellent way to make use of Cresselia, especially when it is not appropriate to switch directly into a teammate. It is also useful to paralyze opponents before activating the dual screens so that teammates can make the most out of the limited turns that they have. In some matches, Cresselia will be able to set up screens multiple times. When this happens, it is often best to do this and then, when Cresselia's health depletes too much, use Lunar Dance to revive a teammate.</p>\n<h4>Team Options</h4>\n<p>This particular Cresselia set provides excellent support for frail setup sweepers; Volcarona, Thundurus, Manaphy, and Lucario can all employ dual screens to effectively boost their offensive stats while being able to simultaneously sponge incoming attacks. Most of Cresselia's best teammates are backed up by superb coverage and power, only lacking the defensive prowess to boost under normal circumstances. Because of Cresselia's access to Lunar Dance, these setup sweepers are also capable of being given a second chance. Notably, Lunar Dance renews Dragonite's Multiscale, and therefore makes it an excellent partner. Less immediately threatening and more defensive boosters, such as Suicune and Reuniclus, can also exploit the benefits of dual screens to acquire their essential starting boosts.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "substitute",
+         "name": "Substitute"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "calm_mind",
+         "name": "Calm Mind"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonlight",
+         "name": "Moonlight"
+        },
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "SubCM",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 0,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 172,
+       "spe": 84
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Substitute is used to make Cresselia less vulnerable to status ailments such as poison, letting it beat walls like Alomomola, and eases prediction. Calm Mind is Cresselia's setup move, and after a few boosts, Cresselia can perform a sweep if its counters are either gone or weakened. Moonblast is the preferred attacking move because it has zero immunities as opposed to Psyshock, also hitting Dark-types such as Spiritomb and Drapion. Moonlight is used for instant recovery and makes it easier for Cresselia to set up Calm Minds. Psyshock can be used instead of Moonlight if you have a teammate that deals with Skuntank, Drapion, and Registeel, such as Dugtrio. Psyshock also gets STAB, and so hits harder than Moonblast, while also allowing Cresselia to beat opposing Calm Mind users.</p>\n<h4>Set Details</h4>\n<p>252 HP and 172 Defense EVs are used to improve Cresselia's physical bulk. Special Defense EVs are not needed as Cresselia can use Calm Mind, which boosts its Special Defense by one stage. 84 Speed EVs are used to let Cresselia outspeed and beat threats such as Drapion that do not have Speed investment.</p>\n<h4>Usage Tips</h4>\n<p>Do not attempt to sweep before Cresselia's counters are either gone or weakened; as such, a Calm Mind sweep should not be attempted until late-game. Use Calm Mind against offensively weaker opponents, such as walls or support-oriented Pokemon, and recover with Moonlight. Watch out for status aliments, namely poison and paralysis, as both of them can stop Cresselia's sweep, so don't be afraid of using Substitute often.</p>\n<h4>Team Options</h4>\n<p>Moltres is a great partner for Cresselia, as it deals with one of the best counters to Cresselia, Escavalier. Cresselia also deeply appreciates teammates that take care of offensive Dark-types such as Sharpedo; Aromatisse is a good option. Destiny Bond + Nasty Plot Mismagius is a great partner for Cresselia, as it easily lures out and KOes Drapion, Skuntank, and other Dark-types; it can also weaken more defensive threats, making a sweep for Cresselia much easier. Fast and strong Pokemon with U-turn or Volt Switch are also appreciated by Cresselia. Once they have weakened the opposing team's wall, these Pokemon can pivot into Cresselia, which then can set up with ease and start sweeping. Wallbreakers such as Clawitzer and Exploud can wear down defensive cores, meaning Cresselia won't need as many Calm Minds to perform a sweep.</p>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "icy_wind",
+         "name": "Icy Wind"
+        },
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "helping_hand",
+         "name": "Helping Hand"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        },
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        },
+        {
+         "gen": "xy",
+         "alias": "rest",
+         "name": "Rest"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Support",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Chesto Berry",
+       "alias": "chesto_berry",
+       "description": "Cures sleep. One-time use."
+      },
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 196,
+       "patk": 0,
+       "hp": 240,
+       "spatk": 60,
+       "pdef": 12,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<ul>\n<li>Icy Wind is a great spread move for speed control so that your partner will be able to outspeed. Thunder Wave is also useful for speed control and you can also have that occasional 25% paralysis hax.</li>\n<li>STAB Psyshock hits Hitmontop and Venusaur hard and is useful against specially defensive walls. Moonblast can also be a viable option as it is 4x super-effective against Scrafty and gives Cresselia the ability to deal decent damage to Dark-types.</li>\n<li>Helping Hand assists in giving your partner Pokemon a 1.5x boost, which can be lethal in most situations.</li>\n<li>ChestoRest can keep Cresselia alive for a longer period of time for further support. Protect is convenient against incoming super-effective attacks such as Shadow Ball and Crunch, and also gives Cresselia a free turn to restore health when using Leftovers.</li>\n</ul>\n<h4>Set Details</h4>\n<ul>\n<li>Calm Nature with 240 HP and 196 SpD EVs allow Cresselia to be a specially defensive wall that's difficult to take down. Can take 4 hits of Heat Wave from Timid Char-Y in Sun.</li>\n<li>60 SpA EVs lets Cresselia 2HKO Max HP Hitmontop and Venusaur, while guaranteeing inflicted 80% damage against Landorus-Therian and Garchomp. Invested the remaining EVs in defense for a little added bulk.</li>\n<li>Chesto Berry + Rest lets Cresselia live longer for further support. Leftovers is a solid alternate option together with Protect for a free turn for restoring HP.</li>\n</ul>\n<h4>Usage Tips</h4>\n<ul>\n<li>Main purpose of this set is for support and to provide partner Pokemon with speed advantage and added offensive firepower.</li>\n<li>Cresselia is also extremely useful in switching into most incoming attacks thanks to her impressive bulk.</li>\n<li>Cresselia usually slows the opposing team down with Icy Wind until her partner is able to outspeed. She then proceeds to spam Helping Hand to assist her partner in dealing major damage.</li>\n<li>Psyshock and Moonblast should only be used if it is super effective against the opposing Pokemon or if it is close enough to KO.</li>\n</ul>\n<h4>Team Options</h4>\n<ul>\n<li>This set is most effective on offensive teams looking for a little bulk and speed advantage to be able to outspeed and sweep.</li>\n<li>Sweepers such as Mega-Kangaskhan, Mega-Mawile, Landorus, Mega-Charizard Y, Heatran, Azumarill and Keldeo enjoy speed control.</li>\n<li>Cresselia can virtually fit into any team looking for support.</li>\n<li>Fighting-types such as Hitmontop and Scrafty are a good partner, as they can eliminate Bisharp, Tyranitar, and Hydreigon who pose a threat to Cresselia. Fire-types such as Heatran and Talonflame are also useful for taking care of Scizor and Mega-Mawile.</li>\n<li>Earthquake users such as Landorus-T and Garchomp can EQ away thanks to Levitate.</li>\n</ul>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "trick_room",
+         "name": "Trick Room"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        },
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "helping_hand",
+         "name": "Helping Hand"
+        },
+        {
+         "gen": "xy",
+         "alias": "reflect",
+         "name": "Reflect"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "light_screen",
+         "name": "Light Screen"
+        },
+        {
+         "gen": "xy",
+         "alias": "protect",
+         "name": "Protect"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "Doubles",
+       "alias": "doubles",
+       "name": "Doubles"
+      }
+     ],
+     "name": "Trick Room",
+     "natures": [
+      {
+       "spdef": 1.1,
+       "patk": 1.0,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.0,
+       "spe": 0.9
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Light Clay",
+       "alias": "light_clay",
+       "description": "Reflect and Light Screen last 8 turns."
+      },
+      {
+       "gen": "xy",
+       "name": "Mental Herb",
+       "alias": "mental_herb",
+       "description": "Cures infatuation. One-time use."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 176,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 80,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<ul>\n<li>Trick Room allows the slower Pokemon to move first, which helps make slow sweepers gain the advantage.</li>\n<li>STAB Psyshock hits Fighting-types pretty hard, but Moonblast enables Cresselia to deal decent damage to Dark-types, notably Scrafty.</li>\n<li>Helping Hand gives the partner Pokemon a significant attack boost, most preferably the Trick Room sweeper.</li>\n<li>Protect is useful for incoming super-effective attacks, although Light Screen or Reflect gives the team a little added bulk, depending on what defense stat necessary for a boost.</li>\n<li>Both Reflect and Light Screen can interchange in each other's move slots; it depends on what your team benefits from the most.</li>\n</ul>\n<h4>Set Details</h4>\n<ul>\n<li>Sassy Nature plus 0 Speed IVs allow Cresselia to function effectively in Trick Room.</li>\n<li>Mental Herb guarantees that Trick Room will be set up, as Taunt will be ineffective.</li>\n<li>252 HP and 80 Def EVs lets Cresselia take three Knock Offs from Adamant Max Attack Scrafty and three Brave Birds from Adamant Max Attack LO Talonflame.</li>\n<li>Light Clay is also a great option as Reflect and Light Screen are extended to 8 turns which can provide your team with significant bulk.</li>\n<li>Sitrus Berry is an effective alternative if you want to increase Cresselia's durability.</li>\n</ul>\n<h4>Usage Tips</h4>\n<ul>\n<li>The best way to use Trick Room Cresselia is in, well, Trick Room. Protect with your partner Pokemon, and set up Trick Room with Cresselia.</li>\n<li>Attempt to keep Cresselia and a partner sweeper alive for a possible late-game sweep.</li>\n<li>Use Light Screen or Reflect immediately after Trick Room to provide your team with a lot of bulk.</li>\n<li>Cresselia is great for switching into due to her ability to take multiple hits thanks to her amazing bulk.</li>\n<li>Use Cresselia as a support in dealing a little bit of damage along with your partner, or use Helping Hand to give your partner an offensive boost.</li>\n</ul>\n<h4>Team Options</h4>\n<ul>\n<li>Again Cresselia is great for Trick Room teams as it is almost guaranteed you can set up Trick Room with it's impressive bulk.</li>\n<li>Partner Cresselia with slow sweepers such as Mega-Mawile, Rhyperior, and Mega-Ampharos.</li>\n<li>Pair Cresselia with a Fake Out user such as Scrafty or Hitmontop to flinch potential threats to increase chances of getting Trick Room up. Fighting-types also handle the common threats Cresselia has to deal with such as Tyranitar and Bisharp.</li>\n<li>Earthquake users such as Rhyperior are a great match with Cresselia, as she carries Levitate.</li>\n<li>Amoonguss can also be viable as Rage Powder is able to redirect Taunt and guarantee a Trick Room setup. It can also put a potential threat to sleep with Spore.</li>\n<li>Lead with either Cresselia + a physical or special sweeper, as leading with two support Pokemon isn't really effective.</li>\n</ul>\n"
+    },
+    {
+     "moveslots": [
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonblast",
+         "name": "Moonblast"
+        }
+       ],
+       "slot": 1
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "psyshock",
+         "name": "Psyshock"
+        }
+       ],
+       "slot": 2
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "moonlight",
+         "name": "Moonlight"
+        }
+       ],
+       "slot": 3
+      },
+      {
+       "moves": [
+        {
+         "gen": "xy",
+         "alias": "thunder_wave",
+         "name": "Thunder Wave"
+        },
+        {
+         "gen": "xy",
+         "alias": "toxic",
+         "name": "Toxic"
+        }
+       ],
+       "slot": 4
+      }
+     ],
+     "abilities": [
+      {
+       "gen": "xy",
+       "alias": "levitate",
+       "name": "Levitate"
+      }
+     ],
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "name": "Wall",
+     "natures": [
+      {
+       "spdef": 1.0,
+       "patk": 0.9,
+       "hp": 1.0,
+       "spatk": 1.0,
+       "pdef": 1.1,
+       "spe": 1.0
+      }
+     ],
+     "items": [
+      {
+       "gen": "xy",
+       "name": "Leftovers",
+       "alias": "leftovers",
+       "description": "Heals 1/16 of max HP each turn."
+      }
+     ],
+     "evconfigs": [
+      {
+       "spdef": 104,
+       "patk": 0,
+       "hp": 252,
+       "spatk": 0,
+       "pdef": 152,
+       "spe": 0
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Psyshock is Cresselia's STAB move that OHKOes less bulky Fighting-types such as Hitmonlee, which often pack Knock Off. Moonblast is used for coverage and hits Dark-types, which are immune to Psyshock, for super effective damage. Moonlight is instant recovery which is mandatory on a wall. Unfortunately, Moonlight only has 8 PP, which means that Cresselia can easily get PP stalled, so don't use Moonlight unless it's necessary. Thunder Wave is used to cripple the opponent and to make sweeps for teammates easier. Toxic can also be used, but Toxic stall is hard due to Moonlight lacking enough PP to stall with. Lunar Dance is also an option, as after Cresselia has walled what it needs to, completely restoring a teammate's health and PP is really appreciated on offensive teams. Hidden Power Fire can be used for Escavalier and Durant.</p>\n<h4>Set Details</h4>\n<p>252 HP EVs are used to maximize mixed bulk, making Cresselia both physically and specially defensive. 152 Defense EVs and a Bold nature allow Cresselia to avoid a 2HKO from Adamant Hitmonlee's Life Orb-boosted Knock Off after Stealth Rock. Cresselia can then just recover HP with Moonlight, which means that Cresselia effectively counters Hitmonlee. The remaining EVs are used in Special Defense to further bolster Cresselia's special bulk. Leftovers is used for a small amount of recovery each turn.</p>\n<h4>Usage Tips</h4>\n<p>Cresselia works really well as a bulky pivot and a tank due to its great bulk. Use Cresselia to wall what your team needs to wall, and try and cripple as many of the opponent's Pokemon as possible with either Thunder Wave or Toxic. Watch out for Pursuit trappers, however, as they can easily give Cresselia trouble.</p>\n<h4>Team Options</h4>\n<p>Aromatisse has good defensive synergy with Cresselia as it resists Bug- and Dark-type moves that Cresselia fears. Alomomola can also be used, as it deals with most Dark- and Bug-types while also walling Escavalier. Moltres is also a great teammate for Cresselia, and can easily deal with Escavalier. Slower powerhouses love Thunder Wave support, such as Clawitzer, Exploud, and Emboar. Moltres and Substitute + Bulk Up Braviary can also Toxic stall weaker opponents thanks to Cresselia's Toxic.</p>\n"
+    }
+   ],
+   "alias": "cresselia",
+   "name": "Cresselia",
+   "genfamily": [
+    {
+     "gen": "bw",
+     "alias": "cresselia"
+    },
+    {
+     "gen": "dp",
+     "alias": "cresselia"
+    },
+    {
+     "gen": "xy",
+     "alias": "cresselia"
+    }
+   ],
+   "moves": [
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "attract",
+     "name": "Attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "aurora_beam",
+     "name": "Aurora Beam",
+     "description": "10% chance to lower Attack by 1 stage.",
+     "pp": 20,
+     "power": 65
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "calm_mind",
+     "name": "Calm Mind",
+     "description": "Boosts Special Attack and Special Defense by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "captivate",
+     "name": "Captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 90,
+     "alias": "charge_beam",
+     "name": "Charge Beam",
+     "description": "70% chance to boost Special Attack by 1 stage.",
+     "pp": 10,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "confide",
+     "name": "Confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "confusion",
+     "name": "Confusion",
+     "description": "10% chance to confuse.",
+     "pp": 25,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "double_team",
+     "name": "Double Team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "dream_eater",
+     "name": "Dream Eater",
+     "description": "Leeches 50% of the damage dealt. Only works if target is asleep.",
+     "pp": 15,
+     "power": 100
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "endure",
+     "name": "Endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "energy_ball",
+     "name": "Energy Ball",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "facade",
+     "name": "Facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "flash",
+     "name": "Flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "frustration",
+     "name": "Frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 95,
+     "alias": "fury_cutter",
+     "name": "Fury Cutter",
+     "description": "Power doubles with each consecutive hit.",
+     "pp": 20,
+     "power": 40
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "future_sight",
+     "name": "Future Sight",
+     "description": "Deals damage at the end of the turn after three turns.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "giga_impact",
+     "name": "Giga Impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "grass_knot",
+     "name": "Grass Knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "gravity",
+     "name": "Gravity",
+     "description": "For 5 turns, prevents flying or jumping; also disables Ground immunities.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "helping_hand",
+     "name": "Helping Hand",
+     "description": "Increases power of ally's moves by 50%.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_bug",
+     "name": "Hidden Power Bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dark",
+      "name": "Dark"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dark",
+     "name": "Hidden Power Dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "dragon",
+      "name": "Dragon"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_dragon",
+     "name": "Hidden Power Dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_electric",
+     "name": "Hidden Power Electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fighting",
+      "name": "Fighting"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fighting",
+     "name": "Hidden Power Fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_fire",
+     "name": "Hidden Power Fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "flying",
+      "name": "Flying"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_flying",
+     "name": "Hidden Power Flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ghost",
+     "name": "Hidden Power Ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_grass",
+     "name": "Hidden Power Grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ground",
+     "name": "Hidden Power Ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_ice",
+     "name": "Hidden Power Ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_poison",
+     "name": "Hidden Power Poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_psychic",
+     "name": "Hidden Power Psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "rock",
+      "name": "Rock"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_rock",
+     "name": "Hidden Power Rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "steel",
+      "name": "Steel"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_steel",
+     "name": "Hidden Power Steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 100,
+     "alias": "hidden_power_water",
+     "name": "Hidden Power Water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "hyper_beam",
+     "name": "Hyper Beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "power": 150
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 100,
+     "alias": "ice_beam",
+     "name": "Ice Beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 95,
+     "alias": "icy_wind",
+     "name": "Icy Wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "power": 55
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "light_screen",
+     "name": "Light Screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "lunar_dance",
+     "name": "Lunar Dance",
+     "description": "KOs the user, then heals the next Pokemon in.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "magic_coat",
+     "name": "Magic Coat",
+     "description": "Bounces back certain non-damaging moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "magic_room",
+     "name": "Magic Room",
+     "description": "Held items have no effect for 5 turns.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "ice",
+      "name": "Ice"
+     },
+     "accuracy": 0,
+     "alias": "mist",
+     "name": "Mist",
+     "description": "Prevents moves that lower stats from working for 5 turns.",
+     "pp": 30,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 100,
+     "alias": "moonblast",
+     "name": "Moonblast",
+     "description": "Deals damage to one adjacent target with a 30% chance to lower its Special Attack by 1 stage.",
+     "pp": 15,
+     "power": 95
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fairy",
+      "name": "Fairy"
+     },
+     "accuracy": 0,
+     "alias": "moonlight",
+     "name": "Moonlight",
+     "description": "Heals variably depending on the weather.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ground",
+      "name": "Ground"
+     },
+     "accuracy": 100,
+     "alias": "mud-slap",
+     "name": "Mud-Slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "power": 20
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "natural_gift",
+     "name": "Natural Gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "protect",
+     "name": "Protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "psych_up",
+     "name": "Psych Up",
+     "description": "Copies the foe's stat changes.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psychic",
+     "name": "Psychic",
+     "description": "10% chance to lower Special Defense 1 stage.",
+     "pp": 10,
+     "power": 90
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psycho_cut",
+     "name": "Psycho Cut",
+     "description": "Has a high critical hit rate.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psycho_shift",
+     "name": "Psycho Shift",
+     "description": "Shifts the user's status effect to the foe.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "psyshock",
+     "name": "Psyshock",
+     "description": "Damage is based on the target's Defense stat.",
+     "pp": 10,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "water",
+      "name": "Water"
+     },
+     "accuracy": 0,
+     "alias": "rain_dance",
+     "name": "Rain Dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "recycle",
+     "name": "Recycle",
+     "description": "Restores a used up item.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "reflect",
+     "name": "Reflect",
+     "description": "Lowers damage from physical attacks for 5 turns.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "rest",
+     "name": "Rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "return",
+     "name": "Return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "round",
+     "name": "Round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "safeguard",
+     "name": "Safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "secret_power",
+     "name": "Secret Power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "ghost",
+      "name": "Ghost"
+     },
+     "accuracy": 100,
+     "alias": "shadow_ball",
+     "name": "Shadow Ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "power": 80
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "bug",
+      "name": "Bug"
+     },
+     "accuracy": 100,
+     "alias": "signal_beam",
+     "name": "Signal Beam",
+     "description": "10% chance to confuse.",
+     "pp": 15,
+     "power": 75
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "skill_swap",
+     "name": "Skill Swap",
+     "description": "The user and the target trade abilities.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "slash",
+     "name": "Slash",
+     "description": "Has a high critical hit rate.",
+     "pp": 20,
+     "power": 70
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "sleep_talk",
+     "name": "Sleep Talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 100,
+     "alias": "snore",
+     "name": "Snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "power": 50
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "grass",
+      "name": "Grass"
+     },
+     "accuracy": 100,
+     "alias": "solar_beam",
+     "name": "Solar Beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "power": 120
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "substitute",
+     "name": "Substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "fire",
+      "name": "Fire"
+     },
+     "accuracy": 0,
+     "alias": "sunny_day",
+     "name": "Sunny Day",
+     "description": "Summons sun for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 90,
+     "alias": "swagger",
+     "name": "Swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Special",
+     "type": {
+      "gen": "xy",
+      "alias": "normal",
+      "name": "Normal"
+     },
+     "accuracy": 0,
+     "alias": "swift",
+     "name": "Swift",
+     "description": "Always hits.",
+     "pp": 20,
+     "power": 60
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "telekinesis",
+     "name": "Telekinesis",
+     "description": "Lasts 3 turns and makes all moves hit the target.  Makes target immune to Ground-type moves.",
+     "pp": 15,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "electric",
+      "name": "Electric"
+     },
+     "accuracy": 100,
+     "alias": "thunder_wave",
+     "name": "Thunder Wave",
+     "description": "Paralyzes the foe.",
+     "pp": 20,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "poison",
+      "name": "Poison"
+     },
+     "accuracy": 90,
+     "alias": "toxic",
+     "name": "Toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 100,
+     "alias": "trick",
+     "name": "Trick",
+     "description": "Switches items with the foe.",
+     "pp": 10,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Non-Damaging",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 0,
+     "alias": "trick_room",
+     "name": "Trick Room",
+     "description": "Slower Pokemon move first for 5 turns.",
+     "pp": 5,
+     "power": 0
+    },
+    {
+     "gen": "xy",
+     "category": "Physical",
+     "type": {
+      "gen": "xy",
+      "alias": "psychic",
+      "name": "Psychic"
+     },
+     "accuracy": 90,
+     "alias": "zen_headbutt",
+     "name": "Zen Headbutt",
+     "description": "20% chance to flinch.",
+     "pp": 15,
+     "power": 80
+    }
+   ],
+   "family": {
+    "preevo": {
+     "gen": "xy",
+     "alias": "cresselia",
+     "name": "Cresselia"
+    },
+    "evos": []
+   },
+   "alts": [
+    {
+     "patk": 70,
+     "height": 1.5,
+     "abilities": [
+      {
+       "gen": "xy",
+       "name": "Levitate",
+       "alias": "levitate",
+       "description": "This Pokemon is immune to Ground-type moves."
+      }
+     ],
+     "alias": "cresselia",
+     "tags": [
+      {
+       "gen": "xy",
+       "shorthand": "RU",
+       "alias": "ru",
+       "name": "Rarelyused"
+      }
+     ],
+     "types": [
+      {
+       "gen": "xy",
+       "alias": "psychic",
+       "name": "Psychic"
+      }
+     ],
+     "gkpower": 80,
+     "spdef": 130,
+     "hp": 120,
+     "spatk": 75,
+     "suffix": "",
+     "pdef": 120,
+     "weight": 85.6,
+     "spe": 85,
+     "effectives": [
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "fighting",
+         "name": "Fighting"
+        },
+        {
+         "gen": "xy",
+         "alias": "psychic",
+         "name": "Psychic"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "dragon",
+         "name": "Dragon"
+        },
+        {
+         "gen": "xy",
+         "alias": "electric",
+         "name": "Electric"
+        },
+        {
+         "gen": "xy",
+         "alias": "fairy",
+         "name": "Fairy"
+        },
+        {
+         "gen": "xy",
+         "alias": "fire",
+         "name": "Fire"
+        },
+        {
+         "gen": "xy",
+         "alias": "flying",
+         "name": "Flying"
+        },
+        {
+         "gen": "xy",
+         "alias": "grass",
+         "name": "Grass"
+        },
+        {
+         "gen": "xy",
+         "alias": "ground",
+         "name": "Ground"
+        },
+        {
+         "gen": "xy",
+         "alias": "ice",
+         "name": "Ice"
+        },
+        {
+         "gen": "xy",
+         "alias": "normal",
+         "name": "Normal"
+        },
+        {
+         "gen": "xy",
+         "alias": "poison",
+         "name": "Poison"
+        },
+        {
+         "gen": "xy",
+         "alias": "rock",
+         "name": "Rock"
+        },
+        {
+         "gen": "xy",
+         "alias": "steel",
+         "name": "Steel"
+        },
+        {
+         "gen": "xy",
+         "alias": "water",
+         "name": "Water"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "gen": "xy",
+         "alias": "bug",
+         "name": "Bug"
+        },
+        {
+         "gen": "xy",
+         "alias": "dark",
+         "name": "Dark"
+        },
+        {
+         "gen": "xy",
+         "alias": "ghost",
+         "name": "Ghost"
+        }
+       ],
+       "modifier": 2.0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

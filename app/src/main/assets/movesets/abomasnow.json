@@ -1,0 +1,1991 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "movesets": [
+    {
+     "evconfigs": [
+      {
+       "pdef": 0,
+       "spe": 164,
+       "spatk": 252,
+       "hp": 8,
+       "patk": 84,
+       "spdef": 0
+      }
+     ],
+     "name": "All-Out Attacker",
+     "items": [
+      {
+       "alias": "abomasite",
+       "description": "Mega-evolves Abomasnow.",
+       "name": "Abomasite",
+       "gen": "xy"
+      }
+     ],
+     "abilities": [
+      {
+       "alias": "soundproof",
+       "name": "Soundproof",
+       "gen": "xy"
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Blizzard works well with Snow Warning, as it is an extremely strong and reliable STAB move that has perfect accuracy in hail. Wood Hammer is a powerful physical STAB move, though it has the downfall of having high recoil. Giga Drain is a special Grass-type STAB move that doesn't have recoil and regains HP, but it isn't as strong as Wood Hammer. Earthquake gets rid of Steel-types that would be a problem and hits Fire-types on the switch. Lastly, Ice Shard is used for priority to pick off weakened opponents.</p>\n<h4>Set Details</h4>\n<p>As this set is completely offensive, it has a balanced offensive spread. 8 HP EVs are to allow minimum Stealth Rock damage. 252 EVs are placed into Special Attack to boost the power of Mega Abomasnow's best and most reliable move, Blizzard. 164 EVs are placed into Speed to allow Mega Abomasnow to outspeed common base 50 Speed Pokemon such as Donphan, while the remaining EVs are dumped into Attack. 0 Speed IVs should be used if Mega Abomasnow is being used on a Trick Room team, to maximize its Speed in Trick Room. Mild is preferred over other natures as most common physical attacks destroy Mega Abomasnow anyway, and it should capitalize on its resistances to Electric, Water, and Ground. Although minor, Soundproof is the preferred ability before Mega Evolution as it allows Mega Abomasnow to switch into Exploud's Boomburst as well as any other sound moves, and hail isn't exactly beneficial for the team unless Mega Abomasnow is taking advantage of it.</p>\n<h4>Usage Tips</h4>\n<p>There are a few things to keep in mind when using Mega Abomasnow. It should be brought in on predicted double switches into defensively based Pokemon, such as Swampert, Alomomola, and Hippowdon. If brought in safely against something it can check, Mega Abomasnow doesn't have a lot of switch-ins against offensive teams, but it can still bust through Pokemon with its hard hitting Blizzard. It cannot do much late-game other than fire off an Ice Shard due to its bad Speed and poor defensive typing. Lastly, Abomasnow should have entry hazards removed before coming onto the field, as it doesn't appreciate residual damage whatsoever.</p>\n<h4>Team Options</h4>\n<p>Good Trick Room setters such as Reuniclus, Cresselia, and Bronzong are bulky enough to set up Trick Room, which makes them great teammates for Mega Abomasnow. Faster Pokemon such as Infernape and Mienshao should come in to take out Steel-type threats such as Registeel and Mega Aggron. Swampert makes for an excellent teammate, as it walls Fire-types very well for Mega Abomasnow. U-turn from teammates such as Jirachi, Hydreigon, and Mienshao help get Mega Abomasnow in and gain momentum. Finally, Rapid Spin users such as Forretress, Tentacruel, and Donphan immensely improve Mega Abomasnow's longevity and the number of times it can switch in.</p>\n",
+     "moveslots": [
+      {
+       "slot": 1,
+       "moves": [
+        {
+         "alias": "blizzard",
+         "name": "Blizzard",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 2,
+       "moves": [
+        {
+         "alias": "giga_drain",
+         "name": "Giga Drain",
+         "gen": "xy"
+        },
+        {
+         "alias": "wood_hammer",
+         "name": "Wood Hammer",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 3,
+       "moves": [
+        {
+         "alias": "earthquake",
+         "name": "Earthquake",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 4,
+       "moves": [
+        {
+         "alias": "ice_shard",
+         "name": "Ice Shard",
+         "gen": "xy"
+        }
+       ]
+      }
+     ],
+     "natures": [
+      {
+       "pdef": 0.9,
+       "spe": 1.0,
+       "spatk": 1.1,
+       "hp": 1.0,
+       "patk": 1.0,
+       "spdef": 1.0
+      }
+     ],
+     "tags": [
+      {
+       "alias": "uu",
+       "name": "Underused",
+       "gen": "xy",
+       "shorthand": "UU"
+      }
+     ]
+    },
+    {
+     "evconfigs": [
+      {
+       "pdef": 0,
+       "spe": 0,
+       "spatk": 252,
+       "hp": 252,
+       "patk": 4,
+       "spdef": 0
+      }
+     ],
+     "name": "Mega Mixed Attacker",
+     "items": [
+      {
+       "alias": "abomasite",
+       "description": "Mega-evolves Abomasnow.",
+       "name": "Abomasite",
+       "gen": "xy"
+      }
+     ],
+     "abilities": [
+      {
+       "alias": "snow_warning",
+       "name": "Snow Warning",
+       "gen": "xy"
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Under hail, Blizzard won't miss and hits both opponents for heavy damage if they do not resist it. Giga Drain is the preferred move in the second slot as it provides a form of recovery, does not have recoil, and complements Abomasnow's great bulk. However, if you prefer power over durability, Wood Hammer is a viable option. Ice Shard is to give Abomasnow a fighting chance if Trick Room is no longer on the field. Earthquake is a great spread move to cover the troublesome Fire- and Steel-types, such as Heatran, Metagross, and Aegislash. However, do note that its damage output is low. If Earthquake is used, take note that the team has to have a greater focus on Trick Room than if it used Ice Shard, which allows Abomasnow to function outside Trick Room as well. Finally, Protect is there to scout for super effective moves the opponent might have, buying a free turn for a teammate and dealing hail damage to bring something closer to OHKO range.</p>\n<h4>Set Details</h4>\n<p>Without Abomasite, Abomasnow suffers a decrease in power and bulk that renders it almost worthless. The given EV spread grants Abomasnow respectable bulk while maintaining a threatening offensive presence. 48 Attack EVs can be used if you are running Wood Hammer to OHKO bulky Rotom-W, Jellicent, and Tyranitar; this also gives Ice Shard more power to score the crucial revenge KO on weakened opponents or those like Garchomp, Togekiss, and Shaymin-S quickly should they survive Blizzard with a Yache Berry. 0 Speed IVs and a Quiet nature guarantee that Abomasnow will be \"faster\" for the most part under Trick Room, as well as set hail after any other weather setter.</p>\n<h4>Usage Tips</h4>\n<p>Mega Abomasnow is the slowest Mega Evolution out there; therefore, the Ice Shard set appreciates Trick Room support to take advantage of Mega Abomasnow's low 30 base Speed, while the Earthquake set absolutely needs Trick Room. Mega Abomasnow's objective is to maintain offensive presence with Blizzard to soften up or clean the enemy. It also has the inherent ability to deter Spore users so you can set up Trick Room in peace. Because Abomasnow needs Trick Room in order to be \"fast,\" it should be reserved for later in the match rather than immediately brought out to allow its partners to set up Trick Room, while also removing any rain, sun, or sand upon switching in. Note that Snow Warning will activate once again when Abomasnow Mega Evolves; this gives Abomasnow more safety on maintaining hail against opposing weather setters that plan on switching in. Choosing when to Mega Evolve can be crucial to winning the weather war. Beware of Wide Guard users, as they can stop Abomasnow's Blizzard and Earthquake and disrupt its strategy.</p>\n<h4>Team Options</h4>\n<p>Powerful special attackers such as Kyurem, Greninja, and Genesect can reliably use Blizzard as coverage if Abomasnow sets up hail. In general, good partners to this set are Pokemon that can provide Trick Room and deal with opposing Fire- and Steel-types. Chandelure and Jellicent in particular are excellent partners because they can set up Trick Room, provide Will-O-Wisp support, and destroy opposing Steel- and Fire-types, respectively. Other good Trick Room setters include Reuniclus and Cresselia, which can provide Helping Hand support as well as deal with Fighting-types; Reuniclus gets bonus points for being immune to hail. Heatran and Chandelure are great partners to check Steel-types for Abomasnow; in return, Abomasnow checks Water-types for the two. Heatran and Chandelure can also take advantage of Fire-type moves aimed at Abomasnow thanks to Flash Fire, though they should not be relied upon to check Fire-types for it. Flying-type teammates, such as Tornadus and Talonflame, are also recommended to deal with the Fighting-types that Abomasnow is threatened by. The latter  also doesn't mind being in Trick Room thanks to Gale Wings. Pokemon that have overall good synergy with Abomasnow include Rotom-W, which takes care of Fire-types and burns physical attackers with Will-O-Wisp, and Talonflame, which doesn't mind Trick Room with priority Brave Bird and can deal with Scizor and Escavalier outside of Trick Room.</p>\n",
+     "moveslots": [
+      {
+       "slot": 1,
+       "moves": [
+        {
+         "alias": "blizzard",
+         "name": "Blizzard",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 2,
+       "moves": [
+        {
+         "alias": "giga_drain",
+         "name": "Giga Drain",
+         "gen": "xy"
+        },
+        {
+         "alias": "wood_hammer",
+         "name": "Wood Hammer",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 3,
+       "moves": [
+        {
+         "alias": "earthquake",
+         "name": "Earthquake",
+         "gen": "xy"
+        },
+        {
+         "alias": "ice_shard",
+         "name": "Ice Shard",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 4,
+       "moves": [
+        {
+         "alias": "protect",
+         "name": "Protect",
+         "gen": "xy"
+        }
+       ]
+      }
+     ],
+     "natures": [
+      {
+       "pdef": 1.0,
+       "spe": 0.9,
+       "spatk": 1.1,
+       "hp": 1.0,
+       "patk": 1.0,
+       "spdef": 1.0
+      }
+     ],
+     "tags": [
+      {
+       "alias": "doubles",
+       "name": "Doubles",
+       "gen": "xy",
+       "shorthand": "Doubles"
+      }
+     ]
+    },
+    {
+     "evconfigs": [
+      {
+       "pdef": 0,
+       "spe": 0,
+       "spatk": 0,
+       "hp": 248,
+       "patk": 252,
+       "spdef": 8
+      }
+     ],
+     "name": "Swords Dance",
+     "items": [
+      {
+       "alias": "abomasite",
+       "description": "Mega-evolves Abomasnow.",
+       "name": "Abomasite",
+       "gen": "xy"
+      }
+     ],
+     "abilities": [
+      {
+       "alias": "soundproof",
+       "name": "Soundproof",
+       "gen": "xy"
+      }
+     ],
+     "description": "<h4>Moves</h4>\n<p>Swords Dance is the main move of the set, as it bolsters Mega Abomasnow's great Attack stat to monstrous levels. Wood Hammer is a very powerful physical STAB move, although it has huge recoil. Ice Shard is a STAB priority move that is good at finishing off faster threats such as Noivern and Hydreigon, while Earthquake hits Fire-types on the switch and OHKOes them most of the time.</p>\n<h4>Set Details</h4>\n<p>248 HP EVs add bulk to Mega Abomasnow and allow it to switch in to Stealth Rock more times, while 252 Attack EVs with a Adamant nature max out Abomasnow's Attack. 8 Special Defense EVs are used for a little bulk and to give Porygon-Z the wrong Download boost, and, although minor, Soundproof is the preferred ability before Mega Evolution, as it allows Mega Abomasnow to switch into sound-based moves such as Bug Buzz. Hail also isn't beneficial for the team unless Mega Abomasnow is taking advantage of it.</p>\n<h4>Usage Tips</h4>\n<p>Mega Abomasnow only needs to worry about attacking, which is its only duty. However, it is advised to predict when a Fire-type will switch in to take the opportunity to hit them hard with Earthquake. This set should be used as a late-game sweeper, as Mega Abomasnow can pick off weakened opponents with hard-hitting moves.</p>\n<h4>Team Options</h4>\n<p>Mega Abomasnow appreciates team support from a myriad of different Pokemon. Infernape is an excellent partner to get rid of Steel-types such as Metagross and Jirachi with a STAB move, as Mega Abomasnow will either be crippled or KOed before it can 2HKO the troublesome Steel-types with Earthquake. Rotom-H can take any hit that Fire-types can offer and cripple Fighting-types with Will-O-Wisp. Forretress, Empoleon, Crobat, and Tentacruel provide Rapid Spin or Defog support against Stealth Rock and Spikes, which are a huge problem for Mega Abomasnow. Dugtrio makes for a good partner, as it can trap and KO troublesome Fire-types for Mega Abomasnow. Fire-types make excellent teammates, as they pressure your opponent to send in their bulky Water-types, which Mega Abomasnow beats and can set up on. Chandelure and Arcanine fill this role well, as they absorb Fire- and Fighting-type attacks well and can also beat troublesome Steel-types for Mega Abomasnow.</p>\n",
+     "moveslots": [
+      {
+       "slot": 1,
+       "moves": [
+        {
+         "alias": "swords_dance",
+         "name": "Swords Dance",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 2,
+       "moves": [
+        {
+         "alias": "wood_hammer",
+         "name": "Wood Hammer",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 3,
+       "moves": [
+        {
+         "alias": "ice_shard",
+         "name": "Ice Shard",
+         "gen": "xy"
+        }
+       ]
+      },
+      {
+       "slot": 4,
+       "moves": [
+        {
+         "alias": "earthquake",
+         "name": "Earthquake",
+         "gen": "xy"
+        }
+       ]
+      }
+     ],
+     "natures": [
+      {
+       "pdef": 1.0,
+       "spe": 1.0,
+       "spatk": 0.9,
+       "hp": 1.0,
+       "patk": 1.1,
+       "spdef": 1.0
+      }
+     ],
+     "tags": [
+      {
+       "alias": "uu",
+       "name": "Underused",
+       "gen": "xy",
+       "shorthand": "UU"
+      }
+     ]
+    }
+   ],
+   "name": "Abomasnow",
+   "genfamily": [
+    {
+     "alias": "abomasnow",
+     "gen": "bw"
+    },
+    {
+     "alias": "abomasnow",
+     "gen": "dp"
+    },
+    {
+     "alias": "abomasnow",
+     "gen": "xy"
+    }
+   ],
+   "family": {
+    "preevo": {
+     "alias": "snover",
+     "name": "Snover",
+     "gen": "xy"
+    },
+    "evos": [
+     {
+      "preevo": {
+       "alias": "abomasnow",
+       "name": "Abomasnow",
+       "gen": "xy"
+      },
+      "evos": []
+     }
+    ]
+   },
+   "alts": [
+    {
+     "pdef": 75,
+     "spe": 60,
+     "effectives": [
+      {
+       "types": [
+        {
+         "alias": "electric",
+         "name": "Electric",
+         "gen": "xy"
+        },
+        {
+         "alias": "grass",
+         "name": "Grass",
+         "gen": "xy"
+        },
+        {
+         "alias": "ground",
+         "name": "Ground",
+         "gen": "xy"
+        },
+        {
+         "alias": "water",
+         "name": "Water",
+         "gen": "xy"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "alias": "dark",
+         "name": "Dark",
+         "gen": "xy"
+        },
+        {
+         "alias": "dragon",
+         "name": "Dragon",
+         "gen": "xy"
+        },
+        {
+         "alias": "fairy",
+         "name": "Fairy",
+         "gen": "xy"
+        },
+        {
+         "alias": "ghost",
+         "name": "Ghost",
+         "gen": "xy"
+        },
+        {
+         "alias": "ice",
+         "name": "Ice",
+         "gen": "xy"
+        },
+        {
+         "alias": "normal",
+         "name": "Normal",
+         "gen": "xy"
+        },
+        {
+         "alias": "psychic",
+         "name": "Psychic",
+         "gen": "xy"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "alias": "bug",
+         "name": "Bug",
+         "gen": "xy"
+        },
+        {
+         "alias": "fighting",
+         "name": "Fighting",
+         "gen": "xy"
+        },
+        {
+         "alias": "flying",
+         "name": "Flying",
+         "gen": "xy"
+        },
+        {
+         "alias": "poison",
+         "name": "Poison",
+         "gen": "xy"
+        },
+        {
+         "alias": "rock",
+         "name": "Rock",
+         "gen": "xy"
+        },
+        {
+         "alias": "steel",
+         "name": "Steel",
+         "gen": "xy"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "alias": "fire",
+         "name": "Fire",
+         "gen": "xy"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ],
+     "gkpower": 100,
+     "weight": 135.5,
+     "spatk": 92,
+     "types": [
+      {
+       "alias": "grass",
+       "name": "Grass",
+       "gen": "xy"
+      },
+      {
+       "alias": "ice",
+       "name": "Ice",
+       "gen": "xy"
+      }
+     ],
+     "tags": [
+      {
+       "alias": "ru",
+       "name": "Rarelyused",
+       "gen": "xy",
+       "shorthand": "RU"
+      }
+     ],
+     "abilities": [
+      {
+       "alias": "snow_warning",
+       "description": "Summons hail.",
+       "name": "Snow Warning",
+       "gen": "xy"
+      },
+      {
+       "alias": "soundproof",
+       "description": "Unaffected by sound moves.",
+       "name": "Soundproof",
+       "gen": "xy"
+      }
+     ],
+     "height": 2.2,
+     "alias": "abomasnow",
+     "hp": 90,
+     "patk": 92,
+     "spdef": 85,
+     "suffix": ""
+    },
+    {
+     "pdef": 105,
+     "spe": 30,
+     "effectives": [
+      {
+       "types": [
+        {
+         "alias": "electric",
+         "name": "Electric",
+         "gen": "xy"
+        },
+        {
+         "alias": "grass",
+         "name": "Grass",
+         "gen": "xy"
+        },
+        {
+         "alias": "ground",
+         "name": "Ground",
+         "gen": "xy"
+        },
+        {
+         "alias": "water",
+         "name": "Water",
+         "gen": "xy"
+        }
+       ],
+       "modifier": 0.5
+      },
+      {
+       "types": [
+        {
+         "alias": "dark",
+         "name": "Dark",
+         "gen": "xy"
+        },
+        {
+         "alias": "dragon",
+         "name": "Dragon",
+         "gen": "xy"
+        },
+        {
+         "alias": "fairy",
+         "name": "Fairy",
+         "gen": "xy"
+        },
+        {
+         "alias": "ghost",
+         "name": "Ghost",
+         "gen": "xy"
+        },
+        {
+         "alias": "ice",
+         "name": "Ice",
+         "gen": "xy"
+        },
+        {
+         "alias": "normal",
+         "name": "Normal",
+         "gen": "xy"
+        },
+        {
+         "alias": "psychic",
+         "name": "Psychic",
+         "gen": "xy"
+        }
+       ],
+       "modifier": 1.0
+      },
+      {
+       "types": [
+        {
+         "alias": "bug",
+         "name": "Bug",
+         "gen": "xy"
+        },
+        {
+         "alias": "fighting",
+         "name": "Fighting",
+         "gen": "xy"
+        },
+        {
+         "alias": "flying",
+         "name": "Flying",
+         "gen": "xy"
+        },
+        {
+         "alias": "poison",
+         "name": "Poison",
+         "gen": "xy"
+        },
+        {
+         "alias": "rock",
+         "name": "Rock",
+         "gen": "xy"
+        },
+        {
+         "alias": "steel",
+         "name": "Steel",
+         "gen": "xy"
+        }
+       ],
+       "modifier": 2.0
+      },
+      {
+       "types": [
+        {
+         "alias": "fire",
+         "name": "Fire",
+         "gen": "xy"
+        }
+       ],
+       "modifier": 4.0
+      }
+     ],
+     "gkpower": 100,
+     "weight": 185.0,
+     "spatk": 132,
+     "types": [
+      {
+       "alias": "grass",
+       "name": "Grass",
+       "gen": "xy"
+      },
+      {
+       "alias": "ice",
+       "name": "Ice",
+       "gen": "xy"
+      }
+     ],
+     "tags": [
+      {
+       "alias": "ru",
+       "name": "Rarelyused",
+       "gen": "xy",
+       "shorthand": "RU"
+      }
+     ],
+     "abilities": [
+      {
+       "alias": "snow_warning",
+       "description": "Summons hail.",
+       "name": "Snow Warning",
+       "gen": "xy"
+      }
+     ],
+     "height": 2.7,
+     "alias": "abomasnow-mega",
+     "hp": 90,
+     "patk": 132,
+     "spdef": 105,
+     "suffix": "Mega"
+    }
+   ],
+   "alias": "abomasnow",
+   "gen": "xy",
+   "moves": [
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Attract",
+     "power": 0,
+     "alias": "attract",
+     "description": "Targets of the opposite gender are infatuated and have a 50% chance to do nothing.",
+     "pp": 15,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Avalanche",
+     "power": 60,
+     "alias": "avalanche",
+     "description": "Doubles in power if damaged by the target.",
+     "pp": 10,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 70,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Blizzard",
+     "power": 110,
+     "alias": "blizzard",
+     "description": "10% chance to freeze.",
+     "pp": 5,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Block",
+     "power": 0,
+     "alias": "block",
+     "description": "The target cannot switch out.",
+     "pp": 5,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "fighting",
+      "name": "Fighting",
+      "gen": "xy"
+     },
+     "name": "Brick Break",
+     "power": 75,
+     "alias": "brick_break",
+     "description": "Destroys Light Screen and Reflect, then hits.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ground",
+      "name": "Ground",
+      "gen": "xy"
+     },
+     "name": "Bulldoze",
+     "power": 60,
+     "alias": "bulldoze",
+     "description": "Lowers target's Speed by 1 stage.",
+     "pp": 20,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Bullet Seed",
+     "power": 25,
+     "alias": "bullet_seed",
+     "description": "Hits 2-5 times in one turn.",
+     "pp": 30,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Captivate",
+     "power": 0,
+     "alias": "captivate",
+     "description": "Lowers an opposite gender foe's Special Attack by 2 stages.",
+     "pp": 20,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Confide",
+     "power": 0,
+     "alias": "confide",
+     "description": "Lowers the target's Special Attack by 1 stage.",
+     "pp": 20,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Double Team",
+     "power": 0,
+     "alias": "double_team",
+     "description": "Boosts evasion by 1 stage.",
+     "pp": 15,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Double-Edge",
+     "power": 120,
+     "alias": "double-edge",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ground",
+      "name": "Ground",
+      "gen": "xy"
+     },
+     "name": "Earthquake",
+     "power": 100,
+     "alias": "earthquake",
+     "description": "Hits Pokemon using Dig with double Base Power.",
+     "pp": 10,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Endure",
+     "power": 0,
+     "alias": "endure",
+     "description": "The user always survives with at least 1 HP.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Energy Ball",
+     "power": 90,
+     "alias": "energy_ball",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 10,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Facade",
+     "power": 70,
+     "alias": "facade",
+     "description": "Has 140 Base Power when burned, paralyzed, or poisoned.",
+     "pp": 20,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Flash",
+     "power": 0,
+     "alias": "flash",
+     "description": "Lowers foe's accuracy 1 stage.",
+     "pp": 20,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "dark",
+      "name": "Dark",
+      "gen": "xy"
+     },
+     "name": "Fling",
+     "power": 0,
+     "alias": "fling",
+     "description": "Throws the user's hold item at the foe. Power and effect depend on the item.",
+     "pp": 10,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 70,
+     "type": {
+      "alias": "fighting",
+      "name": "Fighting",
+      "gen": "xy"
+     },
+     "name": "Focus Blast",
+     "power": 120,
+     "alias": "focus_blast",
+     "description": "10% chance to lower Special Defense by 1 stage.",
+     "pp": 5,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "fighting",
+      "name": "Fighting",
+      "gen": "xy"
+     },
+     "name": "Focus Punch",
+     "power": 150,
+     "alias": "focus_punch",
+     "description": "Fails if the user takes damage before it hits.",
+     "pp": 20,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 90,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Frost Breath",
+     "power": 60,
+     "alias": "frost_breath",
+     "description": "Always results in a critical hit.",
+     "pp": 10,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Frustration",
+     "power": 0,
+     "alias": "frustration",
+     "description": "No additional effect.",
+     "pp": 20,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Giga Drain",
+     "power": 75,
+     "alias": "giga_drain",
+     "description": "Leeches 50% damage.",
+     "pp": 10,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 90,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Giga Impact",
+     "power": 150,
+     "alias": "giga_impact",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Grass Knot",
+     "power": 0,
+     "alias": "grass_knot",
+     "description": "Deals damage based on the foe's weight.",
+     "pp": 20,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 55,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Grass Whistle",
+     "power": 0,
+     "alias": "grass_whistle",
+     "description": "Puts the foe to sleep.",
+     "pp": 15,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Growth",
+     "power": 0,
+     "alias": "growth",
+     "description": "Boosts Attack and Special Attack by one stage. Boosts Attack and Special Attack by two stages in bright sunlight.",
+     "pp": 40,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Hail",
+     "power": 0,
+     "alias": "hail",
+     "description": "Summons hail for 5 turns.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Headbutt",
+     "power": 70,
+     "alias": "headbutt",
+     "description": "30% chance to flinch the target.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "bug",
+      "name": "Bug",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Bug",
+     "power": 60,
+     "alias": "hidden_power_bug",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "dark",
+      "name": "Dark",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Dark",
+     "power": 60,
+     "alias": "hidden_power_dark",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "dragon",
+      "name": "Dragon",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Dragon",
+     "power": 60,
+     "alias": "hidden_power_dragon",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "electric",
+      "name": "Electric",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Electric",
+     "power": 60,
+     "alias": "hidden_power_electric",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "fighting",
+      "name": "Fighting",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Fighting",
+     "power": 60,
+     "alias": "hidden_power_fighting",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "fire",
+      "name": "Fire",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Fire",
+     "power": 60,
+     "alias": "hidden_power_fire",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "flying",
+      "name": "Flying",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Flying",
+     "power": 60,
+     "alias": "hidden_power_flying",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ghost",
+      "name": "Ghost",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Ghost",
+     "power": 60,
+     "alias": "hidden_power_ghost",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Grass",
+     "power": 60,
+     "alias": "hidden_power_grass",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ground",
+      "name": "Ground",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Ground",
+     "power": 60,
+     "alias": "hidden_power_ground",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Ice",
+     "power": 60,
+     "alias": "hidden_power_ice",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "poison",
+      "name": "Poison",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Poison",
+     "power": 60,
+     "alias": "hidden_power_poison",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "psychic",
+      "name": "Psychic",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Psychic",
+     "power": 60,
+     "alias": "hidden_power_psychic",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "rock",
+      "name": "Rock",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Rock",
+     "power": 60,
+     "alias": "hidden_power_rock",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "steel",
+      "name": "Steel",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Steel",
+     "power": 60,
+     "alias": "hidden_power_steel",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "water",
+      "name": "Water",
+      "gen": "xy"
+     },
+     "name": "Hidden Power Water",
+     "power": 60,
+     "alias": "hidden_power_water",
+     "description": "Type is based on the user's IVs.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 90,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Hyper Beam",
+     "power": 150,
+     "alias": "hyper_beam",
+     "description": "User cannot move next turn.",
+     "pp": 5,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Ice Beam",
+     "power": 90,
+     "alias": "ice_beam",
+     "description": "10% chance to freeze the target.",
+     "pp": 10,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Ice Punch",
+     "power": 75,
+     "alias": "ice_punch",
+     "description": "10% chance to freeze the target.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Ice Shard",
+     "power": 40,
+     "alias": "ice_shard",
+     "description": "The user always attacks first.",
+     "pp": 30,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 95,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Icy Wind",
+     "power": 55,
+     "alias": "icy_wind",
+     "description": "Lowers foe's Speed by 1 stage.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Ingrain",
+     "power": 0,
+     "alias": "ingrain",
+     "description": "Heals the user 1/16 its max HP each turn. Prevents the user from switching.",
+     "pp": 20,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 75,
+     "type": {
+      "alias": "steel",
+      "name": "Steel",
+      "gen": "xy"
+     },
+     "name": "Iron Tail",
+     "power": 100,
+     "alias": "iron_tail",
+     "description": "30% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 90,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Leech Seed",
+     "power": 0,
+     "alias": "leech_seed",
+     "description": "Leeches 1/8 of the target's HP each turn.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Leer",
+     "power": 0,
+     "alias": "leer",
+     "description": "Lowers target's Defense by 1 stage.",
+     "pp": 30,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "psychic",
+      "name": "Psychic",
+      "gen": "xy"
+     },
+     "name": "Light Screen",
+     "power": 0,
+     "alias": "light_screen",
+     "description": "Lowers damage from special attacks for 5 turns.",
+     "pp": 30,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Magical Leaf",
+     "power": 60,
+     "alias": "magical_leaf",
+     "description": "Ignores accuracy modifiers.",
+     "pp": 20,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Mist",
+     "power": 0,
+     "alias": "mist",
+     "description": "Prevents moves that lower stats from working for 5 turns.",
+     "pp": 30,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ground",
+      "name": "Ground",
+      "gen": "xy"
+     },
+     "name": "Mud-Slap",
+     "power": 20,
+     "alias": "mud-slap",
+     "description": "Lowers accuracy by 1 stage.",
+     "pp": 10,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Natural Gift",
+     "power": 0,
+     "alias": "natural_gift",
+     "description": "Power and type depends on the user's held Berry.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "dragon",
+      "name": "Dragon",
+      "gen": "xy"
+     },
+     "name": "Outrage",
+     "power": 120,
+     "alias": "outrage",
+     "description": "Repeats for 2-3 turns. Confuses at the end.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Powder Snow",
+     "power": 40,
+     "alias": "powder_snow",
+     "description": "10% chance to freeze.",
+     "pp": 25,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Protect",
+     "power": 0,
+     "alias": "protect",
+     "description": "Prevents anything from working on the user that turn.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "water",
+      "name": "Water",
+      "gen": "xy"
+     },
+     "name": "Rain Dance",
+     "power": 0,
+     "alias": "rain_dance",
+     "description": "Summons rain for 5 turns.",
+     "pp": 5,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 95,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Razor Leaf",
+     "power": 55,
+     "alias": "razor_leaf",
+     "description": "Has a high critical hit rate.",
+     "pp": 25,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "psychic",
+      "name": "Psychic",
+      "gen": "xy"
+     },
+     "name": "Rest",
+     "power": 0,
+     "alias": "rest",
+     "description": "The user goes to sleep for two turns and restores all HP.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Return",
+     "power": 0,
+     "alias": "return",
+     "description": "No additional effect.",
+     "pp": 20,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 85,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Rock Climb",
+     "power": 90,
+     "alias": "rock_climb",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 90,
+     "type": {
+      "alias": "rock",
+      "name": "Rock",
+      "gen": "xy"
+     },
+     "name": "Rock Slide",
+     "power": 75,
+     "alias": "rock_slide",
+     "description": "30% chance to flinch.",
+     "pp": 10,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "fighting",
+      "name": "Fighting",
+      "gen": "xy"
+     },
+     "name": "Rock Smash",
+     "power": 40,
+     "alias": "rock_smash",
+     "description": "50% chance to lower Defense by 1 stage.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 95,
+     "type": {
+      "alias": "rock",
+      "name": "Rock",
+      "gen": "xy"
+     },
+     "name": "Rock Tomb",
+     "power": 60,
+     "alias": "rock_tomb",
+     "description": "Lowers Speed by 1 stage.",
+     "pp": 10,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "psychic",
+      "name": "Psychic",
+      "gen": "xy"
+     },
+     "name": "Role Play",
+     "power": 0,
+     "alias": "role_play",
+     "description": "Copies the foe's ability and overwrites the user's ability.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Round",
+     "power": 60,
+     "alias": "round",
+     "description": "Power doubles if a teammate uses Round in the same turn.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Safeguard",
+     "power": 0,
+     "alias": "safeguard",
+     "description": "Blocks status conditions for 5 turns.",
+     "pp": 25,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Secret Power",
+     "power": 70,
+     "alias": "secret_power",
+     "description": "Effects vary with terrain.",
+     "pp": 20,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Seed Bomb",
+     "power": 80,
+     "alias": "seed_bomb",
+     "description": "No additional effect.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "ghost",
+      "name": "Ghost",
+      "gen": "xy"
+     },
+     "name": "Shadow Ball",
+     "power": 80,
+     "alias": "shadow_ball",
+     "description": "20% chance to lower Special Defense by 1 stage.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 30,
+     "type": {
+      "alias": "ice",
+      "name": "Ice",
+      "gen": "xy"
+     },
+     "name": "Sheer Cold",
+     "power": 0,
+     "alias": "sheer_cold",
+     "description": "Will OHKO the target.",
+     "pp": 5,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Skull Bash",
+     "power": 130,
+     "alias": "skull_bash",
+     "description": "Charges up turn one; attacks turn two. Boosts Defense by 1 stage.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Sleep Talk",
+     "power": 0,
+     "alias": "sleep_talk",
+     "description": "Picks one of the user's moves at random. Can only be used while sleeping.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Snore",
+     "power": 50,
+     "alias": "snore",
+     "description": "Can only be used while sleeping. 30% chance to flinch.",
+     "pp": 15,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Solar Beam",
+     "power": 120,
+     "alias": "solar_beam",
+     "description": "Charges up turn 1; attacks on turn 2.",
+     "pp": 10,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Stomp",
+     "power": 65,
+     "alias": "stomp",
+     "description": "30% chance to flinch.",
+     "pp": 20,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Strength",
+     "power": 80,
+     "alias": "strength",
+     "description": "No additional effect.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Substitute",
+     "power": 0,
+     "alias": "substitute",
+     "description": "Takes 1/4 the user's max HP to create a Substitute that takes damage for the user.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 90,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Swagger",
+     "power": 0,
+     "alias": "swagger",
+     "description": "Confuses the target. Boosts its Attack by 2 stages.",
+     "pp": 15,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "normal",
+      "name": "Normal",
+      "gen": "xy"
+     },
+     "name": "Swords Dance",
+     "power": 0,
+     "alias": "swords_dance",
+     "description": "Boosts Attack by 2 stages.",
+     "pp": 20,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 0,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Synthesis",
+     "power": 0,
+     "alias": "synthesis",
+     "description": "Heals variably depending on the weather.",
+     "pp": 5,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 90,
+     "type": {
+      "alias": "poison",
+      "name": "Poison",
+      "gen": "xy"
+     },
+     "name": "Toxic",
+     "power": 0,
+     "alias": "toxic",
+     "description": "Inflicts intensifying poison on the target.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "water",
+      "name": "Water",
+      "gen": "xy"
+     },
+     "name": "Water Pulse",
+     "power": 60,
+     "alias": "water_pulse",
+     "description": "20% chance to confuse.",
+     "pp": 20,
+     "category": "Special",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Wood Hammer",
+     "power": 120,
+     "alias": "wood_hammer",
+     "description": "Has 1/3 recoil.",
+     "pp": 15,
+     "category": "Physical",
+     "gen": "xy"
+    },
+    {
+     "accuracy": 100,
+     "type": {
+      "alias": "grass",
+      "name": "Grass",
+      "gen": "xy"
+     },
+     "name": "Worry Seed",
+     "power": 0,
+     "alias": "worry_seed",
+     "description": "Changes the foe's ability to Insomnia.",
+     "pp": 10,
+     "category": "Non-Damaging",
+     "gen": "xy"
+    }
+   ]
+  }
+ ]
+}
