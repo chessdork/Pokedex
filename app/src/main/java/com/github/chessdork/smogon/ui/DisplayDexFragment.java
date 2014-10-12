@@ -2,8 +2,6 @@ package com.github.chessdork.smogon.ui;
 
 import android.app.Fragment;
 import android.content.Context;
-import android.content.Intent;
-import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
 import android.util.Log;
@@ -21,21 +19,12 @@ import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.TextView;
 
-import com.github.chessdork.smogon.DisplayPokemonActivity;
 import com.github.chessdork.smogon.R;
-import com.github.chessdork.smogon.gson.PokemonTypeAdapter;
 import com.github.chessdork.smogon.models.Pokemon;
 import com.github.chessdork.smogon.models.PokemonType;
-import com.github.chessdork.smogon.models.Wrapper;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.google.gson.reflect.TypeToken;
 
-import java.io.InputStreamReader;
-import java.io.Reader;
-import java.lang.ref.WeakReference;
-import java.lang.reflect.Type;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class DisplayDexFragment extends Fragment {
@@ -44,17 +33,12 @@ public class DisplayDexFragment extends Fragment {
 
     private PokedexAdapter adapter;
     private String query;
-    private static List<Pokemon> pokedex;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setRetainInstance(true);
         setHasOptionsMenu(true);
-        if (pokedex == null) {
-            // parse assets asynchronously and set up the UI.
-            new ParsePokedexTask(this).execute();
-        }
     }
 
     @Override
@@ -62,15 +46,12 @@ public class DisplayDexFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment.
         View view = inflater.inflate(R.layout.fragment_display_dex, container, false);
-        if (pokedex != null) {
-            // Populate views, e.g., on orientation change.
-            setupUi(view);
-        }
+        setupUi(view);
         return view;
     }
 
     private void setupUi(View rootView) {
-        adapter = new PokedexAdapter(getActivity(), pokedex);
+        adapter = new PokedexAdapter(getActivity(), Arrays.asList(Pokemon.values()));
         // If the user typed into the SearchView before this point, we need to filter.
         if (query != null) {
             adapter.getFilter().filter(query);
@@ -79,9 +60,6 @@ public class DisplayDexFragment extends Fragment {
         listView.setAdapter(adapter);
         listView.setEmptyView(rootView.findViewById(R.id.empty_text));
         listView.setOnItemClickListener(new DexItemClickListener());
-
-        // Hide the progress bar once the ui is setup.
-        rootView.findViewById(R.id.progress_bar).setVisibility(View.GONE);
     }
 
     @Override
@@ -260,50 +238,6 @@ public class DisplayDexFragment extends Fragment {
         @Override
         public Filter getFilter() {
             return filter;
-        }
-    }
-
-    /**
-     * An AsyncTask for parsing the Pokemon from a JSON asset and updating the UI.  Note that
-     * we do not want to cancel the AsyncTask onStop, as the parsed data may be useful at
-     * some point in the future.
-     */
-    private static class ParsePokedexTask extends AsyncTask<Void, Void, List<Pokemon>> {
-        private WeakReference<DisplayDexFragment> fragmentReference;
-
-        public ParsePokedexTask(DisplayDexFragment fragment) {
-            fragmentReference = new WeakReference<>(fragment);
-        }
-
-        @Override
-        protected List<Pokemon> doInBackground(Void... voids) {
-            long start = System.currentTimeMillis();
-            Log.d(TAG, "Starting pokedex parsing...");
-
-            Gson gson = new GsonBuilder()
-                    .registerTypeAdapter(PokemonType.class, new PokemonTypeAdapter())
-                    .create();
-            Reader reader = new InputStreamReader(fragmentReference.get().getResources().openRawResource(R.raw.pokemon));
-            // Because Java generics
-            Type type = new TypeToken<Wrapper<List<Pokemon>>>() {
-            }.getType();
-            Wrapper<List<Pokemon>> response = gson.fromJson(reader, type);
-
-            long elapsed = System.currentTimeMillis() - start;
-            Log.d(TAG, "Finished pokedex parsing in " + elapsed + " ms.");
-            return response.getResult();
-        }
-
-        @Override
-        protected void onPostExecute(List<Pokemon> list) {
-            super.onPostExecute(list);
-
-            pokedex = list;
-
-            DisplayDexFragment fragment = fragmentReference.get();
-            if (fragment != null && fragment.getView() != null && fragment.isAdded()) {
-                fragment.setupUi(fragment.getView());
-            }
         }
     }
 }
