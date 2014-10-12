@@ -10,7 +10,6 @@ import android.graphics.Rect;
 import android.graphics.drawable.LayerDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.support.v4.app.NavUtils;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -77,6 +76,7 @@ public class DisplayPokemonActivity extends Activity {
     /**
      * Setup views that don't rely on the result of the AsyncTask.
      */
+    @SuppressWarnings("deprecation")
     private void setupStaticUi() {
         TextView textView = (TextView) findViewById(R.id.pokemon_name);
         textView.setText(mPokemon.getName());
@@ -242,7 +242,7 @@ public class DisplayPokemonActivity extends Activity {
             case R.id.action_settings:
                 return true;
             case android.R.id.home:
-                NavUtils.navigateUpFromSameTask(this);
+                finish();
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
@@ -287,11 +287,24 @@ public class DisplayPokemonActivity extends Activity {
             return index;
         }
 
+        static class ViewHolder {
+            TextView textView;
+        }
+
         @Override
         public View getView(int index, View convertView, ViewGroup parent) {
-            View view = mInflater.inflate(R.layout.item_moveset, parent, false);
-            TextView textView = (TextView) view.findViewById(R.id.moveset_name);
-            textView.setText(mMovesets.get(index).getName());
+            View view = convertView;
+            ViewHolder holder;
+
+            if (view == null) {
+                view = mInflater.inflate(R.layout.item_moveset, parent, false);
+                holder = new ViewHolder();
+                holder.textView = (TextView) view.findViewById(R.id.moveset_name);
+                view.setTag(holder);
+            } else {
+                holder = (ViewHolder) view.getTag();
+            }
+            holder.textView.setText(mMovesets.get(index).getName());
             return view;
         }
     }
