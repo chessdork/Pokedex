@@ -19,6 +19,7 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.github.chessdork.smogon.ui.DisplayAbilitiesFragment;
 import com.github.chessdork.smogon.ui.DisplayDexFragment;
 
 

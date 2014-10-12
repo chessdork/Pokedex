@@ -1,10 +1,10 @@
 package com.github.chessdork.smogon;
 
+import android.app.Fragment;
 import android.graphics.Color;
 import android.graphics.LinearGradient;
 import android.graphics.Shader;
 import android.os.Bundle;
-import android.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -23,7 +23,7 @@ public class DisplayTypesFragment extends Fragment {
 
         for (Type type : Type.values()) {
             TextView textView = new TextView(getActivity());
-            Shader gradient = new LinearGradient(0,0,0,20, type.getColor1(), type.getColor2(), Shader.TileMode.CLAMP);
+            Shader gradient = new LinearGradient(0, 0, 0, 20, type.getColor1(), type.getColor2(), Shader.TileMode.CLAMP);
             textView.getPaint().setShader(gradient);
             textView.setTextColor(Color.BLACK);
             textView.setText(type.getName());

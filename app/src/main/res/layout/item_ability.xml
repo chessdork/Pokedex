@@ -11,19 +11,13 @@
         android:layout_height="wrap_content"
         android:textSize="18sp"
         android:layout_gravity="center_vertical"
-        android:paddingLeft="4dp"
-        android:paddingStart="4dp"/>
+        android:padding="8dp"/>
 
     <TextView
         android:id="@+id/description"
-        android:layout_weight="1"
-        android:layout_width="0dp"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textSize="14sp"
-        android:layout_gravity="fill"
-        android:paddingRight="4dp"
-        android:paddingEnd="4dp"
-        android:layout_marginLeft="20dp"
-        android:layout_marginStart="20dp"/>
+        android:padding="8dp"/>
 
 </LinearLayout>
