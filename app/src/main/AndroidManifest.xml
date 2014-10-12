@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DisplayPokemonActivity"
+            android:name=".ui.DisplayPokemonActivity"
             android:label="@string/app_name"
             android:parentActivityName=".SmogonActivity" >
             <meta-data

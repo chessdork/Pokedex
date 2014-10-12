@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon;
+package com.github.chessdork.smogon.ui;
 
 import android.animation.ValueAnimator;
 import android.app.ActionBar;
@@ -21,6 +21,12 @@ import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.github.chessdork.smogon.Move;
+import com.github.chessdork.smogon.Moveset;
+import com.github.chessdork.smogon.R;
+import com.github.chessdork.smogon.models.Pokemon;
+import com.github.chessdork.smogon.models.PokemonType;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -37,9 +43,14 @@ public class DisplayPokemonActivity extends Activity {
     public static final String POKEMON_OBJECT = "POKEMON_OBJECT";
 
     private static final long ANIM_DURATION = 300;
-    private static final int[] ALL_STAT_BARS = {R.id.hp_rectangle, R.id.patk_rectangle,
-                                                R.id.pdef_rectangle, R.id.spatk_rectangle,
-                                                R.id.spdef_rectangle, R.id.spe_rectangle};
+    private static final int[] ALL_STAT_BARS = {
+            R.id.hp_rectangle,
+            R.id.patk_rectangle,
+            R.id.pdef_rectangle,
+            R.id.spatk_rectangle,
+            R.id.spdef_rectangle,
+            R.id.spe_rectangle
+    };
 
     // if the activity is stopped before the moveset parsing finishes, we should kill the AsyncTask
     // since the result is no longer useful.
@@ -59,7 +70,7 @@ public class DisplayPokemonActivity extends Activity {
             bar.setDisplayHomeAsUpEnabled(true);
         }
 
-        mTask = new ParseMovesetTask().execute( mPokemon.getAlias() );
+        mTask = new ParseMovesetTask().execute(mPokemon.getBaseAlias());
         setupStaticUi();
     }
 
@@ -72,18 +83,33 @@ public class DisplayPokemonActivity extends Activity {
 
         TextView type1 = (TextView) findViewById(R.id.pokemon_type1);
         TextView type2 = (TextView) findViewById(R.id.pokemon_type2);
-        Type[] types = mPokemon.getTypes();
-        Type.setupTypeView(type1, type2, types);
+        List<PokemonType> types = mPokemon.getTypes();
+        if (types.size() == 1) {
+            type1.setVisibility(View.VISIBLE);
+            type1.setText(types.get(0).getName());
+            type1.setBackgroundDrawable(types.get(0).createGradient());
+
+            type2.setVisibility(View.INVISIBLE);
+        } else if (types.size() == 2) {
+            type1.setVisibility(View.VISIBLE);
+            type1.setText(types.get(0).getName());
+            type1.setBackgroundDrawable(types.get(0).createLeftGradient());
+
+            type2.setVisibility(View.VISIBLE);
+            type2.setText(types.get(1).getName());
+            type2.setBackgroundDrawable(types.get(1).createRightGradient());
+        }
 
         TextView tags = (TextView) findViewById(R.id.pokemon_tags);
-        tags.setText(mPokemon.getTag());
+        // TODO(yang): add this back
+//        tags.setText(mPokemon.getTag());
 
         setupStatBar(R.id.hp_rectangle, R.id.hp_stat, mPokemon.getHp());
-        setupStatBar(R.id.patk_rectangle, R.id.patk_stat, mPokemon.getPatk());
-        setupStatBar(R.id.pdef_rectangle, R.id.pdef_stat, mPokemon.getPdef());
-        setupStatBar(R.id.spatk_rectangle, R.id.spatk_stat, mPokemon.getSpatk());
-        setupStatBar(R.id.spdef_rectangle, R.id.spdef_stat, mPokemon.getSpdef());
-        setupStatBar(R.id.spe_rectangle, R.id.spe_stat, mPokemon.getSpe());
+        setupStatBar(R.id.patk_rectangle, R.id.patk_stat, mPokemon.getAttack());
+        setupStatBar(R.id.pdef_rectangle, R.id.pdef_stat, mPokemon.getDefense());
+        setupStatBar(R.id.spatk_rectangle, R.id.spatk_stat, mPokemon.getSpecialAttack());
+        setupStatBar(R.id.spdef_rectangle, R.id.spdef_stat, mPokemon.getSpecialDefense());
+        setupStatBar(R.id.spe_rectangle, R.id.spe_stat, mPokemon.getSpeed());
     }
 
     /**
@@ -91,8 +117,8 @@ public class DisplayPokemonActivity extends Activity {
      */
     private void setupListView() {
         ListView listView = (ListView) findViewById(R.id.moveset_list);
-        listView.setAdapter( new MovesetAdapter(this, mMoveSets));
-        listView.setEmptyView( findViewById(R.id.empty_text) );
+        listView.setAdapter(new MovesetAdapter(this, mMoveSets));
+        listView.setEmptyView(findViewById(R.id.empty_text));
         //hide the progress bar now that the ListView is populated
         findViewById(R.id.progress_bar).setVisibility(View.GONE);
     }
@@ -114,8 +140,9 @@ public class DisplayPokemonActivity extends Activity {
     /**
      * Recolors the stat bar and sets the correct text for a stat.  After the Android system
      * finishes the layout, resizeStatBarToFit is called.
-     * @param rectId resource id for rectangle shape
-     * @param textId resource id for TextView
+     *
+     * @param rectId    resource id for rectangle shape
+     * @param textId    resource id for TextView
      * @param statValue stat
      */
     private void setupStatBar(int rectId, int textId, int statValue) {
@@ -134,6 +161,7 @@ public class DisplayPokemonActivity extends Activity {
 
     /**
      * Resize stat bars to fit the screen once they are created and begin animation.
+     *
      * @param hasFocus whether the window has focus
      */
     @Override
@@ -144,7 +172,7 @@ public class DisplayPokemonActivity extends Activity {
 
             ValueAnimator statAnim = ValueAnimator.ofFloat(0f, 1f);
             statAnim.setDuration(ANIM_DURATION);
-            statAnim.addUpdateListener( new BarAnimatorUpdateListener(ALL_STAT_BARS) );
+            statAnim.addUpdateListener(new BarAnimatorUpdateListener(ALL_STAT_BARS));
             statAnim.start();
         }
     }
@@ -152,6 +180,7 @@ public class DisplayPokemonActivity extends Activity {
     /**
      * Resize stat bars to fit the screen.  Otherwise, the rounded end of the rectangle is drawn
      * off-screen.
+     *
      * @param rectIds resource ids for rectangle shapes
      */
     private void resizeStatBarToFit(int... rectIds) {
@@ -209,7 +238,7 @@ public class DisplayPokemonActivity extends Activity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-        switch(id) {
+        switch (id) {
             case R.id.action_settings:
                 return true;
             case android.R.id.home:
@@ -222,14 +251,15 @@ public class DisplayPokemonActivity extends Activity {
 
     /**
      * Magic function to get stat colors that match Smogon.
+     *
      * @param stat the stat
      * @return the color as an integer
      */
     private int createColorFromStat(int stat) {
-        int n = (int) Math.floor(2.55 * Math.min( Math.max(stat-50, 0),100));
-        int r = Math.min(2*(255-n),255);
-        int g = Math.min(2*n,255);
-        int b = (int) Math.floor(4.25*Math.min(Math.max(stat-140,0),60));
+        int n = (int) Math.floor(2.55 * Math.min(Math.max(stat - 50, 0), 100));
+        int r = Math.min(2 * (255 - n), 255);
+        int g = Math.min(2 * n, 255);
+        int b = (int) Math.floor(4.25 * Math.min(Math.max(stat - 140, 0), 60));
         return Color.rgb(r, g, b);
     }
 
@@ -271,7 +301,7 @@ public class DisplayPokemonActivity extends Activity {
         List<Move> moves;
     }
 
-    private class ParseMovesetTask extends AsyncTask<String,Void,MovesetWrapper> {
+    private class ParseMovesetTask extends AsyncTask<String, Void, MovesetWrapper> {
 
         @Override
         protected MovesetWrapper doInBackground(String... strings) {
@@ -295,7 +325,7 @@ public class DisplayPokemonActivity extends Activity {
                 // assume there is exactly one result.  Verified as of October 11 2014.
                 // TODO write a test to verify number of results
                 if (length != 1) {
-                    Log.i("Moveset", "results array size is " + length + " for "+ alias);
+                    Log.i("Moveset", "results array size is " + length + " for " + alias);
                 }
                 JSONArray movesetArray = results.getJSONObject(0).getJSONArray("movesets");
                 List<Moveset> movesets = new ArrayList<>();
