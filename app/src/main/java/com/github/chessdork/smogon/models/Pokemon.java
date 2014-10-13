@@ -863,4 +863,8 @@ public enum Pokemon {
     public int getSpeed() {
         return speed;
     }
+
+    public String toString() {
+        return name;
+    }
 }

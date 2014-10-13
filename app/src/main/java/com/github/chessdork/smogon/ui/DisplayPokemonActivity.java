@@ -11,18 +11,17 @@ import android.graphics.drawable.LayerDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.BaseAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
 import com.github.chessdork.smogon.Move;
 import com.github.chessdork.smogon.Moveset;
 import com.github.chessdork.smogon.R;
+import com.github.chessdork.smogon.common.FilterableAdapter;
 import com.github.chessdork.smogon.models.Pokemon;
 import com.github.chessdork.smogon.models.PokemonType;
 
@@ -263,28 +262,9 @@ public class DisplayPokemonActivity extends Activity {
         return Color.rgb(r, g, b);
     }
 
-    private static class MovesetAdapter extends BaseAdapter {
-        private List<Moveset> mMovesets;
-        private LayoutInflater mInflater;
-
+    private static class MovesetAdapter extends FilterableAdapter<Moveset> {
         public MovesetAdapter(Context ctx, List<Moveset> movesets) {
-            mInflater = LayoutInflater.from(ctx);
-            mMovesets = movesets;
-        }
-
-        @Override
-        public int getCount() {
-            return mMovesets.size();
-        }
-
-        @Override
-        public Moveset getItem(int index) {
-            return mMovesets.get(index);
-        }
-
-        @Override
-        public long getItemId(int index) {
-            return index;
+            super(ctx, movesets);
         }
 
         static class ViewHolder {
@@ -297,14 +277,14 @@ public class DisplayPokemonActivity extends Activity {
             ViewHolder holder;
 
             if (view == null) {
-                view = mInflater.inflate(R.layout.item_moveset, parent, false);
+                view = getInflater().inflate(R.layout.item_moveset, parent, false);
                 holder = new ViewHolder();
                 holder.textView = (TextView) view.findViewById(R.id.moveset_name);
                 view.setTag(holder);
             } else {
                 holder = (ViewHolder) view.getTag();
             }
-            holder.textView.setText(mMovesets.get(index).getName());
+            holder.textView.setText(getItem(index).getName());
             return view;
         }
     }

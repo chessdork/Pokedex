@@ -205,4 +205,8 @@ public enum Ability {
     public String getDescription() {
         return description;
     }
+
+    public String toString() {
+        return name;
+    }
 }

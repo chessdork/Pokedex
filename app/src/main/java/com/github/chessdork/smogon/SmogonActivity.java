@@ -17,6 +17,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
+import android.widget.SearchView;
 import android.widget.TextView;
 
 import com.github.chessdork.smogon.ui.DisplayAbilitiesFragment;
@@ -27,6 +28,7 @@ public class SmogonActivity extends Activity {
 
     private ActionBarDrawerToggle mDrawerToggle;
     private DrawerLayout mDrawerLayout;
+    private SearchView searchView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -59,6 +61,7 @@ public class SmogonActivity extends Activity {
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.smogon, menu);
+        searchView = (SearchView) menu.findItem(R.id.action_search).getActionView();
         return true;
     }
 
@@ -191,6 +194,7 @@ public class SmogonActivity extends Activity {
             fm.beginTransaction()
                     .replace(R.id.content_frame, fragment)
                     .commit();
+            searchView.setQuery("", false);
             mDrawerLayout.closeDrawers();
         }
     }

@@ -678,4 +678,8 @@ public enum Move {
     public MoveCategory getCategory() {
         return category;
     }
+
+    public String toString() {
+        return name;
+    }
 }
