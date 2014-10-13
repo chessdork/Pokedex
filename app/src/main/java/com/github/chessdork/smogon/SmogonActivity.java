@@ -22,6 +22,7 @@ import android.widget.TextView;
 
 import com.github.chessdork.smogon.ui.DisplayAbilitiesFragment;
 import com.github.chessdork.smogon.ui.DisplayDexFragment;
+import com.github.chessdork.smogon.ui.DisplayItemsFragment;
 import com.github.chessdork.smogon.ui.DisplayMovesFragment;
 
 
@@ -185,6 +186,9 @@ public class SmogonActivity extends Activity {
                     break;
                 case MOVES:
                     handleClick(new DisplayMovesFragment());
+                    break;
+                case ITEMS:
+                    handleClick(new DisplayItemsFragment());
                     break;
                 default:
             }

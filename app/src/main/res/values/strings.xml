@@ -33,5 +33,6 @@
     <string name="empty_abilities">No abilities found.</string>
     <string name="empty_moves">No moves found.</string>
     <string name="category_description">Category Type</string>
+    <string name="empty_items">No items found.</string>
 
 </resources>
