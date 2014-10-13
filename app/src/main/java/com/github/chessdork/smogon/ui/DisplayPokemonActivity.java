@@ -238,8 +238,6 @@ public class DisplayPokemonActivity extends Activity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
         switch (id) {
-            case R.id.action_settings:
-                return true;
             case android.R.id.home:
                 finish();
                 return true;
@@ -267,7 +265,7 @@ public class DisplayPokemonActivity extends Activity {
             super(ctx, movesets);
         }
 
-        static class ViewHolder {
+        private static class ViewHolder {
             TextView textView;
         }
 

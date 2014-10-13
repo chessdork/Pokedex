@@ -61,7 +61,7 @@ public class DisplayDexFragment extends SearchableFragment {
             super(context, pokemon);
         }
 
-        static class ViewHolder {
+        private static class ViewHolder {
             TextView name;
             TextView type1;
             TextView type2;

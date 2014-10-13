@@ -41,7 +41,7 @@ public class DisplayAbilitiesFragment extends SearchableFragment {
             super(context, abilities);
         }
 
-        static class ViewHolder {
+        private static class ViewHolder {
             TextView name;
             TextView description;
         }

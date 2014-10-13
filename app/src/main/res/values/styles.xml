@@ -10,6 +10,11 @@
         <item name="android:background">#6363b0</item>
     </style>
 
+    <style name="CategoryImage">
+        <item name="android:layout_height">24.5dp</item>
+        <item name="android:layout_width">60dp</item>
+    </style>
+
     <style name="TypeText">
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_width">60dp</item>
