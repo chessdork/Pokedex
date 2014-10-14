@@ -100,8 +100,7 @@ public class DisplayPokemonActivity extends Activity {
         }
 
         TextView tags = (TextView) findViewById(R.id.pokemon_tags);
-        // TODO(yang): add this back
-//        tags.setText(mPokemon.getTag());
+        tags.setText(mPokemon.getTag());
 
         setupStatBar(R.id.hp_rectangle, R.id.hp_stat, mPokemon.getHp());
         setupStatBar(R.id.patk_rectangle, R.id.patk_stat, mPokemon.getAttack());

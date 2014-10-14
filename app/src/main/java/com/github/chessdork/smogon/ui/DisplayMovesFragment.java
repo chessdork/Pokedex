@@ -76,7 +76,7 @@ public class DisplayMovesFragment extends SearchableFragment {
                 holder.type.setBackgroundDrawable(move.getType().createGradient());
             }
 
-            if (holder.category !=null ) {
+            if (holder.category != null ) {
                 MoveCategory category = move.getCategory();
                 holder.category.setBackgroundDrawable(category.createGradient());
                 holder.category.setImageResource(category.getResId());

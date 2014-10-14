@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/pokemon_name"
+        android:layout_width="170dp"
+        android:layout_height="match_parent"
+        android:textSize="18sp"
+        android:layout_centerVertical="true"/>
+
+    <TextView
+        android:id="@+id/pokemon_type1"
+        style="@style/TypeText"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_toRightOf="@id/pokemon_name"
+        android:layout_toEndOf="@id/pokemon_name"/>
+
+    <TextView
+        android:id="@+id/pokemon_type2"
+        style="@style/TypeText"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/pokemon_type1"
+        android:layout_toEndOf="@id/pokemon_type1"/>
+
+    <TextView
+        android:id="@+id/pokemon_tags"
+        style="@style/TagText"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/spe_layout"
+        android:layout_toEndOf="@id/spe_layout"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"/>
+
+    <RelativeLayout
+        android:id="@+id/hp_layout"
+        style="@style/StatDexLayout"
+        android:layout_marginLeft="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_toRightOf="@id/pokemon_type2"
+        android:layout_toEndOf="@id/pokemon_type2">
+
+        <TextView
+            android:id="@+id/hp_descriptor"
+            android:text="@string/hp_short_descriptor"
+            style="@style/StatDexDescriptor"/>
+
+        <TextView
+            android:id="@+id/hp_stat"
+            android:text="@string/stat_placeholder"
+            style="@style/StatTextSmall"
+            android:layout_below="@id/hp_descriptor"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/patk_layout"
+        style="@style/StatDexLayout"
+        android:layout_toRightOf="@id/hp_layout"
+        android:layout_toEndOf="@id/hp_layout">
+
+        <TextView
+            android:id="@+id/patk_descriptor"
+            android:text="@string/patk_short_descriptor"
+            style="@style/StatDexDescriptor"/>
+
+        <TextView
+            android:id="@+id/patk_stat"
+            android:text="@string/stat_placeholder"
+            style="@style/StatTextSmall"
+            android:layout_below="@id/patk_descriptor"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/pdef_layout"
+        style="@style/StatDexLayout"
+        android:layout_toRightOf="@id/patk_layout"
+        android:layout_toEndOf="@id/patk_layout">
+
+        <TextView
+            android:id="@+id/pdef_descriptor"
+            android:text="@string/pdef_short_descriptor"
+            style="@style/StatDexDescriptor"/>
+
+        <TextView
+            android:id="@+id/pdef_stat"
+            android:text="@string/stat_placeholder"
+            style="@style/StatTextSmall"
+            android:layout_below="@id/pdef_descriptor"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/spatk_layout"
+        style="@style/StatDexLayout"
+        android:layout_toRightOf="@id/pdef_layout"
+        android:layout_toEndOf="@id/pdef_layout">
+
+        <TextView
+            android:id="@+id/spatk_descriptor"
+            android:text="@string/spatk_short_descriptor"
+            style="@style/StatDexDescriptor"/>
+
+        <TextView
+            android:id="@+id/spatk_stat"
+            android:text="@string/stat_placeholder"
+            style="@style/StatTextSmall"
+            android:layout_below="@id/spatk_descriptor"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/spdef_layout"
+        style="@style/StatDexLayout"
+        android:layout_toRightOf="@id/spatk_layout"
+        android:layout_toEndOf="@id/spatk_layout">
+
+        <TextView
+            android:id="@+id/spdef_descriptor"
+            android:text="@string/spdef_short_descriptor"
+            style="@style/StatDexDescriptor"/>
+
+        <TextView
+            android:id="@+id/spdef_stat"
+            android:text="@string/stat_placeholder"
+            style="@style/StatTextSmall"
+            android:layout_below="@id/spdef_descriptor"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/spe_layout"
+        style="@style/StatDexLayout"
+        android:layout_toRightOf="@id/spdef_layout"
+        android:layout_toEndOf="@id/spdef_layout">
+
+        <TextView
+            android:id="@+id/spe_descriptor"
+            android:text="@string/spe_short_descriptor"
+            style="@style/StatDexDescriptor"/>
+
+        <TextView
+            android:id="@+id/spe_stat"
+            android:text="@string/stat_placeholder"
+            style="@style/StatTextSmall"
+            android:layout_below="@id/spe_descriptor"/>
+    </RelativeLayout>
+</RelativeLayout>

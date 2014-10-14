@@ -65,6 +65,8 @@ public class DisplayDexFragment extends SearchableFragment {
             TextView name;
             TextView type1;
             TextView type2;
+            TextView tag;
+            TextView hp, patk, pdef, spatk, spdef, spe;
         }
 
         @Override
@@ -79,6 +81,13 @@ public class DisplayDexFragment extends SearchableFragment {
                 holder.name = (TextView) view.findViewById(R.id.pokemon_name);
                 holder.type1 = (TextView) view.findViewById(R.id.pokemon_type1);
                 holder.type2 = (TextView) view.findViewById(R.id.pokemon_type2);
+                holder.tag = (TextView) view.findViewById(R.id.pokemon_tags);
+                holder.hp = (TextView) view.findViewById(R.id.hp_stat);
+                holder.patk = (TextView) view.findViewById(R.id.patk_stat);
+                holder.pdef = (TextView) view.findViewById(R.id.pdef_stat);
+                holder.spatk = (TextView) view.findViewById(R.id.spatk_stat);
+                holder.spdef = (TextView) view.findViewById(R.id.spdef_stat);
+                holder.spe = (TextView) view.findViewById(R.id.spe_stat);
                 view.setTag(holder);
             } else {
                 holder = (ViewHolder) view.getTag();
@@ -103,6 +112,21 @@ public class DisplayDexFragment extends SearchableFragment {
                 holder.type2.setBackgroundDrawable(types.get(1).createRightGradient());
             } else {
                 Log.w(TAG, "Pokemon with wrong number of types: " + types.size());
+            }
+
+            if (holder.tag != null) {
+                holder.tag.setText(pokemon.getTag());
+            }
+
+            // if all of the stat TextViews exist in the layout
+            if (holder.hp != null && holder.patk != null && holder.pdef != null &&
+                    holder.spatk != null && holder.spdef != null && holder.spe != null) {
+                holder.hp.setText(String.valueOf(pokemon.getHp()));
+                holder.patk.setText(String.valueOf(pokemon.getAttack()));
+                holder.pdef.setText(String.valueOf(pokemon.getDefense()));
+                holder.spatk.setText(String.valueOf(pokemon.getSpecialAttack()));
+                holder.spdef.setText(String.valueOf(pokemon.getSpecialDefense()));
+                holder.spe.setText(String.valueOf(pokemon.getSpeed()));
             }
 
             return view;

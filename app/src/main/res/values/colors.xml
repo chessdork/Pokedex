@@ -2,4 +2,5 @@
 <resources>
     <color name="smogon_purple">#6363b0</color>
     <color name="smogon_light_purple">#d8d8eb</color>
+    <color name="light_gray">#999</color>
 </resources>

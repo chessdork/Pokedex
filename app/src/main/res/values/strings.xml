@@ -35,5 +35,11 @@
     <string name="category_description">Category Type</string>
     <string name="empty_items">No items found.</string>
     <string name="empty_types">No types found.</string>
+    <string name="hp_short_descriptor">HP</string>
+    <string name="patk_short_descriptor">Atk</string>
+    <string name="pdef_short_descriptor">Def</string>
+    <string name="spatk_short_descriptor">SpA</string>
+    <string name="spdef_short_descriptor">SpD</string>
+    <string name="spe_short_descriptor">Spe</string>
 
 </resources>

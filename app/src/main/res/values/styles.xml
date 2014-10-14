@@ -33,6 +33,27 @@
         <item name="android:visibility">gone</item>
     </style>
 
+    <style name="StatDexDescriptor">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/light_gray</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="StatDexLayout">
+        <item name="android:layout_width">27dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">1dp</item>
+    </style>
+
+    <style name="StatTextSmall">
+        <item name="android:textSize">12sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
     <style name="StatRectangle">
         <item name="android:background">@drawable/stat_rectangle</item>
         <item name="android:layout_marginLeft">@dimen/stat_bar_horizontal_margin</item>
@@ -46,6 +67,16 @@
         <item name="android:layout_width">60dp</item>
         <item name="android:textSize">12sp</item>
         <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="TagText">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/gradient</item>
         <item name="android:gravity">center</item>
         <item name="android:padding">4dp</item>
     </style>
@@ -66,6 +97,7 @@
         <item name="android:textColor">@android:color/white</item>
         <item name="android:background">@drawable/gradient</item>
         <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
     </style>
 
     <style name="NameLarge">
