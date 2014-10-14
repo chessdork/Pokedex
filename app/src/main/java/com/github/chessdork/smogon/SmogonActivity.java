@@ -94,13 +94,13 @@ public class SmogonActivity extends Activity {
      * Categories for the Navigation Drawer.
      */
     private enum Category {
-        POKEMON(R.drawable.ic_pkball, "POKEMON"),
-        MOVES(R.drawable.ic_moves, "MOVES"),
-        ABILITIES(R.drawable.ic_abilities, "ABILITIES"),
-        ITEMS(R.drawable.ic_items, "ITEMS"),
-        TYPES(R.drawable.ic_types, "TYPES"),
-        NATURES(R.drawable.ic_natures2, "NATURES"),
-        TAGS(R.drawable.ic_tags, "TAGS");
+        POKEMON(R.drawable.ic_drawer_pkball, "Pokémon"),
+        MOVES(R.drawable.ic_drawer_moves, "Moves"),
+        ABILITIES(R.drawable.ic_drawer_abilities, "Abilities"),
+        ITEMS(R.drawable.ic_drawer_items, "Items"),
+        TYPES(R.drawable.ic_drawer_types, "Types"),
+        NATURES(R.drawable.ic_drawer_natures, "Natures"),
+        TAGS(R.drawable.ic_drawer_tags, "Tags");
 
         private final int resId;
         private final String name;
