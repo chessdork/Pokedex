@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/type_name"
+        android:text="blah"
+        android:background="@drawable/gradient"
+        android:layout_alignParentLeft="true"
+        android:rotation="270"
+        android:translationX="-20dp"
+        android:layout_centerVertical="true"
+        style="@style/TypeTextLarge"/>
+
+    <RelativeLayout
+        android:id="@+id/super_effective_to"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/type_name">
+
+        <TextView
+            android:id="@+id/double_dmg_to"
+            android:text="2X DAMAGE TO"
+            android:background="#d2f3b2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"/>
+
+        <TextView
+            android:id="@+id/half_dmg_from"
+            android:text="1/2X DAMAGE FROM"
+            android:background="#d2f3b2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/double_dmg_to"
+            android:layout_margin="4dp"/>
+
+        <TextView
+            android:id="@+id/half_dmg_to"
+            android:text="1/2X DAMAGE TO"
+            android:background="#ffdbdb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/double_dmg_to"
+            android:layout_margin="4dp"/>
+
+
+        <TextView
+            android:id="@+id/double_dmg_from"
+            android:text="2X DAMAGE FROM"
+            android:background="#ffdbdb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/half_dmg_from"
+            android:layout_toRightOf="@id/half_dmg_to"
+            android:layout_margin="4dp"/>
+    </RelativeLayout>
+
+</RelativeLayout>

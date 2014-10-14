@@ -32,10 +32,7 @@
 
     <TextView
         android:id="@+id/move_description"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        style="@style/DescriptionText"
         android:layout_toRightOf="@id/move_type"
-        android:layout_toEndOf="@id/move_type"
-        android:layout_centerVertical="true"
-        android:padding="8dp"/>
+        android:layout_toEndOf="@id/move_type"/>
 </RelativeLayout>

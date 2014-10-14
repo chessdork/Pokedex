@@ -24,6 +24,7 @@ import com.github.chessdork.smogon.ui.DisplayAbilitiesFragment;
 import com.github.chessdork.smogon.ui.DisplayDexFragment;
 import com.github.chessdork.smogon.ui.DisplayItemsFragment;
 import com.github.chessdork.smogon.ui.DisplayMovesFragment;
+import com.github.chessdork.smogon.ui.DisplayTypesFragment;
 
 
 public class SmogonActivity extends Activity {

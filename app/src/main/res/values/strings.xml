@@ -34,5 +34,6 @@
     <string name="empty_moves">No moves found.</string>
     <string name="category_description">Category Type</string>
     <string name="empty_items">No items found.</string>
+    <string name="empty_types">No types found.</string>
 
 </resources>

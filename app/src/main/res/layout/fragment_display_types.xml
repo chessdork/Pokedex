@@ -1,13 +1,17 @@
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.github.chessdork.smogon.DisplayTypesFragment">
+    tools:context="com.github.chessdork.smogon.ui.DisplayTypesFragment">
 
-    <LinearLayout
-        android:id="@+id/table"
-        android:orientation="vertical"
-        android:layout_width="wrap_content"
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 
-</ScrollView>
+    <TextView
+        android:id="@+id/empty_text"
+        style="@style/EmptyListViewText"
+        android:text="@string/empty_types"/>
+
+</FrameLayout>
