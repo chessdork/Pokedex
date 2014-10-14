@@ -38,7 +38,7 @@ public enum PokemonType {
         return name;
     }
 
-    private static final int BORDER_STROKE = 1;
+    private static final int BORDER_STROKE = 2;
     private static final float CORNER_RADIUS = 4;
     private static final float[] LEFT_CORNERS = {CORNER_RADIUS, CORNER_RADIUS, 0, 0, 0, 0, CORNER_RADIUS, CORNER_RADIUS};
     private static final float[] RIGHT_CORNERS = {0, 0, CORNER_RADIUS, CORNER_RADIUS, CORNER_RADIUS, CORNER_RADIUS, 0, 0};

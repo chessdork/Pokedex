@@ -70,12 +70,17 @@ public class DisplayMovesFragment extends SearchableFragment {
             }
             Move move = getItem(index);
             holder.name.setText(move.getName());
-            holder.type.setText(move.getType().getName());
-            holder.type.setBackgroundDrawable(move.getType().createGradient());
 
-            MoveCategory category = move.getCategory();
-            holder.category.setBackgroundDrawable(category.createGradient());
-            holder.category.setImageResource(category.getResId());
+            if (holder.type != null) {
+                holder.type.setText(move.getType().getName());
+                holder.type.setBackgroundDrawable(move.getType().createGradient());
+            }
+
+            if (holder.category !=null ) {
+                MoveCategory category = move.getCategory();
+                holder.category.setBackgroundDrawable(category.createGradient());
+                holder.category.setImageResource(category.getResId());
+            }
 
             holder.description.setText(move.getDescription());
 

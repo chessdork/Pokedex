@@ -11,8 +11,9 @@
     </style>
 
     <style name="CategoryImage">
-        <item name="android:layout_height">24.5dp</item>
         <item name="android:layout_width">60dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">2dp</item>
     </style>
 
     <style name="DescriptionText">
@@ -60,7 +61,7 @@
 
     <style name="TagTextLarge">
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_width">80dp</item>
         <item name="android:textSize">18sp</item>
         <item name="android:textColor">@android:color/white</item>
         <item name="android:background">@drawable/gradient</item>
@@ -73,7 +74,7 @@
 
     <style name="StatDescriptorText">
         <item name="android:textSize">18sp</item>
-        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_width">80dp</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:gravity">right</item>
     </style>

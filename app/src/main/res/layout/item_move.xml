@@ -8,31 +8,13 @@
         android:id="@+id/move_name"
         android:layout_width="130dp"
         android:layout_height="wrap_content"
-        android:textSize="18sp"
         android:layout_centerVertical="true"
-        android:padding="8dp"/>
-
-    <TextView
-        android:id="@+id/move_type"
-        style="@style/TypeText"
-        android:layout_gravity="center_vertical"
-        android:layout_toRightOf="@id/move_name"
-        android:layout_toEndOf="@id/move_name"
-        android:visibility="gone"/>
-    
-    <ImageView
-        android:id="@+id/move_category"
-        style="@style/CategoryImage"
-        android:contentDescription="@string/category_description"
-        android:layout_gravity="center_vertical"
-        android:layout_toRightOf="@id/move_name"
-        android:layout_toEndOf="@id/move_name"
-        android:layout_below="@id/move_type"
-        android:visibility="gone"/>
+        android:padding="8dp"
+        android:textSize="18sp" />
 
     <TextView
         android:id="@+id/move_description"
         style="@style/DescriptionText"
-        android:layout_toRightOf="@id/move_type"
-        android:layout_toEndOf="@id/move_type"/>
+        android:layout_toEndOf="@id/move_name"
+        android:layout_toRightOf="@id/move_name" />
 </RelativeLayout>
