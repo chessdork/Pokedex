@@ -33,143 +33,149 @@
         android:layout_alignParentEnd="true"
         android:layout_below="@id/pokemon_name"/>
 
-    <LinearLayout
-        android:id="@+id/hp_layout"
-        android:layout_width="wrap_content"
+    <RelativeLayout
+        android:id="@+id/stat_layout"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_below="@id/pokemon_type1"
-        android:layout_marginTop="@dimen/activity_vertical_margin">
+        android:layout_below="@id/pokemon_type1">
 
-        <TextView
-            android:id="@+id/hp_descriptor"
-            style="@style/StatDescriptorText"
-            android:text="@string/hp_descriptor"/>
+        <LinearLayout
+            android:id="@+id/hp_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/activity_vertical_margin">
 
-        <TextView
-            android:id="@+id/hp_stat"
-            style="@style/StatText"
-            android:text="@string/stat_placeholder"/>
+            <TextView
+                android:id="@+id/hp_descriptor"
+                style="@style/StatDescriptorText"
+                android:text="@string/hp_descriptor"/>
 
-        <View
-            android:id="@+id/hp_rectangle"
-            style="@style/StatRectangle"/>
-    </LinearLayout>
+            <TextView
+                android:id="@+id/hp_stat"
+                style="@style/StatText"
+                android:text="@string/stat_placeholder"/>
 
-    <LinearLayout
-        android:id="@+id/patk_layout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_below="@id/hp_layout">
+            <View
+                android:id="@+id/hp_rectangle"
+                style="@style/StatRectangle"/>
+        </LinearLayout>
 
-        <TextView
-            android:id="@+id/patk_descriptor"
-            style="@style/StatDescriptorText"
-            android:text="@string/patk_descriptor"/>
+        <LinearLayout
+            android:id="@+id/patk_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/hp_layout">
 
-        <TextView
-            android:id="@+id/patk_stat"
-            style="@style/StatText"
-            android:text="@string/stat_placeholder"/>
+            <TextView
+                android:id="@+id/patk_descriptor"
+                style="@style/StatDescriptorText"
+                android:text="@string/patk_descriptor"/>
 
-        <View
-            android:id="@+id/patk_rectangle"
-            style="@style/StatRectangle" />
-    </LinearLayout>
+            <TextView
+                android:id="@+id/patk_stat"
+                style="@style/StatText"
+                android:text="@string/stat_placeholder"/>
 
-    <LinearLayout
-        android:id="@+id/pdef_layout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_below="@id/patk_layout">
+            <View
+                android:id="@+id/patk_rectangle"
+                style="@style/StatRectangle" />
+        </LinearLayout>
 
-        <TextView
-            android:id="@+id/pdef_descriptor"
-            style="@style/StatDescriptorText"
-            android:text="@string/pdef_descriptor"/>
+        <LinearLayout
+            android:id="@+id/pdef_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/patk_layout">
 
-        <TextView
-            android:id="@+id/pdef_stat"
-            style="@style/StatText"
-            android:text="@string/stat_placeholder"/>
+            <TextView
+                android:id="@+id/pdef_descriptor"
+                style="@style/StatDescriptorText"
+                android:text="@string/pdef_descriptor"/>
 
-        <View
-            android:id="@+id/pdef_rectangle"
-            style="@style/StatRectangle"/>
-    </LinearLayout>
+            <TextView
+                android:id="@+id/pdef_stat"
+                style="@style/StatText"
+                android:text="@string/stat_placeholder"/>
 
-    <LinearLayout
-        android:id="@+id/spatk_layout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_below="@id/pdef_layout">
+            <View
+                android:id="@+id/pdef_rectangle"
+                style="@style/StatRectangle"/>
+        </LinearLayout>
 
-        <TextView
-            android:id="@+id/spatk_descriptor"
-            style="@style/StatDescriptorText"
-            android:text="@string/spatk_descriptor"/>
+        <LinearLayout
+            android:id="@+id/spatk_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/pdef_layout">
 
-        <TextView
-            android:id="@+id/spatk_stat"
-            style="@style/StatText"
-            android:text="@string/stat_placeholder"/>
+            <TextView
+                android:id="@+id/spatk_descriptor"
+                style="@style/StatDescriptorText"
+                android:text="@string/spatk_descriptor"/>
 
-        <View
-            android:id="@+id/spatk_rectangle"
-            style="@style/StatRectangle"/>
-    </LinearLayout>
+            <TextView
+                android:id="@+id/spatk_stat"
+                style="@style/StatText"
+                android:text="@string/stat_placeholder"/>
 
-    <LinearLayout
-        android:id="@+id/spdef_layout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_below="@id/spatk_layout">
+            <View
+                android:id="@+id/spatk_rectangle"
+                style="@style/StatRectangle"/>
+        </LinearLayout>
 
-        <TextView
-            android:id="@+id/spdef_descriptor"
-            style="@style/StatDescriptorText"
-            android:text="@string/spdef_descriptor"/>
+        <LinearLayout
+            android:id="@+id/spdef_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/spatk_layout">
 
-        <TextView
-            android:id="@+id/spdef_stat"
-            style="@style/StatText"
-            android:text="@string/stat_placeholder"/>
+            <TextView
+                android:id="@+id/spdef_descriptor"
+                style="@style/StatDescriptorText"
+                android:text="@string/spdef_descriptor"/>
 
-        <View
-            android:id="@+id/spdef_rectangle"
-            style="@style/StatRectangle"/>
-    </LinearLayout>
+            <TextView
+                android:id="@+id/spdef_stat"
+                style="@style/StatText"
+                android:text="@string/stat_placeholder"/>
 
-    <LinearLayout
-        android:id="@+id/spe_layout"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_below="@id/spdef_layout">
+            <View
+                android:id="@+id/spdef_rectangle"
+                style="@style/StatRectangle"/>
+        </LinearLayout>
 
-        <TextView
-            android:id="@+id/spe_descriptor"
-            style="@style/StatDescriptorText"
-            android:text="@string/spe_descriptor"/>
+        <LinearLayout
+            android:id="@+id/spe_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/spdef_layout">
 
-        <TextView
-            android:id="@+id/spe_stat"
-            style="@style/StatText"
-            android:text="@string/stat_placeholder"/>
+            <TextView
+                android:id="@+id/spe_descriptor"
+                style="@style/StatDescriptorText"
+                android:text="@string/spe_descriptor"/>
 
-        <View
-            android:id="@+id/spe_rectangle"
-            style="@style/StatRectangle"/>
-    </LinearLayout>
+            <TextView
+                android:id="@+id/spe_stat"
+                style="@style/StatText"
+                android:text="@string/stat_placeholder"/>
+
+            <View
+                android:id="@+id/spe_rectangle"
+                style="@style/StatRectangle"/>
+        </LinearLayout>
+    </RelativeLayout>
 
     <TextView
         android:id="@+id/moveset_descriptor"
         android:text="@string/moveset_descriptor"
-        android:layout_below="@id/spe_layout"
+        android:layout_below="@id/stat_layout"
         android:layout_marginTop="@dimen/activity_vertical_margin"
         android:layout_marginBottom="10dp"
         style="@style/NameLarge" />

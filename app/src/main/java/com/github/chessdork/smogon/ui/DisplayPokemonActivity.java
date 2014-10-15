@@ -5,10 +5,8 @@ import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
-import android.content.res.Configuration;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
-import android.graphics.Rect;
 import android.graphics.drawable.LayerDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -43,6 +41,7 @@ import java.util.List;
 public class DisplayPokemonActivity extends Activity {
     public static final String POKEMON_OBJECT = "POKEMON_OBJECT";
 
+    private static final int STAT_MAX_SCALE = 150;
     private static final long ANIM_DURATION = 300;
     private static final int[] ALL_STAT_BARS = {
             R.id.hp_rectangle,
@@ -59,6 +58,7 @@ public class DisplayPokemonActivity extends Activity {
     private List<Moveset> mMoveSets;
     private List<Move> mMoves;
     private Pokemon mPokemon;
+    private boolean statBarsSetup = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -104,13 +104,6 @@ public class DisplayPokemonActivity extends Activity {
 
         TextView tags = (TextView) findViewById(R.id.pokemon_tags);
         tags.setText(mPokemon.getTag());
-
-        setupStatBar(R.id.hp_rectangle, R.id.hp_stat, mPokemon.getHp());
-        setupStatBar(R.id.patk_rectangle, R.id.patk_stat, mPokemon.getAttack());
-        setupStatBar(R.id.pdef_rectangle, R.id.pdef_stat, mPokemon.getDefense());
-        setupStatBar(R.id.spatk_rectangle, R.id.spatk_stat, mPokemon.getSpecialAttack());
-        setupStatBar(R.id.spdef_rectangle, R.id.spdef_stat, mPokemon.getSpecialDefense());
-        setupStatBar(R.id.spe_rectangle, R.id.spe_stat, mPokemon.getSpeed());
     }
 
     /**
@@ -152,8 +145,35 @@ public class DisplayPokemonActivity extends Activity {
     }
 
     /**
-     * Recolors the stat bar and sets the correct text for a stat.  After the Android system
-     * finishes the layout, resizeStatBarToFit is called.
+     * Resize stat bars to fit the screen once they are created and begin animation.
+     *
+     * @param hasFocus whether the window has focus
+     */
+    @Override
+    public void onWindowFocusChanged(boolean hasFocus) {
+        super.onWindowFocusChanged(hasFocus);
+        if (hasFocus) {
+            if (!statBarsSetup) {
+                // only do this once per orientation
+                statBarsSetup = true;
+                setupStatBar(R.id.hp_rectangle, R.id.hp_stat, mPokemon.getHp());
+                setupStatBar(R.id.patk_rectangle, R.id.patk_stat, mPokemon.getAttack());
+                setupStatBar(R.id.pdef_rectangle, R.id.pdef_stat, mPokemon.getDefense());
+                setupStatBar(R.id.spatk_rectangle, R.id.spatk_stat, mPokemon.getSpecialAttack());
+                setupStatBar(R.id.spdef_rectangle, R.id.spdef_stat, mPokemon.getSpecialDefense());
+                setupStatBar(R.id.spe_rectangle, R.id.spe_stat, mPokemon.getSpeed());
+            }
+
+            ValueAnimator statAnim = ValueAnimator.ofFloat(0f, 1f);
+            statAnim.setDuration(ANIM_DURATION);
+            statAnim.addUpdateListener(new BarAnimatorUpdateListener(ALL_STAT_BARS));
+            statAnim.start();
+        }
+    }
+
+    /**
+     * After the first layout pass is finished, dynamically size the stat bars based on
+     * available screen width.
      *
      * @param rectId    resource id for rectangle shape
      * @param textId    resource id for TextView
@@ -168,47 +188,13 @@ public class DisplayPokemonActivity extends Activity {
         int color = createColorFromStat(statValue);
         layer.findDrawableByLayerId(R.id.stat_color).setColorFilter(color, PorterDuff.Mode.SRC_OVER);
 
-        boolean landscape = getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE;
+        int start = rectangle.getLeft();
+        int end = rectangle.getRight();
+        float scale = (end - start) / (float) STAT_MAX_SCALE;
+
         ViewGroup.LayoutParams params = rectangle.getLayoutParams();
-        params.width = landscape ? (int) (statValue * 1.5) : statValue * 2;
+        params.width = (int) (Math.min(statValue, STAT_MAX_SCALE) * scale);
         rectangle.setLayoutParams(params);
-    }
-
-    /**
-     * Resize stat bars to fit the screen once they are created and begin animation.
-     *
-     * @param hasFocus whether the window has focus
-     */
-    @Override
-    public void onWindowFocusChanged(boolean hasFocus) {
-        super.onWindowFocusChanged(hasFocus);
-        if (hasFocus) {
-            resizeStatBarToFit(ALL_STAT_BARS);
-
-            ValueAnimator statAnim = ValueAnimator.ofFloat(0f, 1f);
-            statAnim.setDuration(ANIM_DURATION);
-            statAnim.addUpdateListener(new BarAnimatorUpdateListener(ALL_STAT_BARS));
-            statAnim.start();
-        }
-    }
-
-    /**
-     * Resize stat bars to fit the screen.  Otherwise, the rounded end of the rectangle is drawn
-     * off-screen.
-     *
-     * @param rectIds resource ids for rectangle shapes
-     */
-    private void resizeStatBarToFit(int... rectIds) {
-        for (int id : rectIds) {
-            View view = findViewById(id);
-            Rect r = new Rect();
-
-            if (view.getGlobalVisibleRect(r)) {
-                ViewGroup.LayoutParams params = view.getLayoutParams();
-                params.width = r.width();
-                view.setLayoutParams(params);
-            }
-        }
     }
 
     /**
