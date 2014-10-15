@@ -19,19 +19,19 @@
 
     <TextView
         android:id="@+id/pokemon_type1"
-        style="@style/TypeTextLarge"
+        style="@style/TypeText.Large"
         android:layout_below="@id/pokemon_name"/>
 
     <TextView
         android:id="@+id/pokemon_type2"
-        style="@style/TypeTextLarge"
+        style="@style/TypeText.Large"
         android:layout_toRightOf="@id/pokemon_type1"
         android:layout_toEndOf="@id/pokemon_type1"
         android:layout_below="@id/pokemon_name"/>
 
     <TextView
         android:id="@+id/pokemon_tags"
-        style="@style/TagTextLarge"
+        style="@style/TagText.Large"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_below="@id/pokemon_name"/>

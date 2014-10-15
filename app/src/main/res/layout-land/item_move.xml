@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:padding="8dp">
 
     <TextView
         android:id="@+id/move_name"
-        android:layout_width="130dp"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:padding="8dp"
-        android:textSize="18sp" />
+        style="@style/ListViewHeaderText"/>
 
     <RelativeLayout
         android:id="@+id/move_icons"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_toEndOf="@id/move_name"
-        android:layout_toRightOf="@id/move_name">
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp">
 
         <TextView
             android:id="@+id/move_type"
             style="@style/TypeText"
             android:layout_marginEnd="8dp"
-            android:layout_marginRight="8dp" />
+            android:layout_marginRight="8dp"/>
 
         <ImageView
             android:id="@+id/move_category"
@@ -34,17 +31,12 @@
             android:layout_alignTop="@id/move_type"
             android:layout_toEndOf="@id/move_type"
             android:layout_toRightOf="@id/move_type"
-            android:contentDescription="@string/category_description" />
+            android:contentDescription="@string/category_description"/>
 
     </RelativeLayout>
 
     <TextView
         android:id="@+id/move_description"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_toEndOf="@id/move_icons"
-        android:layout_toRightOf="@id/move_icons"
-        android:padding="8dp"
-        android:textSize="14sp" />
-</RelativeLayout>
+        style="@style/ListViewDescriptionText"/>
+
+</LinearLayout>

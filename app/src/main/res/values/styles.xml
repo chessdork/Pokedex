@@ -7,21 +7,28 @@
     </style>
 
     <style name="ActionBarStyle" parent="android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
-        <item name="android:background">#6363b0</item>
+        <item name="android:background">@drawable/smogon_purple</item>
     </style>
 
-    <style name="CategoryImage">
-        <item name="android:layout_width">60dp</item>
-        <item name="android:gravity">center</item>
-        <item name="android:padding">2dp</item>
+    <style name="NameLarge">
+        <item name="android:textSize">24sp</item>
     </style>
 
-    <style name="DescriptionText">
+    <!-- List View styles -->
+
+    <style name="ListViewHeaderText">
+        <item name="android:layout_width">120dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="ListViewDescriptionText">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_gravity">center_vertical</item>
         <item name="android:textSize">14sp</item>
-        <item name="android:padding">8dp</item>
     </style>
 
     <style name="EmptyListViewText">
@@ -33,6 +40,8 @@
         <item name="android:visibility">gone</item>
     </style>
 
+    <!-- Dex list styles -->
+
     <style name="StatDexDescriptor">
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
@@ -42,9 +51,8 @@
     </style>
 
     <style name="StatDexLayout">
-        <item name="android:layout_width">27dp</item>
+        <item name="android:layout_width">28dp</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:padding">1dp</item>
     </style>
 
     <style name="StatTextSmall">
@@ -54,54 +62,14 @@
         <item name="android:layout_centerHorizontal">true</item>
     </style>
 
+    <!-- Display pokemon activity -->
+
     <style name="StatRectangle">
         <item name="android:background">@drawable/stat_rectangle</item>
         <item name="android:layout_marginLeft">@dimen/stat_bar_horizontal_margin</item>
         <item name="android:layout_gravity">center_vertical</item>
         <item name="android:layout_width">0dp</item>
         <item name="android:layout_height">15dp</item>
-    </style>
-
-    <style name="TypeText">
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_width">60dp</item>
-        <item name="android:textSize">12sp</item>
-        <item name="android:textColor">@android:color/white</item>
-        <item name="android:gravity">center</item>
-        <item name="android:padding">4dp</item>
-    </style>
-
-    <style name="TagText">
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_width">60dp</item>
-        <item name="android:textSize">12sp</item>
-        <item name="android:textColor">@android:color/white</item>
-        <item name="android:background">@drawable/gradient</item>
-        <item name="android:gravity">center</item>
-        <item name="android:padding">4dp</item>
-    </style>
-
-    <style name="TypeTextLarge">
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_width">80dp</item>
-        <item name="android:textSize">18sp</item>
-        <item name="android:textColor">@android:color/white</item>
-        <item name="android:gravity">center</item>
-        <item name="android:padding">4dp</item>
-    </style>
-
-    <style name="TagTextLarge">
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_width">80dp</item>
-        <item name="android:textSize">18sp</item>
-        <item name="android:textColor">@android:color/white</item>
-        <item name="android:background">@drawable/gradient</item>
-        <item name="android:gravity">center</item>
-        <item name="android:padding">4dp</item>
-    </style>
-
-    <style name="NameLarge">
-        <item name="android:textSize">24sp</item>
     </style>
 
     <style name="StatDescriptorText">
@@ -113,11 +81,42 @@
 
     <style name="StatText">
         <item name="android:textSize">18sp</item>
-        <item name="android:textColor">#030303</item>
         <item name="android:textStyle">bold</item>
         <item name="android:layout_width">40dp</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:gravity">right</item>
+    </style>
+
+    <!-- Rounded corners galore -->
+
+    <style name="CategoryImage">
+        <item name="android:layout_width">60dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">2dp</item>
+    </style>
+
+    <style name="TypeText">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
+    </style>
+
+    <style name="TagText" parent="TypeText">
+        <item name="android:background">@drawable/purple_bubble</item>
+        <item name="android:textColor">@color/smogon_purple</item>
+    </style>
+
+    <style name="TypeText.Large">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TagText.Large">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:textSize">18sp</item>
     </style>
 
 </resources>
