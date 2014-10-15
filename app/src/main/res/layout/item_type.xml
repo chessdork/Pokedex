@@ -7,12 +7,12 @@
     <TextView
         android:id="@+id/type_name"
         android:text="blah"
-        android:background="@drawable/gradient"
+        android:background="@drawable/purple_bubble"
         android:layout_alignParentLeft="true"
         android:rotation="270"
         android:translationX="-20dp"
         android:layout_centerVertical="true"
-        style="@style/TypeTextLarge"/>
+        style="@style/TypeText.Large"/>
 
     <RelativeLayout
         android:id="@+id/super_effective_to"

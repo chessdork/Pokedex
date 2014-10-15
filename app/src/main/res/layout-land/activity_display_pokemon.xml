@@ -18,7 +18,7 @@
 
     <TextView
         android:id="@+id/pokemon_tags"
-        style="@style/TagTextLarge"
+        style="@style/TagText.Large"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_marginLeft="16dp"
@@ -26,13 +26,13 @@
 
     <TextView
         android:id="@+id/pokemon_type2"
-        style="@style/TypeTextLarge"
+        style="@style/TypeText.Large"
         android:layout_toLeftOf="@id/pokemon_tags"
         android:layout_toStartOf="@id/pokemon_tags"/>
 
     <TextView
         android:id="@+id/pokemon_type1"
-        style="@style/TypeTextLarge"
+        style="@style/TypeText.Large"
         android:layout_toLeftOf="@id/pokemon_type2"
         android:layout_toStartOf="@id/pokemon_type2"/>
 
