@@ -26,9 +26,15 @@ public class DisplayMovesetActivity extends Activity {
         if (bar != null) {
             bar.setDisplayHomeAsUpEnabled(true);
         }
+        setupUi();
+    }
 
-        TextView desc = (TextView) findViewById(R.id.moveset_description);
-        desc.setText(Html.fromHtml(moveset.getDescription()));
+    private void setupUi() {
+        TextView name = (TextView) findViewById(R.id.moveset_name);
+        name.setText(moveset.getName());
+
+        TextView description = (TextView) findViewById(R.id.moveset_description);
+        description.setText(Html.fromHtml(moveset.getDescription()));
     }
 
 

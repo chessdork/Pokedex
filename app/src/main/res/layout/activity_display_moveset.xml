@@ -5,7 +5,7 @@
     <RelativeLayout
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:paddingRight="@dimen/activity_horizontal_margin"
         android:paddingTop="@dimen/activity_vertical_margin"
@@ -13,10 +13,37 @@
         tools:context="com.github.chessdork.smogon.ui.DisplayMovesetActivity">
 
         <TextView
+            android:id="@+id/moveset_name"
+            style="@style/NameLarge"/>
+
+        <RelativeLayout
+            android:id="@+id/moveset_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/stat_rectangle"
+            android:layout_below="@id/moveset_name">
+
+            <TextView
+                android:id="@+id/move_1_descriptor"
+                android:text="@string/move_1_descriptor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/move_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/move_1_descriptor"
+                android:layout_toRightOf="@id/move_1_descriptor"/>
+
+        </RelativeLayout>
+
+        <TextView
             android:id="@+id/moveset_description"
             android:text="@string/hello_world"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_below="@id/moveset_frame"/>
 
     </RelativeLayout>
 </ScrollView>

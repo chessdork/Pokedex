@@ -11,7 +11,7 @@
     <TextView
         android:id="@+id/pokemon_name"
         android:text="@string/hello_world"
-        android:textStyle="bold"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         style="@style/NameLarge" />
@@ -41,8 +41,10 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/pokemon_name"
-        android:layout_alignLeft="@id/pokemon_type1"
-        android:layout_alignStart="@id/pokemon_type1"
+        android:layout_toLeftOf="@id/pokemon_type1"
+        android:layout_toStartOf="@id/pokemon_type1"
+        android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp"
         android:layout_marginTop="@dimen/activity_vertical_margin">
 
         <LinearLayout
@@ -181,18 +183,13 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/pokemon_name"
-        android:layout_alignLeft="@id/pokemon_name"
-        android:layout_alignStart="@id/pokemon_name"
-        android:layout_toLeftOf="@id/stat_layout"
-        android:layout_toStartOf="@id/stat_layout"
-        android:layout_alignTop="@id/stat_layout"
-        android:layout_marginRight="16dp"
-        android:layout_marginEnd="16dp">
+        android:layout_toRightOf="@id/stat_layout"
+        android:layout_toEndOf="@id/stat_layout"
+        android:layout_alignTop="@id/stat_layout">
 
         <ListView
             android:id="@+id/moveset_list"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            style="@style/MovesetList"/>
 
         <ProgressBar
             android:id="@+id/progress_bar"

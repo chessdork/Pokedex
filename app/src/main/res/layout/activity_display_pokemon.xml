@@ -11,9 +11,6 @@
     <TextView
         android:id="@+id/pokemon_name"
         android:text="@string/hello_world"
-        android:textStyle="bold"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"
         style="@style/NameLarge" />
 
@@ -172,11 +169,9 @@
     <TextView
         android:id="@+id/moveset_descriptor"
         android:text="@string/moveset_descriptor"
-        android:textStyle="bold"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:layout_below="@id/spe_layout"
         android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:layout_marginBottom="10dp"
         style="@style/NameLarge" />
 
     <FrameLayout
@@ -186,8 +181,7 @@
 
         <ListView
             android:id="@+id/moveset_list"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            style="@style/MovesetList"/>
 
         <ProgressBar
             android:id="@+id/progress_bar"

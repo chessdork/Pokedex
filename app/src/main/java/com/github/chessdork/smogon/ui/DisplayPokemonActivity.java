@@ -5,6 +5,7 @@ import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.Configuration;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.Rect;
@@ -167,8 +168,9 @@ public class DisplayPokemonActivity extends Activity {
         int color = createColorFromStat(statValue);
         layer.findDrawableByLayerId(R.id.stat_color).setColorFilter(color, PorterDuff.Mode.SRC_OVER);
 
+        boolean landscape = getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE;
         ViewGroup.LayoutParams params = rectangle.getLayoutParams();
-        params.width = statValue * 2;
+        params.width = landscape ? (int) (statValue * 1.5) : statValue * 2;
         rectangle.setLayoutParams(params);
     }
 
