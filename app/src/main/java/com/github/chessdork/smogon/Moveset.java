@@ -3,22 +3,26 @@ package com.github.chessdork.smogon;
 
 import android.util.Log;
 
+import com.github.chessdork.smogon.models.Ability;
+import com.github.chessdork.smogon.models.Item;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Moveset {
+public class Moveset implements Serializable{
     private final String name, description;
     private final List<Item> items;
-    private final List<String> abilities;
+    private final List<Ability> abilities;
     private final int[] evConfigs;
     private final List<String>[] moves;
     private final List<Nature> natures;
 
-    public Moveset(String name, String description, List<Item> items, List<String> abilities,
+    public Moveset(String name, String description, List<Item> items, List<Ability> abilities,
                    int[] evConfigs, List<String>[] moves, List<Nature> natures) {
         this.name = name;
         this.description = description;
@@ -41,7 +45,7 @@ public class Moveset {
         return items;
     }
 
-    public List<String> getAbilities() {
+    public List<Ability> getAbilities() {
         return abilities;
     }
 
@@ -65,16 +69,14 @@ public class Moveset {
             JSONArray itemArray = jsonObject.getJSONArray("items");
             List<Item> items = new ArrayList<>();
             for (int i = 0; i < itemArray.length(); i++) {
-                Item item = Item.parseItem(itemArray.getJSONObject(i));
-                if (item != null) {
-                    items.add(item);
-                }
+                Item item = Item.valueOf(itemArray.getJSONObject(i).getString("alias").replaceAll("-","_").toUpperCase());
+                items.add(item);
             }
 
             JSONArray abilityArray = jsonObject.getJSONArray("abilities");
-            List<String> abilities = new ArrayList<>();
+            List<Ability> abilities = new ArrayList<>();
             for (int i = 0; i < abilityArray.length(); i++) {
-                String ability = abilityArray.getJSONObject(i).getString("name");
+                Ability ability = Ability.valueOf(abilityArray.getJSONObject(i).getString("alias").replaceAll("-","_").toUpperCase());
                 abilities.add(ability);
             }
 

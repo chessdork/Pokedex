@@ -10,6 +10,8 @@
         android:id="@+id/moveset_name"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="@color/smogon_purple"
         android:layout_weight="1"
         android:layout_gravity="center_vertical"/>
 

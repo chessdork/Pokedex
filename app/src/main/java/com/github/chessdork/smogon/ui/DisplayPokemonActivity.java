@@ -4,6 +4,7 @@ import android.animation.ValueAnimator;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.Rect;
@@ -15,13 +16,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.github.chessdork.smogon.Move;
 import com.github.chessdork.smogon.Moveset;
 import com.github.chessdork.smogon.R;
 import com.github.chessdork.smogon.common.FilterableAdapter;
+import com.github.chessdork.smogon.models.Move;
 import com.github.chessdork.smogon.models.Pokemon;
 import com.github.chessdork.smogon.models.PokemonType;
 
@@ -117,8 +119,21 @@ public class DisplayPokemonActivity extends Activity {
         ListView listView = (ListView) findViewById(R.id.moveset_list);
         listView.setAdapter(new MovesetAdapter(this, mMoveSets));
         listView.setEmptyView(findViewById(R.id.empty_text));
+        listView.setOnItemClickListener(new MovesetOnItemClickerListener());
+
         //hide the progress bar now that the ListView is populated
         findViewById(R.id.progress_bar).setVisibility(View.GONE);
+    }
+
+    private class MovesetOnItemClickerListener implements AdapterView.OnItemClickListener {
+
+        @Override
+        public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
+            Moveset moveset = (Moveset) adapterView.getItemAtPosition(pos);
+            Intent intent = new Intent(DisplayPokemonActivity.this, DisplayMovesetActivity.class);
+            intent.putExtra(DisplayMovesetActivity.MOVESET_OBJECT, moveset);
+            startActivity(intent);
+        }
     }
 
     @Override
@@ -329,10 +344,8 @@ public class DisplayPokemonActivity extends Activity {
                 JSONArray moveArray = results.getJSONObject(0).getJSONArray("moves");
                 List<Move> moves = new ArrayList<>();
                 for (int i = 0; i < moveArray.length(); i++) {
-                    Move move = Move.parseMove(moveArray.getJSONObject(i));
-                    if (move != null) {
-                        moves.add(move);
-                    }
+                    Move move = Move.valueOf(moveArray.getJSONObject(i).getString("alias").replaceAll("-","_").toUpperCase());
+                    moves.add(move);
                 }
 
                 MovesetWrapper wrapper = new MovesetWrapper();

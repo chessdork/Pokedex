@@ -41,5 +41,6 @@
     <string name="spatk_short_descriptor">SpA</string>
     <string name="spdef_short_descriptor">SpD</string>
     <string name="spe_short_descriptor">Spe</string>
+    <string name="title_activity_display_moveset">DisplayMovesetActivity</string>
 
 </resources>
