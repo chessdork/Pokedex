@@ -110,7 +110,8 @@
 
     <RelativeLayout
         android:id="@+id/spe_layout"
-        style="@style/StatDexLayout">
+        style="@style/StatDexLayout"
+        android:layout_gravity="center_vertical">
 
         <TextView
             android:id="@+id/spe_descriptor"
