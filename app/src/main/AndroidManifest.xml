@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.chessdork.smogon" >
+    package="com.github.chessdork.pokedex" >
 
     <application
         android:allowBackup="true"
@@ -8,7 +8,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".SmogonActivity"
+            android:name=".MainActivity"
             android:label="@string/app_name"
             android:windowSoftInputMode="adjustResize" >
             <intent-filter>
@@ -20,10 +20,10 @@
         <activity
             android:name=".ui.DisplayPokemonActivity"
             android:label="@string/app_name"
-            android:parentActivityName=".SmogonActivity" >
+            android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.github.chessdork.smogon.SmogonActivity" />
+                android:value="com.github.chessdork.pokedex.MainActivity" />
         </activity>
         <activity
             android:name=".ui.DisplayMovesetActivity"
@@ -31,7 +31,7 @@
             android:parentActivityName=".ui.DisplayPokemonActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.github.chessdork.smogon.ui.DisplayPokemonActivity" />
+                android:value="com.github.chessdork.pokedex.ui.DisplayPokemonActivity" />
         </activity>
     </application>
 

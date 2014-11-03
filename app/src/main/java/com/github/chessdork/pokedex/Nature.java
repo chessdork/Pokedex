@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon;
+package com.github.chessdork.pokedex;
 
 
 import org.json.JSONObject;

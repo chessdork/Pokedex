@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon.ui;
+package com.github.chessdork.pokedex.ui;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -8,8 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.github.chessdork.smogon.Moveset;
-import com.github.chessdork.smogon.R;
+import com.github.chessdork.pokedex.Moveset;
+import com.github.chessdork.pokedex.R;
 
 public class DisplayMovesetActivity extends Activity {
     public static final String MOVESET_OBJECT = "MOVESET_OBJECT";

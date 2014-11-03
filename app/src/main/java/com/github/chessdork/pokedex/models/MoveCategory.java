@@ -1,8 +1,8 @@
-package com.github.chessdork.smogon.models;
+package com.github.chessdork.pokedex.models;
 
 import android.graphics.drawable.GradientDrawable;
 
-import com.github.chessdork.smogon.R;
+import com.github.chessdork.pokedex.R;
 
 public enum MoveCategory {
     PHYSICAL(R.drawable.ic_physical, 0xffdc7b69, 0xffd25640, 0xff73241f, "physical"),

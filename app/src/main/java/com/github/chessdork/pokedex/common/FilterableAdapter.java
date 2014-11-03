@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon.common;
+package com.github.chessdork.pokedex.common;
 
 
 import android.content.Context;

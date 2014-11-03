@@ -7,7 +7,7 @@
     </style>
 
     <style name="ActionBarStyle" parent="android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
-        <item name="android:background">@drawable/smogon_purple</item>
+        <item name="android:background">@drawable/app_purple</item>
     </style>
 
     <style name="NameLarge">
@@ -120,7 +120,7 @@
 
     <style name="TagText" parent="TypeText">
         <item name="android:background">@drawable/purple_bubble</item>
-        <item name="android:textColor">@color/smogon_purple</item>
+        <item name="android:textColor">@color/app_purple</item>
     </style>
 
     <style name="TagText.Large">

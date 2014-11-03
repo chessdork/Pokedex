@@ -1,10 +1,10 @@
-package com.github.chessdork.smogon;
+package com.github.chessdork.pokedex;
 
 
 import android.util.Log;
 
-import com.github.chessdork.smogon.models.Ability;
-import com.github.chessdork.smogon.models.Item;
+import com.github.chessdork.pokedex.models.Ability;
+import com.github.chessdork.pokedex.models.Item;
 
 import org.json.JSONArray;
 import org.json.JSONException;

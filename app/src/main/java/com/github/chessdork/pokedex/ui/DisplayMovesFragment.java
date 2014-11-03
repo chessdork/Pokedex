@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon.ui;
+package com.github.chessdork.pokedex.ui;
 
 
 
@@ -11,11 +11,11 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.github.chessdork.smogon.R;
-import com.github.chessdork.smogon.common.FilterableAdapter;
-import com.github.chessdork.smogon.common.SearchableFragment;
-import com.github.chessdork.smogon.models.Move;
-import com.github.chessdork.smogon.models.MoveCategory;
+import com.github.chessdork.pokedex.R;
+import com.github.chessdork.pokedex.common.FilterableAdapter;
+import com.github.chessdork.pokedex.common.SearchableFragment;
+import com.github.chessdork.pokedex.models.Move;
+import com.github.chessdork.pokedex.models.MoveCategory;
 
 import java.util.Arrays;
 import java.util.List;

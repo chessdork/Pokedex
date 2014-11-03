@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon.models;
+package com.github.chessdork.pokedex.models;
 
 
 public enum Item {

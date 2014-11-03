@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon;
+package com.github.chessdork.pokedex;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -20,14 +20,14 @@ import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.TextView;
 
-import com.github.chessdork.smogon.ui.DisplayAbilitiesFragment;
-import com.github.chessdork.smogon.ui.DisplayDexFragment;
-import com.github.chessdork.smogon.ui.DisplayItemsFragment;
-import com.github.chessdork.smogon.ui.DisplayMovesFragment;
-import com.github.chessdork.smogon.ui.DisplayTypesFragment;
+import com.github.chessdork.pokedex.ui.DisplayAbilitiesFragment;
+import com.github.chessdork.pokedex.ui.DisplayDexFragment;
+import com.github.chessdork.pokedex.ui.DisplayItemsFragment;
+import com.github.chessdork.pokedex.ui.DisplayMovesFragment;
+import com.github.chessdork.pokedex.ui.DisplayTypesFragment;
 
 
-public class SmogonActivity extends Activity {
+public class MainActivity extends Activity {
 
     private ActionBarDrawerToggle mDrawerToggle;
     private DrawerLayout mDrawerLayout;
@@ -36,7 +36,7 @@ public class SmogonActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_smogon);
+        setContentView(R.layout.activity_main);
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         ListView mDrawerList = (ListView) findViewById(R.id.left_drawer);
         mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.drawable.ic_drawer, 0, 0);
@@ -63,7 +63,7 @@ public class SmogonActivity extends Activity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.smogon, menu);
+        getMenuInflater().inflate(R.menu.main, menu);
         searchView = (SearchView) menu.findItem(R.id.action_search).getActionView();
         return true;
     }
@@ -157,7 +157,7 @@ public class SmogonActivity extends Activity {
 
             textView = (TextView) convertView;
             textView.setText(mData[index].getName());
-            textView.setCompoundDrawablesWithIntrinsicBounds(mData[index].getResId(), 0, 0, 0);
+            //textView.setCompoundDrawablesWithIntrinsicBounds(mData[index].getResId(), 0, 0, 0);
 
             return textView;
         }

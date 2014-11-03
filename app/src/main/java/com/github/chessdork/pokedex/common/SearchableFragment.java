@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon.common;
+package com.github.chessdork.pokedex.common;
 
 
 import android.app.Fragment;
@@ -12,7 +12,7 @@ import android.view.MenuItem;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.SearchView;
 
-import com.github.chessdork.smogon.R;
+import com.github.chessdork.pokedex.R;
 
 /**
  * Utility fragment for use with a SearchView activity with Navigation Drawers.

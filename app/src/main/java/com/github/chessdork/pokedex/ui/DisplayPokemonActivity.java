@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon.ui;
+package com.github.chessdork.pokedex.ui;
 
 import android.animation.ValueAnimator;
 import android.app.ActionBar;
@@ -19,12 +19,12 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.github.chessdork.smogon.Moveset;
-import com.github.chessdork.smogon.R;
-import com.github.chessdork.smogon.common.FilterableAdapter;
-import com.github.chessdork.smogon.models.Move;
-import com.github.chessdork.smogon.models.Pokemon;
-import com.github.chessdork.smogon.models.PokemonType;
+import com.github.chessdork.pokedex.Moveset;
+import com.github.chessdork.pokedex.R;
+import com.github.chessdork.pokedex.common.FilterableAdapter;
+import com.github.chessdork.pokedex.models.Move;
+import com.github.chessdork.pokedex.models.Pokemon;
+import com.github.chessdork.pokedex.models.PokemonType;
 
 import org.json.JSONArray;
 import org.json.JSONException;

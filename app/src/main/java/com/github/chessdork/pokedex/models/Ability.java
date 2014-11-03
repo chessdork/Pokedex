@@ -1,4 +1,4 @@
-package com.github.chessdork.smogon.models;
+package com.github.chessdork.pokedex.models;
 
 public enum Ability {
     ADAPTABILITY("Adaptability", "The Pokemon's STAB modifier becomes 2x."),

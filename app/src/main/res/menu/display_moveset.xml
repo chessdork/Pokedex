@@ -1,5 +1,5 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.github.chessdork.smogon.ui.DisplayMovesetActivity" >
+    tools:context="com.github.chessdork.pokedex.ui.DisplayMovesetActivity" >
 
 </menu>

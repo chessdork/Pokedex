@@ -6,7 +6,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="com.github.chessdork.smogon.DisplayPokemonActivity">
+    tools:context="com.github.chessdork.pokedex.DisplayPokemonActivity">
 
     <TextView
         android:id="@+id/pokemon_name"
