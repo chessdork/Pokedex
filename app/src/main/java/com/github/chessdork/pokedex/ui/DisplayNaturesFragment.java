@@ -3,6 +3,7 @@ package com.github.chessdork.pokedex.ui;
 
 
 import android.content.Context;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -18,6 +19,7 @@ import com.github.chessdork.pokedex.R;
 import com.github.chessdork.pokedex.common.FilterableAdapter;
 import com.github.chessdork.pokedex.common.SearchableFragment;
 import com.github.chessdork.pokedex.models.Nature;
+import com.github.chessdork.pokedex.models.StatType;
 
 import java.util.Arrays;
 import java.util.List;
@@ -68,6 +70,10 @@ public class DisplayNaturesFragment extends SearchableFragment {
         super.onPrepareOptionsMenu(menu);
         listItem = menu.findItem(R.id.action_view_as_list);
         gridItem = menu.findItem(R.id.action_view_as_grid);
+
+        // ListView is the default
+        listItem.setVisible(false);
+        gridItem.setVisible(true);
     }
 
     @Override
@@ -97,8 +103,13 @@ public class DisplayNaturesFragment extends SearchableFragment {
     }
 
     private static final class NatureAdapter extends FilterableAdapter<Nature> {
+        private final int DARK_GREEN;
+        private final int DARK_RED;
+
         public NatureAdapter(Context context, List<Nature> natures) {
             super(context, natures);
+            DARK_GREEN = context.getResources().getColor(R.color.dark_green);
+            DARK_RED = context.getResources().getColor(R.color.dark_red);
         }
 
         private static final class ViewHolder {
@@ -124,10 +135,18 @@ public class DisplayNaturesFragment extends SearchableFragment {
 
             Nature nature = getItem(index);
             holder.name.setText(nature.getName());
-            holder.incr.setText(nature.getName());
-            holder.decr.setText(nature.getName());
+
+            holder.incr.setText(format(nature.getIncreased(), "+"));
+            holder.incr.setTextColor( nature.getIncreased() == StatType.NONE ? Color.BLACK : DARK_GREEN);
+
+            holder.decr.setText(format(nature.getDecreased(), "-"));
+            holder.decr.setTextColor( nature.getIncreased() == StatType.NONE ? Color.BLACK : DARK_RED);
 
             return view;
+        }
+
+        private static String format(StatType type, String prefix) {
+            return ( type == StatType.NONE ? type.getShorthand() : prefix + type.getShorthand() );
         }
     }
 

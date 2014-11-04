@@ -15,9 +15,9 @@
         android:layout_width="240dp"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:background="@color/app_purple"
+        android:background="@color/purple"
         android:choiceMode="singleChoice"
-        android:divider="@color/app_light_purple"
+        android:divider="@color/light_purple"
         android:dividerHeight="1dp" />
 
 </android.support.v4.widget.DrawerLayout>

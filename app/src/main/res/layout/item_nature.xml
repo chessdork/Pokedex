@@ -11,14 +11,10 @@
 
     <TextView
         android:id="@+id/increased_stat"
-        style="@style/ListViewDescriptionText"
-        android:layout_width="0dp"
-        android:layout_weight="1"/>
+        style="@style/ListViewDescriptionText.Large"/>
 
     <TextView
         android:id="@+id/decreased_stat"
-        style="@style/ListViewDescriptionText"
-        android:layout_width="0dp"
-        android:layout_weight="1"/>
+        style="@style/ListViewDescriptionText.Large"/>
 
 </LinearLayout>

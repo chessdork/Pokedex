@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="app_purple">#6363b0</color>
-    <drawable name="app_purple">@color/app_purple</drawable>
-    <color name="app_light_purple">#d8d8eb</color>
+    <color name="purple">#6363b0</color>
+    <drawable name="purple">@color/purple</drawable>
+    <color name="light_purple">#d8d8eb</color>
     <color name="light_gray">#999</color>
+    <color name="dark_green">@android:color/holo_green_dark</color>
+    <color name="dark_red">@android:color/holo_red_dark</color>
 </resources>

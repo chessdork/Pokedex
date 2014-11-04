@@ -7,7 +7,7 @@
     </style>
 
     <style name="ActionBarStyle" parent="android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
-        <item name="android:background">@drawable/app_purple</item>
+        <item name="android:background">@drawable/purple</item>
     </style>
 
     <style name="NameLarge">
@@ -32,6 +32,12 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_gravity">center_vertical</item>
         <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="ListViewDescriptionText.Large">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">18sp</item>
     </style>
 
     <style name="EmptyListViewText">
@@ -120,7 +126,7 @@
 
     <style name="TagText" parent="TypeText">
         <item name="android:background">@drawable/purple_bubble</item>
-        <item name="android:textColor">@color/app_purple</item>
+        <item name="android:textColor">@color/purple</item>
     </style>
 
     <style name="TagText.Large">
