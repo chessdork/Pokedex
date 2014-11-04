@@ -21,9 +21,6 @@ import java.util.List;
 
 public class DisplayItemsFragment extends SearchableFragment {
 
-
-
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

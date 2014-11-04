@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/nature_name"
+        style="@style/ListViewHeaderText"/>
+
+    <TextView
+        android:id="@+id/increased_stat"
+        style="@style/ListViewDescriptionText"
+        android:layout_width="0dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/decreased_stat"
+        style="@style/ListViewDescriptionText"
+        android:layout_width="0dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>

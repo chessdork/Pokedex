@@ -24,6 +24,7 @@ import com.github.chessdork.pokedex.ui.DisplayAbilitiesFragment;
 import com.github.chessdork.pokedex.ui.DisplayDexFragment;
 import com.github.chessdork.pokedex.ui.DisplayItemsFragment;
 import com.github.chessdork.pokedex.ui.DisplayMovesFragment;
+import com.github.chessdork.pokedex.ui.DisplayNaturesFragment;
 import com.github.chessdork.pokedex.ui.DisplayTypesFragment;
 
 

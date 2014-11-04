@@ -5,6 +5,7 @@ import android.util.Log;
 
 import com.github.chessdork.pokedex.models.Ability;
 import com.github.chessdork.pokedex.models.Item;
+import com.github.chessdork.pokedex.models.Nature;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -107,14 +108,14 @@ public class Moveset implements Serializable{
                 }
             }
 
-            JSONArray natureArray = jsonObject.getJSONArray("natures");
+            //JSONArray natureArray = jsonObject.getJSONArray("natures");
             List<Nature> natures = new ArrayList<>();
-            for (int i = 0; i < natureArray.length(); i++) {
+            /*for (int i = 0; i < natureArray.length(); i++) {
                 Nature nature = Nature.parseNature( natureArray.getJSONObject(i) );
                 if (nature != null) {
                     natures.add(nature);
                 }
-            }
+            }*/
             return new Moveset(name, description, items, abilities, evConfigs, moves, natures);
         } catch (JSONException e) {
             e.printStackTrace();

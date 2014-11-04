@@ -321,8 +321,6 @@ public class DisplayPokemonActivity extends Activity {
                 JSONArray results = jsonObject.getJSONArray("result");
                 int length = results.length();
 
-                // assume there is exactly one result.  Verified as of October 11 2014.
-                // TODO write a test to verify number of results
                 if (length != 1) {
                     Log.i("Moveset", "results array size is " + length + " for " + alias);
                 }
