@@ -11,9 +11,9 @@
     <TextView
         android:id="@+id/pokemon_name"
         android:text="@string/hello_world"
-
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/quarter_margin"
         style="@style/NameLarge" />
 
     <TextView
@@ -22,30 +22,50 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_marginLeft="16dp"
-        android:layout_marginStart="16dp"/>
+        android:layout_marginStart="16dp"
+        android:visibility="invisible"/>
 
     <TextView
-        android:id="@+id/pokemon_type2"
-        style="@style/TypeText.Large"
-        android:layout_toLeftOf="@id/pokemon_tags"
-        android:layout_toStartOf="@id/pokemon_tags"/>
+        android:id="@+id/moveset_descriptor"
+        style="@style/NameLarge"
+        android:text="@string/moveset_descriptor"
+        android:layout_toStartOf="@id/new_moveset_button"
+        android:layout_toLeftOf="@id/new_moveset_button"
+        android:layout_marginRight="70dp"
+        android:layout_marginEnd="70dp"/>
+
+    <Button
+        android:id="@+id/new_moveset_button"
+        style="@style/TagText.Large"
+        android:text="@string/new_moveset"
+        android:layout_alignTop="@id/moveset_descriptor"
+        android:layout_alignBottom="@id/moveset_descriptor"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="createMoveset"/>
 
     <TextView
         android:id="@+id/pokemon_type1"
         style="@style/TypeText.Large"
-        android:layout_toLeftOf="@id/pokemon_type2"
-        android:layout_toStartOf="@id/pokemon_type2"/>
+        android:layout_below="@id/pokemon_name"/>
+
+    <TextView
+        android:id="@+id/pokemon_type2"
+        style="@style/TypeText.Large"
+        android:layout_below="@id/pokemon_name"
+        android:layout_toRightOf="@id/pokemon_type1"
+        android:layout_toEndOf="@id/pokemon_type1"/>
 
     <RelativeLayout
         android:id="@+id/stat_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/pokemon_name"
-        android:layout_toLeftOf="@id/pokemon_type1"
-        android:layout_toStartOf="@id/pokemon_type1"
+        android:layout_below="@id/pokemon_type1"
+        android:layout_toLeftOf="@id/moveset_descriptor"
+        android:layout_toStartOf="@id/moveset_descriptor"
         android:layout_marginRight="16dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginTop="@dimen/activity_vertical_margin">
+        android:layout_marginTop="@dimen/quarter_margin">
 
         <LinearLayout
             android:id="@+id/hp_layout"
@@ -180,12 +200,13 @@
     </RelativeLayout>
 
     <FrameLayout
+        android:id="@+id/moveset_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/pokemon_name"
-        android:layout_toRightOf="@id/stat_layout"
-        android:layout_toEndOf="@id/stat_layout"
-        android:layout_alignTop="@id/stat_layout">
+        android:layout_alignLeft="@id/moveset_descriptor"
+        android:layout_alignStart="@id/moveset_descriptor"
+        android:layout_alignTop="@id/pokemon_type1">
 
         <ListView
             android:id="@+id/moveset_list"

@@ -99,8 +99,8 @@ public class MainActivity extends Activity {
         ABILITIES(R.drawable.ic_drawer_abilities, "Abilities"),
         ITEMS(R.drawable.ic_drawer_items, "Items"),
         TYPES(R.drawable.ic_drawer_types, "Types"),
-        NATURES(R.drawable.ic_drawer_natures, "Natures"),
-        TAGS(R.drawable.ic_drawer_tags, "Tags");
+        NATURES(R.drawable.ic_drawer_natures, "Natures");
+        //TAGS(R.drawable.ic_drawer_tags, "Tags");
 
         private final int resId;
         private final String name;

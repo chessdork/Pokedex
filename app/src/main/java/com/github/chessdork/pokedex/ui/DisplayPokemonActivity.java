@@ -117,6 +117,7 @@ public class DisplayPokemonActivity extends Activity {
 
         //hide the progress bar now that the ListView is populated
         findViewById(R.id.progress_bar).setVisibility(View.GONE);
+        findViewById(R.id.new_moveset_button).setVisibility(View.VISIBLE);
     }
 
     private class MovesetOnItemClickerListener implements AdapterView.OnItemClickListener {
@@ -142,6 +143,11 @@ public class DisplayPokemonActivity extends Activity {
     private void setData(MovesetWrapper wrapper) {
         mMoves = wrapper.moves;
         mMoveSets = wrapper.movesets;
+    }
+
+    public void createMoveset(View view) {
+        //Intent intent = new Intent(this, CreateMovesetActivity.class);
+        //startActivity(intent);
     }
 
     /**

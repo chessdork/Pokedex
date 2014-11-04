@@ -31,7 +31,8 @@
         style="@style/TagText.Large"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:layout_below="@id/pokemon_name"/>
+        android:layout_below="@id/pokemon_name"
+        android:visibility="gone"/>
 
     <RelativeLayout
         android:id="@+id/stat_layout"
@@ -179,6 +180,16 @@
         android:layout_marginTop="@dimen/activity_vertical_margin"
         android:layout_marginBottom="10dp"
         style="@style/NameLarge" />
+
+    <Button
+        android:id="@+id/new_moveset_button"
+        style="@style/TagText.Large"
+        android:text="@string/new_moveset"
+        android:layout_alignTop="@id/moveset_descriptor"
+        android:layout_alignBottom="@id/moveset_descriptor"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:visibility="gone"/>
 
     <FrameLayout
         android:layout_width="match_parent"

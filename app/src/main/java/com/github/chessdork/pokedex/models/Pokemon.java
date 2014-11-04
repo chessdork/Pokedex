@@ -3,6 +3,7 @@ package com.github.chessdork.pokedex.models;
 import java.util.Arrays;
 import java.util.List;
 
+// Don't try to add moves to the enum.  It will cause a compiler error (code too large)
 public enum Pokemon {
     ABOMASNOW("Abomasnow", "abomasnow", Arrays.asList(PokemonType.GRASS, PokemonType.ICE), Arrays.asList(Ability.SNOW_WARNING, Ability.SOUNDPROOF), 90, 92, 75, 92, 85, 60, "RU"),
     ABOMASNOW_MEGA("Abomasnow-Mega", "abomasnow", Arrays.asList(PokemonType.GRASS, PokemonType.ICE), Arrays.asList(Ability.SNOW_WARNING), 90, 132, 105, 132, 105, 30, "RU"),

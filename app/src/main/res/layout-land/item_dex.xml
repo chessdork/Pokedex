@@ -130,6 +130,7 @@
         style="@style/TagText"
         android:layout_gravity="center_vertical"
         android:layout_marginLeft="8dp"
-        android:layout_marginStart="8dp"/>
+        android:layout_marginStart="8dp"
+        android:visibility="gone"/>
 
 </LinearLayout>
