@@ -11,8 +11,10 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.GridView;
+import android.widget.HorizontalScrollView;
 import android.widget.ListView;
+import android.widget.TableLayout;
+import android.widget.TableRow;
 import android.widget.TextView;
 
 import com.github.chessdork.pokedex.R;
@@ -26,9 +28,11 @@ import java.util.List;
 
 
 public class DisplayNaturesFragment extends SearchableFragment {
+    private boolean isListView = true;
     private MenuItem listItem, gridItem;
+
     private ListView listView;
-    private GridView gridView;
+    private HorizontalScrollView scrollView;
 
 
     public DisplayNaturesFragment() {
@@ -53,10 +57,62 @@ public class DisplayNaturesFragment extends SearchableFragment {
         listView = (ListView) view.findViewById(R.id.listview);
         listView.setAdapter(adapter);
 
-        gridView = (GridView) view.findViewById(R.id.gridview);
-        gridView.setAdapter(adapter);
+        scrollView = (HorizontalScrollView) view.findViewById(R.id.scrollview);
+
+        TableLayout tableLayout = (TableLayout) view.findViewById(R.id.gridview);
+        setupTable(inflater, tableLayout);
+
+        // default is ListView
+        if (!isListView) {
+            scrollView.setVisibility(View.VISIBLE);
+            listView.setVisibility(View.GONE);
+        }
 
         return view;
+    }
+
+    private void setupTable(LayoutInflater inflater, TableLayout table) {
+        Context context = inflater.getContext();
+        StatType[] statTypes = {StatType.ATTACK,
+                            StatType.DEFENSE,
+                            StatType.SPEED,
+                            StatType.SP_ATK,
+                            StatType.SP_DEF};
+        Nature[] natures = Nature.values();
+        // header row
+        TableRow tableRow = new TableRow(context);
+        TextView textView;
+
+        // First cell is empty
+        tableRow.addView(new VerticalTextView(context));
+
+
+        for (StatType stat : statTypes) {
+            textView = new TextView(context);
+            textView.setText(stat.getName());
+            textView.setTextSize(18);
+
+            tableRow.addView(textView);
+        }
+        table.addView(tableRow);
+
+        for (int row = 0; row < 5; row++) {
+            tableRow = new TableRow(context);
+            textView = new VerticalTextView(context);
+            textView.setTextSize(18);
+            textView.setText(statTypes[row].getName());
+            textView.setLines(2);
+            tableRow.addView(textView);
+
+            for (int col = 0; col < 5; col++) {
+                textView = new TextView(context);
+                // Convert our (row, col) to an index in the Natures array
+                int index = 5 * row + col;
+                textView.setText(natures[index].getName());
+                tableRow.addView(textView);
+            }
+            table.addView(tableRow);
+        }
     }
 
     @Override
@@ -72,8 +128,13 @@ public class DisplayNaturesFragment extends SearchableFragment {
         gridItem = menu.findItem(R.id.action_view_as_grid);
 
         // ListView is the default
-        listItem.setVisible(false);
-        gridItem.setVisible(true);
+        if (isListView) {
+            listItem.setVisible(false);
+            gridItem.setVisible(true);
+        } else {
+            listItem.setVisible(true);
+            gridItem.setVisible(false);
+        }
     }
 
     @Override
@@ -82,16 +143,18 @@ public class DisplayNaturesFragment extends SearchableFragment {
 
         switch (id) {
         case R.id.action_view_as_grid:
+            isListView = false;
             listView.setVisibility(View.GONE);
-            gridView.setVisibility(View.VISIBLE);
+            scrollView.setVisibility(View.VISIBLE);
 
             listItem.setVisible(true);
             gridItem.setVisible(false);
 
             return true;
         case R.id.action_view_as_list:
+            isListView = true;
             listView.setVisibility(View.VISIBLE);
-            gridView.setVisibility(View.GONE);
+            scrollView.setVisibility(View.GONE);
 
             listItem.setVisible(false);
             gridItem.setVisible(true);

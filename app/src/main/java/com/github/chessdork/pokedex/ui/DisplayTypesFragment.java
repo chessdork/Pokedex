@@ -62,7 +62,24 @@ public class DisplayTypesFragment extends SearchableFragment {
             PokemonType type = getItem(index);
             holder.name.setText(type.getName());
             holder.name.setBackgroundDrawable(type.createGradient());
+
+            setupMatchups((ViewGroup) view.findViewById(R.id.double_dmg_to_types), type.getStrongTo());
+            setupMatchups((ViewGroup) view.findViewById(R.id.half_dmg_from_types), type.getResistsFrom());
+            setupMatchups((ViewGroup) view.findViewById(R.id.double_dmg_from_types), type.getWeakFrom());
+            setupMatchups((ViewGroup) view.findViewById(R.id.half_dmg_to_types), type.getWeakTo());
+
             return view;
+        }
+
+        private void setupMatchups(ViewGroup container, List<PokemonType> types) {
+            container.removeAllViews();
+
+            for (PokemonType type : types) {
+                TypeView typeView = (TypeView) getInflater().inflate(R.layout.template_type_view, container, false);
+                typeView.setType(type);
+                typeView.getLayoutParams().width = 90;
+                container.addView(typeView);
+            }
         }
     }
 }

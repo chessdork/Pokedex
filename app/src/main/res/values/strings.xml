@@ -44,5 +44,9 @@
     <string name="title_activity_display_moveset">DisplayMovesetActivity</string>
     <string name="move_1_descriptor">Move 1:</string>
     <string name="new_moveset">New</string>
+    <string name="double_dmg_to">2X DAMAGE TO</string>
+    <string name="half_dmg_from">½X DAMAGE FROM</string>
+    <string name="half_dmg_to">½X DAMAGE TO</string>
+    <string name="double_dmg_from">2X DAMAGE FROM</string>
 
 </resources>

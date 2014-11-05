@@ -101,7 +101,24 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
     </style>    
-    
+
+    <!-- Display Types Fragment -->
+
+    <style name="Matchups">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Matchups.Good">
+        <item name="android:background">@drawable/green_bubble</item>
+    </style>
+
+    <style name="Matchups.Bad">
+        <item name="android:background">@drawable/red_bubble</item>
+    </style>
+
     <!-- Rounded corners galore -->
 
     <style name="CategoryImage">
@@ -122,6 +139,12 @@
     <style name="TypeText.Large">
         <item name="android:layout_width">80dp</item>
         <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TypeText.Large.Vertical">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="android:gravity">bottom|center</item>
     </style>
 
     <style name="TagText" parent="TypeText">

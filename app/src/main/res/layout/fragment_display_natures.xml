@@ -12,12 +12,15 @@
         android:visibility="visible">
     </ListView>
 
-    <GridView
-        android:id="@+id/gridview"
+    <HorizontalScrollView
+        android:id="@+id/scrollview"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:numColumns="5"
+        android:layout_height="match_parent"
         android:visibility="gone">
-    </GridView>
 
+        <TableLayout
+            android:id="@+id/gridview"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"/>
+    </HorizontalScrollView>
 </FrameLayout>
