@@ -29,15 +29,11 @@
             <TextView
                 android:id="@+id/double_dmg_to"
                 android:text="@string/double_dmg_to"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"/>
+                style="@style/MatchupHeader.Good"/>
 
-            <com.wefika.flowlayout.FlowLayout
+            <org.apmem.tools.layouts.FlowLayout
                 android:id="@+id/double_dmg_to_types"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:gravity="start|top"/>
+                style="@style/FlowLayout"/>
         </LinearLayout>
 
         <LinearLayout
@@ -48,15 +44,11 @@
             <TextView
                 android:id="@+id/half_dmg_from"
                 android:text="@string/half_dmg_from"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"/>
+                style="@style/MatchupHeader.Good"/>
 
-            <com.wefika.flowlayout.FlowLayout
+            <org.apmem.tools.layouts.FlowLayout
                 android:id="@+id/half_dmg_from_types"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"/>
+                style="@style/FlowLayout"/>
         </LinearLayout>
 
     </LinearLayout>
@@ -78,15 +70,11 @@
             <TextView
                 android:id="@+id/half_dmg_to"
                 android:text="@string/half_dmg_to"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"/>
+                style="@style/MatchupHeader.Bad"/>
 
-            <com.wefika.flowlayout.FlowLayout
+            <org.apmem.tools.layouts.FlowLayout
                 android:id="@+id/half_dmg_to_types"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"/>
+                style="@style/FlowLayout"/>
         </LinearLayout>
 
 
@@ -98,15 +86,11 @@
             <TextView
                 android:id="@+id/double_dmg_from"
                 android:text="@string/double_dmg_from"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"/>
+                style="@style/MatchupHeader.Bad"/>
 
-            <com.wefika.flowlayout.FlowLayout
+            <org.apmem.tools.layouts.FlowLayout
                 android:id="@+id/double_dmg_from_types"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:orientation="horizontal"/>
+                style="@style/FlowLayout"/>
         </LinearLayout>
     </LinearLayout>
  </RelativeLayout>

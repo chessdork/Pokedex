@@ -8,4 +8,5 @@
     <!-- These are in pixels because GradientDrawable API only works in pixels -->
     <dimen name="corner_radius">4px</dimen>
     <dimen name="stroke_width">2px</dimen>
+    <dimen name="quarter_margin">4dp</dimen>
 </resources>

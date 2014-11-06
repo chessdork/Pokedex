@@ -10,4 +10,6 @@
     <color name="medium_green">#a5cc9b</color>
     <color name="light_red">#ffd4d4</color>
     <color name="medium_red">#ff8a8a</color>
+    <color name="green_text">#00a308</color>
+    <color name="red_text">#ca071e</color>
 </resources>

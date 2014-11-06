@@ -36,8 +36,11 @@ public class DisplayTypesFragment extends SearchableFragment {
     }
 
     private static class TypesAdapter extends FilterableAdapter<PokemonType> {
+        final float scale;
+
         public TypesAdapter(Context context, List<PokemonType> types) {
             super(context, types);
+            scale = context.getResources().getDisplayMetrics().density;
         }
 
         private static class ViewHolder {
@@ -77,7 +80,7 @@ public class DisplayTypesFragment extends SearchableFragment {
             for (PokemonType type : types) {
                 TypeView typeView = (TypeView) getInflater().inflate(R.layout.template_type_view, container, false);
                 typeView.setType(type);
-                typeView.getLayoutParams().width = 90;
+                typeView.getLayoutParams().width = (int) (60 * scale + 0.5f);
                 container.addView(typeView);
             }
         }

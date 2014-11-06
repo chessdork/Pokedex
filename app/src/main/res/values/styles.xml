@@ -109,6 +109,7 @@
         <item name="android:layout_height">match_parent</item>
         <item name="android:layout_weight">1</item>
         <item name="android:orientation">vertical</item>
+        <item name="android:padding">@dimen/half_margin</item>
     </style>
 
     <style name="Matchups.Good">
@@ -117,6 +118,31 @@
 
     <style name="Matchups.Bad">
         <item name="android:background">@drawable/red_bubble</item>
+    </style>
+
+    <style name="MatchupHeader">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginBottom">@dimen/quarter_margin</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="MatchupHeader.Good">
+        <item name="android:textColor">@color/green_text</item>
+    </style>
+
+    <style name="MatchupHeader.Bad">
+        <item name="android:textColor">@color/red_text</item>
+    </style>
+
+    <style name="FlowLayout">
+        <item name="horizontalSpacing">@dimen/quarter_margin</item>
+        <item name="verticalSpacing">@dimen/quarter_margin</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
     </style>
 
     <!-- Rounded corners galore -->

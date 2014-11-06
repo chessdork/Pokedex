@@ -72,50 +72,50 @@ public enum PokemonType {
         GROUND.weakTo = Arrays.asList(BUG, GRASS);
         GROUND.weakFrom = Arrays.asList(WATER, GRASS, ICE);
 
-        FLYING.strongTo = Arrays.asList();
-        FLYING.resistsFrom = Arrays.asList();
-        FLYING.weakTo = Arrays.asList();
-        FLYING.weakFrom = Arrays.asList();
+        FLYING.strongTo = Arrays.asList(GRASS, FIGHTING, BUG);
+        FLYING.resistsFrom = Arrays.asList(GRASS, FIGHTING, BUG);
+        FLYING.weakTo = Arrays.asList(ELECTRIC, ROCK, STEEL);
+        FLYING.weakFrom = Arrays.asList(ELECTRIC, ICE, ROCK);
 
-        PSYCHIC.strongTo = Arrays.asList();
-        PSYCHIC.resistsFrom = Arrays.asList();
-        PSYCHIC.weakTo = Arrays.asList();
-        PSYCHIC.weakFrom = Arrays.asList();
+        PSYCHIC.strongTo = Arrays.asList(FIGHTING, POISON);
+        PSYCHIC.resistsFrom = Arrays.asList(FIGHTING, PSYCHIC);
+        PSYCHIC.weakTo = Arrays.asList(PSYCHIC, STEEL);
+        PSYCHIC.weakFrom = Arrays.asList(BUG, GHOST, DARK);
 
-        BUG.strongTo = Arrays.asList();
-        BUG.resistsFrom = Arrays.asList();
-        BUG.weakTo = Arrays.asList();
-        BUG.weakFrom = Arrays.asList();
+        BUG.strongTo = Arrays.asList(GRASS, PSYCHIC, DARK);
+        BUG.resistsFrom = Arrays.asList(GRASS, GROUND, FIGHTING);
+        BUG.weakTo = Arrays.asList(FIRE, FIGHTING, POISON, FLYING, GHOST, STEEL, FAIRY);
+        BUG.weakFrom = Arrays.asList(FIRE, FLYING, ROCK);
 
-        ROCK.strongTo = Arrays.asList();
-        ROCK.resistsFrom = Arrays.asList();
-        ROCK.weakTo = Arrays.asList();
-        ROCK.weakFrom = Arrays.asList();
+        ROCK.strongTo = Arrays.asList(FIRE, ICE, FLYING, BUG);
+        ROCK.resistsFrom = Arrays.asList(NORMAL, FIRE, POISON, FLYING);
+        ROCK.weakTo = Arrays.asList(GROUND, FIGHTING, STEEL);
+        ROCK.weakFrom = Arrays.asList(WATER, GRASS, GROUND, FIGHTING, STEEL);
 
-        GHOST.strongTo = Arrays.asList();
-        GHOST.resistsFrom = Arrays.asList();
-        GHOST.weakTo = Arrays.asList();
-        GHOST.weakFrom = Arrays.asList();
+        GHOST.strongTo = Arrays.asList(PSYCHIC, GHOST);
+        GHOST.resistsFrom = Arrays.asList(POISON, BUG);
+        GHOST.weakTo = Arrays.asList(DARK);
+        GHOST.weakFrom = Arrays.asList(GHOST, DARK);
 
-        DRAGON.strongTo = Arrays.asList();
-        DRAGON.resistsFrom = Arrays.asList();
-        DRAGON.weakTo = Arrays.asList();
-        DRAGON.weakFrom = Arrays.asList();
+        DRAGON.strongTo = Arrays.asList(DRAGON);
+        DRAGON.resistsFrom = Arrays.asList(FIRE, WATER, GRASS, ELECTRIC);
+        DRAGON.weakTo = Arrays.asList(STEEL);
+        DRAGON.weakFrom = Arrays.asList(ICE, DRAGON, FAIRY);
 
-        DARK.strongTo = Arrays.asList();
-        DARK.resistsFrom = Arrays.asList();
-        DARK.weakTo = Arrays.asList();
-        DARK.weakFrom = Arrays.asList();
+        DARK.strongTo = Arrays.asList(PSYCHIC, GHOST);
+        DARK.resistsFrom = Arrays.asList(GHOST, DARK);
+        DARK.weakTo = Arrays.asList(FIGHTING, DARK, FAIRY);
+        DARK.weakFrom = Arrays.asList(FIGHTING, BUG, FAIRY);
 
-        STEEL.strongTo = Arrays.asList();
-        STEEL.resistsFrom = Arrays.asList();
-        STEEL.weakTo = Arrays.asList();
-        STEEL.weakFrom = Arrays.asList();
+        STEEL.strongTo = Arrays.asList(ICE, ROCK, FAIRY);
+        STEEL.resistsFrom = Arrays.asList(NORMAL, GRASS, ICE, ROCK, FLYING, PSYCHIC, BUG, DRAGON, STEEL, FAIRY);
+        STEEL.weakTo = Arrays.asList(FIRE, WATER, ELECTRIC, STEEL);
+        STEEL.weakFrom = Arrays.asList(FIRE, GROUND, FIGHTING);
 
-        FAIRY.strongTo = Arrays.asList();
-        FAIRY.resistsFrom = Arrays.asList();
-        FAIRY.weakTo = Arrays.asList();
-        FAIRY.weakFrom = Arrays.asList();
+        FAIRY.strongTo = Arrays.asList(FIGHTING, DRAGON, DARK);
+        FAIRY.resistsFrom = Arrays.asList(FIGHTING, BUG, DARK);
+        FAIRY.weakTo = Arrays.asList(FIRE, POISON, STEEL);
+        FAIRY.weakFrom = Arrays.asList(POISON, STEEL);
     }
 
     private final String name;
