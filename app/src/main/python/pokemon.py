@@ -14,7 +14,7 @@ for p in data['result']:
     specialDefense = p['spdef']
     speed = p['spe']
     # check for "Unreleased" or other tags longer than 4 characters.
-    tag = p['tags'][0]['shorthand']
+    tag = p['tags'][0]['shorthand'].replace('Unreleased','N/A')
 
     types = ', '.join(['PokemonType.%s' % a['alias'].upper() for a in p['types']])
     abilities = ', '.join(['Ability.%s' % a['alias'].upper() for a in p['abilities']])
