@@ -12,6 +12,11 @@
         android:visibility="visible">
     </ListView>
 
+    <TextView
+        android:id="@+id/empty_text"
+        style="@style/EmptyListViewText"
+        android:text="@string/empty_natures"/>
+
     <HorizontalScrollView
         android:id="@+id/scrollview"
         android:layout_width="match_parent"

@@ -56,6 +56,7 @@ public class DisplayNaturesFragment extends SearchableFragment {
 
         listView = (ListView) view.findViewById(R.id.listview);
         listView.setAdapter(adapter);
+        listView.setEmptyView(view.findViewById(R.id.empty_text));
 
         scrollView = (HorizontalScrollView) view.findViewById(R.id.scrollview);
 
