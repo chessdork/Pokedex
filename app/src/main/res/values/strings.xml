@@ -48,5 +48,7 @@
     <string name="half_dmg_from">½X DAMAGE FROM</string>
     <string name="half_dmg_to">½X DAMAGE TO</string>
     <string name="double_dmg_from">2X DAMAGE FROM</string>
+    <string name="immune_from">IMMUNE TO</string>
+    <string name="cannot_dmg">CAN\'T DAMAGE</string>
 
 </resources>

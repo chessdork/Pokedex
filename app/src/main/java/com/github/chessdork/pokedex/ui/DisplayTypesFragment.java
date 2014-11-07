@@ -45,6 +45,7 @@ public class DisplayTypesFragment extends SearchableFragment {
 
         private static class ViewHolder {
             TextView name;
+            ViewGroup doubleDmgTo, halfDmgFrom, doubleDmgFrom, halfDmgTo, immuneFrom, cannotDamage;
         }
 
         @SuppressWarnings("deprecation")
@@ -57,6 +58,12 @@ public class DisplayTypesFragment extends SearchableFragment {
                 view = getInflater().inflate(R.layout.item_type, parent, false);
                 holder = new ViewHolder();
                 holder.name = (TextView) view.findViewById(R.id.type_name);
+                holder.doubleDmgTo = (ViewGroup) view.findViewById(R.id.double_dmg_to_types);
+                holder.halfDmgFrom = (ViewGroup) view.findViewById(R.id.half_dmg_from_types);
+                holder.doubleDmgFrom = (ViewGroup) view.findViewById(R.id.double_dmg_from_types);
+                holder.halfDmgTo = (ViewGroup) view.findViewById(R.id.half_dmg_to_types);
+                holder.immuneFrom = (ViewGroup) view.findViewById(R.id.immune_from_types);
+                holder.cannotDamage = (ViewGroup) view.findViewById(R.id.cannot_dmg_types);
                 view.setTag(holder);
             } else {
                 holder = (ViewHolder) view.getTag();
@@ -66,16 +73,32 @@ public class DisplayTypesFragment extends SearchableFragment {
             holder.name.setText(type.getName());
             holder.name.setBackgroundDrawable(type.createGradient());
 
-            setupMatchups((ViewGroup) view.findViewById(R.id.double_dmg_to_types), type.getStrongTo());
-            setupMatchups((ViewGroup) view.findViewById(R.id.half_dmg_from_types), type.getResistsFrom());
-            setupMatchups((ViewGroup) view.findViewById(R.id.double_dmg_from_types), type.getWeakFrom());
-            setupMatchups((ViewGroup) view.findViewById(R.id.half_dmg_to_types), type.getWeakTo());
+            setupMatchups(holder.doubleDmgTo, type.getStrongTo(), true);
+            setupMatchups(holder.halfDmgFrom, type.getResistsFrom(), true);
+            setupMatchups(holder.doubleDmgFrom, type.getWeakFrom(), true);
+            setupMatchups(holder.halfDmgTo, type.getWeakTo(), true);
+
+            setupImmunities(holder.immuneFrom, type.getImmuneFrom());
+            setupImmunities(holder.cannotDamage, type.getCannotDamage());
 
             return view;
         }
 
-        private void setupMatchups(ViewGroup container, List<PokemonType> types) {
-            container.removeAllViews();
+        private void setupImmunities(ViewGroup container, List<PokemonType> types) {
+            if (types.size() > 0) {
+                // remove all views except the descriptor text
+                container.removeViews(1, container.getChildCount() - 1);
+                setupMatchups(container, types, false);
+                container.setVisibility(View.VISIBLE);
+            } else {
+                container.setVisibility(View.GONE);
+            }
+        }
+
+        private void setupMatchups(ViewGroup container, List<PokemonType> types, boolean removeViews) {
+            if (removeViews) {
+                container.removeAllViews();
+            }
 
             for (PokemonType type : types) {
                 TypeView typeView = (TypeView) getInflater().inflate(R.layout.template_type_view, container, false);

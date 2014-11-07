@@ -96,10 +96,10 @@ public class MainActivity extends Activity {
      */
     private enum Category {
         POKEMON(R.drawable.ic_drawer_pkball, "Pokémon"),
+        TYPES(R.drawable.ic_drawer_types, "Types"),
         MOVES(R.drawable.ic_drawer_moves, "Moves"),
         ABILITIES(R.drawable.ic_drawer_abilities, "Abilities"),
         ITEMS(R.drawable.ic_drawer_items, "Items"),
-        TYPES(R.drawable.ic_drawer_types, "Types"),
         NATURES(R.drawable.ic_drawer_natures, "Natures");
         //TAGS(R.drawable.ic_drawer_tags, "Tags");
 

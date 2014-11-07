@@ -24,6 +24,7 @@
         android:baselineAligned="false">
 
         <LinearLayout
+            android:id="@+id/double_dmg_to_layout"
             android:layout_marginLeft="@dimen/half_margin"
             android:layout_marginStart="@dimen/half_margin"
             style="@style/Matchups.Good">
@@ -39,6 +40,7 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/half_dmg_from_layout"
             android:layout_marginLeft="@dimen/half_margin"
             android:layout_marginStart="@dimen/half_margin"
             style="@style/Matchups.Good">
@@ -51,6 +53,16 @@
             <org.apmem.tools.layouts.FlowLayout
                 android:id="@+id/half_dmg_from_types"
                 style="@style/FlowLayout"/>
+
+            <org.apmem.tools.layouts.FlowLayout
+                android:id="@+id/immune_from_types"
+                style="@style/FlowLayout.Immunity">
+
+                <TextView
+                    android:text="@string/immune_from"
+                    style="@style/ImmunityText" />
+
+            </org.apmem.tools.layouts.FlowLayout>
         </LinearLayout>
 
     </LinearLayout>
@@ -65,6 +77,7 @@
         android:layout_toEndOf="@id/type_name">
 
         <LinearLayout
+            android:id="@+id/half_dmg_to_layout"
             android:layout_marginLeft="@dimen/half_margin"
             android:layout_marginStart="@dimen/half_margin"
             style="@style/Matchups.Bad">
@@ -77,10 +90,21 @@
             <org.apmem.tools.layouts.FlowLayout
                 android:id="@+id/half_dmg_to_types"
                 style="@style/FlowLayout"/>
+
+            <org.apmem.tools.layouts.FlowLayout
+                android:id="@+id/cannot_dmg_types"
+                style="@style/FlowLayout.Immunity">
+
+                <TextView
+                    android:text="@string/cannot_dmg"
+                    style="@style/ImmunityText" />
+
+            </org.apmem.tools.layouts.FlowLayout>
         </LinearLayout>
 
 
         <LinearLayout
+            android:id="@+id/double_dmg_from_layout"
             android:layout_marginLeft="@dimen/half_margin"
             android:layout_marginStart="@dimen/half_margin"
             style="@style/Matchups.Bad">

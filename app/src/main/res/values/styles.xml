@@ -109,7 +109,7 @@
         <item name="android:layout_height">match_parent</item>
         <item name="android:layout_weight">1</item>
         <item name="android:orientation">vertical</item>
-        <item name="android:padding">@dimen/half_margin</item>
+        <item name="android:paddingTop">@dimen/half_margin</item>
     </style>
 
     <style name="Matchups.Good">
@@ -125,7 +125,9 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_gravity">center_horizontal</item>
         <item name="android:gravity">center</item>
-        <item name="android:layout_marginBottom">@dimen/quarter_margin</item>
+        <item name="android:layout_marginBottom">@dimen/half_margin</item>
+        <item name="android:layout_marginLeft">@dimen/half_margin</item>
+        <item name="android:layout_marginRight">@dimen/half_margin</item>
         <item name="android:textStyle">bold</item>
     </style>
 
@@ -143,6 +145,27 @@
         <item name="android:layout_gravity">center</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/half_margin</item>
+        <item name="android:layout_marginLeft">@dimen/half_margin</item>
+        <item name="android:layout_marginRight">@dimen/half_margin</item>
+    </style>
+
+    <style name="FlowLayout.Immunity">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/black_half_bubble</item>
+        <item name="android:padding">@dimen/half_margin</item>
+        <item name="android:layout_margin">0dp</item>
+    </style>
+
+    <style name="ImmunityText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginRight">@dimen/half_margin</item>
     </style>
 
     <!-- Rounded corners galore -->

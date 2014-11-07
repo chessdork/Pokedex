@@ -3,6 +3,7 @@ package com.github.chessdork.pokedex.models;
 import android.graphics.drawable.GradientDrawable;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 public enum PokemonType {
@@ -31,6 +32,8 @@ public enum PokemonType {
         NORMAL.resistsFrom = Arrays.asList();
         NORMAL.weakTo = Arrays.asList(ROCK, STEEL);
         NORMAL.weakFrom = Arrays.asList(FIGHTING);
+        NORMAL.cannotDamage = Arrays.asList(GHOST);
+        NORMAL.immuneFrom = Arrays.asList(GHOST);
 
         FIRE.strongTo = Arrays.asList(GRASS, ICE, BUG, STEEL);
         FIRE.resistsFrom = Arrays.asList(FIRE, BUG, GRASS, ICE, STEEL, FAIRY);
@@ -46,6 +49,7 @@ public enum PokemonType {
         ELECTRIC.resistsFrom = Arrays.asList(ELECTRIC, FLYING, STEEL);
         ELECTRIC.weakTo = Arrays.asList(GRASS, ELECTRIC, DRAGON);
         ELECTRIC.weakFrom = Arrays.asList(GROUND);
+        ELECTRIC.cannotDamage = Arrays.asList(GROUND);
 
         GRASS.strongTo = Arrays.asList(WATER, GROUND, ROCK);
         GRASS.resistsFrom = Arrays.asList(WATER, GRASS, ELECTRIC, GROUND);
@@ -61,26 +65,31 @@ public enum PokemonType {
         FIGHTING.resistsFrom = Arrays.asList(BUG, ROCK, DARK);
         FIGHTING.weakTo = Arrays.asList(POISON, FLYING, PSYCHIC, BUG, FAIRY);
         FIGHTING.weakFrom = Arrays.asList(FLYING, PSYCHIC, FAIRY);
+        FIGHTING.cannotDamage = Arrays.asList(GHOST);
 
         POISON.strongTo = Arrays.asList(GRASS, FAIRY);
         POISON.resistsFrom = Arrays.asList(GRASS, FIGHTING, POISON, BUG, FAIRY);
         POISON.weakTo = Arrays.asList(POISON, GROUND, ROCK, GHOST);
         POISON.weakFrom = Arrays.asList(GROUND, PSYCHIC);
+        POISON.cannotDamage = Arrays.asList(STEEL);
 
         GROUND.strongTo = Arrays.asList(FIRE, ELECTRIC, POISON, ROCK, STEEL);
         GROUND.resistsFrom = Arrays.asList(POISON, ROCK);
         GROUND.weakTo = Arrays.asList(BUG, GRASS);
         GROUND.weakFrom = Arrays.asList(WATER, GRASS, ICE);
+        GROUND.immuneFrom = Arrays.asList(ELECTRIC);
 
         FLYING.strongTo = Arrays.asList(GRASS, FIGHTING, BUG);
         FLYING.resistsFrom = Arrays.asList(GRASS, FIGHTING, BUG);
         FLYING.weakTo = Arrays.asList(ELECTRIC, ROCK, STEEL);
         FLYING.weakFrom = Arrays.asList(ELECTRIC, ICE, ROCK);
+        FLYING.immuneFrom = Arrays.asList(GROUND);
 
         PSYCHIC.strongTo = Arrays.asList(FIGHTING, POISON);
         PSYCHIC.resistsFrom = Arrays.asList(FIGHTING, PSYCHIC);
         PSYCHIC.weakTo = Arrays.asList(PSYCHIC, STEEL);
         PSYCHIC.weakFrom = Arrays.asList(BUG, GHOST, DARK);
+        PSYCHIC.cannotDamage = Arrays.asList(DARK);
 
         BUG.strongTo = Arrays.asList(GRASS, PSYCHIC, DARK);
         BUG.resistsFrom = Arrays.asList(GRASS, GROUND, FIGHTING);
@@ -96,33 +105,39 @@ public enum PokemonType {
         GHOST.resistsFrom = Arrays.asList(POISON, BUG);
         GHOST.weakTo = Arrays.asList(DARK);
         GHOST.weakFrom = Arrays.asList(GHOST, DARK);
+        GHOST.immuneFrom = Arrays.asList(NORMAL, FIGHTING);
+        GHOST.cannotDamage = Arrays.asList(NORMAL);
 
         DRAGON.strongTo = Arrays.asList(DRAGON);
         DRAGON.resistsFrom = Arrays.asList(FIRE, WATER, GRASS, ELECTRIC);
         DRAGON.weakTo = Arrays.asList(STEEL);
         DRAGON.weakFrom = Arrays.asList(ICE, DRAGON, FAIRY);
+        DRAGON.cannotDamage = Arrays.asList(FAIRY);
 
         DARK.strongTo = Arrays.asList(PSYCHIC, GHOST);
         DARK.resistsFrom = Arrays.asList(GHOST, DARK);
         DARK.weakTo = Arrays.asList(FIGHTING, DARK, FAIRY);
         DARK.weakFrom = Arrays.asList(FIGHTING, BUG, FAIRY);
+        DARK.immuneFrom = Arrays.asList(PSYCHIC);
 
         STEEL.strongTo = Arrays.asList(ICE, ROCK, FAIRY);
         STEEL.resistsFrom = Arrays.asList(NORMAL, GRASS, ICE, ROCK, FLYING, PSYCHIC, BUG, DRAGON, STEEL, FAIRY);
         STEEL.weakTo = Arrays.asList(FIRE, WATER, ELECTRIC, STEEL);
         STEEL.weakFrom = Arrays.asList(FIRE, GROUND, FIGHTING);
+        STEEL.immuneFrom = Arrays.asList(POISON);
 
         FAIRY.strongTo = Arrays.asList(FIGHTING, DRAGON, DARK);
         FAIRY.resistsFrom = Arrays.asList(FIGHTING, BUG, DARK);
         FAIRY.weakTo = Arrays.asList(FIRE, POISON, STEEL);
         FAIRY.weakFrom = Arrays.asList(POISON, STEEL);
+        FAIRY.immuneFrom = Arrays.asList(DRAGON);
     }
 
     private final String name;
     private final int color1;
     private final int color2;
     private final int borderColor;
-    private List<PokemonType> strongTo, weakTo, resistsFrom, weakFrom;
+    private List<PokemonType> strongTo, weakTo, resistsFrom, weakFrom, cannotDamage, immuneFrom;
 
     PokemonType(String name, int color1, int color2, int borderColor) {
         this.name = name;
@@ -145,6 +160,14 @@ public enum PokemonType {
 
     public List<PokemonType> getWeakFrom() {
         return weakFrom;
+    }
+
+    public List<PokemonType> getCannotDamage() {
+        return (cannotDamage == null ? Collections.<PokemonType>emptyList() : cannotDamage);
+    }
+
+    public List<PokemonType> getImmuneFrom() {
+        return (immuneFrom == null ? Collections.<PokemonType>emptyList() : immuneFrom);
     }
 
     public String getName() {

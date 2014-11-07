@@ -6,10 +6,11 @@
     <color name="light_gray">#999</color>
     <color name="dark_green">@android:color/holo_green_dark</color>
     <color name="dark_red">@android:color/holo_red_dark</color>
-    <color name="light_green">#d2f3b2</color>
+    <color name="light_green">#d9f6be</color>
     <color name="medium_green">#a5cc9b</color>
-    <color name="light_red">#ffd4d4</color>
+    <color name="light_red">#ffdede</color>
     <color name="medium_red">#ff8a8a</color>
     <color name="green_text">#00a308</color>
     <color name="red_text">#ca071e</color>
+    <color name="dark_gray">#383838</color>
 </resources>
