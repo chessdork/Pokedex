@@ -11,7 +11,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.HorizontalScrollView;
+import android.widget.FrameLayout;
 import android.widget.ListView;
 import android.widget.TableLayout;
 import android.widget.TableRow;
@@ -29,10 +29,10 @@ import java.util.List;
 
 public class DisplayNaturesFragment extends SearchableFragment {
     private boolean isListView = true;
-    private MenuItem listItem, gridItem;
+    private MenuItem listItem, gridItem, searchItem;
 
     private ListView listView;
-    private HorizontalScrollView scrollView;
+    private FrameLayout scrollView;
 
 
     public DisplayNaturesFragment() {
@@ -58,7 +58,7 @@ public class DisplayNaturesFragment extends SearchableFragment {
         listView.setAdapter(adapter);
         listView.setEmptyView(view.findViewById(R.id.empty_text));
 
-        scrollView = (HorizontalScrollView) view.findViewById(R.id.scrollview);
+        scrollView = (FrameLayout) view.findViewById(R.id.scrollview);
 
         TableLayout tableLayout = (TableLayout) view.findViewById(R.id.gridview);
         setupTable(inflater, tableLayout);
@@ -127,14 +127,17 @@ public class DisplayNaturesFragment extends SearchableFragment {
         super.onPrepareOptionsMenu(menu);
         listItem = menu.findItem(R.id.action_view_as_list);
         gridItem = menu.findItem(R.id.action_view_as_grid);
+        searchItem = menu.findItem(R.id.action_search);
 
         // ListView is the default
         if (isListView) {
             listItem.setVisible(false);
             gridItem.setVisible(true);
+            searchItem.setVisible(true);
         } else {
             listItem.setVisible(true);
             gridItem.setVisible(false);
+            searchItem.setVisible(false);
         }
     }
 
@@ -150,6 +153,7 @@ public class DisplayNaturesFragment extends SearchableFragment {
 
             listItem.setVisible(true);
             gridItem.setVisible(false);
+            searchItem.setVisible(false);
 
             return true;
         case R.id.action_view_as_list:
@@ -159,6 +163,7 @@ public class DisplayNaturesFragment extends SearchableFragment {
 
             listItem.setVisible(false);
             gridItem.setVisible(true);
+            searchItem.setVisible(true);
 
             return true;
         default:

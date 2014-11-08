@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.github.chessdork.pokedex.ui.DisplayNaturesFragment">
+
+    <!-- programmatically switch between list and gridviews-->
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+    </ListView>
+
+    <TextView
+        android:id="@+id/empty_text"
+        style="@style/EmptyListViewText"
+        android:text="@string/empty_natures"/>
+
+    <!-- scroll vertically for landscape-->
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <TableLayout
+            android:id="@+id/gridview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </ScrollView>
+</FrameLayout>
