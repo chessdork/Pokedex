@@ -3,8 +3,8 @@ package com.github.chessdork.pokedex.ui;
 import android.animation.ValueAnimator;
 import android.app.ActionBar;
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.content.Context;
-import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.LayerDrawable;
@@ -22,6 +22,7 @@ import android.widget.TextView;
 import com.github.chessdork.pokedex.Moveset;
 import com.github.chessdork.pokedex.R;
 import com.github.chessdork.pokedex.common.FilterableAdapter;
+import com.github.chessdork.pokedex.models.Ability;
 import com.github.chessdork.pokedex.models.Move;
 import com.github.chessdork.pokedex.models.Pokemon;
 import com.github.chessdork.pokedex.models.PokemonType;
@@ -111,23 +112,28 @@ public class DisplayPokemonActivity extends Activity {
      */
     private void setupListView() {
         ListView listView = (ListView) findViewById(R.id.moveset_list);
-        listView.setAdapter(new MovesetAdapter(this, mMoveSets));
+        listView.setAdapter(new AbilityAdapter(this, mPokemon.getAbilities()));
         listView.setEmptyView(findViewById(R.id.empty_text));
         listView.setOnItemClickListener(new MovesetOnItemClickerListener());
 
         //hide the progress bar now that the ListView is populated
         findViewById(R.id.progress_bar).setVisibility(View.GONE);
-        findViewById(R.id.new_moveset_button).setVisibility(View.VISIBLE);
+        //findViewById(R.id.new_moveset_button).setVisibility(View.VISIBLE);
     }
 
     private class MovesetOnItemClickerListener implements AdapterView.OnItemClickListener {
 
         @Override
         public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
-            Moveset moveset = (Moveset) adapterView.getItemAtPosition(pos);
-            Intent intent = new Intent(DisplayPokemonActivity.this, DisplayMovesetActivity.class);
-            intent.putExtra(DisplayMovesetActivity.MOVESET_OBJECT, moveset);
-            startActivity(intent);
+            Ability ability = (Ability) adapterView.getItemAtPosition(pos);
+
+            AlertDialog.Builder builder = new AlertDialog.Builder(DisplayPokemonActivity.this);
+            builder.setMessage(ability.getDescription())
+                    .setTitle(ability.toString());
+
+            AlertDialog dialog = builder.create();
+            dialog.setCanceledOnTouchOutside(true);
+            dialog.show();
         }
     }
 
@@ -268,9 +274,9 @@ public class DisplayPokemonActivity extends Activity {
         return Color.rgb(r, g, b);
     }
 
-    private static class MovesetAdapter extends FilterableAdapter<Moveset> {
-        public MovesetAdapter(Context ctx, List<Moveset> movesets) {
-            super(ctx, movesets);
+    private static class AbilityAdapter extends FilterableAdapter<Ability> {
+        public AbilityAdapter(Context ctx, List<Ability> abilities) {
+            super(ctx, abilities);
         }
 
         private static class ViewHolder {

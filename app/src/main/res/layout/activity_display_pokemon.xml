@@ -175,11 +175,11 @@
 
     <TextView
         android:id="@+id/moveset_descriptor"
-        android:text="@string/moveset_descriptor"
+        android:text="@string/abilities_descriptor"
         android:layout_below="@id/stat_layout"
         android:layout_marginTop="@dimen/activity_vertical_margin"
         android:layout_marginBottom="10dp"
-        style="@style/NameLarge" />
+        style="@style/NameLarge"/>
 
     <Button
         android:id="@+id/new_moveset_button"
@@ -210,7 +210,7 @@
         <TextView
             android:id="@+id/empty_text"
             style="@style/EmptyListViewText"
-            android:text="@string/no_movesets_found"
+            android:text="@string/empty_abilities"
             android:textSize="20sp"/>
     </FrameLayout>
 

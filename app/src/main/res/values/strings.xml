@@ -51,5 +51,6 @@
     <string name="immune_from">IMMUNE TO</string>
     <string name="cannot_dmg">CAN\'T DAMAGE</string>
     <string name="empty_natures">No natures found.</string>
+    <string name="abilities_descriptor">Abilities</string>
 
 </resources>
