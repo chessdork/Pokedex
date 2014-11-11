@@ -3,7 +3,7 @@
 
     <string name="app_name">Pokédex</string>
     <string name="search">Search</string>
-    <string name="search_hint">Search for Pokeéon</string>
+    <string name="search_hint">Search for Pokémon</string>
     <string name="view_as_list">View as List</string>
     <string name="view_as_grid">View as Grid</string>
     <string name="no_network_conn">No network connection. Please try again later.</string>
