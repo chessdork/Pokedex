@@ -188,6 +188,16 @@ public enum PokemonType {
         return gradient;
     }
 
+    // Gradient rotated 90 degrees for vertical text
+    public GradientDrawable createRotatedGradient() {
+        GradientDrawable gradient = new GradientDrawable(
+                GradientDrawable.Orientation.LEFT_RIGHT, new int[]{color1, color2}
+        );
+        gradient.setStroke(BORDER_STROKE, borderColor);
+        gradient.setCornerRadius(CORNER_RADIUS);
+        return gradient;
+    }
+
     public GradientDrawable createLeftGradient() {
         GradientDrawable gradient = createGradient();
         gradient.setCornerRadii(LEFT_CORNERS);

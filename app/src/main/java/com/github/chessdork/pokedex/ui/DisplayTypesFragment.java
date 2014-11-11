@@ -71,7 +71,7 @@ public class DisplayTypesFragment extends SearchableFragment {
 
             PokemonType type = getItem(index);
             holder.name.setText(type.getName());
-            holder.name.setBackgroundDrawable(type.createGradient());
+            holder.name.setBackgroundDrawable(type.createRotatedGradient());
 
             setupMatchups(holder.doubleDmgTo, type.getStrongTo(), true);
             setupMatchups(holder.halfDmgFrom, type.getResistsFrom(), true);

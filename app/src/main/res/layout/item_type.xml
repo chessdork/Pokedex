@@ -7,12 +7,10 @@
 
     <com.github.chessdork.pokedex.ui.VerticalTextView
         android:id="@+id/type_name"
-        android:text="@string/stat_placeholder"
         android:layout_alignTop="@+id/good_matchups"
         android:layout_alignBottom="@+id/bad_matchups"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_centerVertical="true"
         style="@style/TypeText.Large.Vertical"/>
 
     <LinearLayout

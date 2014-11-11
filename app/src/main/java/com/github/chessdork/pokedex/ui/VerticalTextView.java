@@ -16,17 +16,10 @@ public class VerticalTextView extends TextView {
 
     public VerticalTextView(Context context, AttributeSet attrs) {
         super(context, attrs);
-        setVerticalGravity();
     }
 
     public VerticalTextView(Context context, AttributeSet attrs, int defStyleId) {
         super(context, attrs, defStyleId);
-        setVerticalGravity();
-    }
-
-    private void setVerticalGravity() {
-        final int gravity = Gravity.BOTTOM | Gravity.CENTER;
-        setGravity((gravity & Gravity.HORIZONTAL_GRAVITY_MASK) | Gravity.TOP);
     }
 
     @SuppressWarnings("SuspiciousNameCombination")

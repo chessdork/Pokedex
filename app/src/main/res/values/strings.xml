@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Pokedex</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_display_pokedex">DisplayPokedexActivity</string>
-    <string name="pokemon_image">Pokemon Image</string>
+    <string name="app_name">Pokédex</string>
     <string name="search">Search</string>
-    <string name="search_hint">Search for Pokemon</string>
-    <string name="title_activity_search_results">SearchResultsActivity</string>
-    <string name="title_activity_display_types">DisplayTypesActivity</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="category_icon">Category Icon</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Search for Pokeéon</string>
     <string name="view_as_list">View as List</string>
     <string name="view_as_grid">View as Grid</string>
-    <string name="no_network_conn">No network connection.  Please try again later.</string>
-    <string name="title_activity_display_pokemon">DisplayPokemonActivity</string>
-    <string name="empty_dex">No Pokemon found.</string>
+    <string name="no_network_conn">No network connection. Please try again later.</string>
+    <string name="empty_dex">No Pokémon found.</string>
     <string name="type">Type:</string>
     <string name="tags">Tags:</string>
     <string name="hp_descriptor">HP:</string>
@@ -41,15 +31,14 @@
     <string name="spatk_short_descriptor">SpA</string>
     <string name="spdef_short_descriptor">SpD</string>
     <string name="spe_short_descriptor">Spe</string>
-    <string name="title_activity_display_moveset">DisplayMovesetActivity</string>
     <string name="move_1_descriptor">Move 1:</string>
     <string name="new_moveset">New</string>
-    <string name="double_dmg_to">2X DAMAGE TO</string>
-    <string name="half_dmg_from">½X DAMAGE FROM</string>
-    <string name="half_dmg_to">½X DAMAGE TO</string>
-    <string name="double_dmg_from">2X DAMAGE FROM</string>
-    <string name="immune_from">IMMUNE TO</string>
-    <string name="cannot_dmg">CAN\'T DAMAGE</string>
+    <string name="double_dmg_to">2x damage to</string>
+    <string name="half_dmg_from">½x damage from</string>
+    <string name="half_dmg_to">½x damage to</string>
+    <string name="double_dmg_from">2x damage from</string>
+    <string name="immune_from">Immune to</string>
+    <string name="cannot_dmg">Can\'t damage</string>
     <string name="empty_natures">No natures found.</string>
     <string name="abilities_descriptor">Abilities</string>
 
