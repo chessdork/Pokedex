@@ -52,15 +52,21 @@
                 android:id="@+id/half_dmg_from_types"
                 style="@style/FlowLayout"/>
 
-            <org.apmem.tools.layouts.FlowLayout
-                android:id="@+id/immune_from_types"
-                style="@style/FlowLayout.Immunity">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/black_half_bubble">
 
-                <TextView
-                    android:text="@string/immune_from"
-                    style="@style/ImmunityText" />
+                <org.apmem.tools.layouts.FlowLayout
+                    android:id="@+id/immune_from_types"
+                    style="@style/FlowLayout.Immunity">
 
-            </org.apmem.tools.layouts.FlowLayout>
+                    <TextView
+                        android:text="@string/immune_from"
+                        style="@style/ImmunityText" />
+
+                </org.apmem.tools.layouts.FlowLayout>
+            </RelativeLayout>
         </LinearLayout>
 
     </LinearLayout>
@@ -89,15 +95,22 @@
                 android:id="@+id/half_dmg_to_types"
                 style="@style/FlowLayout"/>
 
-            <org.apmem.tools.layouts.FlowLayout
-                android:id="@+id/cannot_dmg_types"
-                style="@style/FlowLayout.Immunity">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/black_half_bubble">
 
-                <TextView
-                    android:text="@string/cannot_dmg"
-                    style="@style/ImmunityText" />
+                <org.apmem.tools.layouts.FlowLayout
+                    android:id="@+id/cannot_dmg_types"
+                    style="@style/FlowLayout.Immunity">
 
-            </org.apmem.tools.layouts.FlowLayout>
+                    <TextView
+                        android:text="@string/cannot_dmg"
+                        style="@style/ImmunityText" />
+
+
+                </org.apmem.tools.layouts.FlowLayout>
+            </RelativeLayout>
         </LinearLayout>
 
 

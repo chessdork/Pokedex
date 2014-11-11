@@ -177,10 +177,7 @@
     </style>
 
     <style name="FlowLayout.Immunity">
-        <item name="android:gravity">center</item>
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:background">@drawable/black_half_bubble</item>
+        <item name="android:layout_centerInParent">true</item>
         <item name="android:padding">@dimen/half_margin</item>
         <item name="android:layout_margin">0dp</item>
     </style>
