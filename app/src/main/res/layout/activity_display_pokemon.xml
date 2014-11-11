@@ -197,7 +197,8 @@
 
         <ListView
             android:id="@+id/moveset_list"
-            style="@style/MovesetList"/>
+            style="@style/MovesetList"
+            android:listSelector="@android:color/transparent"/>
 
         <ProgressBar
             android:id="@+id/progress_bar"

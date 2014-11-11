@@ -36,7 +36,7 @@ public class DisplayAbilitiesFragment extends SearchableFragment {
         return view;
     }
 
-    private static class AbilitiesAdapter extends FilterableAdapter<Ability>{
+    static class AbilitiesAdapter extends FilterableAdapter<Ability>{
         public AbilitiesAdapter(Context context, List<Ability> abilities) {
             super(context, abilities);
         }

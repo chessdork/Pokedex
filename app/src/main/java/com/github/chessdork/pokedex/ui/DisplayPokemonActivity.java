@@ -3,8 +3,6 @@ package com.github.chessdork.pokedex.ui;
 import android.animation.ValueAnimator;
 import android.app.ActionBar;
 import android.app.Activity;
-import android.app.AlertDialog;
-import android.content.Context;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.LayerDrawable;
@@ -15,14 +13,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 
 import com.github.chessdork.pokedex.Moveset;
 import com.github.chessdork.pokedex.R;
-import com.github.chessdork.pokedex.common.FilterableAdapter;
-import com.github.chessdork.pokedex.models.Ability;
 import com.github.chessdork.pokedex.models.Move;
 import com.github.chessdork.pokedex.models.Pokemon;
 import com.github.chessdork.pokedex.models.PokemonType;
@@ -112,16 +107,15 @@ public class DisplayPokemonActivity extends Activity {
      */
     private void setupListView() {
         ListView listView = (ListView) findViewById(R.id.moveset_list);
-        listView.setAdapter(new AbilityAdapter(this, mPokemon.getAbilities()));
+        listView.setAdapter(new DisplayAbilitiesFragment.AbilitiesAdapter(this, mPokemon.getAbilities()));
         listView.setEmptyView(findViewById(R.id.empty_text));
-        listView.setOnItemClickListener(new MovesetOnItemClickerListener());
 
         //hide the progress bar now that the ListView is populated
         findViewById(R.id.progress_bar).setVisibility(View.GONE);
         //findViewById(R.id.new_moveset_button).setVisibility(View.VISIBLE);
     }
 
-    private class MovesetOnItemClickerListener implements AdapterView.OnItemClickListener {
+    /*private class MovesetOnItemClickerListener implements AdapterView.OnItemClickListener {
 
         @Override
         public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
@@ -135,7 +129,7 @@ public class DisplayPokemonActivity extends Activity {
             dialog.setCanceledOnTouchOutside(true);
             dialog.show();
         }
-    }
+    }*/
 
     @Override
     public void onStop() {
@@ -272,33 +266,6 @@ public class DisplayPokemonActivity extends Activity {
         int g = Math.min(2 * n, 255);
         int b = (int) Math.floor(4.25 * Math.min(Math.max(stat - 140, 0), 60));
         return Color.rgb(r, g, b);
-    }
-
-    private static class AbilityAdapter extends FilterableAdapter<Ability> {
-        public AbilityAdapter(Context ctx, List<Ability> abilities) {
-            super(ctx, abilities);
-        }
-
-        private static class ViewHolder {
-            TextView textView;
-        }
-
-        @Override
-        public View getView(int index, View convertView, ViewGroup parent) {
-            View view = convertView;
-            ViewHolder holder;
-
-            if (view == null) {
-                view = getInflater().inflate(R.layout.item_moveset, parent, false);
-                holder = new ViewHolder();
-                holder.textView = (TextView) view.findViewById(R.id.moveset_name);
-                view.setTag(holder);
-            } else {
-                holder = (ViewHolder) view.getTag();
-            }
-            holder.textView.setText(getItem(index).getName());
-            return view;
-        }
     }
 
     private static class MovesetWrapper {
