@@ -19,7 +19,7 @@
         android:text="@string/empty_natures"/>
 
     <HorizontalScrollView
-        android:id="@+id/scrollview"
+        android:id="@+id/h_scrollview"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_gravity="center"

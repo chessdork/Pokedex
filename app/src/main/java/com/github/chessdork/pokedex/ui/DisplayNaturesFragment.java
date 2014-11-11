@@ -3,6 +3,7 @@ package com.github.chessdork.pokedex.ui;
 
 
 import android.content.Context;
+import android.content.res.Configuration;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
@@ -61,7 +62,10 @@ public class DisplayNaturesFragment extends SearchableFragment {
         listView.setAdapter(adapter);
         listView.setEmptyView(view.findViewById(R.id.empty_text));
 
-        scrollView = (FrameLayout) view.findViewById(R.id.scrollview);
+        boolean landscape = getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE;
+
+        // use horizontal scroll for portrait and vertical scroll for landscape
+        scrollView = (FrameLayout) (landscape ? view.findViewById(R.id.scrollview) : view.findViewById(R.id.h_scrollview));
 
         TableLayout tableLayout = (TableLayout) view.findViewById(R.id.gridview);
         setupTable(inflater, tableLayout);
