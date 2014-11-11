@@ -70,6 +70,9 @@ public class DisplayNaturesFragment extends SearchableFragment {
         if (!isListView) {
             scrollView.setVisibility(View.VISIBLE);
             listView.setVisibility(View.GONE);
+        } else {
+            scrollView.setVisibility(View.GONE);
+            listView.setVisibility(View.VISIBLE);
         }
 
         return view;
@@ -140,7 +143,6 @@ public class DisplayNaturesFragment extends SearchableFragment {
                 if (row == col) {
                     textView.setBackgroundResource(R.drawable.purple_bubble);
                 }
-
                 tableRow.addView(textView);
             }
             table.addView(tableRow);
