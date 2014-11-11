@@ -5,12 +5,14 @@ package com.github.chessdork.pokedex.ui;
 import android.content.Context;
 import android.graphics.Color;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.ViewTreeObserver;
 import android.widget.FrameLayout;
 import android.widget.ListView;
 import android.widget.TableLayout;
@@ -34,6 +36,7 @@ public class DisplayNaturesFragment extends SearchableFragment {
     private ListView listView;
     private FrameLayout scrollView;
 
+    private static final String LOG_TAG = DisplayNaturesFragment.class.getSimpleName();
 
     public DisplayNaturesFragment() {
         // Required empty public constructor
@@ -72,6 +75,29 @@ public class DisplayNaturesFragment extends SearchableFragment {
         return view;
     }
 
+    @SuppressWarnings("deprecation")
+    @Override
+    public void onViewCreated(View view, Bundle savedInstanceState) {
+        view.getViewTreeObserver().addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {
+            int numCalls = 0;
+
+            @Override
+            public void onGlobalLayout() {
+                numCalls++;
+                Log.d(LOG_TAG, "onLayout called " + numCalls + " times.");
+
+                final View view = getView();
+
+                if (view == null) return;
+
+                if (view.getWidth() > 0) {
+                    view.getViewTreeObserver().removeGlobalOnLayoutListener(this);
+                    // for later, in case we want to size the table based on available screen dimens
+                }
+            }
+        });
+    }
+
     private void setupTable(LayoutInflater inflater, TableLayout table) {
         Context context = inflater.getContext();
         StatType[] statTypes = {StatType.ATTACK,
@@ -80,36 +106,41 @@ public class DisplayNaturesFragment extends SearchableFragment {
                             StatType.SP_ATK,
                             StatType.SP_DEF};
         Nature[] natures = Nature.values();
+        final int TABLE_DIMEN = statTypes.length;
+
         // header row
         TableRow tableRow = new TableRow(context);
         TextView textView;
 
-        // First cell is empty
+        // top left cell is empty
         tableRow.addView(new VerticalTextView(context));
 
-
+        // set up header row
         for (StatType stat : statTypes) {
-            textView = new TextView(context);
-            textView.setText(stat.getName());
-            textView.setTextSize(18);
-
+            textView = (TextView) inflater.inflate(R.layout.template_header_view, tableRow, false);
+            textView.setText("-" + stat.getShorthand());
             tableRow.addView(textView);
         }
         table.addView(tableRow);
 
-        for (int row = 0; row < 5; row++) {
+        // set up each remaining row one at a time, starting with the vertical stat
+        for (int row = 0; row < TABLE_DIMEN; row++) {
             tableRow = new TableRow(context);
-            textView = new VerticalTextView(context);
-            textView.setTextSize(18);
-            textView.setText(statTypes[row].getName());
-            textView.setLines(2);
+            textView = (VerticalTextView) inflater.inflate(R.layout.template_vertical_header_view, tableRow, false);
+            textView.setText("+" + statTypes[row].getShorthand());
             tableRow.addView(textView);
 
-            for (int col = 0; col < 5; col++) {
-                textView = new TextView(context);
+            for (int col = 0; col < TABLE_DIMEN; col++) {
+                textView = (SquareTextView) inflater.inflate(R.layout.template_cell_view, tableRow, false);
                 // Convert our (row, col) to an index in the Natures array
-                int index = 5 * row + col;
+                int index = TABLE_DIMEN * row + col;
                 textView.setText(natures[index].getName());
+
+                // if it's a neutral nature, set the background appropriately
+                if (row == col) {
+                    textView.setBackgroundResource(R.drawable.purple_bubble);
+                }
+
                 tableRow.addView(textView);
             }
             table.addView(tableRow);

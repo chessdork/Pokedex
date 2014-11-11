@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.chessdork.pokedex.ui.VerticalTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/TableHeaderText.Vertical"
+    android:text="@string/stat_placeholder">
+</com.github.chessdork.pokedex.ui.VerticalTextView>

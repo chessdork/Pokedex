@@ -53,7 +53,7 @@ public enum Ability {
     GALE_WINGS("Gale Wings", "This Pokemon's Flying-type moves have their priority increased by 1."),
     GLUTTONY("Gluttony", "Consumes pinch Berries at 50% HP or less."),
     GOOEY("Gooey", "Contact with this Pokemon decreases the attacker's Speed by 1 stage."),
-    GRASS_PELT("Grass Pelt", "This Pokemon's Defense is boosted by 50% in Grassy Terrain"),
+    GRASS_PELT("Grass Pelt", "This Pokemon's Defense is boosted by 50% in Grassy Terrain."),
     GUTS("Guts", "Attack is increased 50% when afflicted by a non-volatile status."),
     HARVEST("Harvest", "After each turn, the wielder may receive the Berry it used at a 50% chance (100% if in sun)."),
     HEALER("Healer", "30% chance to heal an adjacent teammate of a status condition every turn."),
