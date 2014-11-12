@@ -33,6 +33,7 @@ public class MainActivity extends Activity {
     private ActionBarDrawerToggle mDrawerToggle;
     private DrawerLayout mDrawerLayout;
     private SearchView searchView;
+    private Category currentCategory;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,6 +55,7 @@ public class MainActivity extends Activity {
         }
 
         if (savedInstanceState == null) {
+            currentCategory = Category.POKEMON;
             getFragmentManager().beginTransaction()
                     .add(R.id.content_frame, new DisplayDexFragment())
                     .commit();
@@ -172,6 +174,14 @@ public class MainActivity extends Activity {
         @Override
         public void onItemClick(AdapterView<?> parent, View view, int index, long id) {
             Category category = (Category) parent.getItemAtPosition(index);
+
+            // if we're already viewing this fragment, close the drawers and do nothing
+            if (currentCategory == category) {
+                mDrawerLayout.closeDrawers();
+                return;
+            } else {
+                currentCategory = category;
+            }
 
             switch (category) {
                 case ABILITIES:
