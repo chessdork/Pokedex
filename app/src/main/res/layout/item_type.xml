@@ -6,19 +6,32 @@
     android:padding="@dimen/half_margin">
 
     <com.github.chessdork.pokedex.ui.VerticalTextView
-        android:id="@+id/type_name"
+        android:id="@+id/name_background"
+        android:background="@drawable/purple_bubble"
         android:layout_alignTop="@+id/good_matchups"
         android:layout_alignBottom="@+id/bad_matchups"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
         style="@style/TypeText.Large.Vertical"/>
+
+    <!-- Hack to center vertical text -->
+    <FrameLayout
+        android:id="@+id/name_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@id/good_matchups"
+        android:layout_alignBottom="@id/bad_matchups">
+
+        <com.github.chessdork.pokedex.ui.VerticalTextView
+            android:id="@+id/type_name"
+            android:text="@string/stat_placeholder"
+            style="@style/TypeText.Large.Vertical"/>
+    </FrameLayout>
 
     <LinearLayout
         android:id="@id/good_matchups"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@id/type_name"
-        android:layout_toEndOf="@id/type_name"
+        android:layout_toRightOf="@id/name_layout"
+        android:layout_toEndOf="@id/name_layout"
         android:baselineAligned="false">
 
         <LinearLayout
@@ -77,8 +90,8 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/good_matchups"
         android:layout_marginTop="@dimen/half_margin"
-        android:layout_toRightOf="@id/type_name"
-        android:layout_toEndOf="@id/type_name">
+        android:layout_toRightOf="@id/name_layout"
+        android:layout_toEndOf="@id/name_layout">
 
         <LinearLayout
             android:id="@+id/half_dmg_to_layout"

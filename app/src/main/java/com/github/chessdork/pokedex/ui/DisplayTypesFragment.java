@@ -44,7 +44,7 @@ public class DisplayTypesFragment extends SearchableFragment {
         }
 
         private static class ViewHolder {
-            TextView name;
+            TextView name, nameBackground;
             ViewGroup doubleDmgTo, halfDmgFrom, doubleDmgFrom, halfDmgTo, immuneFrom, cannotDamage;
         }
 
@@ -58,6 +58,7 @@ public class DisplayTypesFragment extends SearchableFragment {
                 view = getInflater().inflate(R.layout.item_type, parent, false);
                 holder = new ViewHolder();
                 holder.name = (TextView) view.findViewById(R.id.type_name);
+                holder.nameBackground = (TextView) view.findViewById(R.id.name_background);
                 holder.doubleDmgTo = (ViewGroup) view.findViewById(R.id.double_dmg_to_types);
                 holder.halfDmgFrom = (ViewGroup) view.findViewById(R.id.half_dmg_from_types);
                 holder.doubleDmgFrom = (ViewGroup) view.findViewById(R.id.double_dmg_from_types);
@@ -71,7 +72,7 @@ public class DisplayTypesFragment extends SearchableFragment {
 
             PokemonType type = getItem(index);
             holder.name.setText(type.getName());
-            holder.name.setBackgroundDrawable(type.createRotatedGradient());
+            holder.nameBackground.setBackgroundDrawable(type.createRotatedGradient());
 
             setupMatchups(holder.doubleDmgTo, type.getStrongTo(), true);
             setupMatchups(holder.halfDmgFrom, type.getResistsFrom(), true);

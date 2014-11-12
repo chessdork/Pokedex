@@ -71,7 +71,7 @@
 
     <style name="TableHeaderText.Vertical">
         <item name="android:textColor">@color/dark_green</item>
-        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">match_parent</item>
         <item name="android:background">@drawable/green_border</item>
     </style>
@@ -151,6 +151,7 @@
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_centerHorizontal">true</item>
         <item name="android:gravity">center</item>
         <item name="android:layout_marginBottom">@dimen/half_margin</item>
         <item name="android:layout_marginLeft">@dimen/half_margin</item>
@@ -168,6 +169,7 @@
     <style name="FlowLayout">
         <item name="horizontalSpacing">@dimen/quarter_margin</item>
         <item name="verticalSpacing">@dimen/quarter_margin</item>
+        <item name="android:layout_centerInParent">true</item>
         <item name="android:layout_gravity">center</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
@@ -213,8 +215,8 @@
 
     <style name="TypeText.Large.Vertical">
         <item name="android:layout_width">wrap_content</item>
-        <item name="android:layout_height">80dp</item>
-        <item name="android:gravity">bottom|center</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center</item>
     </style>
 
     <style name="TagText" parent="TypeText">
