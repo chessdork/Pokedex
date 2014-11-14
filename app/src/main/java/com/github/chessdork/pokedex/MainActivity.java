@@ -67,6 +67,11 @@ public class MainActivity extends ActionBarActivity {
         mDrawerLayout.setDrawerListener(mDrawerToggle);
 
         ListView mDrawerList = (ListView) findViewById(R.id.left_drawer);
+
+        View headerView = new View(this);
+        headerView.setBackgroundResource(R.drawable.extra_divider);
+        mDrawerList.addHeaderView(headerView);
+
         mDrawerList.setAdapter(new DrawerAdapter(this));
         mDrawerList.setOnItemClickListener(new DrawerItemClickListener());
 
