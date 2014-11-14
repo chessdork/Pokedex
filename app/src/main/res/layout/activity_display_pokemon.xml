@@ -1,217 +1,231 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="com.github.chessdork.pokedex.DisplayPokemonActivity">
+    android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/pokemon_name"
-        android:layout_marginBottom="10dp"
-        style="@style/NameLarge" />
-
-    <TextView
-        android:id="@+id/pokemon_type1"
-        style="@style/TypeText.Large"
-        android:layout_below="@id/pokemon_name"/>
-
-    <TextView
-        android:id="@+id/pokemon_type2"
-        style="@style/TypeText.Large"
-        android:layout_toRightOf="@id/pokemon_type1"
-        android:layout_toEndOf="@id/pokemon_type1"
-        android:layout_below="@id/pokemon_name"/>
-
-    <TextView
-        android:id="@+id/pokemon_tags"
-        style="@style/TagText.Large"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_below="@id/pokemon_name"
-        android:visibility="gone"/>
+    <android.support.v7.widget.Toolbar
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"/>
 
     <RelativeLayout
-        android:id="@+id/stat_layout"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/pokemon_type1">
-
-        <LinearLayout
-            android:id="@+id/hp_layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_marginTop="@dimen/activity_vertical_margin">
-
-            <TextView
-                android:id="@+id/hp_descriptor"
-                style="@style/StatDescriptorText"
-                android:text="@string/hp_descriptor"/>
-
-            <TextView
-                android:id="@+id/hp_stat"
-                style="@style/StatText"
-                android:text="@string/stat_placeholder"/>
-
-            <View
-                android:id="@+id/hp_rectangle"
-                style="@style/StatRectangle"/>
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/patk_layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_below="@id/hp_layout">
-
-            <TextView
-                android:id="@+id/patk_descriptor"
-                style="@style/StatDescriptorText"
-                android:text="@string/patk_descriptor"/>
-
-            <TextView
-                android:id="@+id/patk_stat"
-                style="@style/StatText"
-                android:text="@string/stat_placeholder"/>
-
-            <View
-                android:id="@+id/patk_rectangle"
-                style="@style/StatRectangle" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/pdef_layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_below="@id/patk_layout">
-
-            <TextView
-                android:id="@+id/pdef_descriptor"
-                style="@style/StatDescriptorText"
-                android:text="@string/pdef_descriptor"/>
-
-            <TextView
-                android:id="@+id/pdef_stat"
-                style="@style/StatText"
-                android:text="@string/stat_placeholder"/>
-
-            <View
-                android:id="@+id/pdef_rectangle"
-                style="@style/StatRectangle"/>
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/spatk_layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_below="@id/pdef_layout">
-
-            <TextView
-                android:id="@+id/spatk_descriptor"
-                style="@style/StatDescriptorText"
-                android:text="@string/spatk_descriptor"/>
-
-            <TextView
-                android:id="@+id/spatk_stat"
-                style="@style/StatText"
-                android:text="@string/stat_placeholder"/>
-
-            <View
-                android:id="@+id/spatk_rectangle"
-                style="@style/StatRectangle"/>
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/spdef_layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_below="@id/spatk_layout">
-
-            <TextView
-                android:id="@+id/spdef_descriptor"
-                style="@style/StatDescriptorText"
-                android:text="@string/spdef_descriptor"/>
-
-            <TextView
-                android:id="@+id/spdef_stat"
-                style="@style/StatText"
-                android:text="@string/stat_placeholder"/>
-
-            <View
-                android:id="@+id/spdef_rectangle"
-                style="@style/StatRectangle"/>
-        </LinearLayout>
-
-        <LinearLayout
-            android:id="@+id/spe_layout"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:layout_below="@id/spdef_layout">
-
-            <TextView
-                android:id="@+id/spe_descriptor"
-                style="@style/StatDescriptorText"
-                android:text="@string/spe_descriptor"/>
-
-            <TextView
-                android:id="@+id/spe_stat"
-                style="@style/StatText"
-                android:text="@string/stat_placeholder"/>
-
-            <View
-                android:id="@+id/spe_rectangle"
-                style="@style/StatRectangle"/>
-        </LinearLayout>
-    </RelativeLayout>
-
-    <TextView
-        android:id="@+id/moveset_descriptor"
-        android:text="@string/abilities_descriptor"
-        android:layout_below="@id/stat_layout"
-        android:layout_marginTop="@dimen/activity_vertical_margin"
-        android:layout_marginBottom="10dp"
-        style="@style/NameLarge"/>
-
-    <Button
-        android:id="@+id/new_moveset_button"
-        style="@style/TagText.Large"
-        android:text="@string/new_moveset"
-        android:layout_alignTop="@id/moveset_descriptor"
-        android:layout_alignBottom="@id/moveset_descriptor"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:visibility="gone"/>
-
-    <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@id/moveset_descriptor">
-
-        <ListView
-            android:id="@+id/moveset_list"
-            style="@style/MovesetList"
-            android:listSelector="@android:color/transparent"/>
-
-        <ProgressBar
-            android:id="@+id/progress_bar"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:indeterminate="true"/>
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        tools:context="com.github.chessdork.pokedex.DisplayPokemonActivity">
 
         <TextView
-            android:id="@+id/empty_text"
-            style="@style/EmptyListViewText"
-            android:text="@string/empty_abilities"
-            android:textSize="20sp"/>
-    </FrameLayout>
+            android:id="@+id/pokemon_name"
+            android:layout_marginBottom="10dp"
+            style="@style/NameLarge" />
 
-</RelativeLayout>
+        <TextView
+            android:id="@+id/pokemon_type1"
+            style="@style/TypeText.Large"
+            android:layout_below="@id/pokemon_name"/>
+
+        <TextView
+            android:id="@+id/pokemon_type2"
+            style="@style/TypeText.Large"
+            android:layout_toRightOf="@id/pokemon_type1"
+            android:layout_toEndOf="@id/pokemon_type1"
+            android:layout_below="@id/pokemon_name"/>
+
+        <TextView
+            android:id="@+id/pokemon_tags"
+            style="@style/TagText.Large"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/pokemon_name"
+            android:visibility="gone"/>
+
+        <RelativeLayout
+            android:id="@+id/stat_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pokemon_type1">
+
+            <LinearLayout
+                android:id="@+id/hp_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="@dimen/activity_vertical_margin">
+
+                <TextView
+                    android:id="@+id/hp_descriptor"
+                    style="@style/StatDescriptorText"
+                    android:text="@string/hp_descriptor"/>
+
+                <TextView
+                    android:id="@+id/hp_stat"
+                    style="@style/StatText"
+                    android:text="@string/stat_placeholder"/>
+
+                <View
+                    android:id="@+id/hp_rectangle"
+                    style="@style/StatRectangle"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/patk_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_below="@id/hp_layout">
+
+                <TextView
+                    android:id="@+id/patk_descriptor"
+                    style="@style/StatDescriptorText"
+                    android:text="@string/patk_descriptor"/>
+
+                <TextView
+                    android:id="@+id/patk_stat"
+                    style="@style/StatText"
+                    android:text="@string/stat_placeholder"/>
+
+                <View
+                    android:id="@+id/patk_rectangle"
+                    style="@style/StatRectangle" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/pdef_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_below="@id/patk_layout">
+
+                <TextView
+                    android:id="@+id/pdef_descriptor"
+                    style="@style/StatDescriptorText"
+                    android:text="@string/pdef_descriptor"/>
+
+                <TextView
+                    android:id="@+id/pdef_stat"
+                    style="@style/StatText"
+                    android:text="@string/stat_placeholder"/>
+
+                <View
+                    android:id="@+id/pdef_rectangle"
+                    style="@style/StatRectangle"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/spatk_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_below="@id/pdef_layout">
+
+                <TextView
+                    android:id="@+id/spatk_descriptor"
+                    style="@style/StatDescriptorText"
+                    android:text="@string/spatk_descriptor"/>
+
+                <TextView
+                    android:id="@+id/spatk_stat"
+                    style="@style/StatText"
+                    android:text="@string/stat_placeholder"/>
+
+                <View
+                    android:id="@+id/spatk_rectangle"
+                    style="@style/StatRectangle"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/spdef_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_below="@id/spatk_layout">
+
+                <TextView
+                    android:id="@+id/spdef_descriptor"
+                    style="@style/StatDescriptorText"
+                    android:text="@string/spdef_descriptor"/>
+
+                <TextView
+                    android:id="@+id/spdef_stat"
+                    style="@style/StatText"
+                    android:text="@string/stat_placeholder"/>
+
+                <View
+                    android:id="@+id/spdef_rectangle"
+                    style="@style/StatRectangle"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/spe_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_below="@id/spdef_layout">
+
+                <TextView
+                    android:id="@+id/spe_descriptor"
+                    style="@style/StatDescriptorText"
+                    android:text="@string/spe_descriptor"/>
+
+                <TextView
+                    android:id="@+id/spe_stat"
+                    style="@style/StatText"
+                    android:text="@string/stat_placeholder"/>
+
+                <View
+                    android:id="@+id/spe_rectangle"
+                    style="@style/StatRectangle"/>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/moveset_descriptor"
+            android:text="@string/abilities_descriptor"
+            android:layout_below="@id/stat_layout"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:layout_marginBottom="10dp"
+            style="@style/NameLarge"/>
+
+        <Button
+            android:id="@+id/new_moveset_button"
+            style="@style/TagText.Large"
+            android:text="@string/new_moveset"
+            android:layout_alignTop="@id/moveset_descriptor"
+            android:layout_alignBottom="@id/moveset_descriptor"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:visibility="gone"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/moveset_descriptor">
+
+            <ListView
+                android:id="@+id/moveset_list"
+                style="@style/MovesetList"
+                android:listSelector="@android:color/transparent"/>
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:indeterminate="true"/>
+
+            <TextView
+                android:id="@+id/empty_text"
+                style="@style/EmptyListViewText"
+                android:text="@string/empty_abilities"
+                android:textSize="20sp"/>
+        </FrameLayout>
+
+    </RelativeLayout>
+</LinearLayout>

@@ -1,13 +1,13 @@
 package com.github.chessdork.pokedex.ui;
 
 import android.animation.ValueAnimator;
-import android.app.ActionBar;
-import android.app.Activity;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.LayerDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -34,7 +34,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class DisplayPokemonActivity extends Activity {
+public class DisplayPokemonActivity extends ActionBarActivity {
     public static final String POKEMON_OBJECT = "POKEMON_OBJECT";
 
     private static final int STAT_MAX_SCALE = 150;
@@ -62,10 +62,9 @@ public class DisplayPokemonActivity extends Activity {
         setContentView(R.layout.activity_display_pokemon);
         mPokemon = (Pokemon) getIntent().getSerializableExtra(POKEMON_OBJECT);
 
-        final ActionBar bar = getActionBar();
-        if (bar != null) {
-            bar.setDisplayHomeAsUpEnabled(true);
-        }
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         mTask = new ParseMovesetTask().execute(mPokemon.getBaseAlias());
         setupStaticUi();

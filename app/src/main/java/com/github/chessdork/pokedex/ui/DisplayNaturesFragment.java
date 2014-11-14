@@ -157,11 +157,6 @@ public class DisplayNaturesFragment extends SearchableFragment {
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
         inflater.inflate(R.menu.display_natures, menu);
-    }
-
-    @Override
-    public void onPrepareOptionsMenu(Menu menu) {
-        super.onPrepareOptionsMenu(menu);
         listItem = menu.findItem(R.id.action_view_as_list);
         gridItem = menu.findItem(R.id.action_view_as_grid);
         searchItem = menu.findItem(R.id.action_search);

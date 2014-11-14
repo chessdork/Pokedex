@@ -4,13 +4,14 @@ package com.github.chessdork.pokedex.common;
 import android.app.Fragment;
 import android.content.Context;
 import android.os.Bundle;
+import android.support.v4.view.MenuItemCompat;
 import android.support.v4.widget.DrawerLayout;
+import android.support.v7.widget.SearchView;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.inputmethod.InputMethodManager;
-import android.widget.SearchView;
 
 import com.github.chessdork.pokedex.R;
 
@@ -48,7 +49,7 @@ public class SearchableFragment extends Fragment {
         super.onCreateOptionsMenu(menu, inflater);
 
         MenuItem searchItem = menu.findItem(R.id.action_search);
-        searchItem.setOnActionExpandListener(new MenuCollapseListener());
+        MenuItemCompat.setOnActionExpandListener(searchItem, new MenuCollapseListener());
 
         SearchView searchView = (SearchView) searchItem.getActionView();
         searchView.setOnQueryTextListener(new QueryTextListener());
@@ -58,7 +59,7 @@ public class SearchableFragment extends Fragment {
      * Resets the list when the SearchView is collapsed and closes the navigation drawer
      * when the SearchView is expanded.
      */
-    private class MenuCollapseListener implements MenuItem.OnActionExpandListener {
+    private class MenuCollapseListener implements MenuItemCompat.OnActionExpandListener {
         @Override
         public boolean onMenuItemActionExpand(MenuItem menuItem) {
             // close the navigation drawer on search.
