@@ -9,6 +9,8 @@ import android.content.res.Configuration;
 import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.widget.DrawerLayout;
+import android.util.Log;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -34,19 +36,41 @@ public class MainActivity extends Activity {
     private DrawerLayout mDrawerLayout;
     private SearchView searchView;
     private Category currentCategory;
+    private boolean userLearnedDrawer;
+
+    private static final String PREF_USER_LEARNED_DRAWER = "navigation_drawer_learned";
+    private static final String LOG_TAG = MainActivity.class.getSimpleName();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
-        ListView mDrawerList = (ListView) findViewById(R.id.left_drawer);
-        mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.drawable.ic_drawer, 0, 0);
+        mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, R.drawable.ic_drawer, 0, 0) {
+            @Override
+            public void onDrawerOpened(View drawerView) {
+                if (!userLearnedDrawer) {
+                    // The user manually opened the drawer; store this flag to prevent auto-showing
+                    // the navigation drawer automatically in the future.
+                    userLearnedDrawer = true;
+                    getPreferences(MODE_PRIVATE).edit()
+                            .putBoolean(PREF_USER_LEARNED_DRAWER, true)
+                            .apply();
+                    Log.d(LOG_TAG, "No longer opening drawers automatically on startup");
+                }
+            }
+        };
+        mDrawerLayout.setDrawerListener(mDrawerToggle);
 
+        ListView mDrawerList = (ListView) findViewById(R.id.left_drawer);
         mDrawerList.setAdapter(new DrawerAdapter(this));
         mDrawerList.setOnItemClickListener(new DrawerItemClickListener());
 
-        mDrawerLayout.setDrawerListener(mDrawerToggle);
+        userLearnedDrawer = getPreferences(MODE_PRIVATE).getBoolean(PREF_USER_LEARNED_DRAWER, false);
+        if (!userLearnedDrawer) {
+            Log.d(LOG_TAG, "Opening drawers automatically");
+            mDrawerLayout.openDrawer(Gravity.START);
+        }
 
         ActionBar mActionBar = getActionBar();
         if (mActionBar != null) {
