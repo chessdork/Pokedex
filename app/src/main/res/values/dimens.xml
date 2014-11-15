@@ -5,6 +5,8 @@
     <dimen name="stat_bar_horizontal_margin">8dp</dimen>
     <dimen name="half_margin">8dp</dimen>
     <dimen name="quarter_margin">4dp</dimen>
+    <dimen name="corner_radius_dp">3dp</dimen>
+    <dimen name="stroke_width_dp">2dp</dimen>
 
     <!-- These are in pixels because GradientDrawable API only works in pixels -->
     <dimen name="corner_radius">4px</dimen>

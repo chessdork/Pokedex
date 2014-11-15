@@ -4,18 +4,18 @@
     <item>
         <shape android:shape="rectangle">
             <solid android:color="@color/light_purple"/>
-            <corners android:radius="@dimen/corner_radius"/>
+            <corners android:radius="@dimen/corner_radius_dp"/>
         </shape>
     </item>
 
     <!--  Top color -->
     <item
         android:id="@+id/stat_color"
-        android:bottom="@dimen/stroke_width">
+        android:bottom="@dimen/stroke_width_dp">
 
         <shape android:shape="rectangle">
             <solid android:color="@android:color/white"/>
-            <corners android:radius="@dimen/corner_radius"/>
+            <corners android:radius="@dimen/corner_radius_dp"/>
         </shape>
     </item>
 </layer-list>
