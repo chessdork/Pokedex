@@ -47,11 +47,12 @@ public class SearchableFragment extends Fragment {
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
+        inflater.inflate(R.menu.main, menu);
 
         MenuItem searchItem = menu.findItem(R.id.action_search);
         MenuItemCompat.setOnActionExpandListener(searchItem, new MenuCollapseListener());
 
-        SearchView searchView = (SearchView) searchItem.getActionView();
+        SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
         searchView.setOnQueryTextListener(new QueryTextListener());
     }
 
