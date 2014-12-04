@@ -34,6 +34,7 @@ public class DisplayDexFragment extends SearchableFragment {
 
         PokedexAdapter adapter = new PokedexAdapter(getActivity(), Arrays.asList(Pokemon.values()));
         setFilterableAdapter(adapter);
+        setQueryHint("Search Pokémon");
 
         ListView listView = (ListView) view.findViewById(R.id.listview);
         listView.setAdapter(adapter);

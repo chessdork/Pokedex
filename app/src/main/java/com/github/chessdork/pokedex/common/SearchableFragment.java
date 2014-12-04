@@ -23,6 +23,7 @@ public class SearchableFragment extends Fragment {
     private String TAG = getClass().getSimpleName();
 
     private FilterableAdapter adapter;
+    private String queryHint = "";
 
     public void setFilterableAdapter(FilterableAdapter adapter) {
         this.adapter = adapter;
@@ -35,6 +36,10 @@ public class SearchableFragment extends Fragment {
                     getActivity().getSystemService(Context.INPUT_METHOD_SERVICE);
             inputMethodManager.hideSoftInputFromWindow(getView().getWindowToken(), 0);
         }
+    }
+
+    public void setQueryHint(String s) {
+        queryHint = s;
     }
 
     @Override
@@ -52,6 +57,7 @@ public class SearchableFragment extends Fragment {
         MenuItemCompat.setOnActionExpandListener(searchItem, new MenuCollapseListener());
 
         SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
+        searchView.setQueryHint(queryHint);
         searchView.setOnQueryTextListener(new QueryTextListener());
     }
 

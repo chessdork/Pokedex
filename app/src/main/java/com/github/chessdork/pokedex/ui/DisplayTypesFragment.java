@@ -27,6 +27,7 @@ public class DisplayTypesFragment extends SearchableFragment {
 
         TypesAdapter adapter = new TypesAdapter(getActivity(), Arrays.asList(PokemonType.values()));
         setFilterableAdapter(adapter);
+        setQueryHint("Search types");
 
         ListView listView = (ListView) view.findViewById(R.id.listview);
         listView.setAdapter(adapter);

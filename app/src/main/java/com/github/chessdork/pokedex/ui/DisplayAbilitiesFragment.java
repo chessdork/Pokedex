@@ -28,6 +28,7 @@ public class DisplayAbilitiesFragment extends SearchableFragment {
 
         AbilitiesAdapter adapter = new AbilitiesAdapter(getActivity(), Arrays.asList(Ability.values()));
         setFilterableAdapter(adapter);
+        setQueryHint("Search abilities");
 
         ListView listView = (ListView) view.findViewById(R.id.listview);
         listView.setEmptyView( view.findViewById(R.id.empty_text) );

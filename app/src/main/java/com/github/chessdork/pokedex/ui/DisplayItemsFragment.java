@@ -29,6 +29,7 @@ public class DisplayItemsFragment extends SearchableFragment {
 
         ItemAdapter adapter = new ItemAdapter(getActivity(), Arrays.asList(Item.values()));
         setFilterableAdapter(adapter);
+        setQueryHint("Search items");
 
         ListView listView = (ListView) view.findViewById(R.id.listview);
         listView.setAdapter(adapter);

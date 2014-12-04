@@ -57,6 +57,7 @@ public class DisplayNaturesFragment extends SearchableFragment {
 
         NatureAdapter adapter = new NatureAdapter(getActivity(), Arrays.asList(Nature.values()));
         setFilterableAdapter(adapter);
+        setQueryHint("Search natures");
 
         listView = (ListView) view.findViewById(R.id.listview);
         listView.setAdapter(adapter);

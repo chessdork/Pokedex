@@ -31,6 +31,7 @@ public class DisplayMovesFragment extends SearchableFragment {
 
         MovesAdapter adapter = new MovesAdapter(getActivity(), Arrays.asList(Move.values()));
         setFilterableAdapter(adapter);
+        setQueryHint("Search moves");
 
         ListView listView = (ListView) view.findViewById(R.id.listview);
         listView.setAdapter(adapter);
