@@ -140,8 +140,10 @@ public class DisplayPokemonActivity extends ActionBarActivity {
     }
 
     private void setData(MovesetWrapper wrapper) {
-        mMoves = wrapper.moves;
-        mMoveSets = wrapper.movesets;
+        if (wrapper != null) {
+            mMoves = wrapper.moves;
+            mMoveSets = wrapper.movesets;
+        }
     }
 
     public void createMoveset(View view) {
@@ -327,7 +329,9 @@ public class DisplayPokemonActivity extends ActionBarActivity {
 
         @Override
         protected void onPostExecute(MovesetWrapper wrapper) {
-            setData(wrapper);
+            if (wrapper != null) {
+                setData(wrapper);
+            }
             setupListView();
         }
     }
