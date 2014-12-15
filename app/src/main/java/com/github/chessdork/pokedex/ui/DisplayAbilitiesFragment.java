@@ -2,6 +2,7 @@ package com.github.chessdork.pokedex.ui;
 
 
 import android.content.Context;
+import android.database.Cursor;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,10 +12,11 @@ import android.widget.TextView;
 
 import com.github.chessdork.pokedex.R;
 import com.github.chessdork.pokedex.common.FilterableAdapter;
+import com.github.chessdork.pokedex.common.PokeDatabase;
 import com.github.chessdork.pokedex.common.SearchableFragment;
 import com.github.chessdork.pokedex.models.Ability;
 
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.List;
 
 
@@ -26,7 +28,18 @@ public class DisplayAbilitiesFragment extends SearchableFragment {
         // Inflate the layout for this fragment.
         View view = inflater.inflate(R.layout.fragment_display_abilities, container, false);
 
-        AbilitiesAdapter adapter = new AbilitiesAdapter(getActivity(), Arrays.asList(Ability.values()));
+        PokeDatabase db = PokeDatabase.getInstance(getActivity());
+        Cursor c = db.getReadableDatabase().query("abilities", new String[] {"id, name, description"}, null, null, null, null, null);
+
+        List<Ability> abilities = new ArrayList<>();
+        c.moveToFirst();
+
+        while (c.moveToNext()) {
+            abilities.add(new Ability(c));
+        }
+        c.close();
+
+        AbilitiesAdapter adapter = new AbilitiesAdapter(getActivity(), abilities);
         setFilterableAdapter(adapter);
         setQueryHint("Search abilities");
 

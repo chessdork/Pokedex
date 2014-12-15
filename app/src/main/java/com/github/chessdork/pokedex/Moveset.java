@@ -74,12 +74,12 @@ public class Moveset implements Serializable{
                 items.add(item);
             }
 
-            JSONArray abilityArray = jsonObject.getJSONArray("abilities");
+            //JSONArray abilityArray = jsonObject.getJSONArray("abilities");
             List<Ability> abilities = new ArrayList<>();
-            for (int i = 0; i < abilityArray.length(); i++) {
-                Ability ability = Ability.valueOf(abilityArray.getJSONObject(i).getString("alias").replaceAll("-","_").toUpperCase());
-                abilities.add(ability);
-            }
+            //for (int i = 0; i < abilityArray.length(); i++) {
+            //    Ability ability = Ability.valueOf(abilityArray.getJSONObject(i).getString("alias").replaceAll("-","_").toUpperCase());
+            //    abilities.add(ability);
+            //}
 
             // assume there won't be more than one set of EVs.  Verified for all pokemon as of
             // Oct 11 2014.

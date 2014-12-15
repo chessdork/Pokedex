@@ -8,6 +8,7 @@ import android.widget.Filter;
 import android.widget.Filterable;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -55,6 +56,9 @@ public abstract class FilterableAdapter<T> extends BaseAdapter implements Filter
     };
 
     public FilterableAdapter(Context context, List<T> data) {
+        if (data == null) {
+            data = Collections.emptyList();
+        }
         inflater = LayoutInflater.from(context);
         this.data = data;
         originalData = new ArrayList<>(data);

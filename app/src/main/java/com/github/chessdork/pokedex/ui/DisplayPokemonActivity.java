@@ -1,6 +1,7 @@
 package com.github.chessdork.pokedex.ui;
 
 import android.animation.ValueAnimator;
+import android.database.Cursor;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.drawable.LayerDrawable;
@@ -18,6 +19,8 @@ import android.widget.TextView;
 
 import com.github.chessdork.pokedex.Moveset;
 import com.github.chessdork.pokedex.R;
+import com.github.chessdork.pokedex.common.PokeDatabase;
+import com.github.chessdork.pokedex.models.Ability;
 import com.github.chessdork.pokedex.models.Move;
 import com.github.chessdork.pokedex.models.Pokemon;
 import com.github.chessdork.pokedex.models.PokemonType;
@@ -106,7 +109,16 @@ public class DisplayPokemonActivity extends ActionBarActivity {
      */
     private void setupListView() {
         ListView listView = (ListView) findViewById(R.id.moveset_list);
-        listView.setAdapter(new DisplayAbilitiesFragment.AbilitiesAdapter(this, mPokemon.getAbilities()));
+        List<Ability> abilities = new ArrayList<>();
+
+        PokeDatabase db = PokeDatabase.getInstance(this);
+        // TODO this does not work for megas.  Maybe because of hyphen vs. dash
+        Cursor c = db.getReadableDatabase().rawQuery("select abilities.id, abilities.name, abilities.description from pokemon_abilities join abilities on abilities.id = ability_id join pokemon on pokemon.id = pokemon_id where pokemon.name=?", new String[] {mPokemon.getName()});
+        c.moveToFirst();
+        while (c.moveToNext()) {
+            abilities.add(new Ability(c));
+        }
+        listView.setAdapter(new DisplayAbilitiesFragment.AbilitiesAdapter(this, abilities));
         listView.setEmptyView(findViewById(R.id.empty_text));
 
         //hide the progress bar now that the ListView is populated
