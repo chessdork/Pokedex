@@ -1,0 +1,1373 @@
+{
+ "status": "success",
+ "result": [
+  {
+   "alias": "abomasite",
+   "description": "Mega-evolves Abomasnow.",
+   "name": "Abomasite",
+   "gen": "xy"
+  },
+  {
+   "alias": "absolite",
+   "description": "Mega-evolves Absol.",
+   "name": "Absolite",
+   "gen": "xy"
+  },
+  {
+   "alias": "absorb_bulb",
+   "description": "Boosts Special Attack of holder if hit by a Water-type attack. One-time use.",
+   "name": "Absorb Bulb",
+   "gen": "xy"
+  },
+  {
+   "alias": "adamant_orb",
+   "description": "Hold item which raises power of Dialga's STAB moves by 20%.",
+   "name": "Adamant Orb",
+   "gen": "xy"
+  },
+  {
+   "alias": "aerodactylite",
+   "description": "Mega-evolves Aerodactyl.",
+   "name": "Aerodactylite",
+   "gen": "xy"
+  },
+  {
+   "alias": "aggronite",
+   "description": "Mega-evolves Aggron.",
+   "name": "Aggronite",
+   "gen": "xy"
+  },
+  {
+   "alias": "aguav_berry",
+   "description": "Restores 1/8 of max HP when at 50% HP or less. One-time use.",
+   "name": "Aguav Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "air_balloon",
+   "description": "Makes the holder immune to Ground-type attacks. Disappears when holder is hit.",
+   "name": "Air Balloon",
+   "gen": "xy"
+  },
+  {
+   "alias": "alakazite",
+   "description": "Mega-evolves Alakazam.",
+   "name": "Alakazite",
+   "gen": "xy"
+  },
+  {
+   "alias": "ampharosite",
+   "description": "Mega-evolves Ampharos.",
+   "name": "Ampharosite",
+   "gen": "xy"
+  },
+  {
+   "alias": "apicot_berry",
+   "description": "Raises Special Defense by one stage when at 25% HP or less. One-time use.",
+   "name": "Apicot Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "aspear_berry",
+   "description": "Cures freeze. One-time use.",
+   "name": "Aspear Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "assault_vest",
+   "description": "Holder's Sp. Def is 1.5x, but it can only use damaging moves.",
+   "name": "Assault Vest",
+   "gen": "xy"
+  },
+  {
+   "alias": "babiri_berry",
+   "description": "Reduces damage from a super effective Steel-type attack by 50%. Consumed after use.",
+   "name": "Babiri Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "banettite",
+   "description": "Mega-evolves Banette.",
+   "name": "Banettite",
+   "gen": "xy"
+  },
+  {
+   "alias": "berry",
+   "description": "Restores 10 HP when at 50% HP or less. One-time use.",
+   "name": "Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "berry_juice",
+   "description": "Restores 20 HP when at 50% HP or less. One-time use.",
+   "name": "Berry Juice",
+   "gen": "xy"
+  },
+  {
+   "alias": "berserk_gene",
+   "description": "Raises Attack, but causes confusion. One-time use.",
+   "name": "Berserk Gene",
+   "gen": "xy"
+  },
+  {
+   "alias": "big_root",
+   "description": "Increases HP gained from draining moves by 30%.",
+   "name": "Big Root",
+   "gen": "xy"
+  },
+  {
+   "alias": "binding_band",
+   "description": "Increases power of multi-turn trapping moves.",
+   "name": "Binding Band",
+   "gen": "xy"
+  },
+  {
+   "alias": "bitter_berry",
+   "description": "Cures confusion. One-time use.",
+   "name": "Bitter Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "black_belt",
+   "description": "Raises power of Fighting-type moves by 10%.",
+   "name": "Black Belt",
+   "gen": "xy"
+  },
+  {
+   "alias": "black_sludge",
+   "description": "Recovers 1/16 of max HP each turn for Poison-types. Damages all other types by 1/8 of max HP each turn.",
+   "name": "Black Sludge",
+   "gen": "xy"
+  },
+  {
+   "alias": "blackglasses",
+   "description": "Raises power of Dark-type moves by 10%.",
+   "name": "BlackGlasses",
+   "gen": "xy"
+  },
+  {
+   "alias": "blastoisinite",
+   "description": "Mega-evolves Blastoise.",
+   "name": "Blastoisinite",
+   "gen": "xy"
+  },
+  {
+   "alias": "blazikenite",
+   "description": "Mega-evolves Blaziken.",
+   "name": "Blazikenite",
+   "gen": "xy"
+  },
+  {
+   "alias": "brightpowder",
+   "description": "Raises evasion by 10%.",
+   "name": "BrightPowder",
+   "gen": "xy"
+  },
+  {
+   "alias": "bug_gem",
+   "description": "Raises the power of a Bug-type move by 50%. One-time use.",
+   "name": "Bug Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "burn_drive",
+   "description": "Changes the type of Techno Blast to Fire.",
+   "name": "Burn Drive",
+   "gen": "xy"
+  },
+  {
+   "alias": "cell_battery",
+   "description": "Boosts Attack of holder if hit by an Electric-type attack. One-time use.",
+   "name": "Cell Battery",
+   "gen": "xy"
+  },
+  {
+   "alias": "charcoal",
+   "description": "Raises power of Fire-type moves by 10%.",
+   "name": "Charcoal",
+   "gen": "xy"
+  },
+  {
+   "alias": "charizardite_x",
+   "description": "Mega-evolves Charizard into Mega Charizard X.",
+   "name": "Charizardite X",
+   "gen": "xy"
+  },
+  {
+   "alias": "charizardite_y",
+   "description": "Mega-evolves Charizard into Mega Charizard Y.",
+   "name": "Charizardite Y",
+   "gen": "xy"
+  },
+  {
+   "alias": "charti_berry",
+   "description": "Reduces damage from a super effective Rock-type attack by 50%. Consumed after use.",
+   "name": "Charti Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "cheri_berry",
+   "description": "Cures paralysis. One-time use.",
+   "name": "Cheri Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "chesto_berry",
+   "description": "Cures sleep. One-time use.",
+   "name": "Chesto Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "chilan_berry",
+   "description": "Berry blended to make Pok\u00e9blocks.",
+   "name": "Chilan Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "chill_drive",
+   "description": "Changes the type of Techno Blast to Ice.",
+   "name": "Chill Drive",
+   "gen": "xy"
+  },
+  {
+   "alias": "choice_band",
+   "description": "Raises Attack by 50%, but locks the user into one move.",
+   "name": "Choice Band",
+   "gen": "xy"
+  },
+  {
+   "alias": "choice_scarf",
+   "description": "Hold item which raises Speed by 50%, but locks holder into one move.",
+   "name": "Choice Scarf",
+   "gen": "xy"
+  },
+  {
+   "alias": "choice_specs",
+   "description": "Hold item which raises Special Attack by 50%, but locks holder into one move.",
+   "name": "Choice Specs",
+   "gen": "xy"
+  },
+  {
+   "alias": "chople_berry",
+   "description": "Reduces damage from a super effective Fighting-type attack by 50%. Consumed after use.",
+   "name": "Chople Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "cleanse_tag",
+   "description": "Decreases the appearance of wild Pok\u00e9mon.",
+   "name": "Cleanse Tag",
+   "gen": "xy"
+  },
+  {
+   "alias": "coba_berry",
+   "description": "Reduces damage from a super effective Flying-type attack by 50%. Consumed after use.",
+   "name": "Coba Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "colbur_berry",
+   "description": "Reduces damage from a super effective Dark-type attack by 50%. Consumed after use.",
+   "name": "Colbur Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "custap_berry",
+   "description": "Activates at 25% HP. Next move used goes first. One-time use.",
+   "name": "Custap Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "damp_rock",
+   "description": "Rain Dance and Drizzle lasts 8 turns.",
+   "name": "Damp Rock",
+   "gen": "xy"
+  },
+  {
+   "alias": "dark_gem",
+   "description": "Raises the power of a Dark-type move by 50%. One-time use.",
+   "name": "Dark Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "dark_glasses",
+   "description": "A hold item that boosts Dark-type moves by 10%.",
+   "name": "Dark Glasses",
+   "gen": "xy"
+  },
+  {
+   "alias": "deepseascale",
+   "description": "Doubles Clamperl's Special Defense.",
+   "name": "DeepSeaScale",
+   "gen": "xy"
+  },
+  {
+   "alias": "deepseatooth",
+   "description": "Doubles Clamperl's Special Attack.",
+   "name": "DeepSeaTooth",
+   "gen": "xy"
+  },
+  {
+   "alias": "destiny_knot",
+   "description": "If the holder becomes infatuated, so does the enemy.",
+   "name": "Destiny Knot",
+   "gen": "xy"
+  },
+  {
+   "alias": "douse_drive",
+   "description": "Changes the type of Techno Blast to Water.",
+   "name": "Douse Drive",
+   "gen": "xy"
+  },
+  {
+   "alias": "draco_plate",
+   "description": "Raises power of Dragon-type moves by 20%. Pokemon with Multitype become Dragon-type.",
+   "name": "Draco Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "dragon_fang",
+   "description": "Raises power of Dragon-type moves by 10%.",
+   "name": "Dragon Fang",
+   "gen": "xy"
+  },
+  {
+   "alias": "dragon_gem",
+   "description": "Raises the power of a Dragon-type move by 50%. One-time use.",
+   "name": "Dragon Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "dread_plate",
+   "description": "Raises power of the holder's Dark-type moves by 20%. Pokemon with Multitype become Dark-type.",
+   "name": "Dread Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "earth_plate",
+   "description": "Raises power of Ground-type moves by 20%. Pokemon with Multitype become Ground-type.",
+   "name": "Earth Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "eject_button",
+   "description": "When the holder is hit, it immediately switches out. One-time use.",
+   "name": "Eject Button",
+   "gen": "xy"
+  },
+  {
+   "alias": "electric_gem",
+   "description": "Raises the power of a Electric-type move by 50%. One-time use.",
+   "name": "Electric Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "enigma_berry",
+   "description": "Pok\u00e9block ingredient. Restores 1/4 of the max HP when hit by a super effective move. One-time use.",
+   "name": "Enigma Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "eviolite",
+   "description": "Boosts Defense and Special Defense of holder by 50% if it is an NFE Pokemon.",
+   "name": "Eviolite",
+   "gen": "xy"
+  },
+  {
+   "alias": "expert_belt",
+   "description": "Super effective attacks are 20% stronger.",
+   "name": "Expert Belt",
+   "gen": "xy"
+  },
+  {
+   "alias": "fighting_gem",
+   "description": "Raises the power of a Fighting-type move by 50%. One-time use.",
+   "name": "Fighting Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "figy_berry",
+   "description": "Restores 1/8 max HP when at 50% HP or less. One-time use.",
+   "name": "Figy Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "fire_gem",
+   "description": "Raises the power of a Fire-type move by 50%. One-time use.",
+   "name": "Fire Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "fist_plate",
+   "description": "Raises power of Fighting-type moves 20%. Pokemon with Multitype become Fighting-type.",
+   "name": "Fist Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "flame_orb",
+   "description": "Burns the holder.",
+   "name": "Flame Orb",
+   "gen": "xy"
+  },
+  {
+   "alias": "flame_plate",
+   "description": "Raises power of Fire-type moves 20%. Pokemon with Multitype become Fire-type.",
+   "name": "Flame Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "float_stone",
+   "description": "The weight of the holder is halved.",
+   "name": "Float Stone",
+   "gen": "xy"
+  },
+  {
+   "alias": "flying_gem",
+   "description": "Raises the power of a Flying-type move by 50%. One-time use.",
+   "name": "Flying Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "focus_band",
+   "description": "Gives an 11.7% chance of surviving a hit with at least 1 HP.",
+   "name": "Focus Band",
+   "gen": "xy"
+  },
+  {
+   "alias": "focus_sash",
+   "description": "The holder always survives one attack. One-time use.",
+   "name": "Focus Sash",
+   "gen": "xy"
+  },
+  {
+   "alias": "full_incense",
+   "description": "Makes the holder move last.",
+   "name": "Full Incense",
+   "gen": "xy"
+  },
+  {
+   "alias": "ganlon_berry",
+   "description": "Raises Defense by one stage when at 25% HP or less. One-time use.",
+   "name": "Ganlon Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "garchompite",
+   "description": "Mega-evolves Garchomp.",
+   "name": "Garchompite",
+   "gen": "xy"
+  },
+  {
+   "alias": "gardevoirite",
+   "description": "Mega-evolves Gardevoir.",
+   "name": "Gardevoirite",
+   "gen": "xy"
+  },
+  {
+   "alias": "gengarite",
+   "description": "Mega-evolves Gengar.",
+   "name": "Gengarite",
+   "gen": "xy"
+  },
+  {
+   "alias": "ghost_gem",
+   "description": "Raises the power of a Ghost-type move by 50%. One-time use.",
+   "name": "Ghost Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "gold_berry",
+   "description": "Restores 30 HP when at 50% HP or less. One-time use.",
+   "name": "Gold Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "grass_gem",
+   "description": "Raises the power of a Grass-type move by 50%. One-time use.",
+   "name": "Grass Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "grip_claw",
+   "description": "Partial trapping moves last 6 turns.",
+   "name": "Grip Claw",
+   "gen": "xy"
+  },
+  {
+   "alias": "griseous_orb",
+   "description": "Raises the power of Giratina's STAB moves 20%. May only be held by Giratina, transforms Giratina into Giratina-O when held. Cannot be removed in battle.",
+   "name": "Griseous Orb",
+   "gen": "xy"
+  },
+  {
+   "alias": "ground_gem",
+   "description": "Raises the power of a Ground-type move by 50%. One-time use.",
+   "name": "Ground Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "gyaradosite",
+   "description": "Mega-evolves Gyarados.",
+   "name": "Gyaradosite",
+   "gen": "xy"
+  },
+  {
+   "alias": "haban_berry",
+   "description": "Reduces damage from a super effective Dragon-type attack by 50%. Consumed after use.",
+   "name": "Haban Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "hard_rock",
+   "description": "Raises power of Rock-type moves by 12.5%.",
+   "name": "Hard Rock",
+   "gen": "xy"
+  },
+  {
+   "alias": "hard_stone",
+   "description": "Raises power of Rock-type moves by 10%.",
+   "name": "Hard Stone",
+   "gen": "xy"
+  },
+  {
+   "alias": "heat_rock",
+   "description": "Sunny Day and Drought lasts 8 turns.",
+   "name": "Heat Rock",
+   "gen": "xy"
+  },
+  {
+   "alias": "heracronite",
+   "description": "Mega-evolves Heracross.",
+   "name": "Heracronite",
+   "gen": "xy"
+  },
+  {
+   "alias": "houndoominite",
+   "description": "Mega-evolves Houndoom.",
+   "name": "Houndoominite",
+   "gen": "xy"
+  },
+  {
+   "alias": "iapapa_berry",
+   "description": "Restores 1/8 of max HP when at 50% HP or less. One-time use.",
+   "name": "Iapapa Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "ice_berry",
+   "description": "Cures burn. One-time use.",
+   "name": "Ice Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "ice_gem",
+   "description": "Raises the power of a Ice-type move by 50%. One-time use.",
+   "name": "Ice Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "icicle_plate",
+   "description": "Raises power of Ice-type moves 20%. Pokemon with Multitype become Ice-type.",
+   "name": "Icicle Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "icy_rock",
+   "description": "Hail and Snow Warning lasts 8 turns.",
+   "name": "Icy Rock",
+   "gen": "xy"
+  },
+  {
+   "alias": "insect_plate",
+   "description": "Raises power of Bug-type moves by 20%. Pokemon with Multitype become Bug-type.",
+   "name": "Insect Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "iron_ball",
+   "description": "Reduces Speed by 50%.",
+   "name": "Iron Ball",
+   "gen": "xy"
+  },
+  {
+   "alias": "iron_plate",
+   "description": "Raises power of Steel-type moves by 20%. Pokemon with Multitype become Steel-type.",
+   "name": "Iron Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "jaboca_berry",
+   "description": "If hit by a physical attack, the attacker takes 12.5% damage. One-time use.",
+   "name": "Jaboca Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "kangaskhanite",
+   "description": "Mega-evolves Kangaskhan.",
+   "name": "Kangaskhanite",
+   "gen": "xy"
+  },
+  {
+   "alias": "kasib_berry",
+   "description": "Reduces damage from a super effective Ghost-type attack by 50%. Consumed after use.",
+   "name": "Kasib Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "kebia_berry",
+   "description": "Reduces damage from a super effective Poison-type attack by 50%. Consumed after use.",
+   "name": "Kebia Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "kee_berry",
+   "description": "Raises Defense by 1 stage if hit by a Physical attack. Single use.",
+   "name": "Kee Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "kelpsy_berry",
+   "description": "Pok\u00e9block ingredient. Plant in loamy soil to grow a Kelpsy plant.",
+   "name": "Kelpsy Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "kings_rock",
+   "description": "Moves recieve a 10% flinch chance, if they do not have one already.",
+   "name": "King's Rock",
+   "gen": "xy"
+  },
+  {
+   "alias": "lagging_tail",
+   "description": "Makes the holder move last.",
+   "name": "Lagging Tail",
+   "gen": "xy"
+  },
+  {
+   "alias": "lansat_berry",
+   "description": "Raises critical hit rate by two stages when at 25% HP or less. One-time use.",
+   "name": "Lansat Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "lax_incense",
+   "description": "Raises evasion by 5%.",
+   "name": "Lax Incense",
+   "gen": "xy"
+  },
+  {
+   "alias": "leftovers",
+   "description": "Heals 1/16 of max HP each turn.",
+   "name": "Leftovers",
+   "gen": "xy"
+  },
+  {
+   "alias": "leppa_berry",
+   "description": "Restores 10 PP to a move that has run out of PP. One-time use.",
+   "name": "Leppa Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "liechi_berry",
+   "description": "Raises Attack by one stage when at 25% HP or less. One-time use.",
+   "name": "Liechi Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "life_orb",
+   "description": "Boosts power by 30%, user takes 10% recoil each turn it attacks.",
+   "name": "Life Orb",
+   "gen": "xy"
+  },
+  {
+   "alias": "light_ball",
+   "description": "Doubles Pikachu's Special Attack.",
+   "name": "Light Ball",
+   "gen": "xy"
+  },
+  {
+   "alias": "light_clay",
+   "description": "Reflect and Light Screen last 8 turns.",
+   "name": "Light Clay",
+   "gen": "xy"
+  },
+  {
+   "alias": "lucarionite",
+   "description": "Mega-evolves Lucario.",
+   "name": "Lucarionite",
+   "gen": "xy"
+  },
+  {
+   "alias": "lucky_punch",
+   "description": "Raises Chansey's critical hit ratio by two stages.",
+   "name": "Lucky Punch",
+   "gen": "xy"
+  },
+  {
+   "alias": "lum_berry",
+   "description": "Cures status. One-time use.",
+   "name": "Lum Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "luminous_moss",
+   "description": "Raises Special Defense by 1 stage if hit by a Water-type attack. Single use.",
+   "name": "Luminous Moss",
+   "gen": "xy"
+  },
+  {
+   "alias": "lustrous_orb",
+   "description": "Raises power of Palkia's STAB moves by 20%.",
+   "name": "Lustrous Orb",
+   "gen": "xy"
+  },
+  {
+   "alias": "macho_brace",
+   "description": "Reduces Speed by 50%. Doubles EVs gained.",
+   "name": "Macho Brace",
+   "gen": "xy"
+  },
+  {
+   "alias": "magmarizer",
+   "description": "Evolves Magmar into Magmortar.",
+   "name": "Magmarizer",
+   "gen": "xy"
+  },
+  {
+   "alias": "magnet",
+   "description": "Raises power of Electric-type moves 10%.",
+   "name": "Magnet",
+   "gen": "xy"
+  },
+  {
+   "alias": "mago_berry",
+   "description": "Restores 1/8 max HP when at 50% HP or less. One-time use.",
+   "name": "Mago Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "mail",
+   "description": "Prevents Trick from working.",
+   "name": "Mail",
+   "gen": "xy"
+  },
+  {
+   "alias": "manectite",
+   "description": "Mega-evolves Manectric.",
+   "name": "Manectite",
+   "gen": "xy"
+  },
+  {
+   "alias": "maranga_berry",
+   "description": "Raises Special Defense by 1 stage if hit by a Special attack. Single use.",
+   "name": "Maranga Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "mawilite",
+   "description": "Mega-evolves Mawile.",
+   "name": "Mawilite",
+   "gen": "xy"
+  },
+  {
+   "alias": "meadow_plate",
+   "description": "Raises power of Grass-type moves 20%. Pokemon with Multitype become Grass-type.",
+   "name": "Meadow Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "medichamite",
+   "description": "Mega-evolves Medicham.",
+   "name": "Medichamite",
+   "gen": "xy"
+  },
+  {
+   "alias": "mental_herb",
+   "description": "Cures infatuation. One-time use.",
+   "name": "Mental Herb",
+   "gen": "xy"
+  },
+  {
+   "alias": "metal_coat",
+   "description": "Raises power of Steel-type moves by 10%.",
+   "name": "Metal Coat",
+   "gen": "xy"
+  },
+  {
+   "alias": "metal_powder",
+   "description": "Raises Ditto's Defense and Special Defense by 50%.",
+   "name": "Metal Powder",
+   "gen": "xy"
+  },
+  {
+   "alias": "metronome",
+   "description": "Boost the power of attacks used consecutively.",
+   "name": "Metronome",
+   "gen": "xy"
+  },
+  {
+   "alias": "mewtwonite_x",
+   "description": "Mega-evolves Mewtwo into Mega Mewtwo X.",
+   "name": "Mewtwonite X",
+   "gen": "xy"
+  },
+  {
+   "alias": "mewtwonite_y",
+   "description": "Mega-evolves Mewtwo into Mega Mewtwo Y.",
+   "name": "Mewtwonite Y",
+   "gen": "xy"
+  },
+  {
+   "alias": "micle_berry",
+   "description": "The next move used will always hit.",
+   "name": "Micle Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "mind_plate",
+   "description": "Raises power of Psychic-type moves by 20%. Pokemon with Multitype become Psychic-type.",
+   "name": "Mind Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "mint_berry",
+   "description": "Cures sleep. One-time use.",
+   "name": "Mint Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "miracle_berry",
+   "description": "Cures status. One-time use.",
+   "name": "Miracle Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "miracle_seed",
+   "description": "Raises power of Grass-type moves by 10%.",
+   "name": "Miracle Seed",
+   "gen": "xy"
+  },
+  {
+   "alias": "muscle_band",
+   "description": "Raises power of physical moves by 10%.",
+   "name": "Muscle Band",
+   "gen": "xy"
+  },
+  {
+   "alias": "mystery_berry",
+   "description": "Restores 5 PP to a move that has run out of PP. One-time use.",
+   "name": "Mystery Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "mystic_water",
+   "description": "Raises power of Water-type moves by 10%.",
+   "name": "Mystic Water",
+   "gen": "xy"
+  },
+  {
+   "alias": "nevermeltice",
+   "description": "Raises power of Ice-type moves by 10%.",
+   "name": "NeverMeltIce",
+   "gen": "xy"
+  },
+  {
+   "alias": "normal_gem",
+   "description": "Raises the power of a Normal-type move by 50%. One-time use.",
+   "name": "Normal Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "occa_berry",
+   "description": "Reduces damage from a super effective Fire-type attack by 50%. Consumed after use.",
+   "name": "Occa Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "odd_incense",
+   "description": "Raises power of Psychic-type moves by 20%.",
+   "name": "Odd Incense",
+   "gen": "xy"
+  },
+  {
+   "alias": "oran_berry",
+   "description": "Restores 10 HP when at 50% HP or less. One-time use.",
+   "name": "Oran Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "passho_berry",
+   "description": "Reduces damage from a super effective Water-type attack by 50%. Consumed after use.",
+   "name": "Passho Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "payapa_berry",
+   "description": "Reduces damage from a super effective Psychic-type attack by 50%. Consumed after use.",
+   "name": "Payapa Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "pecha_berry",
+   "description": "Cures poison. One-time use.",
+   "name": "Pecha Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "persim_berry",
+   "description": "Cures confusion. One-time use.",
+   "name": "Persim Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "petaya_berry",
+   "description": "Raises Special Attack by one stage when at 25% HP or less. One-time use.",
+   "name": "Petaya Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "pink_bow",
+   "description": "Raises power of Normal moves by 10%.",
+   "name": "Pink Bow",
+   "gen": "xy"
+  },
+  {
+   "alias": "pinsirite",
+   "description": "Mega-evolves Pinsir.",
+   "name": "Pinsirite",
+   "gen": "xy"
+  },
+  {
+   "alias": "pixie_plate",
+   "description": "Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy-type.",
+   "name": "Pixie Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "poison_barb",
+   "description": "Raises power of Poison-type moves by 10%.",
+   "name": "Poison Barb",
+   "gen": "xy"
+  },
+  {
+   "alias": "poison_gem",
+   "description": "Raises the power of a Poison-type move by 50%. One-time use.",
+   "name": "Poison Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "polka_dot_bow",
+   "description": "Raises power of Normal moves by 12.5%.",
+   "name": "Polka Dot Bow",
+   "gen": "xy"
+  },
+  {
+   "alias": "power_anklet",
+   "description": "Reduces Speed by 50%. Grants 4 Speed EVs when the opponent is defeated. Passes down the Speed IV to its offspring in HGSS.",
+   "name": "Power Anklet",
+   "gen": "xy"
+  },
+  {
+   "alias": "power_band",
+   "description": "Reduces Speed by 50%. Grants 4 Special Defense EVs when the opponent is defeated. Passes down the Special Defense IV to its offspring in HGSS.",
+   "name": "Power Band",
+   "gen": "xy"
+  },
+  {
+   "alias": "power_belt",
+   "description": "Reduces Speed by 50%. Grants 4 Defense EVs when the opponent is defeated. Passes down the Defense IV to its offspring in HGSS.",
+   "name": "Power Belt",
+   "gen": "xy"
+  },
+  {
+   "alias": "power_bracer",
+   "description": "Reduces Speed by 50%. Grants 4 Attack EVs when the opponent is defeated. Passes down the Attack IV to its offspring in HGSS.",
+   "name": "Power Bracer",
+   "gen": "xy"
+  },
+  {
+   "alias": "power_herb",
+   "description": "Removes the charge up turn from all moves. One-time use.",
+   "name": "Power Herb",
+   "gen": "xy"
+  },
+  {
+   "alias": "power_lens",
+   "description": "Reduces Speed by 50%. Grants 4 Special Attack EVs when the opponent is defeated. Passes down it's Special Attack IV to its offspring in HGSS.",
+   "name": "Power Lens",
+   "gen": "xy"
+  },
+  {
+   "alias": "power_weight",
+   "description": "Reduces Speed by 50%. Grants 4 HP EVs when the opponent is defeated. Passes down HP IV to its offspring in HGSS.",
+   "name": "Power Weight",
+   "gen": "xy"
+  },
+  {
+   "alias": "przcure_berry",
+   "description": "Cures paralysis. One-time use.",
+   "name": "PRZCure Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "psncure_berry",
+   "description": "Cures poison. One-time use.",
+   "name": "PSNCure Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "psychic_gem",
+   "description": "Raises the power of a Psychic-type move by 50%. One-time use.",
+   "name": "Psychic Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "quick_claw",
+   "description": "Gives the user a 23.4375% chance to go first.",
+   "name": "Quick Claw",
+   "gen": "xy"
+  },
+  {
+   "alias": "quick_powder",
+   "description": "Doubles Ditto's Speed.",
+   "name": "Quick Powder",
+   "gen": "xy"
+  },
+  {
+   "alias": "rawst_berry",
+   "description": "Cures burn. One-time use.",
+   "name": "Rawst Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "razor_claw",
+   "description": "Raises critical hit rate by one stage.",
+   "name": "Razor Claw",
+   "gen": "xy"
+  },
+  {
+   "alias": "razor_fang",
+   "description": "Certain moves have a 10% flinch rate.",
+   "name": "Razor Fang",
+   "gen": "xy"
+  },
+  {
+   "alias": "red_card",
+   "description": "The opponent is forced out immediately if it attacks the holder. One-time use.",
+   "name": "Red Card",
+   "gen": "xy"
+  },
+  {
+   "alias": "rindo_berry",
+   "description": "Reduces damage from a super effective Grass-type attack by 50%. Consumed after use.",
+   "name": "Rindo Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "rock_gem",
+   "description": "Raises the power of a Rock-type move by 50%. One-time use.",
+   "name": "Rock Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "rock_incense",
+   "description": "Raises power of Rock-type moves by 20%.",
+   "name": "Rock Incense",
+   "gen": "xy"
+  },
+  {
+   "alias": "rocky_helmet",
+   "description": "Damages the opponent for 1/6 of max HP when the opponent makes contact.",
+   "name": "Rocky Helmet",
+   "gen": "xy"
+  },
+  {
+   "alias": "rose_incense",
+   "description": "Raises power of Grass-type moves by 20%.",
+   "name": "Rose Incense",
+   "gen": "xy"
+  },
+  {
+   "alias": "roseli_berry",
+   "description": "Halves damage taken from a super effective Fairy-type attack. Single use.",
+   "name": "Roseli Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "rowap_berry",
+   "description": "If hit by a special attack, the attacker takes 12.5% damage. One-time use.",
+   "name": "Rowap Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "safety_goggles",
+   "description": "Protects the holder from weather-related damage and powder moves.",
+   "name": "Safety Goggles",
+   "gen": "xy"
+  },
+  {
+   "alias": "salac_berry",
+   "description": "Raises Speed by one stage when at 25% HP or less. One-time use.",
+   "name": "Salac Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "scizorite",
+   "description": "Mega-evolves Scizor.",
+   "name": "Scizorite",
+   "gen": "xy"
+  },
+  {
+   "alias": "scope_lens",
+   "description": "Raises critical hit rate by one stage.",
+   "name": "Scope Lens",
+   "gen": "xy"
+  },
+  {
+   "alias": "sea_incense",
+   "description": "Raises power of Water-type moves 5%.",
+   "name": "Sea Incense",
+   "gen": "xy"
+  },
+  {
+   "alias": "sharp_beak",
+   "description": "Raises power of Flying-type moves 10%.",
+   "name": "Sharp Beak",
+   "gen": "xy"
+  },
+  {
+   "alias": "shed_shell",
+   "description": "Allows holder to switch out even when trapped.",
+   "name": "Shed Shell",
+   "gen": "xy"
+  },
+  {
+   "alias": "shell_bell",
+   "description": "Heals this Pokemon for 1/8 of the damage it does.",
+   "name": "Shell Bell",
+   "gen": "xy"
+  },
+  {
+   "alias": "shock_drive",
+   "description": "Changes the type of Techno Blast to Electric.",
+   "name": "Shock Drive",
+   "gen": "xy"
+  },
+  {
+   "alias": "shuca_berry",
+   "description": "Reduces damage from a super effective Ground-type attack by 50%. Consumed after use.",
+   "name": "Shuca Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "silk_scarf",
+   "description": "Raises power of Normal-type moves by 10%.",
+   "name": "Silk Scarf",
+   "gen": "xy"
+  },
+  {
+   "alias": "silverpowder",
+   "description": "Raises power of Bug-type moves by 10%.",
+   "name": "SilverPowder",
+   "gen": "xy"
+  },
+  {
+   "alias": "sitrus_berry",
+   "description": "Restores 1/4 of the max HP when at 1/2 HP or less. One-time use.",
+   "name": "Sitrus Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "sky_plate",
+   "description": "Raises power of Flying-type moves by 20%. Pokemon with Multitype become Flying-type.",
+   "name": "Sky Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "smooth_rock",
+   "description": "Makes Sandstorm and Sand Stream last 8 turns.",
+   "name": "Smooth Rock",
+   "gen": "xy"
+  },
+  {
+   "alias": "snowball",
+   "description": "Raises Attack by 1 stage if hit by an Ice-type attack. Single use.",
+   "name": "Snowball",
+   "gen": "xy"
+  },
+  {
+   "alias": "soft_sand",
+   "description": "Raises power of Ground-type moves by 10%.",
+   "name": "Soft Sand",
+   "gen": "xy"
+  },
+  {
+   "alias": "soul_dew",
+   "description": "Raises Special Attack and Special Defense of Latias and Latios by 50%.",
+   "name": "Soul Dew",
+   "gen": "xy"
+  },
+  {
+   "alias": "spell_tag",
+   "description": "Raises power of Ghost-type moves by 10%.",
+   "name": "Spell Tag",
+   "gen": "xy"
+  },
+  {
+   "alias": "splash_plate",
+   "description": "Raises power of Water-type moves by 20%. Pokemon with Multitype become Water-type.",
+   "name": "Splash Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "spooky_plate",
+   "description": "Raises power of Ghost-type moves by 20%. Pokemon with Multitype become Ghost-type.",
+   "name": "Spooky Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "starf_berry",
+   "description": "Raises a stat by two stages when at 25% HP or less. One-time use.",
+   "name": "Starf Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "steel_gem",
+   "description": "Raises the power of a Steel-type move by 50%. One-time use.",
+   "name": "Steel Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "stick",
+   "description": "Raises Farfetch'd's critical hit ratio by two stages.",
+   "name": "Stick",
+   "gen": "xy"
+  },
+  {
+   "alias": "sticky_barb",
+   "description": "Causes damage to holder and attaches to attacker upon contact.",
+   "name": "Sticky Barb",
+   "gen": "xy"
+  },
+  {
+   "alias": "stone_plate",
+   "description": "Raises base power of Rock-type moves by 20%. Pokemon with Multitype become Rock-type.",
+   "name": "Stone Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "tanga_berry",
+   "description": "Reduces damage from a super effective Bug-type attack by 50%. Consumed after use.",
+   "name": "Tanga Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "thick_club",
+   "description": "Doubles Cubone's and Marowak's Attack.",
+   "name": "Thick Club",
+   "gen": "xy"
+  },
+  {
+   "alias": "toxic_orb",
+   "description": "Badly poisons the holder.",
+   "name": "Toxic Orb",
+   "gen": "xy"
+  },
+  {
+   "alias": "toxic_plate",
+   "description": "Raises power of Poison-type moves by 20%. Pokemon with Multitype become Poison-type.",
+   "name": "Toxic Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "twistedspoon",
+   "description": "Raises power of Psychic moves by 10%.",
+   "name": "TwistedSpoon",
+   "gen": "xy"
+  },
+  {
+   "alias": "tyranitarite",
+   "description": "Mega-evolves Tyranitar.",
+   "name": "Tyranitarite",
+   "gen": "xy"
+  },
+  {
+   "alias": "venusaurite",
+   "description": "Mega-evolves Venusaur.",
+   "name": "Venusaurite",
+   "gen": "xy"
+  },
+  {
+   "alias": "wacan_berry",
+   "description": "Reduces damage from a super effective Electric-type attack by 50%. Consumed after use.",
+   "name": "Wacan Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "water_gem",
+   "description": "Raises the power of a Water-type move by 50%. One-time use.",
+   "name": "Water Gem",
+   "gen": "xy"
+  },
+  {
+   "alias": "water_stone",
+   "description": "Evolves Eevee, Poliwhirl, Shellder, and Staryu.",
+   "name": "Water Stone",
+   "gen": "xy"
+  },
+  {
+   "alias": "wave_incense",
+   "description": "Raises power of Water-type moves by 20%.",
+   "name": "Wave Incense",
+   "gen": "xy"
+  },
+  {
+   "alias": "weakness_policy",
+   "description": "Attack and Special Attack sharply increase when hit super effectively. Single use.",
+   "name": "Weakness Policy",
+   "gen": "xy"
+  },
+  {
+   "alias": "white_herb",
+   "description": "Removes stat decreases. One-time use.",
+   "name": "White Herb",
+   "gen": "xy"
+  },
+  {
+   "alias": "wide_lens",
+   "description": "Raises accuracy by 10%.",
+   "name": "Wide Lens",
+   "gen": "xy"
+  },
+  {
+   "alias": "wiki_berry",
+   "description": "Restores 1/8 of max HP when at 50% of max HP or less. One-time use.",
+   "name": "Wiki Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "wise_glasses",
+   "description": "Raises damage from special moves by 10%.",
+   "name": "Wise Glasses",
+   "gen": "xy"
+  },
+  {
+   "alias": "yache_berry",
+   "description": "Reduces damage from a super effective Ice-type attack by 50%. Consumed after use.",
+   "name": "Yache Berry",
+   "gen": "xy"
+  },
+  {
+   "alias": "zap_plate",
+   "description": "Raises power of Electric moves by 20%. Pokemon with Multitype become Electric-type.",
+   "name": "Zap Plate",
+   "gen": "xy"
+  },
+  {
+   "alias": "zoom_lens",
+   "description": "Raises accuracy by 20% if the holder moves after the target.",
+   "name": "Zoom Lens",
+   "gen": "xy"
+  }
+ ]
+}
