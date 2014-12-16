@@ -25,6 +25,7 @@ import android.widget.TextView;
 import com.github.chessdork.pokedex.ui.DisplayAbilitiesFragment;
 import com.github.chessdork.pokedex.ui.DisplayDexFragment;
 import com.github.chessdork.pokedex.ui.DisplayItemsFragment;
+import com.github.chessdork.pokedex.ui.DisplayMachinesFragment;
 import com.github.chessdork.pokedex.ui.DisplayMovesFragment;
 import com.github.chessdork.pokedex.ui.DisplayNaturesFragment;
 import com.github.chessdork.pokedex.ui.DisplayTypesFragment;
@@ -124,7 +125,8 @@ public class MainActivity extends ActionBarActivity {
      */
     private enum Category {
         POKEMON(R.drawable.ic_drawer_pkball, "Pokémon"),
-        TYPES(R.drawable.ic_drawer_types, "Types"),
+        TYPES(R.drawable.ic_drawer_types, "Type Chart"),
+        MACHINES(0, "TMs/HMs"),
         MOVES(R.drawable.ic_drawer_moves, "Moves"),
         ABILITIES(R.drawable.ic_drawer_abilities, "Abilities"),
         ITEMS(R.drawable.ic_drawer_items, "Items"),
@@ -227,6 +229,9 @@ public class MainActivity extends ActionBarActivity {
                     break;
                 case ITEMS:
                     handleClick(new DisplayItemsFragment());
+                    break;
+                case MACHINES:
+                    handleClick(new DisplayMachinesFragment());
                     break;
                 default:
             }

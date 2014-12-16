@@ -32,7 +32,6 @@ public class DisplayAbilitiesFragment extends SearchableFragment {
         Cursor c = db.getReadableDatabase().query("abilities", new String[] {"id, name, description"}, null, null, null, null, null);
 
         List<Ability> abilities = new ArrayList<>();
-        c.moveToFirst();
 
         while (c.moveToNext()) {
             abilities.add(new Ability(c));

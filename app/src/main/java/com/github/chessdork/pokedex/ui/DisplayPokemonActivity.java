@@ -69,8 +69,9 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        mTask = new ParseMovesetTask().execute(mPokemon.getBaseAlias());
+        //mTask = new ParseMovesetTask().execute(mPokemon.getBaseAlias());
         setupStaticUi();
+        setupListView();
     }
 
     /**
@@ -112,12 +113,11 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         List<Ability> abilities = new ArrayList<>();
 
         PokeDatabase db = PokeDatabase.getInstance(this);
-        // TODO this does not work for megas.  Maybe because of hyphen vs. dash
         Cursor c = db.getReadableDatabase().rawQuery("select abilities.id, abilities.name, abilities.description from pokemon_abilities join abilities on abilities.id = ability_id join pokemon on pokemon.id = pokemon_id where pokemon.name=?", new String[] {mPokemon.getName()});
-        c.moveToFirst();
         while (c.moveToNext()) {
             abilities.add(new Ability(c));
         }
+        c.close();
         listView.setAdapter(new DisplayAbilitiesFragment.AbilitiesAdapter(this, abilities));
         listView.setEmptyView(findViewById(R.id.empty_text));
 
