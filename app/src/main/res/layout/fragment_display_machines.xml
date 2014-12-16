@@ -7,12 +7,11 @@
     <ListView
         android:id="@+id/listview"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:listSelector="@android:color/transparent"/>
+        android:layout_height="wrap_content"/>
 
     <TextView
         android:id="@+id/empty_text"
         style="@style/EmptyListViewText"
-        android:text="@string/empty_items"/>
+        android:text="@string/empty_machines_text"/>
 
 </FrameLayout>

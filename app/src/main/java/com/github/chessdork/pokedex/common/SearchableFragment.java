@@ -1,7 +1,7 @@
 package com.github.chessdork.pokedex.common;
 
 
-import android.app.Fragment;
+import android.support.v4.app.Fragment;
 import android.content.Context;
 import android.os.Bundle;
 import android.support.v4.view.MenuItemCompat;
@@ -20,7 +20,7 @@ import com.github.chessdork.pokedex.R;
  * Subclasses should use setAdapter() to use the default SearchView handling.
  */
 public class SearchableFragment extends Fragment {
-    private String TAG = getClass().getSimpleName();
+    private static final String TAG = SearchableFragment.class.getSimpleName();
 
     private FilterableAdapter adapter;
     private String queryHint = "";

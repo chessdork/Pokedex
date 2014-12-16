@@ -1,7 +1,7 @@
 package com.github.chessdork.pokedex;
 
-import android.app.Fragment;
-import android.app.FragmentManager;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
 import android.content.Context;
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -48,12 +48,12 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
 
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         mDrawerToggle = new ActionBarDrawerToggle(this, mDrawerLayout, toolbar, R.string.app_name, R.string.app_name) {
             @Override
             public void onDrawerOpened(View drawerView) {
+                mDrawerToggle.setDrawerIndicatorEnabled(true);
                 if (!userLearnedDrawer) {
                     // The user manually opened the drawer; store this flag to prevent auto-showing
                     // the navigation drawer automatically in the future.
@@ -64,8 +64,18 @@ public class MainActivity extends ActionBarActivity {
                     Log.d(LOG_TAG, "No longer opening drawers automatically on startup");
                 }
             }
+
+            @Override
+            public void onDrawerClosed(View drawerView) {
+                updateNavDrawer();
+            }
         };
         mDrawerLayout.setDrawerListener(mDrawerToggle);
+        ActionBarDrawerToggle.Delegate delegate = getV7DrawerToggleDelegate();
+        if (delegate != null) {
+            mDrawerToggle.setHomeAsUpIndicator(delegate.getThemeUpIndicator());
+        }
+        setSupportActionBar(toolbar);
 
         ListView mDrawerList = (ListView) findViewById(R.id.left_drawer);
 
@@ -82,9 +92,11 @@ public class MainActivity extends ActionBarActivity {
             mDrawerLayout.openDrawer(Gravity.START);
         }
 
+        getSupportFragmentManager().addOnBackStackChangedListener(new BackStackListener());
+
         if (savedInstanceState == null) {
             currentCategory = Category.POKEMON;
-            getFragmentManager().beginTransaction()
+            getSupportFragmentManager().beginTransaction()
                     .add(R.id.content_frame, new DisplayDexFragment())
                     .commit();
         }
@@ -113,11 +125,22 @@ public class MainActivity extends ActionBarActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        //int id = item.getItemId();
-        return mDrawerToggle.onOptionsItemSelected(item) || super.onOptionsItemSelected(item);
+        switch (item.getItemId()) {
+            case android.R.id.home:
+                if (mDrawerToggle.isDrawerIndicatorEnabled()) {
+                    return mDrawerToggle.onOptionsItemSelected(item);
+                } else {
+                    onBackPressed();
+                    return true;
+                }
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+    private void updateNavDrawer() {
+        int backStackEntryCount = getSupportFragmentManager().getBackStackEntryCount();
+        mDrawerToggle.setDrawerIndicatorEnabled(backStackEntryCount == 0);
     }
 
     /**
@@ -147,6 +170,14 @@ public class MainActivity extends ActionBarActivity {
 
         public String getName() {
             return name;
+        }
+    }
+
+
+    private class BackStackListener implements FragmentManager.OnBackStackChangedListener {
+        @Override
+        public void onBackStackChanged() {
+            updateNavDrawer();
         }
     }
 
@@ -238,9 +269,9 @@ public class MainActivity extends ActionBarActivity {
         }
 
         private void handleClick(Fragment fragment) {
-            FragmentManager fm = getFragmentManager();
+            FragmentManager fm = getSupportFragmentManager();
             // clear the back stack for top-level navigation
-            fm.popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
+            //fm.popBackStack(null, FragmentManager.POP_BACK_STACK_INCLUSIVE);
             fm.beginTransaction()
                     .replace(R.id.content_frame, fragment)
                     .commit();

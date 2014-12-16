@@ -1,8 +1,9 @@
 package com.github.chessdork.pokedex.models;
 
 
+import java.io.Serializable;
 
-public class Machine {
+public class Machine implements Serializable{
     private final String name, move, location;
 
     public Machine(String name, String move, String location) {
@@ -22,5 +23,7 @@ public class Machine {
     public String getLocation() {
         return location;
     }
+
+    public String toString() { return name; }
 
 }
