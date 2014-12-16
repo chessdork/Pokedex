@@ -41,5 +41,9 @@
     <string name="cannot_dmg">Can\'t damage</string>
     <string name="empty_natures">No natures found.</string>
     <string name="abilities_descriptor">Abilities</string>
+    <string name="empty_machine_text">No TMs/HMs found.</string>
+    <string name="title_activity_display_machine">DisplayMachineActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 
 </resources>

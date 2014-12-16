@@ -2,11 +2,13 @@ package com.github.chessdork.pokedex.ui;
 
 
 import android.content.Context;
+import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -42,14 +44,28 @@ public class DisplayMachinesFragment extends SearchableFragment {
 
         MachineAdapter adapter = new MachineAdapter(getActivity(), machines);
         setFilterableAdapter(adapter);
-        setQueryHint("Search machines");
+        setQueryHint("Search TMs/HMs");
 
         ListView listView = (ListView) view.findViewById(R.id.listview);
         listView.setAdapter(adapter);
         listView.setEmptyView(view.findViewById(R.id.empty_text));
+        listView.setOnItemClickListener(new MachineItemClickListener());
 
         return view;
     }
+
+    /**
+    * Starts DisplayMachineActivity on click.
+    */
+    private class MachineItemClickListener implements AdapterView.OnItemClickListener {
+        @Override
+        public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
+            hideSoftKeyboard();
+            Machine machine = (Machine) adapterView.getItemAtPosition(pos);
+            Intent intent = new Intent(getActivity(), DisplayMachineActivity.class);
+            startActivity(intent);
+            }
+        }
 
     private static final class MachineAdapter extends FilterableAdapter<Machine> {
         public MachineAdapter(Context context, List<Machine> machines) {

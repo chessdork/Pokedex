@@ -23,4 +23,8 @@ public class Machine {
         return location;
     }
 
+    public String toString() {
+        return name;
+    }
+
 }
