@@ -14,8 +14,8 @@ def create_gens(cursor):
                    ');')
 
     # add a few entries
-    cursor.execute('insert or ignore into gens(id, name)'
-              'values (NULL, "xy");')
+    cursor.execute('insert or ignore into gens(name)'
+              'values ("xy"), ("oras");')
 
 def create_abilities(cursor):
     abilities = '../data/abilities.json'
@@ -81,6 +81,9 @@ def create_items(cursor):
                    'move_id integer not null, '
                    'location text not null, '
                    'gen_id integer not null, '
+                   'youtube_id text, '
+                   'start_time integer, '
+                   'end_time integer, '
                    'foreign key(gen_id) references gens(id), '
                    'foreign key(move_id) references moves(id)'
                    ');')
@@ -94,6 +97,9 @@ def create_items(cursor):
             move = m[1]
             location = m[2]
             gen = m[3]
+            youtube_id = m[4]
+            start_time = m[5]
+            end_time = m[6]
 
             cursor.execute('select id from moves where name=?', (move,))
             move_id = cursor.fetchone()[0]
@@ -101,10 +107,10 @@ def create_items(cursor):
             cursor.execute('select id from gens where name=?', (gen,))
             gen_id = cursor.fetchone()[0]
 
-            values = (name, move_id, location, gen_id)
+            values = (name, move_id, location, gen_id, youtube_id, start_time, end_time)
             cursor.execute('insert or ignore into machines('
-                           'name, move_id, location, gen_id)'
-                           'values (?,?,?,?);', values)
+                           'name, move_id, location, gen_id, youtube_id, start_time, end_time)'
+                           'values (?,?,?,?,?,?,?);', values)
     
 def create_moves(cursor):
     moves = '../data/moves.csv'

@@ -134,6 +134,14 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
 
+    <!-- Display Machine Activity -->
+
+    <style name="LocationDescriptorText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
     <!-- Display Types Fragment -->
 
     <style name="Matchups">

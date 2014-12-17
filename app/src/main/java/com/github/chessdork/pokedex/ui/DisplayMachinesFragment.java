@@ -40,7 +40,7 @@ public class DisplayMachinesFragment extends SearchableFragment {
                        "join types on type_id = types.id " +
                        "join gens on gen_id = gens.id " +
                        "where gens.name =?";
-        Cursor c = db.getReadableDatabase().rawQuery(query, new String[] {"xy"});
+        Cursor c = db.getReadableDatabase().rawQuery(query, new String[] {"oras"});
 
         List<Machine> machines = new ArrayList<>();
 
@@ -71,9 +71,10 @@ public class DisplayMachinesFragment extends SearchableFragment {
             Machine machine = (Machine) adapterView.getItemAtPosition(pos);
             Intent intent = new Intent(getActivity(), DisplayMachineActivity.class);
             intent.putExtra(DisplayMachineActivity.MACHINE_NAME, machine.getName());
+            intent.putExtra(DisplayMachineActivity.GEN_NAME, "oras");
             startActivity(intent);
-            }
         }
+    }
 
     private static final class MachineAdapter extends FilterableAdapter<Machine> {
         public MachineAdapter(Context context, List<Machine> machines) {

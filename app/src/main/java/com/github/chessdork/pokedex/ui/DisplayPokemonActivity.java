@@ -9,7 +9,6 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -17,22 +16,12 @@ import android.view.ViewGroup;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.github.chessdork.pokedex.Moveset;
 import com.github.chessdork.pokedex.R;
 import com.github.chessdork.pokedex.common.PokeDatabase;
 import com.github.chessdork.pokedex.models.Ability;
-import com.github.chessdork.pokedex.models.Move;
 import com.github.chessdork.pokedex.models.Pokemon;
 import com.github.chessdork.pokedex.models.PokemonType;
 
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -54,8 +43,6 @@ public class DisplayPokemonActivity extends ActionBarActivity {
     // if the activity is stopped before the moveset parsing finishes, we should kill the AsyncTask
     // since the result is no longer useful.
     private AsyncTask mTask;
-    private List<Moveset> mMoveSets;
-    private List<Move> mMoves;
     private Pokemon mPokemon;
     private boolean statBarsSetup = false;
 
@@ -69,7 +56,6 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        //mTask = new ParseMovesetTask().execute(mPokemon.getBaseAlias());
         setupStaticUi();
         setupListView();
     }
@@ -148,13 +134,6 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         if (mTask != null && mTask.getStatus() != AsyncTask.Status.FINISHED) {
             mTask.cancel(true);
             mTask = null;
-        }
-    }
-
-    private void setData(MovesetWrapper wrapper) {
-        if (wrapper != null) {
-            mMoves = wrapper.moves;
-            mMoveSets = wrapper.movesets;
         }
     }
 
@@ -279,72 +258,5 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         int g = Math.min(2 * n, 255);
         int b = (int) Math.floor(4.25 * Math.min(Math.max(stat - 140, 0), 60));
         return Color.rgb(r, g, b);
-    }
-
-    private static class MovesetWrapper {
-        List<Moveset> movesets;
-        List<Move> moves;
-    }
-
-    private class ParseMovesetTask extends AsyncTask<String, Void, MovesetWrapper> {
-
-        @Override
-        protected MovesetWrapper doInBackground(String... strings) {
-            final String alias = strings[0];
-            long start = System.currentTimeMillis();
-            Log.d("Pokemon", "Starting moveset parsing for " + alias + "...");
-            try {
-                InputStream is = getAssets().open("movesets/" + alias + ".json");
-                BufferedReader br = new BufferedReader(new InputStreamReader(is));
-
-                StringBuilder text = new StringBuilder();
-                String line;
-                while ((line = br.readLine()) != null) {
-                    text.append(line);
-                }
-
-                JSONObject jsonObject = new JSONObject(text.toString());
-                JSONArray results = jsonObject.getJSONArray("result");
-                int length = results.length();
-
-                if (length != 1) {
-                    Log.i("Moveset", "results array size is " + length + " for " + alias);
-                }
-                JSONArray movesetArray = results.getJSONObject(0).getJSONArray("movesets");
-                List<Moveset> movesets = new ArrayList<>();
-                for (int i = 0; i < movesetArray.length(); i++) {
-                    Moveset moveset = Moveset.parseMoveset(movesetArray.getJSONObject(i));
-                    if (moveset != null) {
-                        movesets.add(moveset);
-                    }
-                }
-
-                JSONArray moveArray = results.getJSONObject(0).getJSONArray("moves");
-                List<Move> moves = new ArrayList<>();
-                for (int i = 0; i < moveArray.length(); i++) {
-                    Move move = Move.valueOf(moveArray.getJSONObject(i).getString("alias").replaceAll("-","_").toUpperCase());
-                    moves.add(move);
-                }
-
-                MovesetWrapper wrapper = new MovesetWrapper();
-                wrapper.movesets = movesets;
-                wrapper.moves = moves;
-
-                long elapsed = System.currentTimeMillis() - start;
-                Log.d("Pokemon", "Finished moveset parsing for " + alias + " in " + elapsed + " ms");
-                return wrapper;
-            } catch (IOException | JSONException e) {
-                e.printStackTrace();
-                return null;
-            }
-        }
-
-        @Override
-        protected void onPostExecute(MovesetWrapper wrapper) {
-            if (wrapper != null) {
-                setData(wrapper);
-            }
-            setupListView();
-        }
     }
 }

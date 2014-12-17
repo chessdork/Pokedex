@@ -1,106 +1,213 @@
-name,move,location,gen,youtube_id
-TM01,Hone Claws,Route 5,xy,J8kdLhO_xf0
-TM02,Dragon Claw,Victory Road,xy,bi9pDGWAKsw
-TM03,Psyshock,Victory Road,xy,ZLs8ya1eRfo
-TM04,Calm Mind,Anistar City Gym,xy,
-TM05,Roar,Battle Maison Prize,xy,
-TM06,Toxic,Route 14,xy,Mil7qzVu1so
-TM07,Hail,Shalour City PokeMart,xy,
-TM08,Bulk Up,Snowbelle City,xy,9Suq61lJeaI
-TM09,Venoshock,Route 6,xy,4lunnFsn_q0
-TM10,Hidden Power,Anistar City,xy,4Ja1S3zoIW4
-TM11,Sunny Day,Lumiose City PokeMart,xy,
-TM12,Taunt,Lysandre Labs,xy,nJwk-LO297U
-TM13,Ice Beam,Snowbelle City Gym,xy,
-TM14,Blizzard,Anistar City Poke Mart,xy,
-TM15,Hyper Beam,Anistar City Poke Mart,xy,
-TM16,Light Screen,Kiloude City PokeMart,xy,
-TM17,Protect,Parfum Palace,xy,
-TM18,Rain Dance,Lumiose City PokeMart,xy,
-TM19,Roost,Route 8,xy,OLl1H8LorJQ
-TM20,Safeguard,Shalour City PokeMart,xy,
-TM21,Frustration,Connecting Cave,xy,cGhD264e1JM
-TM22,Solar Beam,Route 21,xy,8HF1zO2WPQI
-TM23,Smack Down,Battle Maison Prize,xy,
-TM24,Thunderbolt,Lumiose City Gym,xy,
-TM25,Thunder,Anistar City PokeMart,xy,
-TM26,Earthquake,Route 22,xy,XdTamPd2Kc8
-TM27,Return,Route 4,xy,
-TM28,Dig,Shalour City PokeMart,xy,
-TM29,Psychic,Pokemon Village,xy,GTKxtks2gtk
-TM30,Shadow Ball,Terminus Cave,xy,
-TM31,Brick Break,Terminus Cave,xy,
-TM32,Double Team,Anistar City Pokemon Center (9am),xy,
-TM33,Reflect,Kiloude City PokeMart,xy,
-TM34,Sludge Wave,Battle Maison Prize,xy,
-TM35,Flamethrower,Anistar City Pokemon Center,xy,
-TM36,Sludge Bomb,Route 19,xy,
-TM37,Sandstorm,Shalour City PokeMart,xy,
-TM38,Fire Blast,Anistar City Poke Mart,xy,
-TM39,Rock Tomb,Cyllage City Gym,xy,
-TM40,Aerial Ace,Connecting Cave,xy,
-TM41,Torment,Laverre City,xy,
-TM42,Facade,Dendimelle Town,xy,
-TM43,Flame Charge,Kalos Power Plant,xy,
-TM44,Rest,Cyllage City,xy,
-TM45,Attract,Route 12,xy,
-TM46,Thief,Camphier Town,xy,
-TM47,Low Sweep,Tower of Mastery,xy,
-TM48,Round,Battle Maison Prize,xy,
-TM49,Echoed Voice,Lumiose City North Boulevard - Hotel Richisseme,xy,
-TM50,Overheat,Kiloude City Poke Mart,xy,
-TM51,Steel Wing,Battle Maison Prize,xy,
-TM52,Focus Blast,Anistar City Poke Mart,xy,
-TM53,Energy Ball,Route 20,xy,
-TM54,False Swipe,Lumiose City,xy,
-TM55,Scald,Couriway Town,xy,
-TM56,Fling,Lost Hotel,xy,
-TM57,Charge Beam,Route 13,xy,
-TM58,Sky Drop,Kiloude City,xy,
-TM59,Incinerate,Battle Maison Prize,xy,
-TM60,Quash,Battle Maison Prize,xy,
-TM61,Will-O-Wisp,Route 14,xy,
-TM62,Acrobatics,Coumarine City,xy,
-TM63,Embargo,Coumarine City,xy,
-TM64,Explosion,Battle Maison Prize,xy,
-TM65,Shadow Claw,Glittering Cave,xy,
-TM66,Payback,Geosenge Town,xy,
-TM67,Retaliate,Battle Maison Prize,xy,
-TM68,Giga Impact,Kiloude City PokeMart,xy,
-TM69,Rock Polish,Route 11,xy,
-TM70,Flash,Reflection Cave,xy,
-TM71,Stone Edge,Frost Cavern,xy,
-TM72,Volt Switch,Battle Maison Prize,xy,
-TM73,Thunder Wave,Route 10,xy,
-TM74,Gyro Ball,Reflection Cave,xy,
-TM75,Swords Dance,Lumiose City PokeMart,xy,
-TM76,Struggle Bug,Lumiose City PokeMart,xy,
-TM77,Psych Up,Anistar City PokeMart 7pm,xy,
-TM78,Bulldoze,Lumiose City PokeMart,xy,
-TM79,Frost Breath,Frost Cavern,xy,
-TM80,Rock Slide,Couriway Town,xy,
-TM81,X-Scissor,Azure Bay,xy,
-TM82,Dragon Tail,Lumiose City Museum,xy,
-TM83,Infestation,Santalune City Gym,xy,
-TM84,Poison Jab,Shalour City PokeMart,xy,
-TM85,Dream Eater,Battle Maison Prize,xy,
-TM86,Grass Knot,Coumarine City Gym,xy,
-TM87,Swagger,Battle Maison Prize,xy,
-TM88,Sleep Talk,Random hotel,xy,
-TM89,U-turn,Couriway Town,xy,
-TM90,Substitute,Anistar City Pokemon Center,xy,
-TM91,Flash Cannon,Kiloude City,xy,
-TM92,Trick Room,Coumarine City,xy,
-TM93,Wild Charge,Kiloude City PokeMart,xy,
-TM94,Rock Smash,Ambrette Town,xy,
-TM95,Snarl,Lost Hotel,xy,
-TM96,Nature Power,Ambrette Town Hotel,xy,
-TM97,Dark Pulse,Route 16,xy,
-TM98,Power-Up Punch,Shalour City Gym,xy,
-TM99,Dazzling Gleam,Laverre City Gym,xy,
-TM100,Confide,Coumarine City,xy,
-HM01,Cut,Parfum Palace - In Maze,xy,
-HM02,Fly,Coumarine City - From Professor Sycamore,xy,
-HM03,Surf,Shalour City - From Calem/Serena,xy,
-HM04,Strength,Cyllage City - From Grant,xy,
-HM05,Waterfall,Route 19 - From Shauna,xy,
+name,move,location,gen,youtube_id,start_time,end_time
+TM01,Hone Claws,Route 5,xy,J8kdLhO_xf0,,
+TM02,Dragon Claw,Victory Road,xy,bi9pDGWAKsw,,
+TM03,Psyshock,Victory Road,xy,ZLs8ya1eRfo,,
+TM04,Calm Mind,Anistar City Gym,xy,,,
+TM05,Roar,Battle Maison Prize,xy,,,
+TM06,Toxic,Route 14,xy,Mil7qzVu1so,,
+TM07,Hail,Shalour City PokeMart,xy,,,
+TM08,Bulk Up,Snowbelle City,xy,9Suq61lJeaI,,
+TM09,Venoshock,Route 6,xy,4lunnFsn_q0,,
+TM10,Hidden Power,Anistar City,xy,4Ja1S3zoIW4,,
+TM11,Sunny Day,Lumiose City PokeMart,xy,,,
+TM12,Taunt,Lysandre Labs,xy,nJwk-LO297U,,
+TM13,Ice Beam,Snowbelle City Gym,xy,,,
+TM14,Blizzard,Anistar City Poke Mart,xy,,,
+TM15,Hyper Beam,Anistar City Poke Mart,xy,,,
+TM16,Light Screen,Kiloude City PokeMart,xy,,,
+TM17,Protect,Parfum Palace,xy,,,
+TM18,Rain Dance,Lumiose City PokeMart,xy,,,
+TM19,Roost,Route 8,xy,OLl1H8LorJQ,,
+TM20,Safeguard,Shalour City PokeMart,xy,,,
+TM21,Frustration,Connecting Cave,xy,cGhD264e1JM,,
+TM22,Solar Beam,Route 21,xy,8HF1zO2WPQI,,
+TM23,Smack Down,Battle Maison Prize,xy,,,
+TM24,Thunderbolt,Lumiose City Gym,xy,,,
+TM25,Thunder,Anistar City PokeMart,xy,,,
+TM26,Earthquake,Route 22,xy,XdTamPd2Kc8,,
+TM27,Return,Route 4,xy,,,
+TM28,Dig,Shalour City PokeMart,xy,,,
+TM29,Psychic,Pokemon Village,xy,GTKxtks2gtk,,
+TM30,Shadow Ball,Terminus Cave,xy,,,
+TM31,Brick Break,Terminus Cave,xy,,,
+TM32,Double Team,Anistar City Pokemon Center (9am),xy,,,
+TM33,Reflect,Kiloude City PokeMart,xy,,,
+TM34,Sludge Wave,Battle Maison Prize,xy,,,
+TM35,Flamethrower,Anistar City Pokemon Center,xy,,,
+TM36,Sludge Bomb,Route 19,xy,,,
+TM37,Sandstorm,Shalour City PokeMart,xy,,,
+TM38,Fire Blast,Anistar City Poke Mart,xy,,,
+TM39,Rock Tomb,Cyllage City Gym,xy,,,
+TM40,Aerial Ace,Connecting Cave,xy,,,
+TM41,Torment,Laverre City,xy,,,
+TM42,Facade,Dendimelle Town,xy,,,
+TM43,Flame Charge,Kalos Power Plant,xy,,,
+TM44,Rest,Cyllage City,xy,,,
+TM45,Attract,Route 12,xy,,,
+TM46,Thief,Camphier Town,xy,,,
+TM47,Low Sweep,Tower of Mastery,xy,,,
+TM48,Round,Battle Maison Prize,xy,,,
+TM49,Echoed Voice,Lumiose City North Boulevard - Hotel Richisseme,xy,,,
+TM50,Overheat,Kiloude City Poke Mart,xy,,,
+TM51,Steel Wing,Battle Maison Prize,xy,,,
+TM52,Focus Blast,Anistar City Poke Mart,xy,,,
+TM53,Energy Ball,Route 20,xy,,,
+TM54,False Swipe,Lumiose City,xy,,,
+TM55,Scald,Couriway Town,xy,,,
+TM56,Fling,Lost Hotel,xy,,,
+TM57,Charge Beam,Route 13,xy,,,
+TM58,Sky Drop,Kiloude City,xy,,,
+TM59,Incinerate,Battle Maison Prize,xy,,,
+TM60,Quash,Battle Maison Prize,xy,,,
+TM61,Will-O-Wisp,Route 14,xy,,,
+TM62,Acrobatics,Coumarine City,xy,,,
+TM63,Embargo,Coumarine City,xy,,,
+TM64,Explosion,Battle Maison Prize,xy,,,
+TM65,Shadow Claw,Glittering Cave,xy,,,
+TM66,Payback,Geosenge Town,xy,,,
+TM67,Retaliate,Battle Maison Prize,xy,,,
+TM68,Giga Impact,Kiloude City PokeMart,xy,,,
+TM69,Rock Polish,Route 11,xy,,,
+TM70,Flash,Reflection Cave,xy,,,
+TM71,Stone Edge,Frost Cavern,xy,,,
+TM72,Volt Switch,Battle Maison Prize,xy,,,
+TM73,Thunder Wave,Route 10,xy,,,
+TM74,Gyro Ball,Reflection Cave,xy,,,
+TM75,Swords Dance,Lumiose City PokeMart,xy,,,
+TM76,Struggle Bug,Lumiose City PokeMart,xy,,,
+TM77,Psych Up,Anistar City PokeMart 7pm,xy,,,
+TM78,Bulldoze,Lumiose City PokeMart,xy,,,
+TM79,Frost Breath,Frost Cavern,xy,,,
+TM80,Rock Slide,Couriway Town,xy,,,
+TM81,X-Scissor,Azure Bay,xy,,,
+TM82,Dragon Tail,Lumiose City Museum,xy,,,
+TM83,Infestation,Santalune City Gym,xy,,,
+TM84,Poison Jab,Shalour City PokeMart,xy,,,
+TM85,Dream Eater,Battle Maison Prize,xy,,,
+TM86,Grass Knot,Coumarine City Gym,xy,,,
+TM87,Swagger,Battle Maison Prize,xy,,,
+TM88,Sleep Talk,Random hotel,xy,,,
+TM89,U-turn,Couriway Town,xy,,,
+TM90,Substitute,Anistar City Pokemon Center,xy,,,
+TM91,Flash Cannon,Kiloude City,xy,,,
+TM92,Trick Room,Coumarine City,xy,,,
+TM93,Wild Charge,Kiloude City PokeMart,xy,,,
+TM94,Rock Smash,Ambrette Town,xy,,,
+TM95,Snarl,Lost Hotel,xy,,,
+TM96,Nature Power,Ambrette Town Hotel,xy,,,
+TM97,Dark Pulse,Route 16,xy,,,
+TM98,Power-Up Punch,Shalour City Gym,xy,,,
+TM99,Dazzling Gleam,Laverre City Gym,xy,,,
+TM100,Confide,Coumarine City,xy,,,
+HM01,Cut,Parfum Palace - In Maze,xy,,,
+HM02,Fly,Coumarine City - From Professor Sycamore,xy,,,
+HM03,Surf,Shalour City - From Calem/Serena,xy,,,
+HM04,Strength,Cyllage City - From Grant,xy,,,
+HM05,Waterfall,Route 19 - From Shauna,xy,,,
+TM01,Hone Claws,Slateport City - TM Salesman,oras,MQW8uQATvO0,0:54,1:08
+TM02,Dragon Claw,Meteor Falls,oras,MQW8uQATvO0,1:10,2:08
+TM03,Psyshock,Pacifidlog Town,oras,MQW8uQATvO0,2:10,2:28
+TM04,Calm Mind,Mossdeep City Gym,oras,MQW8uQATvO0,2:30,2:37
+TM05,Roar,Route 114,oras,MQW8uQATvO0,2:39,3:01
+TM06,Toxic,Fiery Path,oras,MQW8uQATvO0,3:03,3:37
+TM07,Hail,Shoal Cave,oras,MQW8uQATvO0,3:39,4:25
+TM08,Bulk Up,Dewford Town Gym,oras,MQW8uQATvO0,4:27,4:32
+TM09,Venoshock,Mauville City PokéMart,oras,MQW8uQATvO0,4:33,4:49
+TM10,Hidden Power,Fortree City,oras,MQW8uQATvO0,4:50,5:17
+TM11,Sunny Day,Scorched Slab,oras,MQW8uQATvO0,5:18,5:35
+TM12,Taunt,Route 110 - Trick House,oras,MQW8uQATvO0,5:48,6:45
+TM13,Ice Beam,Sea Mauville,oras,MQW8uQATvO0,6:46,9:07
+TM14,Blizzard,Lilycove City Department Store,oras,MQW8uQATvO0,9:08,9:25
+TM15,Hyper Beam,Lilycove City Department Store,oras,MQW8uQATvO0,9:08,9:25
+TM16,Light Screen,Lilycove City Department Store,oras,MQW8uQATvO0,9:08,9:25
+TM17,Protect,Lilycove City Department Store,oras,MQW8uQATvO0,9:08,9:25
+TM18,Rain Dance,Sea Mauville,oras,MQW8uQATvO0,9:26,9:49
+TM19,Roost,Fortree City Gym,oras,MQW8uQATvO0,9:50,9:55
+TM20,Safeguard,Lilycove City Department Store,oras,MQW8uQATvO0,9:57,10:08
+TM21,Frustration,Pacifidlog Town,oras,MQW8uQATvO0,10:09,10:29
+TM22,Solar Beam,Safari Zone,oras,MQW8uQATvO0,10:31,10:58
+TM23,Smack Down,Fallarbor Town,oras,MQW8uQATvO0,10:59,11:04
+TM24,Thunderbolt,Mauville City (From Wattson after New Mauville mission),oras,MQW8uQATvO0,11:04,13:54
+TM25,Thunder,Lilycove City Department Store,oras,MQW8uQATvO0,13:55,14:02
+TM26,Earthquake,Seafloor Cavern,oras,MQW8uQATvO0,14:03,15:02
+TM27,Return,Pacifidlog Town,oras,MQW8uQATvO0,15:03,15:19
+TM28,Dig,Route 114,oras,MQW8uQATvO0,15:20,15:39
+TM29,Psychic,Ever Grande City,oras,MQW8uQATvO0,15:40,16:29
+TM30,Shadow Ball,Mt. Pyre,oras,MQW8uQATvO0,16:31,16:40
+TM31,Brick Break,Sootopolis City,oras,MQW8uQATvO0,16:41,16:59
+TM32,Double Team,Route 113,oras,MQW8uQATvO0,17:00,17:14
+TM33,Reflect,Lilycove City Department Store,oras,MQW8uQATvO0,17:15,17:21
+TM34,Sludge Wave,Route 132,oras,MQW8uQATvO0,17:22,17:52
+TM35,Flamethrower,Victory Road,oras,MQW8uQATvO0,17:54,18:47
+TM36,Sludge Bomb,Dewford Town,oras,MQW8uQATvO0,18:49,19:03
+TM37,Sandstorm,Route 111,oras,MQW8uQATvO0,19:04,19:26
+TM38,Fire Blast,Lilycove City Department Store,oras,MQW8uQATvO0,19:27,19:31
+TM39,Rock Tomb,Rustboro City Gym,oras,MQW8uQATvO0,19:31,19:35
+TM40,Aerial Ace,Mauville City PokéMart,oras,MQW8uQATvO0,19:36,19:47
+TM41,Torment,Slateport City,oras,MQW8uQATvO0,19:48,20:09
+TM42,Facade,Mauville City PokéMart,oras,MQW8uQATvO0,20:10,20:22
+TM43,Flame Charge,Jagged Pass,oras,MQW8uQATvO0,20:23,20:38
+TM44,Rest,Lilycove City,oras,MQW8uQATvO0,20:39,20:55
+TM45,Attract,Verdanturf Town Contest Hall,oras,MQW8uQATvO0,20:56,20:09
+TM46,Thief,Slateport City,oras,MQW8uQATvO0,21:11,21:37
+TM47,Low Sweep,Mauville City PokéMart,oras,MQW8uQATvO0,21:38,21:48
+TM48,Round,Mauville City Café,oras,MQW8uQATvO0,21:49,22:04
+TM49,Echoed Voice,Route 104 North,oras,MQW8uQATvO0,22:05,22:23
+TM50,Overheat,Lavaridge Town Gym,oras,MQW8uQATvO0,22:24,22:29
+TM51,Steel Wing,Granite Cave,oras,MQW8uQATvO0,22:30,22:35
+TM52,Focus Blast,Lilycove City Department Store,oras,MQW8uQATvO0,22:36,22:40
+TM53,Energy Ball,Safari Zone,oras,MQW8uQATvO0,22:41,23:17
+TM54,False Swipe,Rustboro City,oras,MQW8uQATvO0,23:18,23:33
+TM55,Scald,Seafloor Cavern,oras,MQW8uQATvO0,23:34,24:10
+TM56,Fling,Pacifidlog Town,oras,MQW8uQATvO0,24:12,24:25
+TM57,Charge Beam,Mauville City PokéMart,oras,MQW8uQATvO0,24:26,24:31
+TM58,Sky Drop,Mauville City,oras,MQW8uQATvO0,24:32,24:54
+TM59,Incinerate,Mt. Chimney,oras,MQW8uQATvO0,24:55,25:08
+TM60,Quash,Mossdeep City,oras,MQW8uQATvO0,25:09,25:22
+TM61,Will-O-Wisp,Mt. Pyre,oras,MQW8uQATvO0,25:23,25:39
+TM62,Acrobatics,Route 119,oras,MQW8uQATvO0,25:41,26:21
+TM63,Embargo,SS Tidal,oras,MQW8uQATvO0,26:22,
+TM64,Explosion,Sky Pillar,oras,MQW8uQATvO0,,
+TM65,Shadow Claw,Granite Cave,oras,MQW8uQATvO0,,
+TM66,Payback,Mirage Island,oras,MQW8uQATvO0,,
+TM67,Retaliate,Petalburg City Gym,oras,MQW8uQATvO0,,
+TM68,Giga Impact,Lilycove City Department Store,oras,MQW8uQATvO0,,
+TM69,Rock Polish,Jagged Pass,oras,MQW8uQATvO0,,
+TM70,Flash,Granite Cave,oras,MQW8uQATvO0,,
+TM71,Stone Edge,Lilycove City Department Store,oras,MQW8uQATvO0,,
+TM72,Volt Switch,Mauville City Gym,oras,MQW8uQATvO0,,
+TM73,Thunder Wave,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,,
+TM74,Gyro Ball,Mirage Forest,oras,MQW8uQATvO0,,
+TM75,Swords Dance,Lavaridge Town,oras,MQW8uQATvO0,,
+TM76,Struggle Bug,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,,
+TM77,Psych Up,Route 133,oras,MQW8uQATvO0,,
+TM78,Bulldoze,Mauville City PokéMart,oras,MQW8uQATvO0,,
+TM79,Frost Breath,Shoal Cave,oras,MQW8uQATvO0,,
+TM80,Rock Slide,Route 134,oras,MQW8uQATvO0,,
+TM81,X-Scissor,Victory Road,oras,MQW8uQATvO0,,
+TM82,Dragon Tail,Mauville City PokéMart,oras,MQW8uQATvO0,,
+TM83,Infestation,Sootopolis City,oras,MQW8uQATvO0,,
+TM84,Poison Jab,Mirage Mountain,oras,MQW8uQATvO0,,
+TM85,Dream Eater,Route 121,oras,MQW8uQATvO0,,
+TM86,Grass Knot,Fortree City,oras,MQW8uQATvO0,,
+TM87,Swagger,Battle Resort,oras,MQW8uQATvO0,,
+TM88,Sleep Talk,Lilycove City,oras,MQW8uQATvO0,,
+TM89,U-turn,Mauville City - Mauville Hills Balcony,oras,MQW8uQATvO0,,
+TM90,Substitute,Mirage Island,oras,MQW8uQATvO0,,
+TM91,Flash Cannon,Mirage Island,oras,MQW8uQATvO0,,
+TM92,Trick Room,Route 110 - Trick House,oras,MQW8uQATvO0,,
+TM93,Wild Charge,Safari Zone,oras,MQW8uQATvO0,,
+TM94,Secret Power,Route 111,oras,MQW8uQATvO0,,
+TM95,Snarl,Mirage Cave,oras,MQW8uQATvO0,,
+TM96,Nature Power,Fiery Path - From Aarune,oras,MQW8uQATvO0,,
+TM97,Dark Pulse,Team Magma/Aqua Hideout,oras,MQW8uQATvO0,,
+TM98,Power-Up Punch,Mauville City PokéMart,oras,MQW8uQATvO0,,
+TM99,Dazzling Gleam,Route 123,oras,MQW8uQATvO0,,
+TM100,Confide,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,,
+HM01,Cut,Rustboro City,oras,MQW8uQATvO0,,
+HM02,Fly,Route 119 - From Brendan/May,oras,MQW8uQATvO0,,
+HM03,Surf,Petalburg City - After Beating Gym,oras,MQW8uQATvO0,,
+HM04,Strength,Route 112 - From Brendan/May,oras,MQW8uQATvO0,,
+HM05,Waterfall,Sootopolis City Gym,oras,MQW8uQATvO0,,
+HM06,Rock Smash,Mauville City - From Wally's Uncle,oras,MQW8uQATvO0,,
+HM07,Dive,Mossdeep City,oras,,,
