@@ -179,6 +179,15 @@ public enum PokemonType {
     private static final float[] LEFT_CORNERS = {CORNER_RADIUS, CORNER_RADIUS, 0, 0, 0, 0, CORNER_RADIUS, CORNER_RADIUS};
     private static final float[] RIGHT_CORNERS = {0, 0, CORNER_RADIUS, CORNER_RADIUS, CORNER_RADIUS, CORNER_RADIUS, 0, 0};
 
+    public static GradientDrawable createGradient(int startColor, int endColor, int borderColor) {
+        GradientDrawable gradient = new GradientDrawable(
+                GradientDrawable.Orientation.TOP_BOTTOM, new int[]{startColor, endColor}
+        );
+        gradient.setStroke(BORDER_STROKE, borderColor);
+        gradient.setCornerRadius(CORNER_RADIUS);
+        return gradient;
+    }
+
     public GradientDrawable createGradient() {
         GradientDrawable gradient = new GradientDrawable(
                 GradientDrawable.Orientation.TOP_BOTTOM, new int[]{color1, color2}

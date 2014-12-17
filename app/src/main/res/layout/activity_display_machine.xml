@@ -21,8 +21,25 @@
         android:paddingBottom="@dimen/activity_vertical_margin"
         tools:context="com.github.chessdork.pokedex.ui.DisplayMachineActivity">
 
-        <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
-            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/machine_name"
+            android:layout_marginBottom="10dp"
+            style="@style/NameLarge" />
+
+        <TextView
+            android:id="@+id/move_type"
+            style="@style/TypeText.Large"
+            android:layout_below="@id/machine_name"/>
+
+        <ImageView
+            android:id="@+id/move_category"
+            android:layout_alignBottom="@id/move_type"
+            android:layout_alignTop="@id/move_type"
+            android:layout_toRightOf="@id/move_type"
+            android:layout_toEndOf="@id/move_type"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            style="@style/TypeText.Large"/>
 
     </RelativeLayout>
 </LinearLayout>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -12,9 +13,17 @@
     <TextView
         android:id="@+id/move_name"
         style="@style/ListViewDescriptionText"
-        android:layout_width="0dp"
+        android:layout_width="120dp"
         android:layout_toRightOf="@id/machine_name"
         android:layout_toEndOf="@id/machine_name"
+        android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"/>
+
+    <TextView
+        android:id="@+id/move_location"
+        style="@style/ListViewDescriptionText"
+        android:layout_toRightOf="@id/move_name"
+        android:layout_toEndOf="@id/move_name"
         android:layout_toLeftOf="@id/move_type"
         android:layout_toStartOf="@id/move_type"
         android:layout_marginRight="8dp"

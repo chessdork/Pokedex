@@ -148,7 +148,7 @@ def create_moves(cursor):
             cursor.execute('select id from move_categories where name=?', (move_category,))
             move_category_id = cursor.fetchone()[0]
 
-            values = (name, move_type_id, accuracy, power, pp, move_category, description)
+            values = (name, move_type_id, accuracy, power, pp, move_category_id, description)
             cursor.execute('insert or ignore into moves('
                            'name, type_id, accuracy, power, pp, move_category_id, description)'
                            'values (?,?,?,?,?,?,?);', values)
