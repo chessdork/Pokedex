@@ -37,8 +37,10 @@ public class DisplayMachinesFragment extends SearchableFragment {
                        "from machines " +
                        "join moves on move_id = moves.id " +
                        "join move_categories on move_category_id = move_categories.id " +
-                       "join types on type_id = types.id";
-        Cursor c = db.getReadableDatabase().rawQuery(query, null);
+                       "join types on type_id = types.id " +
+                       "join gens on gen_id = gens.id " +
+                       "where gens.name =?";
+        Cursor c = db.getReadableDatabase().rawQuery(query, new String[] {"xy"});
 
         List<Machine> machines = new ArrayList<>();
 
