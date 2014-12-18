@@ -136,10 +136,19 @@
 
     <!-- Display Machine Activity -->
 
-    <style name="LocationDescriptorText">
+    <style name="DescriptorText">
         <item name="android:textSize">18sp</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="DescriptorText.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="StatDescriptorText.Wide">
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_width">82dp</item>
     </style>
 
     <!-- Display Types Fragment -->

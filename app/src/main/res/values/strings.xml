@@ -48,5 +48,8 @@
     <string name="empty_machines_text">No TMs/HMs found.</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="location_descriptor">Location</string>
+    <string name="power_descriptor">Power:</string>
+    <string name="accuracy_descriptor">Accuracy:</string>
+    <string name="pp_descriptor">PP:</string>
 
 </resources>

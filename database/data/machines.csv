@@ -112,7 +112,7 @@ TM05,Roar,Route 114,oras,MQW8uQATvO0,2:39,3:01
 TM06,Toxic,Fiery Path,oras,MQW8uQATvO0,3:03,3:37
 TM07,Hail,Shoal Cave,oras,MQW8uQATvO0,3:39,4:25
 TM08,Bulk Up,Dewford Town Gym,oras,MQW8uQATvO0,4:27,4:32
-TM09,Venoshock,Mauville City PokéMart,oras,MQW8uQATvO0,4:33,4:49
+TM09,Venoshock,Mauville City PokeMart,oras,MQW8uQATvO0,4:33,4:49
 TM10,Hidden Power,Fortree City,oras,MQW8uQATvO0,4:50,5:17
 TM11,Sunny Day,Scorched Slab,oras,MQW8uQATvO0,5:18,5:35
 TM12,Taunt,Route 110 - Trick House,oras,MQW8uQATvO0,5:48,6:45
@@ -143,15 +143,15 @@ TM36,Sludge Bomb,Dewford Town,oras,MQW8uQATvO0,18:49,19:03
 TM37,Sandstorm,Route 111,oras,MQW8uQATvO0,19:04,19:26
 TM38,Fire Blast,Lilycove City Department Store,oras,MQW8uQATvO0,19:27,19:31
 TM39,Rock Tomb,Rustboro City Gym,oras,MQW8uQATvO0,19:31,19:35
-TM40,Aerial Ace,Mauville City PokéMart,oras,MQW8uQATvO0,19:36,19:47
+TM40,Aerial Ace,Mauville City PokeMart,oras,MQW8uQATvO0,19:36,19:47
 TM41,Torment,Slateport City,oras,MQW8uQATvO0,19:48,20:09
-TM42,Facade,Mauville City PokéMart,oras,MQW8uQATvO0,20:10,20:22
+TM42,Facade,Mauville City PokeMart,oras,MQW8uQATvO0,20:10,20:22
 TM43,Flame Charge,Jagged Pass,oras,MQW8uQATvO0,20:23,20:38
 TM44,Rest,Lilycove City,oras,MQW8uQATvO0,20:39,20:55
 TM45,Attract,Verdanturf Town Contest Hall,oras,MQW8uQATvO0,20:56,20:09
 TM46,Thief,Slateport City,oras,MQW8uQATvO0,21:11,21:37
-TM47,Low Sweep,Mauville City PokéMart,oras,MQW8uQATvO0,21:38,21:48
-TM48,Round,Mauville City Café,oras,MQW8uQATvO0,21:49,22:04
+TM47,Low Sweep,Mauville City PokeMart,oras,MQW8uQATvO0,21:38,21:48
+TM48,Round,Mauville City Cafe,oras,MQW8uQATvO0,21:49,22:04
 TM49,Echoed Voice,Route 104 North,oras,MQW8uQATvO0,22:05,22:23
 TM50,Overheat,Lavaridge Town Gym,oras,MQW8uQATvO0,22:24,22:29
 TM51,Steel Wing,Granite Cave,oras,MQW8uQATvO0,22:30,22:35
@@ -160,54 +160,54 @@ TM53,Energy Ball,Safari Zone,oras,MQW8uQATvO0,22:41,23:17
 TM54,False Swipe,Rustboro City,oras,MQW8uQATvO0,23:18,23:33
 TM55,Scald,Seafloor Cavern,oras,MQW8uQATvO0,23:34,24:10
 TM56,Fling,Pacifidlog Town,oras,MQW8uQATvO0,24:12,24:25
-TM57,Charge Beam,Mauville City PokéMart,oras,MQW8uQATvO0,24:26,24:31
+TM57,Charge Beam,Mauville City PokeMart,oras,MQW8uQATvO0,24:26,24:31
 TM58,Sky Drop,Mauville City,oras,MQW8uQATvO0,24:32,24:54
 TM59,Incinerate,Mt. Chimney,oras,MQW8uQATvO0,24:55,25:08
 TM60,Quash,Mossdeep City,oras,MQW8uQATvO0,25:09,25:22
 TM61,Will-O-Wisp,Mt. Pyre,oras,MQW8uQATvO0,25:23,25:39
 TM62,Acrobatics,Route 119,oras,MQW8uQATvO0,25:41,26:21
-TM63,Embargo,SS Tidal,oras,MQW8uQATvO0,26:22,
-TM64,Explosion,Sky Pillar,oras,MQW8uQATvO0,,
-TM65,Shadow Claw,Granite Cave,oras,MQW8uQATvO0,,
-TM66,Payback,Mirage Island,oras,MQW8uQATvO0,,
-TM67,Retaliate,Petalburg City Gym,oras,MQW8uQATvO0,,
-TM68,Giga Impact,Lilycove City Department Store,oras,MQW8uQATvO0,,
-TM69,Rock Polish,Jagged Pass,oras,MQW8uQATvO0,,
-TM70,Flash,Granite Cave,oras,MQW8uQATvO0,,
-TM71,Stone Edge,Lilycove City Department Store,oras,MQW8uQATvO0,,
-TM72,Volt Switch,Mauville City Gym,oras,MQW8uQATvO0,,
-TM73,Thunder Wave,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,,
-TM74,Gyro Ball,Mirage Forest,oras,MQW8uQATvO0,,
-TM75,Swords Dance,Lavaridge Town,oras,MQW8uQATvO0,,
-TM76,Struggle Bug,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,,
-TM77,Psych Up,Route 133,oras,MQW8uQATvO0,,
-TM78,Bulldoze,Mauville City PokéMart,oras,MQW8uQATvO0,,
-TM79,Frost Breath,Shoal Cave,oras,MQW8uQATvO0,,
-TM80,Rock Slide,Route 134,oras,MQW8uQATvO0,,
-TM81,X-Scissor,Victory Road,oras,MQW8uQATvO0,,
-TM82,Dragon Tail,Mauville City PokéMart,oras,MQW8uQATvO0,,
-TM83,Infestation,Sootopolis City,oras,MQW8uQATvO0,,
-TM84,Poison Jab,Mirage Mountain,oras,MQW8uQATvO0,,
-TM85,Dream Eater,Route 121,oras,MQW8uQATvO0,,
-TM86,Grass Knot,Fortree City,oras,MQW8uQATvO0,,
-TM87,Swagger,Battle Resort,oras,MQW8uQATvO0,,
-TM88,Sleep Talk,Lilycove City,oras,MQW8uQATvO0,,
-TM89,U-turn,Mauville City - Mauville Hills Balcony,oras,MQW8uQATvO0,,
-TM90,Substitute,Mirage Island,oras,MQW8uQATvO0,,
-TM91,Flash Cannon,Mirage Island,oras,MQW8uQATvO0,,
-TM92,Trick Room,Route 110 - Trick House,oras,MQW8uQATvO0,,
-TM93,Wild Charge,Safari Zone,oras,MQW8uQATvO0,,
-TM94,Secret Power,Route 111,oras,MQW8uQATvO0,,
-TM95,Snarl,Mirage Cave,oras,MQW8uQATvO0,,
-TM96,Nature Power,Fiery Path - From Aarune,oras,MQW8uQATvO0,,
-TM97,Dark Pulse,Team Magma/Aqua Hideout,oras,MQW8uQATvO0,,
-TM98,Power-Up Punch,Mauville City PokéMart,oras,MQW8uQATvO0,,
-TM99,Dazzling Gleam,Route 123,oras,MQW8uQATvO0,,
-TM100,Confide,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,,
-HM01,Cut,Rustboro City,oras,MQW8uQATvO0,,
-HM02,Fly,Route 119 - From Brendan/May,oras,MQW8uQATvO0,,
-HM03,Surf,Petalburg City - After Beating Gym,oras,MQW8uQATvO0,,
-HM04,Strength,Route 112 - From Brendan/May,oras,MQW8uQATvO0,,
-HM05,Waterfall,Sootopolis City Gym,oras,MQW8uQATvO0,,
-HM06,Rock Smash,Mauville City - From Wally's Uncle,oras,MQW8uQATvO0,,
+TM63,Embargo,SS Tidal,oras,MQW8uQATvO0,26:22,26:36
+TM64,Explosion,Sky Pillar,oras,MQW8uQATvO0,26:37,26:56
+TM65,Shadow Claw,Granite Cave,oras,MQW8uQATvO0,26:57,27:40
+TM66,Payback,Mirage Island,oras,MQW8uQATvO0,27:45,27:58
+TM67,Retaliate,Petalburg City Gym,oras,MQW8uQATvO0,27:58,28:01
+TM68,Giga Impact,Lilycove City Department Store,oras,MQW8uQATvO0,28:01,28:06
+TM69,Rock Polish,Jagged Pass,oras,MQW8uQATvO0,28:06,28:17
+TM70,Flash,Granite Cave,oras,MQW8uQATvO0,28:18,28:28
+TM71,Stone Edge,Lilycove City Department Store,oras,MQW8uQATvO0,28:29,28:33
+TM72,Volt Switch,Mauville City Gym,oras,MQW8uQATvO0,28:34,28:38
+TM73,Thunder Wave,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,28:39,28:51
+TM74,Gyro Ball,Mirage Forest,oras,MQW8uQATvO0,28:52,29:02
+TM75,Swords Dance,Lavaridge Town,oras,MQW8uQATvO0,29:03,29:20
+TM76,Struggle Bug,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,29:21,29:34
+TM77,Psych Up,Route 133,oras,MQW8uQATvO0,29:38,30:02
+TM78,Bulldoze,Mauville City PokeMart,oras,MQW8uQATvO0,30:03,30:14
+TM79,Frost Breath,Shoal Cave,oras,MQW8uQATvO0,30:15,30:33
+TM80,Rock Slide,Route 134,oras,MQW8uQATvO0,30:34,31:24
+TM81,X-Scissor,Victory Road,oras,MQW8uQATvO0,31:26,32:00
+TM82,Dragon Tail,Mauville City PokeMart,oras,MQW8uQATvO0,32:01,32:12
+TM83,Infestation,Sootopolis City,oras,MQW8uQATvO0,32:13,32:31
+TM84,Poison Jab,Mirage Mountain,oras,MQW8uQATvO0,32:32,32:42
+TM85,Dream Eater,Route 121,oras,MQW8uQATvO0,32:43,33:01
+TM86,Grass Knot,Fortree City,oras,MQW8uQATvO0,33:02,33:23
+TM87,Swagger,Battle Resort,oras,MQW8uQATvO0,33:24,33:39
+TM88,Sleep Talk,Lilycove City,oras,MQW8uQATvO0,33:40,33:58
+TM89,U-turn,Mauville City - Mauville Hills Balcony,oras,MQW8uQATvO0,33:59,34:30
+TM90,Substitute,Mirage Island,oras,MQW8uQATvO0,34:31,34:41
+TM91,Flash Cannon,Mirage Island,oras,MQW8uQATvO0,34:42,35:28
+TM92,Trick Room,Route 110 - Trick House,oras,MQW8uQATvO0,35:30,35:47
+TM93,Wild Charge,Safari Zone,oras,MQW8uQATvO0,35:48,36:20
+TM94,Secret Power,Route 111,oras,MQW8uQATvO0,36:21,36:27
+TM95,Snarl,Mirage Cave,oras,MQW8uQATvO0,36:27,36:41
+TM96,Nature Power,Fiery Path - From Aarune,oras,MQW8uQATvO0,36:42,37:09
+TM97,Dark Pulse,Team Magma/Aqua Hideout,oras,MQW8uQATvO0,37:10,37:38
+TM98,Power-Up Punch,Mauville City PokeMart,oras,MQW8uQATvO0,37:39,37:48
+TM99,Dazzling Gleam,Route 123,oras,MQW8uQATvO0,37:49,37:58
+TM100,Confide,Slateport City - Travelling TM Salesman,oras,MQW8uQATvO0,37:59,38:14
+HM01,Cut,Rustboro City,oras,MQW8uQATvO0,38:15,38:33
+HM02,Fly,Route 119 - From Brendan/May,oras,,,
+HM03,Surf,Petalburg City - After Beating Gym,oras,,,
+HM04,Strength,Route 112 - From Brendan/May,oras,,,
+HM05,Waterfall,Sootopolis City Gym,oras,,,
+HM06,Rock Smash,Mauville City - From Wally's Uncle,oras,,,
 HM07,Dive,Mossdeep City,oras,,,

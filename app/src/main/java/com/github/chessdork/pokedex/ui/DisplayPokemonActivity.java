@@ -112,22 +112,6 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         //findViewById(R.id.new_moveset_button).setVisibility(View.VISIBLE);
     }
 
-    /*private class MovesetOnItemClickerListener implements AdapterView.OnItemClickListener {
-
-        @Override
-        public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
-            Ability ability = (Ability) adapterView.getItemAtPosition(pos);
-
-            AlertDialog.Builder builder = new AlertDialog.Builder(DisplayPokemonActivity.this);
-            builder.setMessage(ability.getDescription())
-                    .setTitle(ability.toString());
-
-            AlertDialog dialog = builder.create();
-            dialog.setCanceledOnTouchOutside(true);
-            dialog.show();
-        }
-    }*/
-
     @Override
     public void onStop() {
         super.onStop();
@@ -247,7 +231,7 @@ public class DisplayPokemonActivity extends ActionBarActivity {
     }
 
     /**
-     * Magic function to get stat colors that match Smogon.
+     * Magic function to get stat colors.
      *
      * @param stat the stat
      * @return the color as an integer
