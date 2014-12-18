@@ -3,14 +3,10 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowAnimationStyle">@null</item>
-        <item name="android:actionBarStyle">@style/ActionBarStyle</item>
 
         <!-- Set AppCompat’s color theme attrs -->
         <item name="colorPrimary">@color/purple</item>
-    </style>
-
-    <style name="ActionBarStyle" parent="android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
-        <item name="android:background">@drawable/purple</item>
+        <item name="android:textColor">#de000000</item>
     </style>
 
     <style name="NameLarge">
