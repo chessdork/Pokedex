@@ -39,7 +39,9 @@
         <activity
             android:name="com.github.chessdork.pokedex.ui.DisplayMachineActivity"
             android:label="@string/app_name"
-            android:parentActivityName="com.github.chessdork.pokedex.MainActivity" >
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:parentActivityName="com.github.chessdork.pokedex.MainActivity"
+            android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.github.chessdork.pokedex.MainActivity" />

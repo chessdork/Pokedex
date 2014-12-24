@@ -1,6 +1,7 @@
 package com.github.chessdork.pokedex.ui;
 
 import android.animation.ValueAnimator;
+import android.content.res.Configuration;
 import android.database.Cursor;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
@@ -15,6 +16,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.ScrollView;
 import android.widget.TextView;
 
 import com.github.chessdork.pokedex.R;
@@ -26,7 +28,9 @@ import com.google.android.youtube.player.YouTubeInitializationResult;
 import com.google.android.youtube.player.YouTubePlayer;
 import com.google.android.youtube.player.YouTubePlayerFragment;
 
-public class DisplayMachineActivity extends ActionBarActivity {
+
+public class DisplayMachineActivity extends ActionBarActivity
+        implements YouTubePlayer.OnInitializedListener, YouTubePlayer.OnFullscreenListener {
 
     public static final String LOG_TAG = DisplayMachineActivity.class.getSimpleName();
 
@@ -45,6 +49,11 @@ public class DisplayMachineActivity extends ActionBarActivity {
     private MoveCategory moveCategory;
 
     private YouTubePlayer player;
+    private Toolbar toolbar;
+    private ScrollView scrollView;
+    private YouTubePlayerFragment fragment;
+
+    private boolean isFullScreen;
 
     private String videoId;
     private int startTime, endTime;
@@ -56,27 +65,33 @@ public class DisplayMachineActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_machine);
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        YouTubePlayerFragment fragment = (YouTubePlayerFragment)
+        scrollView = (ScrollView) findViewById(R.id.scrollview);
+
+        fragment = (YouTubePlayerFragment)
                 getFragmentManager().findFragmentById(R.id.youtube_player);
 
         machineName = getIntent().getStringExtra(MACHINE_NAME);
         genName = getIntent().getStringExtra(GEN_NAME);
 
         queryDbAndInit();
-        setupStaticUi();
+        doLayout();
 
         if (videoId != null && !videoId.equals("")) {
-            fragment.initialize(Keys.YOUTUBE_KEY, new InitializationListener());
+            fragment.initialize(Keys.YOUTUBE_KEY, this);
         } else {
             // If we don't have a video guide, hide the YouTubePlayerFragment.
-            View view = fragment.getView();
-            if (view != null) {
-                view.setVisibility(View.GONE);
-            }
+            hidePlayer();
+        }
+    }
+
+    private void hidePlayer() {
+        View view = fragment.getView();
+        if (view != null) {
+            view.setVisibility(View.GONE);
         }
     }
 
@@ -123,33 +138,63 @@ public class DisplayMachineActivity extends ActionBarActivity {
         return ((60 * mins) + secs) * 1000;
     }
 
+    @Override
+    public void onInitializationSuccess(YouTubePlayer.Provider provider,
+                                        final YouTubePlayer player, boolean wasRestored) {
+        DisplayMachineActivity.this.player = player;
+        player.addFullscreenControlFlag(YouTubePlayer.FULLSCREEN_FLAG_CUSTOM_LAYOUT |
+                                        YouTubePlayer.FULLSCREEN_FLAG_ALWAYS_FULLSCREEN_IN_LANDSCAPE);
+        player.setOnFullscreenListener(this);
+
+        if (!wasRestored) {
+            player.cueVideo(videoId, startTime);
+        }
+        handler.postDelayed(checkTime, 1000);
+    }
+
     @SuppressWarnings("deprecation")
-    private void setupStaticUi() {
-        TextView nameView = (TextView) findViewById(R.id.machine_name);
-        nameView.setText(machineName + " - " + moveName);
+    private void doLayout() {
+        View view = fragment.getView();
+        ViewGroup.LayoutParams playerParams = view != null ? view.getLayoutParams() : null;
+        if (isFullScreen) {
+            toolbar.setVisibility(View.GONE);
+            scrollView.setVisibility(View.GONE);
+            if (playerParams != null) {
+                playerParams.height = ViewGroup.LayoutParams.MATCH_PARENT;
+            }
+        } else {
+            toolbar.setVisibility(View.VISIBLE);
+            scrollView.setVisibility(View.VISIBLE);
+            if (playerParams != null) {
+                playerParams.height = ViewGroup.LayoutParams.WRAP_CONTENT;
+            }
 
-        TextView typeView = (TextView) findViewById(R.id.move_type);
-        typeView.setText(typeName);
-        typeView.setBackgroundDrawable(PokemonType.createGradient(gradStartColor, gradEndColor, borderColor));
+            TextView nameView = (TextView) findViewById(R.id.machine_name);
+            nameView.setText(machineName + " - " + moveName);
 
-        ImageView categoryView = (ImageView) findViewById(R.id.move_category);
-        categoryView.setBackgroundDrawable(moveCategory.createGradient());
-        categoryView.setImageResource(moveCategory.getResId());
+            TextView typeView = (TextView) findViewById(R.id.move_type);
+            typeView.setText(typeName);
+            typeView.setBackgroundDrawable(PokemonType.createGradient(gradStartColor, gradEndColor, borderColor));
 
-        TextView locationText = (TextView) findViewById(R.id.machine_location);
-        locationText.setText(machineLocation);
+            ImageView categoryView = (ImageView) findViewById(R.id.move_category);
+            categoryView.setBackgroundDrawable(moveCategory.createGradient());
+            categoryView.setImageResource(moveCategory.getResId());
 
-        TextView moveText = (TextView) findViewById(R.id.move_description);
-        moveText.setText(moveDescription);
+            TextView locationText = (TextView) findViewById(R.id.machine_location);
+            locationText.setText(machineLocation);
 
-        TextView powerText = (TextView) findViewById(R.id.power_stat);
-        powerText.setText(power == 0 ? "-" : String.valueOf(power));
+            TextView moveText = (TextView) findViewById(R.id.move_description);
+            moveText.setText(moveDescription);
 
-        TextView accText = (TextView) findViewById(R.id.accuracy_stat);
-        accText.setText(accuracy == 0 ? "-" : String.valueOf(accuracy));
+            TextView powerText = (TextView) findViewById(R.id.power_stat);
+            powerText.setText(power == 0 ? "-" : String.valueOf(power));
 
-        TextView ppText = (TextView) findViewById(R.id.pp_stat);
-        ppText.setText(String.valueOf(pp));
+            TextView accText = (TextView) findViewById(R.id.accuracy_stat);
+            accText.setText(accuracy == 0 ? "-" : String.valueOf(accuracy));
+
+            TextView ppText = (TextView) findViewById(R.id.pp_stat);
+            ppText.setText(String.valueOf(pp));
+        }
     }
 
     /**
@@ -161,7 +206,7 @@ public class DisplayMachineActivity extends ActionBarActivity {
     public void onWindowFocusChanged(boolean hasFocus) {
         super.onWindowFocusChanged(hasFocus);
         if (hasFocus) {
-            if (!statBarsSetup) {
+            if (!statBarsSetup && !isFullScreen) {
                 // only do this once per orientation
                 statBarsSetup = true;
                 setupStatBar(R.id.power_rectangle, power, 120);
@@ -185,7 +230,6 @@ public class DisplayMachineActivity extends ActionBarActivity {
      */
     private void setupStatBar(int rectId, int statValue, int maxScale) {
         View rectangle = findViewById(rectId);
-        rectangle.setVisibility(View.VISIBLE);
         LayerDrawable layer = (LayerDrawable) rectangle.getBackground();
         int color = createColorFromStat(statValue, maxScale);
         layer.findDrawableByLayerId(R.id.stat_color).setColorFilter(color, PorterDuff.Mode.SRC_OVER);
@@ -211,7 +255,9 @@ public class DisplayMachineActivity extends ActionBarActivity {
             finalWidths = new int[ids.length];
 
             for (int i = 0; i < finalWidths.length; i++) {
-                finalWidths[i] = findViewById(ids[i]).getLayoutParams().width;
+                View rect = findViewById(ids[i]);
+                finalWidths[i] = rect.getLayoutParams().width;
+                rect.setVisibility(View.VISIBLE);
             }
         }
 
@@ -269,6 +315,29 @@ public class DisplayMachineActivity extends ActionBarActivity {
     }
 
     @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+        doLayout();
+    }
+
+    // Keep track of player full screen state.  Back press on full screen should minimize the player.
+    @Override
+    public void onFullscreen(boolean b) {
+        isFullScreen = b;
+        doLayout();
+    }
+
+    // If the player is full screen, minimize on back press.  Otherwise, handle normally.
+    @Override
+    public void onBackPressed() {
+        if (isFullScreen && player != null) {
+            player.setFullscreen(false);
+        } else {
+            super.onBackPressed();
+        }
+    }
+
+    @Override
     public void onDestroy() {
         super.onDestroy();
         if (player != null) {
@@ -305,18 +374,7 @@ public class DisplayMachineActivity extends ActionBarActivity {
         }
     };
 
-    private class InitializationListener implements YouTubePlayer.OnInitializedListener {
-        @Override
-        public void onInitializationSuccess(YouTubePlayer.Provider provider,
-                                            final YouTubePlayer player, boolean b) {
-            DisplayMachineActivity.this.player = player;
-            player.cueVideo(videoId, startTime);
-            handler.postDelayed(checkTime, 1000);
-        }
-
-        @Override
-        public void onInitializationFailure(YouTubePlayer.Provider provider,
-                                            YouTubeInitializationResult result) { }
-    }
-
+    @Override
+    public void onInitializationFailure(YouTubePlayer.Provider provider,
+                                        YouTubeInitializationResult result) { }
 }
