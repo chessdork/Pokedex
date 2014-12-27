@@ -41,20 +41,19 @@
             android:id="@+id/moveset_descriptor"
             style="@style/NameLarge"
             android:text="@string/abilities_descriptor"
-            android:layout_toStartOf="@id/new_moveset_button"
+            android:layout_toStartOf="@+id/new_moveset_button"
             android:layout_toLeftOf="@id/new_moveset_button"
             android:layout_marginRight="70dp"
             android:layout_marginEnd="70dp"/>
 
         <Button
-            android:id="@+id/new_moveset_button"
+            android:id="@id/new_moveset_button"
             style="@style/TagText.Large"
             android:text="@string/new_moveset"
             android:layout_alignTop="@id/moveset_descriptor"
             android:layout_alignBottom="@id/moveset_descriptor"
             android:layout_alignParentRight="true"
             android:layout_alignParentEnd="true"
-            android:onClick="createMoveset"
             android:visibility="invisible"/>
 
         <TextView
