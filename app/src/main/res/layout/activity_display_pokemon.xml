@@ -46,10 +46,11 @@
             android:layout_below="@id/pokemon_name"
             android:visibility="gone"/>
 
-        <ImageView
+        <com.github.chessdork.pokedex.ui.FixedWidthImageView
             android:id="@+id/image_view"
-            android:layout_width="wrap_content"
+            android:layout_width="160dp"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
             android:layout_below="@id/pokemon_type1"
             android:contentDescription="@string/pokemon_image"/>
 
@@ -59,11 +60,19 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/image_view">
 
+            <TextView
+                android:id="@+id/stats_descriptor"
+                android:text="@string/stats_descriptor"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:layout_marginBottom="10dp"
+                style="@style/NameLarge"/>
+
             <LinearLayout
                 android:id="@+id/hp_layout"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:orientation="horizontal">
+                android:orientation="horizontal"
+                android:layout_below="@id/stats_descriptor">
 
                 <TextView
                     android:id="@+id/hp_descriptor"

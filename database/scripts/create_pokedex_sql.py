@@ -171,7 +171,8 @@ def create_pokemon(cursor):
                    'def integer not null, '
                    'spatk integer not null, '
                    'spdef integer not null, '
-                   'speed integer not null'
+                   'speed integer not null, '
+                   'image_resource_name text unique not null'
                    ');')
 
     cursor.execute('create table if not exists pokemon_abilities('
@@ -210,11 +211,16 @@ def create_pokemon(cursor):
             spatk = p['sp_atk']
             spdef = p['sp_def']
             spe = p['speed']
-            values = (name, national_id, hp, patk, pdef, spatk, spdef, spe)
+            res = 'ic_pokemon_' + str(national_id)
+            values = (name, national_id, hp, patk, pdef, spatk, spdef, spe, res)
 
+            sprite_file = os.path.join('../../app/src/main/res/drawable/', res + '.png')
+            if not os.path.isfile(sprite_file):
+                print('WARNING: sprite does not exist for', name, national_id)
+    
             cursor.execute('insert or ignore into pokemon('
-                           'name, national_id, hp, atk, def, spatk, spdef, speed)'
-                           'values (?,?,?,?,?,?,?,?);', values)
+                           'name, national_id, hp, atk, def, spatk, spdef, speed, image_resource_name)'
+                           'values (?,?,?,?,?,?,?,?,?);', values)
             cursor.execute('select id from pokemon where name=?', (name,))
             pokemon_id = cursor.fetchone()[0]
 
