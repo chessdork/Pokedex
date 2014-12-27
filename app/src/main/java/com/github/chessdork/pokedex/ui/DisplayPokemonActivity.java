@@ -13,6 +13,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -45,6 +46,7 @@ public class DisplayPokemonActivity extends ActionBarActivity {
     private AsyncTask mTask;
     private Pokemon mPokemon;
     private boolean statBarsSetup = false;
+    private int id;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,6 +57,13 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+        PokeDatabase db = PokeDatabase.getInstance(this);
+        String query = "select pokemon.national_id from pokemon where pokemon.name like ?";
+        Cursor c = db.getReadableDatabase().rawQuery(query, new String[] { mPokemon.getName() });
+        c.moveToFirst();
+        id = c.getInt(0);
+        System.out.println(id);
 
         setupStaticUi();
         setupListView();
@@ -89,6 +98,11 @@ public class DisplayPokemonActivity extends ActionBarActivity {
 
         TextView tags = (TextView) findViewById(R.id.pokemon_tags);
         tags.setText(mPokemon.getTag());
+
+        ImageView imageView = (ImageView) findViewById(R.id.image_view);
+        if (imageView != null) {
+            imageView.setImageResource(getResources().getIdentifier("ic_pokemon_" + id, "drawable", getPackageName()));
+        }
     }
 
     /**

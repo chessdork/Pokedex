@@ -51,5 +51,6 @@
     <string name="power_descriptor">Power:</string>
     <string name="accuracy_descriptor">Accuracy:</string>
     <string name="pp_descriptor">PP:</string>
+    <string name="pokemon_image">Pokemon Image</string>
 
 </resources>

@@ -165,6 +165,7 @@ def create_pokemon(cursor):
     cursor.execute('create table if not exists pokemon('
                    'id integer primary key, '
                    'name text unique not null, '
+                   'national_id integer unique not null, '
                    'hp integer not null, '
                    'atk integer not null, '
                    'def integer not null, '
@@ -203,16 +204,17 @@ def create_pokemon(cursor):
         for p in data:
             name = p['name'].title()
             hp = p['hp']
+            national_id = p['national_id']
             patk = p['attack']
             pdef = p['defense']
             spatk = p['sp_atk']
             spdef = p['sp_def']
             spe = p['speed']
-            values = (name, hp, patk, pdef, spatk, spdef, spe)
+            values = (name, national_id, hp, patk, pdef, spatk, spdef, spe)
 
             cursor.execute('insert or ignore into pokemon('
-                           'name, hp, atk, def, spatk, spdef, speed)'
-                           'values (?,?,?,?,?,?,?);', values)
+                           'name, national_id, hp, atk, def, spatk, spdef, speed)'
+                           'values (?,?,?,?,?,?,?,?);', values)
             cursor.execute('select id from pokemon where name=?', (name,))
             pokemon_id = cursor.fetchone()[0]
 
