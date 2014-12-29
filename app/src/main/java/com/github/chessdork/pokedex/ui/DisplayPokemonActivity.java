@@ -11,24 +11,23 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.github.chessdork.pokedex.R;
-import com.github.chessdork.pokedex.models.Pokemon;
 
 
 public class DisplayPokemonActivity extends ActionBarActivity {
-    public static final String POKEMON_OBJECT = "POKEMON_OBJECT";
+    public static final String POKEMON_NAME = "POKEMON_NAME";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_pokemon);
-        Pokemon mPokemon = (Pokemon) getIntent().getSerializableExtra(POKEMON_OBJECT);
+        String name = getIntent().getStringExtra(POKEMON_NAME);
 
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         ViewPager pager = (ViewPager) findViewById(R.id.viewpager);
-        pager.setAdapter(new PokemonPagerAdapter(getSupportFragmentManager(), mPokemon.getName(), "xy"));
+        pager.setAdapter(new PokemonPagerAdapter(getSupportFragmentManager(), name, "xy"));
     }
 
     @Override

@@ -3,6 +3,8 @@ package com.github.chessdork.pokedex.ui;
 
 import android.content.Context;
 import android.content.Intent;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -14,11 +16,12 @@ import android.widget.TextView;
 
 import com.github.chessdork.pokedex.R;
 import com.github.chessdork.pokedex.common.FilterableAdapter;
+import com.github.chessdork.pokedex.common.PokeDatabase;
 import com.github.chessdork.pokedex.common.SearchableFragment;
 import com.github.chessdork.pokedex.models.Pokemon;
 import com.github.chessdork.pokedex.models.PokemonType;
 
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.List;
 
 public class DisplayDexFragment extends SearchableFragment {
@@ -32,7 +35,23 @@ public class DisplayDexFragment extends SearchableFragment {
         // Inflate the layout for this fragment.
         View view = inflater.inflate(R.layout.fragment_display_dex, container, false);
 
-        PokedexAdapter adapter = new PokedexAdapter(getActivity(), Arrays.asList(Pokemon.values()));
+        SQLiteDatabase db = PokeDatabase.getInstance(getActivity()).getReadableDatabase();
+        String query = "select pokemon.name, pokemon.hp, pokemon.atk, pokemon.def, pokemon.spatk, " +
+                       "pokemon.spdef, pokemon.speed, group_concat(types.name) " +
+                       "from pokemon_types " +
+                       "join types on type_id = types.id " +
+                       "join pokemon on pokemon_id = pokemon.id " +
+                        "group by pokemon.name";
+        Cursor c = db.rawQuery(query, null);
+
+        List<Pokemon> pokemon = new ArrayList<>();
+
+        while (c.moveToNext()) {
+            pokemon.add(new Pokemon(c));
+        }
+        c.close();
+
+        PokedexAdapter adapter = new PokedexAdapter(getActivity(), pokemon);
         setFilterableAdapter(adapter);
         setQueryHint("Search Pokémon");
 
@@ -52,7 +71,7 @@ public class DisplayDexFragment extends SearchableFragment {
             hideSoftKeyboard();
             Pokemon pokemon = (Pokemon) adapterView.getItemAtPosition(pos);
             Intent intent = new Intent(getActivity(), DisplayPokemonActivity.class);
-            intent.putExtra(DisplayPokemonActivity.POKEMON_OBJECT, pokemon);
+            intent.putExtra(DisplayPokemonActivity.POKEMON_NAME, pokemon.getName());
             startActivity(intent);
         }
     }
@@ -113,10 +132,6 @@ public class DisplayDexFragment extends SearchableFragment {
                 holder.type2.setBackgroundDrawable(types.get(1).createRightGradient());
             } else {
                 Log.w(TAG, "Pokemon with wrong number of types: " + types.size());
-            }
-
-            if (holder.tag != null) {
-                holder.tag.setText(pokemon.getTag());
             }
 
             // if all of the stat TextViews exist in the layout
