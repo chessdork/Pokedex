@@ -54,9 +54,7 @@ public class DisplayNameplateFragment extends Fragment {
             name = getArguments().getString(POKEMON_NAME);
             gen = getArguments().getString(POKEMON_GEN);
         }
-        long start = System.currentTimeMillis();
         doInit();
-        System.out.println("db queries in " + (System.currentTimeMillis() - start));
     }
 
     private void doInit() {
@@ -92,7 +90,6 @@ public class DisplayNameplateFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        long start = System.currentTimeMillis();
         View view = inflater.inflate(R.layout.fragment_display_nameplate, container, false);
 
         TextView textView = (TextView) view.findViewById(R.id.pokemon_name);
@@ -159,7 +156,6 @@ public class DisplayNameplateFragment extends Fragment {
                 statAnim.start();
             }
         });
-        System.out.println("layout inflation in " + (System.currentTimeMillis() - start));
         return view;
     }
 

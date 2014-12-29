@@ -161,6 +161,7 @@ def create_moves(cursor):
 
 def create_pokemon(cursor):
     pokemon = '../data/pokemon.json'
+    oras_megas = '../data/oras_megas.csv'
     
     cursor.execute('create table if not exists pokemon('
                    'id integer primary key, '
@@ -172,7 +173,7 @@ def create_pokemon(cursor):
                    'spatk integer not null, '
                    'spdef integer not null, '
                    'speed integer not null, '
-                   'image_resource_name text unique not null'
+                   'image_resource_name text not null'
                    ');')
 
     cursor.execute('create table if not exists pokemon_abilities('
@@ -211,14 +212,22 @@ def create_pokemon(cursor):
             spatk = p['sp_atk']
             spdef = p['sp_def']
             spe = p['speed']
-            res = 'ic_pokemon_' + str(national_id)
+
+            #Hard-code resources for Pumpkaboo and Gourgeist sizes.
+            if "Pumpkaboo" in name:
+                res = 'ic_pokemon_710'
+            elif "Gourgeist" in name:
+                res = 'ic_pokemon_711'
+            else:
+                res = 'ic_pokemon_' + str(national_id)
+                
             values = (name, national_id, hp, patk, pdef, spatk, spdef, spe, res)
 
             sprite_file = os.path.join('../../app/src/main/res/drawable/', res + '.png')
             if not os.path.isfile(sprite_file):
                 print('WARNING: sprite does not exist for', name, national_id)
     
-            cursor.execute('insert or ignore into pokemon('
+            cursor.execute('insert into pokemon('
                            'name, national_id, hp, atk, def, spatk, spdef, speed, image_resource_name)'
                            'values (?,?,?,?,?,?,?,?,?);', values)
             cursor.execute('select id from pokemon where name=?', (name,))
@@ -246,7 +255,62 @@ def create_pokemon(cursor):
                 cursor.execute('insert or ignore into pokemon_types('
                                'pokemon_id, type_id)'
                                'values (?,?);', values)
-                
+
+    # read in pokemon that pokeapi is missing.
+    with open(oras_megas) as f:
+        data = csv.reader(f)
+        next(data) #skip header row
+
+        for m in data:
+            name = m[0]
+            national_id = m[1]
+            ability = m[2]
+            type1 = m[3]
+            type2 = m[4]
+            hp = m[5]
+            patk = m[6]
+            pdef = m[7]
+            spatk = m[8]
+            spdef = m[9]
+            speed = m[10]
+            res = 'ic_pokemon_' + str(national_id)
+            values = (name, national_id, hp, patk, pdef, spatk, spdef, spe, res)
+            
+            sprite_file = os.path.join('../../app/src/main/res/drawable/', res + '.png')
+            if not os.path.isfile(sprite_file):
+                print('WARNING: sprite does not exist for', name, national_id)
+
+            cursor.execute('insert or ignore into pokemon('
+                           'name, national_id, hp, atk, def, spatk, spdef, speed, image_resource_name)'
+                           'values (?,?,?,?,?,?,?,?,?);', values)
+            cursor.execute('select id from pokemon where name=?', (name,))
+            pokemon_id = cursor.fetchone()[0]
+
+            cursor.execute('select id from abilities where name=?', (ability,))
+            ability_id = cursor.fetchone()[0]
+
+            values = (pokemon_id, ability_id)
+            cursor.execute('insert or ignore into pokemon_abilities('
+                            'pokemon_id, ability_id)'
+                            'values (?,?);', values)
+            
+            cursor.execute('select id from types where name=?', (type1,))
+            type_id = cursor.fetchone()[0]
+
+            values = (pokemon_id, type_id)
+            cursor.execute('insert or ignore into pokemon_types('
+                            'pokemon_id, type_id)'
+                            'values (?,?);', values)
+
+            if type2 is not "":
+                cursor.execute('select id from types where name=?', (type2,))
+                type_id = cursor.fetchone()[0]
+
+                values = (pokemon_id, type_id)
+                cursor.execute('insert or ignore into pokemon_types('
+                                'pokemon_id, type_id)'
+                                'values (?,?);', values)                
+        
 os.remove(path)
 conn = sqlite3.connect(path)
 c = conn.cursor()

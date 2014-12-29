@@ -1,6 +1,5 @@
 package com.github.chessdork.pokedex.ui;
 
-import android.database.Cursor;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -12,7 +11,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.github.chessdork.pokedex.R;
-import com.github.chessdork.pokedex.common.PokeDatabase;
 import com.github.chessdork.pokedex.models.Pokemon;
 
 
@@ -28,13 +26,6 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
-        PokeDatabase db = PokeDatabase.getInstance(this);
-        String query = "select pokemon.national_id from pokemon where pokemon.name like ?";
-        Cursor c = db.getReadableDatabase().rawQuery(query, new String[] { mPokemon.getName() });
-        c.moveToFirst();
-        int id = c.getInt(0);
-        System.out.println(id);
 
         ViewPager pager = (ViewPager) findViewById(R.id.viewpager);
         pager.setAdapter(new PokemonPagerAdapter(getSupportFragmentManager(), mPokemon.getName(), "xy"));
