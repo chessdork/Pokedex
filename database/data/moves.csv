@@ -82,7 +82,7 @@ Confuse Ray,Ghost,100,0,10,Non-Damaging,Confuses the target.
 Confusion,Psychic,100,50,25,Special,10% chance to confuse.
 Constrict,Normal,100,10,35,Physical,10% chance to lower Speed by 1 stage.
 Conversion,Normal,0,0,30,Non-Damaging,Changes user into the type of its first move.
-"CONVERSION_2""Conversion 2""",Normal,0,0,30,Non-Damaging,Changes user into a new type that resists the last attack to hit the user.
+Conversion 2,Normal,0,0,30,Non-Damaging,Changes user into a new type that resists the last attack to hit the user.
 Copycat,Normal,0,0,20,Non-Damaging,Uses the last move used in the battle.
 Cosmic Power,Psychic,0,0,20,Non-Damaging,Boosts Defense and Special Defense by 1 stage.
 Cotton Guard,Grass,0,0,10,Non-Damaging,Boosts user's Defense by 3 stages.
@@ -378,6 +378,7 @@ Oblivion Wing,Flying,100,80,10,Special,Deals damage to one adjacent target. The 
 Octazooka,Water,85,65,10,Special,50% chance to lower accuracy by 1 stage.
 Odor Sleuth,Normal,0,0,40,Non-Damaging,Blocks evasion modifiers. Allows Fighting- and Normal-type moves to hit Ghosts.
 Ominous Wind,Ghost,100,60,5,Special,10% chance to boost all stats by 1 stage.
+Origin Pulse,Water,85,110,10,Special,Affects all adjacent foes.
 Outrage,Dragon,100,120,15,Physical,Repeats for 2-3 turns. Confuses at the end.
 Overheat,Fire,90,130,5,Special,Lowers Special Attack by 2 stages.
 Pain Split,Normal,0,0,20,Non-Damaging,Averages both Pokemon's HP.
@@ -409,6 +410,7 @@ Power Swap,Psychic,0,0,10,Non-Damaging,Swaps Attack and Special Attack boosts an
 Power Trick,Psychic,0,0,10,Non-Damaging,Swaps user's Attack and Defense stats.
 Power Whip,Grass,85,120,10,Physical,No additional effect.
 Power-Up Punch,Fighting,100,40,20,Physical,Hitting a target raises the Attack stat.
+Precipice Blades,Ground,85,120,10,Physical,No additional effect.
 Present,Normal,90,0,15,Physical,Has random power and a chance to heal the target.
 Protect,Normal,0,0,10,Non-Damaging,Prevents anything from working on the user that turn.
 Psybeam,Psychic,100,65,20,Special,10% chance to confuse.

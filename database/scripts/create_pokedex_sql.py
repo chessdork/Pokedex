@@ -137,7 +137,7 @@ def create_moves(cursor):
     
     with open(moves) as f:
         data = csv.reader(f)
-        next(data) #skip header row
+        #no header row
 
         for m in data:
             name = m[0]
@@ -162,6 +162,7 @@ def create_moves(cursor):
 def create_pokemon(cursor):
     pokemon = '../data/pokemon.json'
     oras_megas = '../data/oras_megas.csv'
+    pokemon_level_moves = '../data/oras_level-up_moves.txt'
     
     cursor.execute('create table if not exists pokemon('
                    'id integer primary key, '
@@ -200,6 +201,15 @@ def create_pokemon(cursor):
                    'foreign key(machine_id) references machines(id)'
                    ');')
 
+    cursor.execute('create table if not exists pokemon_level_moves('
+                   'id integer primary key, '
+                   'pokemon_id integer not null, '
+                   'move_id integer not null, '
+                    'level integer not null, '
+                   'foreign key(pokemon_id) references pokemon(id), '
+                   'foreign key(move_id) references moves(id)'
+                   ');')
+
     with open(pokemon) as f:
         data = json.load(f)
 
@@ -212,6 +222,9 @@ def create_pokemon(cursor):
             spatk = p['sp_atk']
             spdef = p['sp_def']
             spe = p['speed']
+
+            if "Farfetch'D" == name:
+                name = "Farfetch'd"
 
             #Hard-code resources for Pumpkaboo and Gourgeist sizes.
             if "Pumpkaboo" in name:
@@ -254,7 +267,7 @@ def create_pokemon(cursor):
                 values = (pokemon_id, type_id)
                 cursor.execute('insert or ignore into pokemon_types('
                                'pokemon_id, type_id)'
-                               'values (?,?);', values)
+                               'values (?,?);', values)               
 
     # read in pokemon that pokeapi is missing.
     with open(oras_megas) as f:
@@ -309,7 +322,56 @@ def create_pokemon(cursor):
                 values = (pokemon_id, type_id)
                 cursor.execute('insert or ignore into pokemon_types('
                                 'pokemon_id, type_id)'
-                                'values (?,?);', values)                
+                                'values (?,?);', values)
+
+    with open(pokemon_level_moves) as f:
+        delim = '========'
+        lines = f.readlines()
+        i = 0
+        
+        #really fragile parsing
+        while i < len(lines):
+            line = lines[i].rstrip('\n')
+       
+            if line == delim:
+                #if the current line is a delimiter, the next lines are:
+                # 1. pokemon name
+                # 2. delimiter
+                # 3-N. list of moves
+                # N+1. delimiter
+                poke_name = lines[i+1].rstrip('\n').split(' - ')[0]
+                cursor.execute('select id from pokemon where name=?', (poke_name,))
+                poke_id = cursor.fetchone()[0]
+
+                # Ignore 4 lines (delimiter, poke name, delimiter, count).
+                j = i + 4
+
+                while j < len(lines) and lines[j].rstrip('\n') != delim:
+                    move_line = lines[j].rstrip('\n')
+                    split = move_line.split(':')
+                    level = split[0].split(' ')[1]
+                    move_name = split[1].lstrip()
+                    
+                    cursor.execute('select id from moves where name=?', (move_name,))
+                    move_id = cursor.fetchone()[0]
+
+                    values = (poke_id, move_id, level)
+                    cursor.execute('insert into pokemon_level_moves('
+                                   'pokemon_id, move_id, level) '
+                                   'values(?,?,?)', values)
+                    j = j + 1
+                i = j
+            else:
+                i = i + 1
+
+    # Warn for missing movesets
+    cursor.execute('select pokemon.name from pokemon where pokemon.id not in '
+                   '(select pokemon_id from pokemon_level_moves);')
+    missing = cursor.fetchall()
+    if len(missing) > 0:
+        print('WARNING: missing Level up sets:',cursor.fetchall())
+    
+
         
 os.remove(path)
 conn = sqlite3.connect(path)
