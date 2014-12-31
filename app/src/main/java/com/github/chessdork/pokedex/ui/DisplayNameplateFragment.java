@@ -273,11 +273,11 @@ public class DisplayNameplateFragment extends Fragment {
             LinearLayout levelUpLayout = (LinearLayout) view.findViewById(R.id.level_up_moves);
 
             for (int i = 0; i < levelUpMoves.size(); i++) {
-                View moveView = inflater.inflate(R.layout.item_machine, levelUpLayout, false);
+                View moveView = inflater.inflate(R.layout.item_level_move, levelUpLayout, false);
                 int level = levels.get(i);
                 Move move = levelUpMoves.get(i);
 
-                TextView levelView = (TextView) moveView.findViewById(R.id.machine_name);
+                TextView levelView = (TextView) moveView.findViewById(R.id.move_level);
                 levelView.setText(String.valueOf(level));
 
                 TextView moveName = (TextView) moveView.findViewById(R.id.move_name);
