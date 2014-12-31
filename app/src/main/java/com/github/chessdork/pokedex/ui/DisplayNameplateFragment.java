@@ -83,6 +83,7 @@ public class DisplayNameplateFragment extends Fragment {
             PokemonType type = PokemonType.valueOf(c.getString(0).toUpperCase());
             types.add(type);
         }
+        c.close();
 
         query = "select pokemon.image_resource_name, pokemon.hp, pokemon.atk, pokemon.def, " +
                 "pokemon.spatk, pokemon.spdef, pokemon.speed " +
@@ -97,6 +98,7 @@ public class DisplayNameplateFragment extends Fragment {
         spatk = c.getInt(4);
         spdef = c.getInt(5);
         speed = c.getInt(6);
+        c.close();
     }
 
     @SuppressWarnings("deprecation")
@@ -253,6 +255,7 @@ public class DisplayNameplateFragment extends Fragment {
                 levelUpMoves.add(new Move(c));
                 levels.add(c.getInt(7));
             }
+            c.close();
             return null;
         }
 
@@ -260,15 +263,15 @@ public class DisplayNameplateFragment extends Fragment {
         @Override
         protected void onPostExecute(Void oneVoid) {
             Context context = DisplayNameplateFragment.this.getActivity();
-            LayoutInflater inflater = LayoutInflater.from(context);
             View view = getView();
 
-            if (view == null) {
+            if (view == null || context == null) {
                 Log.w(LOG_TAG, "Asynctask finished before view created");
                 return;
             }
-
+            LayoutInflater inflater = LayoutInflater.from(context);
             LinearLayout levelUpLayout = (LinearLayout) view.findViewById(R.id.level_up_moves);
+
             for (int i = 0; i < levelUpMoves.size(); i++) {
                 View moveView = inflater.inflate(R.layout.item_machine, levelUpLayout, false);
                 int level = levels.get(i);

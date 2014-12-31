@@ -56,6 +56,14 @@ public class DisplayPokemonActivity extends ActionBarActivity {
     }
 
     @Override
+    public void onDestroy() {
+        super.onDestroy();
+        // Suggest a gc to clear bitmaps.  S5 will not gc unless the viewpager detects swipes
+        // or we hit the max heap size.
+        System.gc();
+    }
+
+    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
@@ -77,13 +85,6 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         public PokemonPagerAdapter(FragmentManager fm, List<String> names, String gen) {
             super(fm);
             this.names = names;
-            this.gen = gen;
-        }
-
-        public PokemonPagerAdapter(FragmentManager fm, String name, String gen) {
-            super(fm);
-            this.names = new ArrayList<>(1);
-            names.add(name);
             this.gen = gen;
         }
 
