@@ -53,5 +53,6 @@
     <string name="pp_descriptor">PP:</string>
     <string name="pokemon_image">Pokemon Image</string>
     <string name="stats_descriptor">Base Stats</string>
+    <string name="level_moves_descriptor">Level Up Moves</string>
 
 </resources>

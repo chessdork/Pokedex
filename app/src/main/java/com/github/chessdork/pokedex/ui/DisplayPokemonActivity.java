@@ -1,5 +1,7 @@
 package com.github.chessdork.pokedex.ui;
 
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -11,6 +13,10 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.github.chessdork.pokedex.R;
+import com.github.chessdork.pokedex.common.PokeDatabase;
+
+import java.util.ArrayList;
+import java.util.List;
 
 
 public class DisplayPokemonActivity extends ActionBarActivity {
@@ -26,8 +32,20 @@ public class DisplayPokemonActivity extends ActionBarActivity {
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
+        List<String> names = new ArrayList<>();
+        SQLiteDatabase db = PokeDatabase.getInstance(this).getReadableDatabase();
+        String query = "select pokemon.name from pokemon " +
+                       "order by pokemon.name";
+        Cursor c = db.rawQuery(query, null);
+        while(c.moveToNext()) {
+            names.add(c.getString(0));
+        }
+        c.close();
+
         ViewPager pager = (ViewPager) findViewById(R.id.viewpager);
-        pager.setAdapter(new PokemonPagerAdapter(getSupportFragmentManager(), name, "xy"));
+        pager.setAdapter(new PokemonPagerAdapter(getSupportFragmentManager(), names, "xy"));
+        int startIndex = names.indexOf(name);
+        pager.setCurrentItem(startIndex);
     }
 
     @Override
@@ -53,27 +71,35 @@ public class DisplayPokemonActivity extends ActionBarActivity {
     }
 
     private static class PokemonPagerAdapter extends FragmentStatePagerAdapter {
-        private String name, gen;
+        private List<String> names;
+        private String gen;
+
+        public PokemonPagerAdapter(FragmentManager fm, List<String> names, String gen) {
+            super(fm);
+            this.names = names;
+            this.gen = gen;
+        }
 
         public PokemonPagerAdapter(FragmentManager fm, String name, String gen) {
             super(fm);
-            this.name = name;
+            this.names = new ArrayList<>(1);
+            names.add(name);
             this.gen = gen;
         }
 
         @Override
         public Fragment getItem(int position) {
-            return DisplayNameplateFragment.newInstance(name, gen);
+            return DisplayNameplateFragment.newInstance(names.get(position), gen);
         }
 
         @Override
         public String getPageTitle(int position) {
-            return "Basic";
+            return names.get(position);
         }
 
         @Override
         public int getCount() {
-            return 3;
+            return names.size();
         }
     }
 }
