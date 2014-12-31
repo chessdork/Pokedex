@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple">#6363b0</color>
-    <drawable name="purple">@color/purple</drawable>
+    <color name="blue">#4873be</color>
+    <drawable name="purple">@color/blue</drawable>
     <color name="light_purple">#d8d8eb</color>
     <color name="light_gray">#999</color>
     <color name="dark_green">@android:color/holo_green_dark</color>

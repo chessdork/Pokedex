@@ -54,5 +54,7 @@
     <string name="pokemon_image">Pokemon Image</string>
     <string name="stats_descriptor">Base Stats</string>
     <string name="level_moves_descriptor">Level Up Moves</string>
+    <string name="accuracy_short_descriptor">Acc</string>
+    <string name="power_short_descriptor">BP</string>
 
 </resources>

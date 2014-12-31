@@ -5,7 +5,7 @@
         <item name="android:windowAnimationStyle">@null</item>
 
         <!-- Set AppCompat’s color theme attrs -->
-        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimary">@color/blue</item>
         <item name="android:textColor">#de000000</item>
     </style>
 
@@ -239,7 +239,7 @@
 
     <style name="TagText" parent="TypeText">
         <item name="android:background">@drawable/purple_bubble</item>
-        <item name="android:textColor">@color/purple</item>
+        <item name="android:textColor">@color/blue</item>
     </style>
 
     <style name="TagText.Large">
