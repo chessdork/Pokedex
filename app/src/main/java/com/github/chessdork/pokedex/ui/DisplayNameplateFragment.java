@@ -16,6 +16,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.github.chessdork.pokedex.R;
@@ -293,9 +294,14 @@ public class DisplayNameplateFragment extends Fragment {
                 categoryView.setBackgroundDrawable(moveCategory.createGradient());
                 categoryView.setImageResource(moveCategory.getResId());
                 levelUpLayout.addView(moveView);
+
+                if (android.os.Build.VERSION.SDK_INT == 15) {
+                    RelativeLayout.LayoutParams layoutParams =
+                            (RelativeLayout.LayoutParams) categoryView.getLayoutParams();
+                    layoutParams.addRule(RelativeLayout.CENTER_VERTICAL, RelativeLayout.TRUE);
+                    categoryView.setLayoutParams(layoutParams);
+                }
             }
         }
-
-
     }
 }
