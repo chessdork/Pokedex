@@ -3,6 +3,8 @@ package com.github.chessdork.pokedex.ui;
 
 
 import android.content.Context;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,11 +15,12 @@ import android.widget.TextView;
 
 import com.github.chessdork.pokedex.R;
 import com.github.chessdork.pokedex.common.FilterableAdapter;
+import com.github.chessdork.pokedex.common.PokeDatabase;
 import com.github.chessdork.pokedex.common.SearchableFragment;
 import com.github.chessdork.pokedex.models.Move;
 import com.github.chessdork.pokedex.models.MoveCategory;
 
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.List;
 
 
@@ -29,7 +32,21 @@ public class DisplayMovesFragment extends SearchableFragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_display_moves, container, false);
 
-        MovesAdapter adapter = new MovesAdapter(getActivity(), Arrays.asList(Move.values()));
+        SQLiteDatabase db = PokeDatabase.getInstance(getActivity()).getReadableDatabase();
+        String query = "select moves.name, types.name, moves.accuracy, moves.power, moves.pp, " +
+                       "move_categories.name, moves.description " +
+                       "from moves " +
+                       "join move_categories on move_category_id = move_categories.id " +
+                       "join types on type_id = types.id";
+        Cursor c = db.rawQuery(query, null);
+
+        List<Move> moves = new ArrayList<>();
+        while (c.moveToNext()) {
+            moves.add(new Move(c));
+        }
+        c.close();
+
+        MovesAdapter adapter = new MovesAdapter(getActivity(), moves);
         setFilterableAdapter(adapter);
         setQueryHint("Search moves");
 
